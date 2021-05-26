@@ -1,6 +1,6 @@
-baseURL = "https://ksucs-hugo.russfeld.me"
+baseURL = "https://testbooks.cs.ksu.edu/cc410"
 languageCode = "en-us"
-title = "K-State CS Hugo Framework"
+title = "CC 410 Textbook"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "ksucs-hugo-theme"
@@ -13,7 +13,7 @@ section = [ "HTML", "Iframeable", "Teleprompter"]
 
 [params]
   editURL = "https://gitlab.cs.ksu.edu/russfeld/ksucs-hugo/tree/master/content/"
-  description = "K-State CS Hugo Framework"
+  description = "CC 410 Textbook"
   author = "Russell Feldhausen"
   showVisitedLinks = false
   themeVariant = "purple"
