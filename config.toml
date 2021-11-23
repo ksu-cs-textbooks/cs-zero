@@ -12,7 +12,7 @@ page = [ "HTML", "Iframeable", "Teleprompter"]
 section = [ "HTML", "Iframeable", "Teleprompter"]
 
 [params]
-  editURL = "https://gitlab.cs.ksu.edu/russfeld/cc/210/generic/textbook/tree/master/content/"
+  editURL = "hhttps://gitlab.cs.ksu.edu/cc/210/generic/textbook/-/tree/master/content"
   description = "CC 210 Textbook"
   author = "Russell Feldhausen"
   showVisitedLinks = false
