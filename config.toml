@@ -1,6 +1,6 @@
-baseURL = "https://textbooks.cs.ksu.edu/cc210"
+baseURL = "https://textbooks.cs.ksu.edu/cc110"
 languageCode = "en-us"
-title = "CC 210 Textbook"
+title = "CC 110 Textbook"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "ksucs-hugo-theme"
@@ -12,8 +12,8 @@ page = [ "HTML", "Iframeable", "Teleprompter"]
 section = [ "HTML", "Iframeable", "Teleprompter"]
 
 [params]
-  editURL = "hhttps://gitlab.cs.ksu.edu/cc/210/generic/textbook/-/tree/master/content/"
-  description = "CC 210 Textbook"
+  editURL = "hhttps://gitlab.cs.ksu.edu/cc/110/generic/textbook/-/tree/master/content/"
+  description = "CC 110 Textbook"
   author = "Russell Feldhausen"
   showVisitedLinks = false
   themeVariant = "purple"
