@@ -5,12 +5,6 @@ weight: 110
 date: 2021-01-07T00:00:01-05:00
 ---
 
-{{< youtube  >}}
-
-#### Resources
-
-* <a href="slides" target="_blank">Slides</a>
-
 In this lab, we introduced a simple pseudocode programming language, based on the one used by the [AP Computer Science Principles](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-exam-reference-sheet.pdf) exam. This pseudocode language includes several statements and rules we've learned to use in this lab. Let's quickly review them!
 
 ## Display Statement

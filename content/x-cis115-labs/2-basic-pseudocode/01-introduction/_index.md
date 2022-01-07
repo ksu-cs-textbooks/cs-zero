@@ -7,10 +7,6 @@ date: 2021-01-07T00:00:01-05:00
 
 {{< youtube  >}}
 
-#### Resources
-
-* <a href="slides" target="_blank">Slides</a>
-
 Learning to program involves learning not only the syntax and rules of a new language, but also a new way of thinking. Not only do we want to write code that is understandable by the computer, we must also understand what the computer will do when it tries to run that code. 
 
 A key part of that is learning to think like a computer thinks. We sometimes call this our "mental model" of a computer. If we have a good "mental model" of a computer, then we can learn to read code and mentally predict what it will do, even without ever running it on an actual computer. This ability is crucial for programmers to develop.
