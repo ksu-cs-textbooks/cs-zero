@@ -11,7 +11,7 @@ Learning to program involves learning not only the syntax and rules of a new lan
 
 A key part of that is learning to think like a computer thinks. We sometimes call this our "mental model" of a computer. If we have a good "mental model" of a computer, then we can learn to read code and mentally predict what it will do, even without ever running it on an actual computer. This ability is crucial for programmers to develop.
 
-One easy way to develop this ability is to learn how to use a programming language that _isn't_ an actual programming language. This language cannot (or at least wasn't indented to) be run on a computer. Instead, we must simply learn to use our "mental model" of a computer to determine what programs written in this language will do.
+One easy way to develop this ability is to learn how to use a programming language that _isn't_ an actual programming language. This language cannot (or at least wasn't intended to) be run on a computer. Instead, we must simply learn to use our "mental model" of a computer to determine what programs written in this language will do.
 
 These languages are sometimes referred to as **pseudocode**. If we look at the word pseudocode, we see the prefix **pseudo**, which means "not genuine." That definition makes sense - a pseudocode is, in essence, not a genuine computer code. So, a pseudocode is simply a programming language that looks like a real programming language, but it isn't actually intended to be run by a computer.
 
