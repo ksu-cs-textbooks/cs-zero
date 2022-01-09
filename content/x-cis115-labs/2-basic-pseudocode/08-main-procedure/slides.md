@@ -6,7 +6,7 @@ hidden: true
     <b>main procedure</b>: all code must be part of a procedure
 </section>
 <section>
-    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext stretch">PROCEDURE foo()
+    <pre><code style="font-size: 45px; line-height: 55px" class="language-plaintext stretch">PROCEDURE foo()
 {
     DISPLAY("Run ")
 }<br>
