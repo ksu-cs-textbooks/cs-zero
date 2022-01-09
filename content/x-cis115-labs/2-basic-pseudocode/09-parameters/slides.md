@@ -16,16 +16,14 @@ hidden: true
 }</code></pre>
 </section>
 <section>
-    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">hello_world("Willie", "Wildcat")
-DISPLAY(x)</code></pre>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">hello_world("Willie", "Wildcat")</code></pre>
     <br>
     <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext"> </code></pre>
     <br>
     <br>
 </section>
 <section>
-    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">hello_world("Willie", "Wildcat")
-DISPLAY(x)</code></pre>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">hello_world("Willie", "Wildcat")</code></pre>
     <br>
     <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">Hello Willie Wildcat</code></pre>
     <br>
