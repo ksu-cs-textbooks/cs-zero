@@ -15,7 +15,7 @@ First, let's start by introducing some important vocabulary terms:
 
 * **string**: A **string** in programming is any text that is stored as a value. We typically represent strings by placing them inside double quotes `""` in our code and elsewhere.
 * **value**: A **value** is a piece of data that our program is storing and manipulating. In our pseudocode, values consist of either numbers or strings.
-* **keyword**: A **keyword** is a reserved word in a programming language that defines a particular statement, expression, struture, or other use. As we'll learn later, we cannot use these keywords as variable or procedure names.
+* **keyword**: A **keyword** is a reserved word in a programming language that defines a particular statement, expression, structure, or other use. As we'll learn later, we cannot use these keywords as variable or procedure names.
 * **statement**: A **statement** refers to a piece of code that performs an action, but doesn't result in any value. Most complete lines of code are considered statements.
 * **expression**: An **expression**, on the other hand, is a piece of code that, when evaluated, will result in a value that can be used or stored. An expression can even contain multiple expressions inside of it!
 
