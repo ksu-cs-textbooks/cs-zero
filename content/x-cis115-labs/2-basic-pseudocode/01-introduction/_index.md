@@ -5,7 +5,7 @@ weight: 10
 date: 2021-01-07T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube K_sFcsMuKUE >}}
 
 Learning to program involves learning not only the syntax and rules of a new language, but also a new way of thinking. Not only do we want to write code that is understandable by the computer, we must also understand what the computer will do when it tries to run that code. 
 
