@@ -88,7 +88,7 @@ Since this course is entirely online, students may work at any time and at their
 **The following table outlines the highest possible score that a module can earn based on when it is complete** 
 
 |  | Thursday | Friday | Saturday | Sunday | Monday |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Before or at 11:59PM CST | 100% | 90% | 80% | 70% | 60% |
 | After 11:59PM CST | 90% | 80% | 70% | 60% | 0% |
 
