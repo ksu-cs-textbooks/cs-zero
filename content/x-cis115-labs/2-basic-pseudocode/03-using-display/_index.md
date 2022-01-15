@@ -65,7 +65,7 @@ There are many other ways we could accomplish this, but this is probably the sim
 
 ## Example 2 - Multiple Lines
 
-What if we want to print output on multiple lines? How can we do that? In this case, we need to introduce a special symbol, the **newline** symbol. In our psuedocode, as in most programming languages, the newline symbol is represented by a backslash followed by the letter "n", like `\n`, in a string. When our user interface sees a newline symbol, it will move to the next line before printing the rest of the string. The newline symbol itself won't appear in our output.
+What if we want to print output on multiple lines? How can we do that? In this case, we need to introduce a special symbol, the **newline** symbol. In our pseudocode, as in most programming languages, the newline symbol is represented by a backslash followed by the letter "n", like `\n`, in a string. When our user interface sees a newline symbol, it will move to the next line before printing the rest of the string. The newline symbol itself won't appear in our output.
 
 For example, we can update our previous program to contain newline symbols between each letter:
 
