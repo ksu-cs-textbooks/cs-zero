@@ -21,7 +21,7 @@ pre: "6.2 "
 - **Office  Hours:** TBD (will announce shortly)   
     - **Want  to meet with me? https://calendly.com/emilyalfs**  
 
-**Instructor:**  Russell Feldhausen – [russfeld@ksu.edu](mailto:russfeld@ksu.edu) (teaches sections B)
+**Instructor:**  Russell Feldhausen (he/him) – [russfeld@ksu.edu](mailto:russfeld@ksu.edu) (teaches sections B)
 
 - **Office**: 21** Engineering Hall (DUE)   
 - **Phone:** Office - (785) *******
