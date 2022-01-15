@@ -12,32 +12,27 @@ pre: "6.2 "
 
 {{% notice info %}}
 **All emails** for the course should be sent to [cis115help@KSUemailProd.onmicrosoft.com](mailto:cis115help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
-
-Communication can also be done through Microsoft Teams.  If you have not been invited to join the team for CIS 115, please let any of us know and we will get you added.
 {{% /notice %}}
 
-**Professor:** Josh Weese – [weeser@ksu.edu](mailto:weeser@ksu.edu)   (teaches section A/C/S)
+**Professor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches section C)
 
-- **Office:** 2214 Engineering Hall (DUE)  
-- **Phone:** Office - (785) 532-7929  
-- **Office  Hours:** See my [calendar](http://weeser.net/calendar/).     
+- **Office:** 22** Engineering Hall (DUE)  
+- **Phone:** Office - (785) 532-**** 
+- **Office  Hours:** TBD (will announce shortly)   
     - **Want  to meet with me? https://calendly.com/weeser**  
 
-**Instructor:**  Bud LaVezzi – [gblavezz1@ksu.edu](mailto:gblavezz1@ksu.edu) (teaches sections B/D)
+**Instructor:**  Russell Feldhausen – [russfeld@ksu.edu](mailto:russfeld@ksu.edu) (teaches sections B)
 
-- **Office**: 2166 Engineering Hall (DUE)   
-- **Phone:** Office - (785) 532-7767
+- **Office**: 21** Engineering Hall (DUE)   
+- **Phone:** Office - (785) *******
 - **Office Hours:** TBD (email for getting help)
 
-| Undergraduate Teaching Assistants |                                              |                                                        |
-| --------------------------------- | :------------------------------------------- | ------------------------------------------------------ |
-| **Name**                          | **Email**                                    | **Sections**                                           |
-| Easton Bolinger                   | [bolinger@ksu.edu](mailto:bolinger@ksu.edu)  | **B/D:** TU 10:55am-12:45pm                               |
-| Chris Loura                       | [cmloura@ksu.edu](mailto:cmloura@ksu.edu)    | **D:** U 10:55am-12:45pm                               |
-| Jonathan Welch                    | [jonathanthebetter@ksu.edu](mailto:jonathanthebetter@ksu.edu)    | **A/C:** TU 8:05am-9:55am          |
-| Kasey Dixon                       | [kdixon@ksu.edu](mailto:kdixon@ksu.edu)        | **B/D:** TU 10:55am-12:45pm                             |
-| Yuto Wada                         | [yuto808263@ksu.edu](mailto:yuto808263@ksu.edu)| **A:** T 8:05am-9:55am                            |
-| Brandon Bednar                    | [bwbednar@ksu.edu](mailto:bwbednar@ksu.edu)    | **A/C:** TU 8:05am-9:55am                            |
+| Undergraduate Teaching Assistants |
+| --------------------------------- |
+| **Name**                          |
+| Easton Bolinger                   |
+| Chris Loura                       |
+| Brandon Bednar                    |
 
 <br/>
 
@@ -112,11 +107,6 @@ By the end of this course, each student will be able to:
 
 In short, this course will focus on several learning activities designed to engage and interest students in a variety of topics while helping them think more deeply about each topic and why it is important in Computing Science. This class will require a considerable, but reasonable, amount of effort, not only from the students but the instructors and TAs as well. In addition to exercises and activities, there will be several assignments and group projects to be completed. 
 
-{{% notice note%}}
-
-The first two weeks of class will be 100% remote for sections D and E due to university COVID restrictions.
-
-{{% /notice %}}
 
 **CIS 115 is a studio-type course**, meaning that much of the course is done online.  <u>It is expected that you complete the online material/readings **before** you come to class</u> so we can have discussions on that weeks material. Class time will be dedicated to activities, discussions, and programming work. While most work for the course is available online, there will be some content that will be available **only** in class. There will be about two modules of content delivered each week, along with some Python programming content. Each module given will have a quiz over the content covered so it is important to stay caught up on module content each week (*see late policy below*)!
 
@@ -148,9 +138,9 @@ There will be some programming or written assignments given from time to time th
 
 #### Grading
 - 25% - Topic Research and Wiki Article
-- 12.5% - Programming Homework (*Lowest score is dropped*)
+- 12.5% - Programming Homework
 - 12.5% - Programming Labs (*Lowest score is dropped*)
-- 10% - Discussions (Lowest score is dropped)
+- 10% - Discussions 
 - 40% - Quizzes (*Lowest two scores are dropped*)
 
 Letter grades will be assigned following the standard scale: 
@@ -165,7 +155,7 @@ Poor planning/procrastination on your part does not constitute as an emergency o
 
 {{% /notice %}}
 
-Every student should strive to turn in work on time. **Late work will receive penalty of 10% of the possible points for each day it is late**. Some assignments will NOT be accepted late! Others will be limited to a maximum of three days late (not always 3 days). Missed class attendance cannot be made up, though as mentioned above some areas will drop the lowest two scores. If you are getting behind in the class, you are encouraged to speak to the instructor for options to make up missed work.
+Every student should strive to turn in work on time. **Late work will receive penalty of 10% of the possible points for each day it is late**. Some assignments will NOT be accepted late! Others will be limited to a maximum of three days late (not always 3 days). Missed class attendance cannot be made up, though as mentioned above some areas will drop the lowest score. If you are getting behind in the class, you are encouraged to speak to the instructor for options to make up missed work.
 
 #### Programming Work
 
@@ -186,16 +176,9 @@ Each team will be given a topic to research. The team will locate and organize m
 #### Wiki Article
 Each team will use the material collected for the topic research project, as well as information from the resulting class discussions, to create an article to be added to the final course wiki. The article is expected to be a thorough examination of the topic and should be written in such a way that others taking this course can read it and understand the material. The team will be responsible for finalizing the entire draft of the wiki and making sure it has a consistent design and feel to it. 
 
-## Safe Zone Statement
-
-I am part of the SafeZone community network of trained K-State  faculty/staff/students who are available to listen and support you. As a SafeZone Ally, I can help you connect with resources on campus to  address problems you face that interfere with your academic success,  particularly issues of sexual violence, hateful acts, or concerns faced  by individuals due to sexual orientation/gender identity. My goal is to  help you be successful and to maintain a safe and equitable campus.
 
 {{% include "themes/ksucs-hugo-theme/static/files/syllabus-no-copyright.md" %}}
 
 ## Subject to Change
 
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the K-State Canvas page for this course and emailed to all students.
-
-##  Copyright Notification
-
-Copyright 2021(Joshua L. Weese) as to this syllabus and all lectures. During  this course students are prohibited from selling notes to or being paid  for taking notes by any person or commercial firm without the express  written permission of the professor teaching this course. In addition,  students in this class are not authorized to provide class notes or  other class-related materials to any other person or entity, other than  sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor  teaching this course.
