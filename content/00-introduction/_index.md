@@ -10,4 +10,4 @@ pre = "<b>0. </b>"
 
 # Introduction
 
-Welcome to CC 110!
+Welcome to the Computer Science Introductory course!
