@@ -87,10 +87,10 @@ Since this course is entirely online, students may work at any time and at their
 
 **The following table outlines the highest possible score that a module can earn based on when it is complete** 
 
-|  | Thursday | Friday | Saturday | Sunday |
+|  | Thursday | Friday | Saturday | Sunday | Monday |
 | --- | --- | --- | --- | --- |
-| Before or at 11:59PM CST | 100% | 90% | 80% | 70% |
-| After 11:59PM CST | 90% | 80% | 70% | 60% |
+| Before or at 11:59PM CST | 100% | 90% | 80% | 70% | 60% |
+| After 11:59PM CST | 90% | 80% | 70% | 60% | 0% |
 
 Even if a module is not submitted on time, it must still be completed before a student is allowed to begin the next module. So, students should take care not to get too far behind, as it may be very difficult to catch up.
 
