@@ -5,7 +5,7 @@ weight: 10
 date: 2021-01-15T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube MZanlAgwPJ8 >}}
 
 In this lab, we're going to take what we've learned in pseudocode and see how it transfers to a real programming language, Python. We've chosen Python because it is very easy to learn, easy to use, and it is used in many different places, from scientific computing and data analysis to web servers and even artificial intelligence. It is a very useful language to learn, and it makes a great first programming language.
 

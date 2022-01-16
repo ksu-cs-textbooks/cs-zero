@@ -5,7 +5,7 @@ weight: 30
 date: 2021-01-15T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube yveXTTVXzZ0 >}}
 
 #### Resources
 
@@ -65,4 +65,4 @@ If everything works correctly, we should see output similar to this:
 
 There we go! We've just run our first program in Python! That's a great first step to take. 
 
-Of course, there are lots of ways that this could go wrong. So, if you run into any issues getting this to work, please take the time to contact and instructor and ask for assistance. This process can be daunting the first time, since there are so many things to learn and so many intricacies we simply don't have time to cover up front. Don't be afraid to ask for help!
+Of course, there are lots of ways that this could go wrong. So, if you run into any issues getting this to work, please take the time to contact an instructor and ask for assistance. This process can be daunting the first time, since there are so many things to learn and so many intricacies we simply don't have time to cover up front. Don't be afraid to ask for help!

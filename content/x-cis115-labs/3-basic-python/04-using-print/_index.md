@@ -5,7 +5,7 @@ weight: 40
 date: 2021-01-15T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube BhpTb-i4ELg >}}
 
 #### Resources
 
@@ -53,7 +53,7 @@ four
 
 ## Printing On the Same Line
 
-What if we want to display multiple `print(expression)` statements on the same line? To do that, we must add an additional option the `print(expression)` statement - the `end` option. 
+What if we want to display multiple `print(expression)` statements on the same line? To do that, we must add an additional option to the `print(expression)` statement - the `end` option. 
 
 For example, the following code will produce output all on the same line:
 

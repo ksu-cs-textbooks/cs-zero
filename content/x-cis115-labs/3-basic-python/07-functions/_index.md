@@ -5,7 +5,7 @@ weight: 70
 date: 2021-01-15T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube Q3XiDHJlo1A >}}
 
 #### Resources
 
@@ -104,54 +104,54 @@ To trace this example, copy-paste the code into the `tutor.py` file in the `pyth
 
 When the program first loads, we should see this setup:
 
-![Python Tutor 1](.guides/img/tutor2_1.png)
+![Python Tutor 1](/cc110/images/lab3/tutor2_1.png)
 
 Again, this is very familiar to us based on what we've seen so far. So, let's click the **Next >** button to step through the first part of the code:
 
-![Python Tutor 2](.guides/img/tutor2_2.png)
+![Python Tutor 2](/cc110/images/lab3/tutor2_2.png)
 
 As we can see, the first thing that Python sees is the definition for the `foo` function. Instead of keeping a separate list of functions, Python Tutor simply adds that function to the global frame just like any variable. The function itself is added to the **Objects** list, and then there is an arrow, connecting the variable in the global frame to the function in the objects list. In fact, this is exactly how Python handles functions - they are just treated like variables that are **pointers** to the function objects themselves! So, when we click **Next >** again, we'll see it do the same to the `bar` function as well:
 
-![Python Tutor 3](.guides/img/tutor2_3.png)
+![Python Tutor 3](/cc110/images/lab3/tutor2_3.png)
 
 At this point, we are ready to execute the first function call, which will run the `foo` function. So, when we click the **Next >** button, we'll see the arrow jump to the start of that function:
 
-![Python Tutor 4](.guides/img/tutor2_4.png)
+![Python Tutor 4](/cc110/images/lab3/tutor2_4.png)
 
 Here, we see Python tutor do something a bit different than in our own code traces - instead of keeping all of the variables in a single box, it creates a new **frame** to keep track of the variables that are created in the `foo` function. When we look an example of a function with parameters, we'll see where this becomes very useful. For now, we can just ignore it and move on by clicking **Next >** once again:
 
-![Python Tutor 5](.guides/img/tutor2_5.png)
+![Python Tutor 5](/cc110/images/lab3/tutor2_5.png)
 
 At this point, the function is ready to print the string value `"eye"` to the terminal. So, if we click **Next >** once again, we should see that reflected in the output of Python Tutor:
 
-![Python Tutor 6](.guides/img/tutor2_6.png)
+![Python Tutor 6](/cc110/images/lab3/tutor2_6.png)
 
 At this point, we've reached the end of the `foo` function. So, Python Tutor will remove the `foo` frame from the list of frames and it will jump back down to where the function was called from when we click **Next >**:
 
-![Python Tutor 7](.guides/img/tutor2_7.png)
+![Python Tutor 7](/cc110/images/lab3/tutor2_7.png)
 
 Here, we are back to the main piece of our code, and we're ready to call the `bar` function. So, we can click **Next >** once again:
 
-![Python Tutor 8](.guides/img/tutor2_8.png)
+![Python Tutor 8](/cc110/images/lab3/tutor2_8.png)
 
 This will jump up to the start of the `bar` function and create a new frame for storing any variables created by `bar`. We can click **Next >** again to enter the function:
 
-![Python Tutor 9](.guides/img/tutor2_9.png)
+![Python Tutor 9](/cc110/images/lab3/tutor2_9.png)
 
 And then click **Next >** again to print the string value `"to"`  to the output:
 
-![Python Tutor 10](.guides/img/tutor2_10.png)
+![Python Tutor 10](/cc110/images/lab3/tutor2_10.png)
 
 Once again, we are at the end of a function, so when we click **Next >** once more:
 
-![Python Tutor 11](.guides/img/tutor2_11.png)
+![Python Tutor 11](/cc110/images/lab3/tutor2_11.png)
 
 We'll move back to the main piece of the code, removing the frame for `bar`. On this line, we see yet another function call, this time to the `foo` function. Hopefully by this point we can predict what is going to happen, so we can click **Next >** a few more times to jump to the `foo` function and execute it. When it is done, we'll see this output:
 
-![Python Tutor 15](.guides/img/tutor2_15.png)
+![Python Tutor 15](/cc110/images/lab3/tutor2_15.png)
 
 There we go! We've successfully traced the execution of a Python program that contains multiple function calls. The full process is shown in this animation:
 
-![Python Tutor Animation](.guides/img/tutor2.gif)
+![Python Tutor Animation](/cc110/images/lab3/tutor2.gif)
 
 Using tools like Python Tutor to trace through code is a great way to make sure we understand exactly what our computer is doing when it is running our code. 
