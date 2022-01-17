@@ -14,10 +14,10 @@ pre: "6.2 "
 **All emails** for the course should be sent to [cis115help@KSUemailProd.onmicrosoft.com](mailto:cis115help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 {{% /notice %}}
 
-**Professor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches section C)
+**Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches section C)
 
-- **Office:** 22** Engineering Hall (DUE)  
-- **Phone:** Office - (785) 532-**** 
+- **Office:** 2161 Engineering Hall (DUE)  
+- **Phone:** Office - (785) 532-6350 
 - **Office  Hours:** TBD (will announce shortly)   
     - **Want to meet with me? https://calendly.com/emilyalfs**  
 
