@@ -1,4 +1,0 @@
----
-type: "reveal"
-hidden: true
----
