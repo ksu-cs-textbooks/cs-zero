@@ -17,7 +17,7 @@ pre: "6.2 "
 **Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches section C)
 
 - **Office:** 2161 Engineering Hall (DUE)  
-- **Phone:** Office - (785) 532-**** 
+- **Phone:** Office - (785) 532-6350 
 - **Office  Hours:** TBD (will announce shortly)   
     - **Want  to meet with me? https://calendly.com/emilyalfs**  
 
