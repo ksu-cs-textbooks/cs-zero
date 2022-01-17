@@ -19,13 +19,14 @@ pre: "6.2 "
 - **Office:** 22** Engineering Hall (DUE)  
 - **Phone:** Office - (785) 532-**** 
 - **Office  Hours:** TBD (will announce shortly)   
-    - **Want  to meet with me? https://calendly.com/emilyalfs**  
+    - **Want to meet with me? https://calendly.com/emilyalfs**  
 
 **Instructor:**  Russell Feldhausen (he/him) – [russfeld@ksu.edu](mailto:russfeld@ksu.edu) (teaches sections B)
 
-- **Office**: 21** Engineering Hall (DUE)   
-- **Phone:** Office - (785) *******
-- **Office Hours:** TBD (email for getting help)
+- **Office**: 2213 Engineering Hall (DUE)   
+- **Phone:** Office - (785) 292-3121 (call/text)
+- **Office Hours:** T 2:30 - 3:30 and by appointment
+  - **Want to meet with me? https://calendly.com/russfeld** 
 
 | Undergraduate Teaching Assistants |
 | --------------------------------- |
