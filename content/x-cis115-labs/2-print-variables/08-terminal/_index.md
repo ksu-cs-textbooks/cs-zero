@@ -43,7 +43,7 @@ If you aren't able to run Python or aren't sure that you have the correct versio
 
 Notice that we have to use the command `python3`, including the version number, instead of the simpler `python` command here. This is because some systems may also have Python version 2, an outdated version of Python, installed alongside version 3. In that case, the simple `python` command will be Python version 2, while `python3` will be Python version 3. Unfortunately, most programs written in Python 3 will not run properly in Python 2, so it is important for us to make sure we are using the correct Python version when running our programs.
 
-Thankfully, the command `python3` should always work, and using that command is a good habit to learn. So, throughout this course, we will use the command `python3` to run Python programs. 
+Thankfully, the command `python3` should always be Python version 3, and using that command is a good habit to learn. However, depending on how Python is installed on Windows, it might only work via the `python` command, which can make it confusing. So, throughout this course, we will use the command `python3` to run Python programs, but you may have to adapt to your particular situation. 
 
 {{% /notice %}}
 
