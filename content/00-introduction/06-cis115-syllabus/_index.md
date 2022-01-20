@@ -18,7 +18,7 @@ pre: "6.2 "
 
 - **Office:** 2161 Engineering Hall (DUE)  
 - **Phone:** Office - (785) 532-6350 
-- **Office  Hours:** TBD (will announce shortly)   
+- **Office  Hours:** Friday 1:00-3:00
     - **Want to meet with me? https://calendly.com/emilyalfs**  
 
 **Instructor:**  Russell Feldhausen (he/him) – [russfeld@ksu.edu](mailto:russfeld@ksu.edu) (teaches sections B)
