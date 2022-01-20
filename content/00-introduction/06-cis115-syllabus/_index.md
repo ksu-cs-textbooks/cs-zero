@@ -31,7 +31,7 @@ pre: "6.2 "
 | Undergraduate Teaching Assistants |         |
 | --------------------------------- | ------  |
 | **Name**                          | Section |
-| Easton Bolinger                   | TBD     |
+| Easton Bolinger                   | C       |
 | Chris Loura                       | B       |
 | Brandon Bednar                    | C       |
 

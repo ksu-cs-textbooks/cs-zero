@@ -11,7 +11,8 @@ pre: "6.1 "
 ### Instructor Contact Information
 
 * **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
-* **Office:** DUE 2161 (Offices hours TBD)
+* **Office:** DUE 2161 
+* **In Person Office Hours:** Friday 1:00 - 3:00
 * **Virtual Office Hours:** Schedule a meeting with me: https://calendly.com/emilyalfs Appointments held via [Zoom](https://ksu.zoom.us/).
 
 #### Preferred Methods of Communication:
@@ -21,11 +22,18 @@ pre: "6.1 "
 
 ### Teaching Assistants
 
-* TBD
+| Undergraduate Teaching Assistants |
+| --------------------------------- |
+| **Name**                          | 
+| Easton Bolinger                   |
+| Chris Loura                       |
+| Brandon Bednar                    |
 
 ### Prerequisites
 
 * None
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457&color=%23616161&mode=WEEK&showCalendars=0&showTabs=1&showPrint=0&title=Office%20Hours%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Course Overview
 
