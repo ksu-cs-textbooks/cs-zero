@@ -28,12 +28,12 @@ pre: "6.2 "
 - **Office Hours:** T 2:30 - 3:30 and by appointment
   - **Want to meet with me? https://calendly.com/russfeld** 
 
-| Undergraduate Teaching Assistants |         |
-| --------------------------------- | ------  |
-| **Name**                          | Section |
-| Easton Bolinger                   | C       |
-| Chris Loura                       | B       |
-| Brandon Bednar                    | C       |
+| Undergraduate Teaching Assistants |             |                                 |
+| --------------------------------- | ----------- | ------------------------------- |
+| **Name**                          | **Section** | **Office Hours (DUE 1118)**     |
+| Easton Bolinger                   | C           | M, W: 10:30 - 12:30             |
+| Chris Loura                       | B           | M, U: 2:30 - 5:00               |
+| Brandon Bednar                    | C           | T: 2:30 - 3:30, U: 12:30 - 2:00 |
 
 <br/>
 

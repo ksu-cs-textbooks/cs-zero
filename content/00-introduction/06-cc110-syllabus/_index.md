@@ -22,13 +22,12 @@ pre: "6.1 "
 
 ### Teaching Assistants
 
-| Undergraduate Teaching Assistants |
-| --------------------------------- |
-| **Name**                          | 
-| Easton Bolinger                   |
-| Chris Loura                       |
-| Brandon Bednar                    |
-
+| Undergraduate Teaching Assistants |                                     |
+| --------------------------------- | ----------------------------------- |
+| **Name**                          | **Office Hours (DUE 1118)**         |
+| Easton Bolinger                   | M, W: 10:30 - 12:30                 |
+| Chris Loura                       | M, U: 2:30 - 5:00                   |
+| Brandon Bednar                    | T: 2:30 - 3:30, U: 12:30 - 2:00     |
 ### Prerequisites
 
 * None
