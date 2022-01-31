@@ -42,7 +42,7 @@ def square_sum(one, two):
     return (one * one) + (two * two)
 ```
 
-We can perform multiple mathematical operations in a single expression, and as long as either use parentheses or pay attention to the order of operations, we'll get the expected answer. We don't have to store the intermediate values in variables, since Python will do that for us when it evaluates the expression.
+We can perform multiple mathematical operations in a single expression, and as long as we either use parentheses or pay attention to the order of operations, we'll get the expected answer. We don't have to store the intermediate values in variables, since Python will do that for us when it evaluates the expression.
 
 Likewise, in the `main()` function, we can put the `input()` expression inside of the `int()` function, allowing us to read input as a string and convert it to an integer in a single line:
 
