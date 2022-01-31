@@ -2,11 +2,11 @@
 title: "Introduction"
 pre: "0. "
 weight: 01
-hidden: false
+hidden: true
 date: 2021-01-29T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube M_prpta5DrA >}}
 
 A great way to think of a computer program is that it is a process of telling the computer how to store and manipulate data. Everything from simple calculators all the way to the latest video games can all fit this definition. So far, we've only worked with one type of data in this course - strings. Strings are very useful, since they can be used to print text and information for the user to see via the user interface, but they are very limited when it comes to other uses.
 

@@ -2,11 +2,11 @@
 title: "Introduction"
 pre: "0. "
 weight: 01
-hidden: false
+hidden: true
 date: 2021-01-29T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube bVQK5jalg9k >}}
 
 Manipulating data is a key part of any useful computer program, and Python is a great language for learning how to do just that. In this lab, we're going to expand our knowledge of Python to include **numeric data types**, which allow us to store numbers in variables. We'll also learn about the **mathematical operators** we can use to manipulate the data in those variables, and how we can convert data between the various different types we've learned about so far.
 
