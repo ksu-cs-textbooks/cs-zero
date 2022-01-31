@@ -66,7 +66,7 @@ So, we'll have to be careful and make sure that we convert all of our numbers to
 
 ## String Formatting
 
-Python also includes another method of building strings, and that is the `format()` method. The `format()` allows us to put placeholders in strings that are later replaced with values from variables, effectively creating a way to build "templates" that can be used throughout our program.
+Python also includes another method of building strings, and that is the `format()` method. The `format()` method allows us to put placeholders in strings that are later replaced with values from variables, effectively creating a way to build "templates" that can be used throughout our program.
 
 The easiest way to see how this works is looking at a few examples. Let's start with a simple one:
 

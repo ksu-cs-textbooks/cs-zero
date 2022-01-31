@@ -15,7 +15,7 @@ Previously, we learned about **strings** and **string values** in pseudocode. Re
 
 What about numbers? We all know how important numbers can be, especially since we've probably spent more time studying mathematics than just about any other subject in school. So, let's introduce a new data type in pseudocode called the **number** data type. This data type can store any single number, such as $1$ or $2.3$ or even special numbers like $\pi$ (pi) or $e$ (Euler's number). 
 
-So, to create an expression that evaluates to a numerical value in pseudocode, we can just use the numbers in our code instead of text in quotes. For example, to store then number $7$ in a variable, we'd use the following **assignment statement** in pseudocode:
+So, to create an expression that evaluates to a numerical value in pseudocode, we can just use the numbers in our code instead of text in quotes. For example, to store the number $7$ in a variable, we'd use the following **assignment statement** in pseudocode:
 
 ```tex
 num1 <- 7
