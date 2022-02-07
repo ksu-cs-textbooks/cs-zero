@@ -140,16 +140,16 @@ In most cases, it is best to include parentheses whenever we include multiple op
 Here's a complex expression in pseudocode that we can try to evaluate:
 
 ```tex
-x <- 4 / 8 + 5 * (3 + 1) - 7 MOD 4
+x <- 8 / 4 + 5 * (3 + 1) - 7 MOD 4
 ```
 
 Looking at our order of operations, the first step is to handle any expressions inside of parentheses. So, we'll first start with the expression `(3 + 1)` and evaluate it to `4`.
 
 ```tex
-x <- 4 / 8 + 5 * 4 - 7 MOD 4
+x <- 8 / 4 + 5 * 4 - 7 MOD 4
 ```
 
-Then, we'll go right to left and perform any multiplation, division, and modulo operations. This means we'll evaluate `8 / 4`, `5 * 4` and `7 MOD 4` and replace them with the resulting values:
+Then, we'll go right to left and perform any multiplication, division, and modulo operations. This means we'll evaluate `8 / 4`, `5 * 4` and `7 MOD 4` and replace them with the resulting values:
 
 ```tex
 x <- 2 + 20 - 3
