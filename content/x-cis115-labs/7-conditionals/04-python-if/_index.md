@@ -21,7 +21,7 @@ The structure of an if statement in Python is shown below:
 
 ```python
 if <boolean expression>:
-    < block of statements>
+    <block of statements>
 ```
 
 In this structure, we still have a `<boolean expression>` that is evaluated. However, instead of it being in parentheses like in pseudocode, in Python those parentheses are not required. After the Boolean expression is a colon `:`, just like at the end of a function definition. 

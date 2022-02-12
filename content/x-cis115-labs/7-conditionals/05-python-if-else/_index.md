@@ -17,7 +17,7 @@ The general structure of an if-else statement in Python is shown below:
 
 ```python
 if <boolean expression>:
-    < block of statements 1>
+    <block of statements 1>
 else:
     <block of statements 2>
 ```
@@ -43,7 +43,7 @@ def main():
 main()
 ```
 
-This program accepts an input from the user, converts it to an integer, and then determines if the integer is a positive or negative number. Let's go through this program a couple of times in Python tutor to see how it works. As always, you can copy and paste this code in the `tutor.py` file in Codio, or click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20x%20%3D%20int%28input%28%22Enter%20a%20number%3A%20%22%29%29%0A%20%20%20%20if%20x%20%3E%3D%200%3A%0A%20%20%20%20%20%20%20%20print%28%22Your%20number%20is%20positive!%22%29%0A%20%20%20%20else%3A%0A%20%20%20%20%20%20%20%20print%28%22Your%20number%20is%20negative%22%29%0A%20%20%20%20print%28%22Thanks%20for%20playing!%22%29%0A%0A%0Amain%28%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false) link:
+This program accepts an input from the user, converts it to an integer, and then determines if the integer is a positive or negative number. Let's go through this program a couple of times in Python tutor to see how it works. As always, you can click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20x%20%3D%20int%28input%28%22Enter%20a%20number%3A%20%22%29%29%0A%20%20%20%20if%20x%20%3E%3D%200%3A%0A%20%20%20%20%20%20%20%20print%28%22Your%20number%20is%20positive!%22%29%0A%20%20%20%20else%3A%0A%20%20%20%20%20%20%20%20print%28%22Your%20number%20is%20negative%22%29%0A%20%20%20%20print%28%22Thanks%20for%20playing!%22%29%0A%0A%0Amain%28%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false) link:
 
 We'll start with the usual default state:
 
