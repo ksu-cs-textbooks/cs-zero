@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 The `print(expression)` statement is very powerful in Python, but we really can't do much with our programs using just a single statement. So, let's look at how we can use **variables** in Python as well.
 

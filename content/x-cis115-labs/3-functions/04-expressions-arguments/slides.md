@@ -22,45 +22,45 @@ PROCEDURE main()
 main()</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_1.png">
+	<img class="stretch plain" src="/images/lab2/trace6_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_6.png">
+	<img class="stretch plain" src="/images/lab2/trace6_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_8.png">
+	<img class="stretch plain" src="/images/lab2/trace6_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_9.png">
+	<img class="stretch plain" src="/images/lab2/trace6_9.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_10.png">
+	<img class="stretch plain" src="/images/lab2/trace6_10.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_11.png">
+	<img class="stretch plain" src="/images/lab2/trace6_11.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_12.png">
+	<img class="stretch plain" src="/images/lab2/trace6_12.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_13.png">
+	<img class="stretch plain" src="/images/lab2/trace6_13.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_14.png">
+	<img class="stretch plain" src="/images/lab2/trace6_14.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_18.png">
+	<img class="stretch plain" src="/images/lab2/trace6_18.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_19.png">
+	<img class="stretch plain" src="/images/lab2/trace6_19.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_20.png">
+	<img class="stretch plain" src="/images/lab2/trace6_20.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6_24.png">
+	<img class="stretch plain" src="/images/lab2/trace6_24.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6.gif">
+	<img class="stretch plain" src="/images/lab2/trace6.gif">
 </section>
 

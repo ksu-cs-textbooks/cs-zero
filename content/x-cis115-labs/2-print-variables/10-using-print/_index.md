@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 The `print(expression)` statement in Python works in much the same way as the `DISPLAY(expression)` statement in pseudocode, but with one major difference. In pseudocode, the `DISPLAY(expression)` statement will print the value from the expression to the user, but it won't add anything like a space or newline to the end. In Python, however, the `print(expression)` statement will add a newline to the end of the output by default. This means that multiple `print(expression)` statements will print on multiple lines. Let's look at some examples!
 

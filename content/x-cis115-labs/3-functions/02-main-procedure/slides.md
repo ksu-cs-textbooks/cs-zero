@@ -23,20 +23,20 @@ PROCEDURE main()
 main()</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace4_1.png">
+	<img class="stretch plain" src="/images/lab2/trace4_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace4_3.png">
+	<img class="stretch plain" src="/images/lab2/trace4_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace4_5.png">
+	<img class="stretch plain" src="/images/lab2/trace4_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace4_7.png">
+	<img class="stretch plain" src="/images/lab2/trace4_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace4_8.png">
+	<img class="stretch plain" src="/images/lab2/trace4_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace4.gif">
+	<img class="stretch plain" src="/images/lab2/trace4.gif">
 </section>

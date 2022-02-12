@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 We can also use Python to perform mathematical operations on numerical data using operators. So, let's briefly review the operators we've learned so far, and introduce a couple of new operators that are unique to Python. 
 

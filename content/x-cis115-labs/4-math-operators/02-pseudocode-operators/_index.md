@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Now that we have the ability to store numerical data in variables in pseudocode, we should also learn how to manipulate that data into something new. To do that, let's learn about **operators**. An **operator** in programming is a special symbol that can be used in an expression to manipulate the data in some way. Most operators are **binary operators**, which means they perform an operation that uses two values as input and produces a single value as output. In fact, in some programming languages, the operators themselves are implemented as procedures in the language!
 

@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Python also includes an operator that can be used to concatenate two strings together. Just like in pseudocode, we can use the plus symbol `+` between two strings to concatenate them together into a single string, making it much simpler to build more complex strings and outputs. 
 

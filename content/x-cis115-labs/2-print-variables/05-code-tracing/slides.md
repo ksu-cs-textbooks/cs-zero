@@ -16,26 +16,26 @@ DISPLAY(" ")
 DISPLAY(d)</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace1.png">
+	<img class="stretch plain" src="/images/lab2/trace1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace2.png">
+	<img class="stretch plain" src="/images/lab2/trace2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5.png">
+	<img class="stretch plain" src="/images/lab2/trace5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace6.png">
+	<img class="stretch plain" src="/images/lab2/trace6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace7.png">
+	<img class="stretch plain" src="/images/lab2/trace7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace8.png">
+	<img class="stretch plain" src="/images/lab2/trace8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace12.png">
+	<img class="stretch plain" src="/images/lab2/trace12.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace.gif">
+	<img class="stretch plain" src="/images/lab2/trace.gif">
 </section>

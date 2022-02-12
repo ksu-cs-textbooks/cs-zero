@@ -47,35 +47,35 @@ def main():
 main()</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_1.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_3.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_4.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_7.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_8.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_12.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_12.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_14.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_14.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_15.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_15.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_17.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_17.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3_18.png">
+	<img class="stretch plain" src="/images/lab3/tutor3_18.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3.gif">
+	<img class="stretch plain" src="/images/lab3/tutor3.gif">
 </section>

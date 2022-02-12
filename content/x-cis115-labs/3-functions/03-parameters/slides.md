@@ -44,26 +44,26 @@ PROCEDURE main()
 main()</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_1.png">
+	<img class="stretch plain" src="/images/lab2/trace5_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_5.png">
+	<img class="stretch plain" src="/images/lab2/trace5_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_6.png">
+	<img class="stretch plain" src="/images/lab2/trace5_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_7.png">
+	<img class="stretch plain" src="/images/lab2/trace5_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_8.png">
+	<img class="stretch plain" src="/images/lab2/trace5_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_14.png">
+	<img class="stretch plain" src="/images/lab2/trace5_14.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5_15.png">
+	<img class="stretch plain" src="/images/lab2/trace5_15.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace5.gif">
+	<img class="stretch plain" src="/images/lab2/trace5.gif">
 </section>

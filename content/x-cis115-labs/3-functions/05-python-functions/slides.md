@@ -25,41 +25,41 @@ bar()
 foo()</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_1.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_2.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_3.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_4.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_5.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_6.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_7.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_8.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_9.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_9.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_10.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_10.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_11.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_11.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2_15.png">
+	<img class="stretch plain" src="/images/lab3/tutor2_15.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2.gif">
+	<img class="stretch plain" src="/images/lab3/tutor2.gif">
 </section>

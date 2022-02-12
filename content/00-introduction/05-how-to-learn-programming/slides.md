@@ -47,12 +47,12 @@ hidden: true
 </section>
 <section>
 	<h2>Jean Piaget</h2>
-	<img class="stretch" src="/cc410/cc110/images/0/410piaget.png">
+	<img class="stretch" src="/images/0/410piaget.png">
 	<p class="imagecredit">Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Jean_Piaget_in_Ann_Arbor.png">Wikimedia Commons</a></p>
 </section>
 <section>
 	<h4>Genetic Epistemology</h4>
-	<img class="stretch" src="/cc410/cc110/images/0/410snail.jpg">
+	<img class="stretch" src="/images/0/410snail.jpg">
 	<p class="imagecredit">Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Snail.jpg">Wikimedia Commons</a></p>
 </section>
 <section>
@@ -70,7 +70,7 @@ hidden: true
 	<p>to achieve</p>
 </section>
 <section>
-	<img class="stretch" src="/cc410/cc110/images/0/410eureka.jpg">
+	<img class="stretch" src="/images/0/410eureka.jpg">
 	<p class="imagecredit">Image Credit: <a href="https://memegenerator.net/instance/48610067/einstein-laugh-eureka-hes-got-it">Memegenerator</a></p>
 </section>
 <section>
@@ -83,7 +83,7 @@ hidden: true
 	</ul>
 </section>
 <section>
-	<img class="stretch" src="/cc410/cc110/images/0/410waves.png">
+	<img class="stretch" src="/images/0/410waves.png">
 	<p class="imagecredit">Image Credit: <a href="https://www.semanticscholar.org/paper/Towards-A-Practical-Application-Of-The-Theory-For-Kutscha/c9baf29efcdc5b844040d0b7e73d3ef562877518/figure/1">Semantic Scholar</a></p>
 </section>
 <section>

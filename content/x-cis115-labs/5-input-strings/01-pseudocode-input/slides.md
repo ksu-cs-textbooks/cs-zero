@@ -57,26 +57,26 @@ DISPLAY(square)
 </code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_1.png">
+	<img class="stretch plain" src="/images/lab4/trace7_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_2.png">
+	<img class="stretch plain" src="/images/lab4/trace7_2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_3.png">
+	<img class="stretch plain" src="/images/lab4/trace7_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_4.png">
+	<img class="stretch plain" src="/images/lab4/trace7_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_5.png">
+	<img class="stretch plain" src="/images/lab4/trace7_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_6.png">
+	<img class="stretch plain" src="/images/lab4/trace7_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7_8.png">
+	<img class="stretch plain" src="/images/lab4/trace7_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab4/trace7.gif">
+	<img class="stretch plain" src="/images/lab4/trace7.gif">
 </section>

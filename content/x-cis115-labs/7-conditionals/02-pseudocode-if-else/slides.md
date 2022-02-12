@@ -33,66 +33,66 @@ main()
 </code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_1.png">
+	<img class="stretch plain" src="/images/lab7/trace9_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_2.png">
+	<img class="stretch plain" src="/images/lab7/trace9_2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_3.png">
+	<img class="stretch plain" src="/images/lab7/trace9_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_4.png">
+	<img class="stretch plain" src="/images/lab7/trace9_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_5.png">
+	<img class="stretch plain" src="/images/lab7/trace9_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_6.png">
+	<img class="stretch plain" src="/images/lab7/trace9_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_7.png">
+	<img class="stretch plain" src="/images/lab7/trace9_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_8.png">
+	<img class="stretch plain" src="/images/lab7/trace9_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_9.png">
+	<img class="stretch plain" src="/images/lab7/trace9_9.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_10.png">
+	<img class="stretch plain" src="/images/lab7/trace9_10.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_1.gif">
+	<img class="stretch plain" src="/images/lab7/trace9_1.gif">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_4.png">
+	<img class="stretch plain" src="/images/lab7/trace9_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_11.png">
+	<img class="stretch plain" src="/images/lab7/trace9_11.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_12.png">
+	<img class="stretch plain" src="/images/lab7/trace9_12.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_13.png">
+	<img class="stretch plain" src="/images/lab7/trace9_13.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_14.png">
+	<img class="stretch plain" src="/images/lab7/trace9_14.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_15.png">
+	<img class="stretch plain" src="/images/lab7/trace9_15.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_16.png">
+	<img class="stretch plain" src="/images/lab7/trace9_16.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/trace9_2.gif">
+	<img class="stretch plain" src="/images/lab7/trace9_2.gif">
 </section>
 <section>
     <h3>Flowchart</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" src="/cc110/images/lab7/ifthenelse.png">
+        <img class="stretch plain" src="/images/lab7/ifthenelse.png">
     </div>
     <div style="float: left; width: 50%">
                 <pre class="language-plaintext stretch" style="font-size: 50px; line-height: 60px"><code>x <- NUMBER(INPUT())

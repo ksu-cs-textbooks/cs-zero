@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Now that we've been introduced to the `DISPLAY(expression)` statement, let's write a few simple programs using that statement to see how it works. Again, we're just learning how to run these programs using our "mental model" of a computer, so it is really important for us to closely pay attention to both the code and the output of these examples. We have to learn what rules govern how our computer should work, and the only way to do that is to explore lots of different programs and see what they do.
 

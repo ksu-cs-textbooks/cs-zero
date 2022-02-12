@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Python functions are also capable of returning a value, just like we've seen in pseudocode. In Python, we use the `return` keyword, instead of a `RETURN()` statement, but the concept is the same.
 

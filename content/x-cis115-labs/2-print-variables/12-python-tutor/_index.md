@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 As we learn to write more complex programs in Python, it is important to make sure we can still mentally execute the code we are writing in our "mental model" of a computer before we actually run it on a computer. After all, if we don't have at least an idea of what the code actually does before we write it, we really haven't learned much about programming!
 

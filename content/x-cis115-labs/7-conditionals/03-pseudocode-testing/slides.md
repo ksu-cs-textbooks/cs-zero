@@ -5,7 +5,7 @@ hidden: true
 <section>
     <h3>Testing</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -38,7 +38,7 @@ main()
 <section>
     <h3>x = 6 | y = 6</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -71,7 +71,7 @@ main()
 <section>
     <h3>x = 6 | y = -6</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -111,7 +111,7 @@ main()
 <section>
     <h3>x = 12 | y = 0</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -144,7 +144,7 @@ main()
 <section>
     <h3>x = 4 | y = 4</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -186,7 +186,7 @@ main()
 <section>
     <h3>Edge Cases</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -219,7 +219,7 @@ main()
 <section>
     <h3>x = 10 | y = 0</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -252,7 +252,7 @@ main()
 <section>
     <h3>x = 11 | y = 0</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()
@@ -285,7 +285,7 @@ main()
 <section>
     <h3>x = 9 | y = 0</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" width="100%" src="/cc110/images/lab7/control.png">
+        <img class="stretch plain" width="100%" src="/images/lab7/control.png">
     </div>
     <div style="float: left; width: 50%">
         <pre><code style="font-size: 30px; line-height: 35px" class="language-plaintext stretch">PROCEDURE main()

@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Previously, we learned about **strings** and **string values** in pseudocode. Recall that a string is just text inside of a set of quotation marks `""`, such as `"Hello World"` or `"Willie Wildcat"`. In technical terms, a string is an example of a **data type** in programming. A **data type** defines the way a particular value can be stored in a computer. For text values, we use the string data type.
 

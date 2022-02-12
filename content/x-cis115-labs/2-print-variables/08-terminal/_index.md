@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 First, let's start with the basics of writing Python code in a file and running those files. This is the first major step toward actually writing a real program, but it can definitely be difficult the first time without prior experience to rely on. So, let's go through it step by step and make sure we know how to run our programs in Python.
 

@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 As our programs get larger and larger, we'll probably find that we keep repeating pieces of code over and over again in our programs. In fact, we've probably already done that a few times just working through this lab. What if we had some way to build a small block of code once, and then reuse it over and over again in our programs? 
 

@@ -11,26 +11,26 @@ print(x, end=", ")
 print(y)</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor1.png">
+	<img class="stretch plain" src="/images/lab3/tutor1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor2.png">
+	<img class="stretch plain" src="/images/lab3/tutor2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor3.png">
+	<img class="stretch plain" src="/images/lab3/tutor3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor4.png">
+	<img class="stretch plain" src="/images/lab3/tutor4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor5.png">
+	<img class="stretch plain" src="/images/lab3/tutor5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor6.png">
+	<img class="stretch plain" src="/images/lab3/tutor6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor7.png">
+	<img class="stretch plain" src="/images/lab3/tutor7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab3/tutor.gif">
+	<img class="stretch plain" src="/images/lab3/tutor.gif">
 </section>

@@ -43,50 +43,50 @@ bar()
 foo()</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_1.png">
+	<img class="stretch plain" src="/images/lab2/trace3_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_2.png">
+	<img class="stretch plain" src="/images/lab2/trace3_2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_3.png">
+	<img class="stretch plain" src="/images/lab2/trace3_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_5.png">
+	<img class="stretch plain" src="/images/lab2/trace3_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_6.png">
+	<img class="stretch plain" src="/images/lab2/trace3_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_7.png">
+	<img class="stretch plain" src="/images/lab2/trace3_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_8.png">
+	<img class="stretch plain" src="/images/lab2/trace3_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_9.png">
+	<img class="stretch plain" src="/images/lab2/trace3_9.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_10.png">
+	<img class="stretch plain" src="/images/lab2/trace3_10.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_11.png">
+	<img class="stretch plain" src="/images/lab2/trace3_11.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_12.png">
+	<img class="stretch plain" src="/images/lab2/trace3_12.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_13.png">
+	<img class="stretch plain" src="/images/lab2/trace3_13.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_14.png">
+	<img class="stretch plain" src="/images/lab2/trace3_14.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_15.png">
+	<img class="stretch plain" src="/images/lab2/trace3_15.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3_16.png">
+	<img class="stretch plain" src="/images/lab2/trace3_16.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab2/trace3.gif">
+	<img class="stretch plain" src="/images/lab2/trace3.gif">
 </section>

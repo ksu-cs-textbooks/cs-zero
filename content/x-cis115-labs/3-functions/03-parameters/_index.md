@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 The last new concept we're going to introduce in this lab is the concept of **parameters**. We just learned how to create procedures in our code, but our current understanding of procedures has one very important flaw in it: a procedure will always do the same thing each time we call it! What if we want to write a procedure that performs the same operation, but uses different data each time? Wouldn't that be useful?
 

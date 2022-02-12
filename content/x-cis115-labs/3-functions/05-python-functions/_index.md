@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Python also supports the use of procedures, which allows us to write small pieces of code that can be repeatedly used throughout our programs. In Python, we call these procedures **functions**. We've already seen one example of a function in Python - the `print` statement is actually a function! Let's look at how we can create and use functions in Python.
 

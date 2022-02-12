@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 As our programs become more complex, it can become more and more difficult to run them on our "mental model" of a computer without a little bit of help. So, let's go through an example of **code tracing**, one of the best ways to work through large blocks of code and keep track of everything that is going on. At the same time, we can also learn more about using variables in our programs!
 

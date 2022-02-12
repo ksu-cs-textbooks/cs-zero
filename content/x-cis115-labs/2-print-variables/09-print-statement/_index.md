@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 The first statement that we'll cover in the Python programming language is the `print(expression)` statement. This statement is used to display output to the user via the terminal. So, when Python runs this statement, it will evaluate the `expression` to a single value, and then print that value to the terminal. 
 

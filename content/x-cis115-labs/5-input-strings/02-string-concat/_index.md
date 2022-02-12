@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 So far we've only looked at operators that can be used on two numeric values, but there are also a few operations we can perform on strings as well. Let's look at one important operator that is commonly used with strings - the concatenation operator. In pseudocode, like most other programming languages, we'll use the plus symbol `+` to represent the concatenation operator. 
 

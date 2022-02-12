@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Getting data from the user is one way we can store data in our programs. What if we want to create a procedure that produces a new data value? We can do that using a special statement called the **return** statement. 
 

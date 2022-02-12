@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 So far, we've mainly focused on writing programs that can store and manipulate data, but the data itself has always been included in the code itself. While that approach is great for learning the basics, real programs often need to receive data as input from the user. This allows programs to truly be interactive and perform work based on what the user needs. So, let's introduce a new expression in pseudocode that allows our programs to receive input from the user.
 

@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Let's briefly consider one more important situation that may arise when calling procedures. What if the arguments provided in a procedure call are variables themselves? What does that look like?
 

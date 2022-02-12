@@ -9,7 +9,7 @@ date: 2021-01-15T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Let's review a couple other concepts related to functions in Python. These will closely mirror what we've already learned in pseudocode, so we'll cover them pretty quickly here.
 

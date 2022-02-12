@@ -18,50 +18,50 @@ main()
 </code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_1.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_2.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_3.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_4.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_5.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_6.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_7.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_8.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_8.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_1.gif">
+	<img class="stretch plain" src="/images/lab7/tutor5_1.gif">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_4.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_9.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_9.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_10.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_10.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_11.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_11.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_12.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_12.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_13.png">
+	<img class="stretch plain" src="/images/lab7/tutor5_13.png">
 </section>
 <section>
-	<img class="stretch plain" src="/cc110/images/lab7/tutor5_2.gif">
+	<img class="stretch plain" src="/images/lab7/tutor5_2.gif">
 </section>

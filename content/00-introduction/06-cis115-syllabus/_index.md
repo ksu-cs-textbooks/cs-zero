@@ -6,7 +6,7 @@ pre: "6.2 "
 
 ## CC 115 - Introduction to Computing Science - Spring 2022
 
-[Previous Versions](old)
+[Previous Versions]({{<relref "./old">}})
 
 ### Contact
 

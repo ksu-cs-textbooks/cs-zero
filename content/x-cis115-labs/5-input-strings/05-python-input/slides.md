@@ -55,9 +55,9 @@ Hello Willie Wildcat
 </code></pre>
 </section>
 <section>
-	<img class="plain stretch" src="/cc110/images/lab5/terminal1.png">
+	<img class="plain stretch" src="/images/lab5/terminal1.png">
     <br><br>
-    <img class="plain stretch" src="/cc110/images/lab5/terminal2.png">
+    <img class="plain stretch" src="/images/lab5/terminal2.png">
 </section>
 <section>
     <h3>Numerical Input</h3>

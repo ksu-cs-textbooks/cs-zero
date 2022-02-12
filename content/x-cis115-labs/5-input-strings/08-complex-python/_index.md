@@ -9,7 +9,7 @@ date: 2021-01-29T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Finally, let's look at how we can rewrite some of our previous Python programs by combining expressions into more complex statements. Just like we saw in pseudocode, Python also allows us to perform multiple actions on a single line of code, provided they can all be combined in some way to create a single statement.
 

@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Now that we've learned how to use the `DISPLAY(expression)` statement, let's focus on the next major concept in pseudocode, as well as any other programming language: **variables**. 
 

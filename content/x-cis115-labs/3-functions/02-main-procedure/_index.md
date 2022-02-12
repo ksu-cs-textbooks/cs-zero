@@ -9,7 +9,7 @@ date: 2021-01-07T00:00:01-05:00
 
 #### Resources
 
-* <a href="slides" target="_blank">Slides</a>
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 Up to this point, we've simply written code and expected it to run easily in our "mental model" of a computer. However, many programming languages place one additional requirement on code that we should also follow: **all code must be part of a procedure**. 
 
