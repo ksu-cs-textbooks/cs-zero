@@ -31,9 +31,9 @@ pre: "6.2 "
 | Undergraduate Teaching Assistants |             |                                 |
 | --------------------------------- | ----------- | ------------------------------- |
 | **Name**                          | **Section** | **Office Hours (DUE 1118)**     |
-| Easton Bolinger                   | C           | M, W: 10:30 - 12:30             |
+| Easton Bolinger                   | C           | M 4:30 - 6:00 [Monday Zoom](https://ksu.zoom.us/j/98633751991?pwd=N3ViTjhDV1dHQmFxREtmRjZCeS96UT09) W: 1:30 - 3:30 [Wednesday Zoom](https://ksu.zoom.us/j/95380686573?pwd=NVo3R2o1SW1TL2xqallrL0FpL2ZLQT09)             |
 | Chris Loura                       | B           | M, U: 2:30 - 5:00               |
-| Brandon Bednar                    | C           | T: 2:30 - 3:30, U: 12:30 - 2:00 |
+| Brandon Bednar                    | C           | T: 2:30 - 3:30, U: 12:30 - 2:00 [Zoom Link for Both](https://ksu.zoom.us/j/95998068947)|
 
 <br/>
 
