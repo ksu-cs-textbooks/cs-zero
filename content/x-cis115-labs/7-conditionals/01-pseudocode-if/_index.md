@@ -51,73 +51,73 @@ main()
 
 Let's run trace through this program a couple of times to see how an if statement works in pseudocode. As always, we'll start our code trace as shown below:
 
-![Trace 1](/cc110/images/lab7/trace8_1.png)
+![Trace 1](/images/lab7/trace8_1.png)
 
 Next, we'll process through the code, finding our `main()` procedure. At the end, we'll reach the call for the `main()` procedure:
 
-![Trace 2](/cc110/images/lab7/trace8_2.png)
+![Trace 2](/images/lab7/trace8_2.png)
 
 So, we'll enter the `main()` procedure here. 
 
-![Trace 3](/cc110/images/lab7/trace8_3.png)
+![Trace 3](/images/lab7/trace8_3.png)
 
 The first line of code will display a prompt to the user:
 
-![Trace 4](/cc110/images/lab7/trace8_4.png)
+![Trace 4](/images/lab7/trace8_4.png)
 
 Then, we'll read the input from the user and convert it to a number. In this example, let's assume the user inputs the value `"16"` at the prompt. So, we'll store the number value $16$ in the variable `x`. 
 
-![Trace 5](/cc110/images/lab7/trace8_5.png)
+![Trace 5](/images/lab7/trace8_5.png)
 
 Now we have reached the beginning of the if statement in our code. When we evaluate an if statement, the first thing we need to do is evaluate the Boolean expression inside the parentheses. In this example, we are evaluating the expression `x = 42`. Since `x` is $16$, this evaluates to `false`:
 
-![Trace 6](/cc110/images/lab7/trace8_6.png)
+![Trace 6](/images/lab7/trace8_6.png)
 
 When the Boolean expression is `false`, we don't execute the code inside of the if statement's curly braces `{}`. So, we'll just skip to the bottom of the statement, and execute the next line:
 
-![Trace 7](/cc110/images/lab7/trace8_7.png)
+![Trace 7](/images/lab7/trace8_7.png)
 
 This line simply displays a message to the user, and then the program ends:
 
-![Trace 8](/cc110/images/lab7/trace8_8.png)
+![Trace 8](/images/lab7/trace8_8.png)
 
 This entire process is shown in the animation below:
 
-![Trace GIF 1](/cc110/images/lab7/trace8_1.gif)
+![Trace GIF 1](/images/lab7/trace8_1.gif)
 
 ## Code Tracing Example - True
 
 Now let's go back a few steps in the program to the point where it is expecting user input:
 
-![Trace 4](/cc110/images/lab7/trace8_4.png)
+![Trace 4](/images/lab7/trace8_4.png)
 
 This time, let's assume the user inputs the value `"42"` at the prompt. So, that means that the variable `x` will now store the value $42$ as shown here:
 
-![Trace 9](/cc110/images/lab7/trace8_9.png)
+![Trace 9](/images/lab7/trace8_9.png)
 
 Now, when we reach the beginning of the if statement, we'll evaluate the expression `x = 42` again, but this time the result will be `true` since `x` is indeed storing the value $42$:
 
-![Trace 10](/cc110/images/lab7/trace8_10.png)
+![Trace 10](/images/lab7/trace8_10.png)
 
 When the Boolean expression is `true` in an if statement, we should execute the code inside its curly braces `{}`. So, we'll move the arrow down to that line:
 
-![Trace 11](/cc110/images/lab7/trace8_11.png)
+![Trace 11](/images/lab7/trace8_11.png)
 
 This line will print out special output for the user, as shown here:
 
-![Trace 12](/cc110/images/lab7/trace8_12.png)
+![Trace 12](/images/lab7/trace8_12.png)
 
 Once we've reached the end of the block of statements inside of the if statement, we'll just continue through the program starting with the next line of code after the if statement:
 
-![Trace 13](/cc110/images/lab7/trace8_13.png)
+![Trace 13](/images/lab7/trace8_13.png)
 
 This line will print a message as well, and then the program will end:
 
-![Trace 14](/cc110/images/lab7/trace8_14.png)
+![Trace 14](/images/lab7/trace8_14.png)
 
 This entire process is shown in the animation below:
 
-![Trace GIF 2](/cc110/images/lab7/trace8_2.gif)
+![Trace GIF 2](/images/lab7/trace8_2.gif)
 
 As we can see, an if statement is a powerful construct in our program. We can use any variables to create a Boolean expression using comparators and operators, and then we can use that result to make a decision about whether to run a special piece of code or not. 
 
@@ -136,7 +136,7 @@ DISPLAY("Goodbye")
 
 This pseudocode can also be represented as the flowchart shown below:
 
-![If Flowchart](/cc110/images/lab7/ifthen.png)
+![If Flowchart](/images/lab7/ifthen.png)
 
 When we read flowcharts like this, we typically go from top to bottom, starting with the circle labeled "START". The first  step is to read input from the user, and store that value in the variable `x`. 
 

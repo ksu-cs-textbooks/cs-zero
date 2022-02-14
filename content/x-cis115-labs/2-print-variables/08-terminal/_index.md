@@ -21,9 +21,9 @@ If you are working on your own computer, you'll need to open a terminal on your 
 
 Once we have the terminal open, we should see something like one of these examples:
 
-![Linux Terminal](/cc110/images/lab3/terminal_linux.png)
+![Linux Terminal](/images/lab3/terminal_linux.png)
 
-![Windows Terminal](/cc110/images/lab3/terminal_win.png)
+![Windows Terminal](/images/lab3/terminal_win.png)
 
 At this point, we should see a place with a blinking cursor, where we can type our commands. This is called the **command prompt** in the terminal. The first thing we can do is check to make sure Python is properly installed, and we can also confirm that it is the correct version. To do this, we'll enter the following command and press enter to execute it:
 
@@ -33,7 +33,7 @@ python3 --version
 
 Hopefully, that command should produce some output that looks like this:
 
-![Python Version](/cc110/images/lab3/python_version.png)
+![Python Version](/images/lab3/python_version.png)
 
 Here, we see that the currently installed Python version is 3.6.9. As long as your Python version number begins with a 3, you have correctly installed Python and are able to run it from the terminal. So, we can continue to the next part of this lab.
 
@@ -58,17 +58,17 @@ When we open a terminal, it will usually start in our user's home folder. This m
 
 The directory that is open in the terminal is known as the **working directory**. We can use the `pwd` command to determine what our current directory is:
 
-![Print Working Directory](/cc110/images/lab3/pwd.png)
+![Print Working Directory](/images/lab3/pwd.png)
 
 In this example, we are looking at the Codio terminal, so our working directory is `/home/codio/workspace`. 
 
 Next, we can see the files and directories contained in that directory using the `ls` command. Here's the output of running this command in Codio:
 
-![List Directory Command](/cc110/images/lab3/ls.png)
+![List Directory Command](/images/lab3/ls.png)
 
 In the output, we can see that there is a file named `README.txt` and a directory named `python`. In Codio, we'll place all of our files in the `python` directory, so we can open that using the `cd python` command:
 
-![Change Directory Command](/cc110/images/lab3/cd.png)
+![Change Directory Command](/images/lab3/cd.png)
 
 Notice how the `python` directory is now included in the command prompt in the terminal. Most terminals will show the working directory in the command prompt in some way. 
 

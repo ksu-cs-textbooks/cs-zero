@@ -39,52 +39,52 @@ To truly understand how this program works, let's use Python Tutor to explore it
 
 At the start, our Python Tutor trace will look like this:
 
-![Python Tutor 1](/cc110/images/lab5/tutor4_1.png)
+![Python Tutor 1](/images/lab5/tutor4_1.png)
 
 The first few steps are pretty straightforward, since Python will simply move through the code and record all of the functions it finds. Once we reach the call to the `main()` function at the bottom, we'll be at this state:
 
-![Python Tutor 3](/cc110/images/lab5/tutor4_3.png)
+![Python Tutor 3](/images/lab5/tutor4_3.png)
 
 So, we'll enter the `main()` function and start executing the code it contains. The first line is an `input()` expression, so Python will prompt the user for input. In Python Tutor, this will open a box at the bottom where we can enter the input, as shown below:
 
-![Python Tutor 5](/cc110/images/lab5/tutor4_5.png)
+![Python Tutor 5](/images/lab5/tutor4_5.png)
 
 Let's assume that the user would enter `2` for this input. So, we can type that into the box and press ENTER or click submit. Python tutor will refresh the page to accept the input, and then we'll be at this setup:
 
-![Python Tutor 6](/cc110/images/lab5/tutor4_6.png)
+![Python Tutor 6](/images/lab5/tutor4_6.png)
 
 Next, we'll convert the string value `"2"` that is currently stored in the `text_one` variable to an integer using the `int()` function and store it in the variable `one`. On the next line, it will ask for input once again:
 
-![Python Tutor 7](/cc110/images/lab5/tutor4_7.png)
+![Python Tutor 7](/images/lab5/tutor4_7.png)
 
 In this case, we'll assume the user is inputting `3`, and then we'll store it and convert it to an integer stored in the variable `two`:
 
-![Python Tutor 9](/cc110/images/lab5/tutor4_9.png)
+![Python Tutor 9](/images/lab5/tutor4_9.png)
 
 At this point, we're ready to call the `square_sum()` function. So, Python Tutor will find the arguments for the function call and prepare to store them in the parameter variables of the function. When we click next, we'll see this setup in our window:
 
-![Python Tutor 10](/cc110/images/lab5/tutor4_10.png)
+![Python Tutor 10](/images/lab5/tutor4_10.png)
 
 Recall that Python Tutor will create a new frame for the `square_sum()` function in the frames area and store the variables from that function there. This will become important later when we reach the end of the function. Inside of the `square_sum()` function, we just perform a few mathematical operations, culminating with the `total` variable storing the sum of the squares of the two arguments, as shown here:
 
-![Python Tutor 14](/cc110/images/lab5/tutor4_14.png)
+![Python Tutor 14](/images/lab5/tutor4_14.png)
 
 At this point, we've reached the `return` statement at the end of the `square_sum()` function. When we click next on Python Tutor, we'll see something new appear:
 
-![Python Tutor 15](/cc110/images/lab5/tutor4_15.png)
+![Python Tutor 15](/images/lab5/tutor4_15.png)
 
 When Python reaches the end of a function, it will record the return value in the function's frame before leaving the function. This value is what is given back to the `main()` function. So, when we click next again, we'll see this state:
 
-![Python Tutor 16](/cc110/images/lab5/tutor4_16.png)
+![Python Tutor 16](/images/lab5/tutor4_16.png)
 
 We're back in the `main()` function, and now we can see that the new `total` variable stores the value $13$, which was the returned value from the `square_sum()` function. So, on this last line, we'll see that the program will create an output statement using a template string and the string `format()` method, and it will display output to the user:
 
-![Python Tutor 17](/cc110/images/lab5/tutor4_17.png)
+![Python Tutor 17](/images/lab5/tutor4_17.png)
 
 What's also interesting to note here is the return value of the `main()` function. Since we didn't include a `return` statement at the end of the function, the return value is set to a special value called `None` in Python. We'll learn about what that value actually represents in a future course. 
 
 The entire process is shown in the animation below:
 
-![Python Tutor 4](/cc110/images/lab5/tutor4.gif)
+![Python Tutor 4](/images/lab5/tutor4.gif)
 
 This review of how a function returns data should be very helpful as we continue to build more complex programs. Remember - we can always paste any Python code into a tool like Python Tutor to run through it step-by-step and see what it really does. 

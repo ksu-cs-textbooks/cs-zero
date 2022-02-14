@@ -46,27 +46,27 @@ main()
 
 That's really all there is to it! From there, our "mental model" of a computer will know that it should start executing the program in the `main` procedure. Let's quickly code trace the first part of that process, just to see how it works. As before, we'll start running our program at the top of the code:
 
-![Trace Line 1](/cc110/images/lab2/trace4_1.png)
+![Trace Line 1](/images/lab2/trace4_1.png)
 
 Just like we saw previously, this line is creating a new procedure named `foo`. So, we'll make a note of that procedure, and move on to the next part of the code:
 
-![Trace Line 3](/cc110/images/lab2/trace4_3.png)
+![Trace Line 3](/images/lab2/trace4_3.png)
 
 Here, we are creating the `bar` procedure, so we'll record it and move on:
 
-![Trace Line 5](/cc110/images/lab2/trace4_5.png)
+![Trace Line 5](/images/lab2/trace4_5.png)
 
 Likewise, we see the creation of the `main` procedure, so we'll record it and continue working through the program:
 
-![Trace Line 7](/cc110/images/lab2/trace4_7.png)
+![Trace Line 7](/images/lab2/trace4_7.png)
 
 Finally, we've reached the end of the code, and here we see the call for the `main` procedure. So, just like we saw before, our "mental model" of a computer will determine that it has indeed seen the `main` procedure, and it will jump to the start of that procedure:
 
-![Trace Line 8](/cc110/images/lab2/trace4_8.png)
+![Trace Line 8](/images/lab2/trace4_8.png)
 
 From here, the rest of the program trace is pretty much the same as what we saw before. It will work through the code in the `main` procedure one line at a time, jumping to each of the other procedures in turn. Once it reaches the end of the `main` procedure, it will jump back to the bottom of the program where `main` is called, and make sure that there is nothing else to execute before reaching the end of the program. The full process is shown in the animation below:
 
-![Trace 4](/cc110/images/lab2/trace4.gif)
+![Trace 4](/images/lab2/trace4.gif)
 
 **From here on out**, we'll follow this convention in our programs. Specifically:
 

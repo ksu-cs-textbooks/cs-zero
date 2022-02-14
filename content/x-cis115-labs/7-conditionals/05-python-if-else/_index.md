@@ -47,45 +47,45 @@ This program accepts an input from the user, converts it to an integer, and then
 
 We'll start with the usual default state:
 
-![Tutor 1](/cc110/images/lab7/tutor6_1.png)
+![Tutor 1](/images/lab7/tutor6_1.png)
 
 Like always, Python will find the `main()` function and add it to the objects list. Then, it will call the `main()` function, and we'll be presented with an input prompt as shown here:
 
-![Tutor 4](/cc110/images/lab7/tutor6_4.png)
+![Tutor 4](/images/lab7/tutor6_4.png)
 
 Let's assume that the user inputs the string `"5"` here. That means that the integer value $5$ will be stored in the variable named `x`:
 
-![Tutor 5](/cc110/images/lab7/tutor6_5.png)
+![Tutor 5](/images/lab7/tutor6_5.png)
 
 Now we've reached the if-else statement. So, we'll need to evaluate the Boolean expression `x >= 0`. Since `x` is currently storing the value $5$, this expression will evaluate to `True`. Therefore, we'll move into the first block of statements in the if-else statement:
 
-![Tutor 6](/cc110/images/lab7/tutor6_6.png)
+![Tutor 6](/images/lab7/tutor6_6.png)
 
 From here, we'll print the message that the user's input was a positive number, as well as the goodbye message at the end of the program. It will entirely skip the second block of statements in the if-else statement, as we can see here:
 
-![Tutor 7](/cc110/images/lab7/tutor6_7.png)
+![Tutor 7](/images/lab7/tutor6_7.png)
 
 A full execution of this program is shown in the animation below:
 
-![Tutor Gif 1](/cc110/images/lab7/tutor6_1.gif)
+![Tutor Gif 1](/images/lab7/tutor6_1.gif)
 
 ## Code Tracing Example - False
 
 What if the user inputs a negative value, such as $-7$? In that case, we'll be at this state in our program:
 
-![Tutor 10](/cc110/images/lab7/tutor6_10.png)
+![Tutor 10](/images/lab7/tutor6_10.png)
 
 From here, we'll evaluate the Boolean expression `x >= 0` again. This time, however, we'll see that it evaluates to `False`, so we'll jump down to the second block of statements inside the if-else statement:
 
-![Tutor 11](/cc110/images/lab7/tutor6_11.png)
+![Tutor 11](/images/lab7/tutor6_11.png)
 
 This will print a message to the user that the input was a negative number, and then it will print the goodbye message. We completely skipped the first block of statements:
 
-![Tutor 12](/cc110/images/lab7/tutor6_12.png)
+![Tutor 12](/images/lab7/tutor6_12.png)
 
 A complete run through this program is shown in this animation:
 
-![Tutor Gif 2](/cc110/images/lab7/tutor6_2.gif)
+![Tutor Gif 2](/images/lab7/tutor6_2.gif)
 
 So, as we expect, an if-else statement allows us to run one block of statements or the other, based on the value of the Boolean expression. It is a very powerful piece of code, and it allows us to write programs that perform different actions based on the input provided by the user or the values of other variables. 
 

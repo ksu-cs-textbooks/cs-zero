@@ -52,7 +52,7 @@ This is because the two string values are not identical - one has capital letter
 
 {{% notice tip tip-1 "Double Equals" %}}
 
-In most other programming languages, the equality comparator is represented by two equals signs `==` instead of a single one `=`. This is because the single equals sign is used in assignment statements in most language, so we use a double equal as the equality comparator to avoid any confusion between the two.
+In most other programming languages, the equality comparator is represented by two equals signs `==` instead of a single one `=`. This is because the single equals sign is used in assignment statements in most languages, so we use a double equal as the equality comparator to avoid any confusion between the two.
 
 In pseudocode, we use the arrow symbol `<-` for assignment statements, so we can use the single equals sign for equality. However, it is important to remember that this **only** works in pseudocode, and will cause issues if used in other languages such as Python.
 

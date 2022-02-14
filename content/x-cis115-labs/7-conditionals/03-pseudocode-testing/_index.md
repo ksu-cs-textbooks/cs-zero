@@ -49,7 +49,7 @@ main()
 
 We can represent the two if-else statements in this pseudocode in the following flowchart as well:
 
-![Control Flow Flowchart](/cc110/images/lab7/control.png)
+![Control Flow Flowchart](/images/lab7/control.png)
 
 ## Branch Coverage
 

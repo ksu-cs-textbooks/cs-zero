@@ -184,7 +184,7 @@ Notice that the start and end of the documentation comment uses three double-quo
 
 Below is a screenshot showing a sample execution of the model solution for this homework assignment. Your submission should have similar functionality and output, but the text for input prompts may differ slightly:
 
-![Sample Run](/cc110/images/hw1/hw1.png)
+![Sample Run](/images/hw1/hw1.png)
 
 ## Submitting
 

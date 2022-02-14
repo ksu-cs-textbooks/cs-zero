@@ -105,67 +105,67 @@ foo()
 
 As before, we can set up our code tracing structure that includes our code, variables, and output. However, this time we're also going to add a new box to keep track of the procedures in our program. So, our code tracing structure might look something like this:
 
-![Trace Line 1](/cc110/images/lab2/trace3_1.png)
+![Trace Line 1](/images/lab2/trace3_1.png)
 
 Once again, we can work through this program line by line, starting at the top. In this program, the very first thing we find is the creation of a new procedure. At this point, we aren't running the code inside the procedure, we are simply creating it. So, our program will record that it now knows about the procedure named `foo` in its list of procedures, and it will skip down to the next line of code after the procedure is created.
 
-![Trace Line 2](/cc110/images/lab2/trace3_2.png)
+![Trace Line 2](/images/lab2/trace3_2.png)
 
 This line is just a blank line, so our "mental model" of a computer will just skip it and move to the next line. Blank lines are simply ignored by the computer, but it makes it easier for us to write code that is readable. So, on the next line, we see the creation of another procedure:
 
-![Trace Line 3](/cc110/images/lab2/trace3_3.png)
+![Trace Line 3](/images/lab2/trace3_3.png)
 
 Once again, we see that a new procedure is being created, so our computer will simply make a note of it and move on. It will skip the blank line below the procedure, and eventually it will reach the first procedure call, as shown below:
 
-![Trace Line 5](/cc110/images/lab2/trace3_5.png)
+![Trace Line 5](/images/lab2/trace3_5.png)
 
 Ok, here's where things get a bit tricky! At this point, we are **calling** the procedure named `foo`. So, our computer will check the list of procedures it knows about, and it will see that it knows where `foo()` is located. So, our "mental model" of a computer knows that it can execute that procedure. To do that, it will **jump** up to the first statement inside of the procedure and start there. At the same time, it will also keep track of where it was in the program, so it can **jump** back there once the procedure is done. We'll represent that with a shaded arrow for now:
 
-![Trace Line 6](/cc110/images/lab2/trace3_6.png)
+![Trace Line 6](/images/lab2/trace3_6.png)
 
 Now we are looking at the first line of the `foo` procedure, which simply displays the text `"Run "` on the output. So, we'll update our output, and move to the next line of the procedure. 
 
-![Trace Line 7](/cc110/images/lab2/trace3_7.png)
+![Trace Line 7](/images/lab2/trace3_7.png)
 
 At this point, we've reached the end of our procedure. So, our computer will then **jump** back to the previous location, indicated by the shaded arrow. 
 
-![Trace Line 8](/cc110/images/lab2/trace3_8.png)
+![Trace Line 8](/images/lab2/trace3_8.png)
 
 Since there is nothing else to execute on this line, it will simply move to the next line.
 
-![Trace Line 9](/cc110/images/lab2/trace3_9.png)
+![Trace Line 9](/images/lab2/trace3_9.png)
 
 Once again, we see that this is another procedure call. So, the computer will make sure it knows where the `bar()` procedure is, and then it will jump to the first line of that procedure. When it does, it will remember what line of code it was currently running, so it can jump back at the end of the procedure.
 
-![Trace Line 10](/cc110/images/lab2/trace3_10.png)
+![Trace Line 10](/images/lab2/trace3_10.png)
 
 Like before, it will then run the first line of the `bar()` procedure, which will display `"Forrest, "` to the user. So, we'll update our output section, and move the arrow to the next line.
 
-![Trace Line 11](/cc110/images/lab2/trace3_11.png)
+![Trace Line 11](/images/lab2/trace3_11.png)
 
 We're back at the end of a procedure, so we will jump back to the previous location and see if there is anything else to do on that line:
 
-![Trace Line 12](/cc110/images/lab2/trace3_12.png)
+![Trace Line 12](/images/lab2/trace3_12.png)
 
 Since there's nothing else there, our "mental model" will just move to the next line of code:
 
-![Trace Line 13](/cc110/images/lab2/trace3_13.png)
+![Trace Line 13](/images/lab2/trace3_13.png)
 
 By now, we should have a good idea of what is happening when we call a procedure. We simply jump to where it starts, making sure we remember where we came from:
 
-![Trace Line 14](/cc110/images/lab2/trace3_14.png)
+![Trace Line 14](/images/lab2/trace3_14.png)
 
 Then, we execute the lines of code in the procedure:
 
-![Trace Line 15](/cc110/images/lab2/trace3_15.png)
+![Trace Line 15](/images/lab2/trace3_15.png)
 
 Finally, when we reach the end of the procedure, we go back to where we came from and see if there is anything else to do on that line:
 
-![Trace Line 16](/cc110/images/lab2/trace3_16.png)
+![Trace Line 16](/images/lab2/trace3_16.png)
 
 There's nothing left to do, so we've reached the end of our program! The full process is shown in the animation below:
 
-![Trace 3](/cc110/images/lab2/trace3.gif)
+![Trace 3](/images/lab2/trace3.gif)
 
 It is very important for us to make sure our "mental model" of a computer knows how to properly call and execute procedures, since that is a core part of developing larger and more complex programs. Thankfully, we'll get lots of practice at this as we learn to program!
 

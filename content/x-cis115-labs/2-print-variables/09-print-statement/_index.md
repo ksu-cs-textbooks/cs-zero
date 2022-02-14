@@ -33,13 +33,13 @@ Let's go through the full process of writing and running that program in Python!
 
 The first step to create a program in Python is to create a text file to store the code. This file should have the file extension `.py` to indicate that it is a Python program. So, we'll need to create that file either on our computers or in Codio or another tool if we are using one. For example, in Codio we can create the file in the `python` folder by right-clicking on it and selecting the **New File** option. We'll name the file `hello.py`:
 
-![New File](/cc110/images/lab3/new_file.png)
+![New File](/images/lab3/new_file.png)
 
 Once we've created that file, we can then open it by clicking on it. In Codio and in other online tools, it will open in the built-in editor. On a computer, we'll need to open it in a text editor specifically designed for programming. We recommend either [Atom](https://atom.io/) or [Visual Studio Code](https://code.visualstudio.com/), which are available on all platforms. Tools like the built-in Notepad tool on Windows, or a word processor like Word or Pages do not work for this task.
 
 In that file, we'll simply place the code shown above, like this:
 
-![Code](/cc110/images/lab3/code.png)
+![Code](/images/lab3/code.png)
 
 That's all there is to it!
 
@@ -49,7 +49,7 @@ Once we've written the code, we can open the **Terminal** and navigate to where 
 
 Once we are in the correct directory, we can use the `ls` command to see the contents of that directory. If we see our `hello.py` file, we are in the correct location:
 
-![Show Python File](/cc110/images/lab3/file.png)
+![Show Python File](/images/lab3/file.png)
 
 If we don't see our file, we should make sure we've saved it and that our current working directory is the same location as where the file is stored. 
 
@@ -61,7 +61,7 @@ python3 hello.py
 
 If everything works correctly, we should see output similar to this:
 
-![Hello World Output](/cc110/images/lab3/hello.png)
+![Hello World Output](/images/lab3/hello.png)
 
 There we go! We've just run our first program in Python! That's a great first step to take. 
 

@@ -72,29 +72,29 @@ main()
 
 To do that, we've placed our procedure call in a `main` procedure, and we've added a call to the `main` procedure at the end of our program. So, once again, we can set up our code trace structure to include our code and the various boxes we'll use to keep track of everything:
 
-![Trace Line 1](/cc110/images/lab2/trace5_1.png)
+![Trace Line 1](/images/lab2/trace5_1.png)
 
 We are already pretty familiar with how our "mental model" of a computer will scan through the whole program to find the procedures, so let's skip ahead to the last line with the procedure call to `main`:
 
-![Trace Line 5](/cc110/images/lab2/trace5_5.png)
+![Trace Line 5](/images/lab2/trace5_5.png)
 
 Once again, our computer will see that it is calling the `main` procedure, which it knows about. So, it will jump to the beginning of the `main` procedure and start from there:
 
-![Trace Line 6](/cc110/images/lab2/trace5_6.png)
+![Trace Line 6](/images/lab2/trace5_6.png)
 
 This line contains another procedure call, this time to the `hello_world` procedure. However, when our "mental" computer looks up that procedure in its list of procedures, it notices that it requires a couple of parameters. So, our computer will also need to check that the procedure call includes a matching argument for each parameter. In our pseudocode language, each parameter must have a matching argument provided in the procedure call, or else the computer will not be able to run the program. 
 
 Thankfully, we see that there are two arguments provided, the values `"Willie"` and `"Wildcat"`, which match the two parameters `first_name` and `last_name`. So, the procedure call is valid and we can jump to the beginning of the procedure.
 
-![Trace Line 7](/cc110/images/lab2/trace5_7.png)
+![Trace Line 7](/images/lab2/trace5_7.png)
 
 This time, however, we'll need to perform one extra step. When we call a procedure that includes parameters, we must also list the parameters as variables when we start the procedure. The value of those variables will be the matching argument that was provided as part of the procedure call. So, the parameter variable `first_name` will store the value `"Willie"`, and the parameter variable `last_name` will store the value `"Wildcat"`. Therefore, our code trace should really look like this when we start running the `hello_world` procedure:
 
-![Trace Line 8](/cc110/images/lab2/trace5_8.png)
+![Trace Line 8](/images/lab2/trace5_8.png)
 
 In the future, we'll show that as just one step in our code trace. Once we are in the `hello_world` procedure, we can simply walk through the code line by line and see what it does. At the end of the procedure, we'll see that it has produced the expected output:
 
-![Trace Line 14](/cc110/images/lab2/trace5_14.png)
+![Trace Line 14](/images/lab2/trace5_14.png)
 
 At this point, we will jump back to the `main` procedure. When we do this, there are a couple of other things that happen in our "mental model" of a computer:
 
@@ -103,11 +103,11 @@ At this point, we will jump back to the `main` procedure. When we do this, there
 
 So, after that step, our code trace should look like this:
 
-![Trace Line 15](/cc110/images/lab2/trace5_15.png)
+![Trace Line 15](/images/lab2/trace5_15.png)
 
 Now we are back in the `main` procedure, and the program will simply reach the end of that procedure, then jump back to the main procedure call and reach the end of the program. The full code trace is shown in the animation below:
 
-![Trace 5](/cc110/images/lab2/trace5.gif)
+![Trace 5](/images/lab2/trace5.gif)
 
 That's all there is to calling a procedure that uses parameters! We can easily work through it using the code tracing technique we learned earlier in this lab.
 

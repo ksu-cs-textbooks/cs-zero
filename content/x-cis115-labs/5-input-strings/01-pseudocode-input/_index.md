@@ -54,37 +54,37 @@ DISPLAY(square)
 
 Let's quickly trace this program to understand how it works! We'll set up our code trace like always, as shown below:
 
-![Trace Step 1](/cc110/images/lab4/trace7_1.png)
+![Trace Step 1](/images/lab4/trace7_1.png)
 
 The first line will simply print a prompt to the user for input, so we'll add that to the output section and move to the next line:
 
-![Trace Step 2](/cc110/images/lab4/trace7_2.png)
+![Trace Step 2](/images/lab4/trace7_2.png)
 
 Here, we are asking the user for input. On a real computer, the program would pause with a blinking cursor, allowing the user to enter input. In our code trace, we'll show the user's input as white text against a black background. So, if the user enters the text `6`, it would look like this in our code trace:
 
-![Trace Step 3](/cc110/images/lab4/trace7_3.png)
+![Trace Step 3](/images/lab4/trace7_3.png)
 
 The `INPUT()` expression will give us that value, which we can store in the `text` variable as shown in this step:
 
-![Trace Step 4](/cc110/images/lab4/trace7_4.png)
+![Trace Step 4](/images/lab4/trace7_4.png)
 
 The next line will use the `NUMBER()` procedure to convert the text value `"6"` to the numerical value $6$ and store that in the new `number` variable:
 
-![Trace Step 5](/cc110/images/lab4/trace7_5.png)
+![Trace Step 5](/images/lab4/trace7_5.png)
 
 Notice that the value $6$ in the number variable does not have quotes around it. In our code traces, just like anywhere else, we'll be careful to make sure that string values are surrounded by quotation marks, and numerical values are not. 
 
 On the next line, we'll compute the square of the input by multiplying it by itself, and storing that result in the `square` variable:
 
-![Trace Step 6](/cc110/images/lab4/trace7_6.png)
+![Trace Step 6](/images/lab4/trace7_6.png)
 
 Finally, the last two lines of the program will display output to the user, including the new `square` value. We'll start this output on the next line, since user input usually ends with the user pressing the ENTER key to denote the end of the input, which results in a newline character that is part of what is shown on the screen:
 
-![Trace Step 6](/cc110/images/lab4/trace7_8.png)
+![Trace Step 6](/images/lab4/trace7_8.png)
 
 The full process can be seen in this animation:
 
-![Trace 7](/cc110/images/lab4/trace7.gif)
+![Trace 7](/images/lab4/trace7.gif)
 
 This example shows us quite a bit about how we can use the `INPUT()` expression in our pseudocode to build programs that are interactive and allow the user to input data for our programs to store and manipulate.
 
