@@ -41,7 +41,7 @@ true
 
 ## OR Operator
 
-The next Boolean operator to review in pseudocode is the `OR` operator. This operator will result in a `true` value if at least one of input values is `true`. If both input are `false`, then the result is `false`. This corresponds to the following truth table:
+The next Boolean operator to review in pseudocode is the `OR` operator. This operator will result in a `true` value if at least one of the input values is `true`. If both inputs are `false`, then the result is `false`. This corresponds to the following truth table:
 
 | Variable 1 | Variable 2 | Result |
 |:----------:|:----------:|:------:|
