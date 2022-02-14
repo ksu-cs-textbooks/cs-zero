@@ -6,7 +6,7 @@ hidden: false
 date: 2021-02-11T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube n8MuKopZsUY >}}
 
 Working with **Boolean** values in programming is a very important skill to learn. Previously, we saw how to work with Boolean values in pseudocode, and in this lab we'll cover the same content in the Python programming language. Once again, feel free to refer to other content in this course for information about Booleans, Boolean Logic, Boolean algebra, and other related topics.
 
