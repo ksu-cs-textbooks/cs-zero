@@ -6,7 +6,7 @@ hidden: false
 date: 2021-02-11T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube EDrg-bUSB3Y >}}
 
 In this lab, we're going to introduce another data type in pseudocode, the **Boolean** data type. Elsewhere in this course, we've already learned about Boolean values and how they work, so we won't cover that information again here. Feel free to refer to other areas in this course for more background on Booleans, Boolean Logic, Boolean Algebra, and other related topics.
 
