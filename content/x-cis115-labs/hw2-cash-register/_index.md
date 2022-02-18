@@ -206,6 +206,10 @@ else:
 
 There is a slight chance that you'll run into issues with floating-point precision errors, where your results are off by one penny in either direction. This is due to the imprecise nature of floating-point numbers. Dealing with that appropriately is outside the scope of this class. You will not be penalized if your program encounters one of these errors while it is being graded.
 
+You can see examples of this in the two program runs below. Behind the scenes, the program knows the total is actually $2.61375$, so even though it is displayed as $2.61$ it is computed using the actual total.
+
+![Sample Run Bad](/images/hw2/hw2c.png)
+
 {{% /notice %}}
 
 ## The Main Function
