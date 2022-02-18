@@ -246,4 +246,4 @@ Below are a couple of screenshots showing a sample execution of the model soluti
 
 ## Submitting
 
-Once you have completed this program, upload your `homework1.py` file to the assignment on Canvas. 
+Once you have completed this program, upload your `homework2.py` file to the assignment on Canvas. 
