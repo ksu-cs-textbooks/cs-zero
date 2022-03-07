@@ -180,6 +180,55 @@ You are owed $0.53 in change:
 
 The `make_change()` function **does not** return a value.
 
+{{% notice info info-1 "Combining Conditionals and Printing" %}}
+
+We can think of `conditionally` printing output where the condition is `if denomination is not zero` then we will do some printing. There are at least two ways that this can be done. The first way utilizes string concatenation. For example:
+
+```python
+a = 37
+b = 22
+c = 55
+
+output = "The following are greater than 30: "
+if a > 30: 
+    output = output + str(a) + " "
+if b > 30:
+    output = output + str(b) + " "
+if c > 30: 
+    output = output + str(c)
+print(output)
+```
+
+which will print:
+
+```tex
+The following are greater than 30: 37 55
+```
+
+The second way utilizes the `end` attribute of the `print` function. For example: 
+```python
+a = 37
+b = 22
+c = 55
+
+print("The following are greater than 30: ", end="")
+if a > 30: 
+    print(str(a), end=" ")
+if b > 30:
+    print(str(b), end=" ")
+if c > 30: 
+    print(str(c), end="")
+print()
+```
+
+which will print:
+
+```tex
+The following are greater than 30: 37 55
+```
+
+{{% /notice %}}
+
 {{% notice info info-2 "Ending a Function Early" %}}
 
 In Python, any function can be ended early by simply including a `return` statement in the code, as in this example:
