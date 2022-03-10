@@ -112,7 +112,7 @@ So, in total, we owe the user $2$ dollars, $3$ quarters, $3$ nickels, and $4$ pe
 
 ## The Assignment
 
-Write your program in a file named `homework2.py` inside the `python` folder in Codio. This should be a **complete Python program** consisting of the following elements:
+Write your program in a file named `homework2.py`, which will be uploaded to Canvas. This should be a **complete Python program** consisting of the following elements:
 
 1. A `get_totals()` function
 1. A `make_change(amount)` function
