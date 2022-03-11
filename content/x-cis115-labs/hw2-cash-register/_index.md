@@ -149,7 +149,7 @@ print("Your total today is ${:,.2f}".format(12.3456))
 which will print:
 
 ```tex
-You have $12.35 in your account
+Your total today is $12.35
 ```
 
 You can refer to the [Python Documentation](https://docs.python.org/3/library/string.html#formatstrings) for more information these format specifications.
