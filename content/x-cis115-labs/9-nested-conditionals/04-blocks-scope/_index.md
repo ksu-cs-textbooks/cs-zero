@@ -44,6 +44,7 @@ def main():
         b = 0
     print("?")
 
+
 main()
 ```
 
@@ -97,6 +98,7 @@ def main():
         b = 0
     print("?")
 
+
 main()
 ```
 
@@ -128,6 +130,7 @@ def main():
         # block E
         b = 0
     print("?")
+
 
 main()
 ```
