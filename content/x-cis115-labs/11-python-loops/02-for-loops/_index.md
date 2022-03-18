@@ -178,14 +178,14 @@ def main():
         i = i + 1
 ```
 
-Finally, we can switch the for loop to a while loop. In the Boolean expression, we want to repeat the loop while the iterator variable `i` has not reached the maximum value. So, we'll use the Boolean expression `i < 5` in the new while loop:
+Finally, we can switch the for loop to a while loop. In the Boolean expression, we want to repeat the loop while the iterator variable `i` has not reached the maximum value. So, we'll use the Boolean expression `i < x` in the new while loop:
 
 ```python
 def main():
     x = int(input("Enter a number: "))
     line = ""
     i = 0
-    while i < 5:
+    while i < x:
         line = line + "*"
         print(line)
         i = i + 1

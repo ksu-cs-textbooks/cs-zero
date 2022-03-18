@@ -62,7 +62,7 @@ def main()
 main()
 ```
 
-In the program itself, we need to start by generating two random numbers from $0$ to $100$, one for each player. So, we can create and store those numbers in the `main()` method, and we'll also need to import the `random` library at the top of our file. 
+In the program itself, we need to start by generating two random numbers from $0$ to $100$, one for each player. So, we can create and store those numbers in the `main()` function, and we'll also need to import the `random` library at the top of our file. 
 
 ```python
 import random
@@ -126,7 +126,7 @@ def read_input(player):
     return x
 ```
 
-Then, in our `main()` method, we can simply use the new `read_input()` method to read a player's current guess as shown here:
+Then, in our `main()` function, we can simply use the new `read_input()` function to read a player's current guess as shown here:
 
 ```python
 def main():
