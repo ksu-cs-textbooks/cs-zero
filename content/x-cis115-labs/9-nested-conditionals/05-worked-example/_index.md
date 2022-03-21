@@ -176,7 +176,7 @@ main()
 
 Here, we start by checking if player 1's number is smaller than both player 2's and player 3's. If so, then player 1 is the winner. If not, we do the same for player 2's number. If neither player 1 nor player 2 has the smallest number, then we can assume that player 3 is the winner without even checking. 
 
-As it turns out, we would end up using the exact same code in the situation where all number are odd, so for now we can just copy and paste that set of conditional statements there as well:
+As it turns out, we would end up using the exact same code in the situation where all numbers are odd, so for now we can just copy and paste that set of conditional statements there as well:
 
 ```python
 def main():
@@ -216,7 +216,7 @@ That covers the situations where all players have input either even or odd numbe
 
 ## Making a Function
 
-However, as soon as we do that, we should start thinking about ways to simplify this program. This is because we are using the same exact code in multiple places in our program, is goes against one of the key principles of writing good programs: [Don't Repeat Yourself!](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). 
+However, as soon as we do that, we should start thinking about ways to simplify this program. This is because we are using the same exact code in multiple places in our program, which goes against one of the key principles of writing good programs: [Don't Repeat Yourself!](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). 
 
 Anytime we see this happen, we should start thinking of ways to move that code into a new function. This is actually really easy to do in this case: we can simply write a function named `smallest()` that accepts three numbers as input, representing the three player's guesses, and then it can print the winning player for us. So, let's update our program to include a new function, and then call that function from within our conditional statement:
 

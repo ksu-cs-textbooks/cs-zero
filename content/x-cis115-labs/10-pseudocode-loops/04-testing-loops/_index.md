@@ -11,7 +11,7 @@ date: 2021-03-16T00:00:01-05:00
 
 * <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
-Now that we've seen many examples of how to use loops in our code, let's briefly discuss some techniques for testing programs that contain loops. Many of these techniques are similar to ones we've explore when testing conditional statements, but there are a few important nuances to think about. 
+Now that we've seen many examples of how to use loops in our code, let's briefly discuss some techniques for testing programs that contain loops. Many of these techniques are similar to ones we've explored when testing conditional statements, but there are a few important nuances to think about. 
 
 ## Branch and Path Coverage
 
@@ -26,13 +26,13 @@ PROCEDURE main()
     y <- NUMBER(INPUT())
     REPEAT WHILE(x < y)
     {
-        x = x + y
+        x = x + x
     }
     DISPLAY(x)
 }
 ```
 
-This program will find the first multiple of `x` that is larger than `y`. So, let's come up with some inputs for this program that achieve branch and path coverage. 
+This program will repeatedly double `x` until it larger than `y`. So, let's come up with some inputs for this program that achieve branch and path coverage. 
 
 ### Branch Coverage
 
@@ -48,7 +48,7 @@ When testing code that contains a loop, there is one other test we must consider
 
 Therefore, we must think carefully about our loops and situations that might cause problems. For example, what if we provide the inputs `-5` and `-3` to the pseudocode program above? 
 
-In that case, we'll enter the loop since $-5$ is less than $-3$, but once we've executed the code in the loop, we'll see that `x` is now storing $-8$! We've actually gotten further away from a situation where the loop will terminate, which is definitely not good. In fact, this loop will repeat infinitely, and our program will run forever. 
+In that case, we'll enter the loop since $-5$ is less than $-3$, but once we've executed the code in the loop, we'll see that `x` is now storing $-10$! We've actually gotten further away from a situation where the loop will terminate, which is definitely not good. In fact, this loop will repeat infinitely, and our program will run forever. 
 
 So, we should either rethink our program a bit, or possibly add additional code to make sure the user does not input a negative value for `y`. By properly testing our program, we were able to discover a situation where the loop would not terminate!
 

@@ -145,9 +145,9 @@ Another way to visualize a while loop is using a flowchart. The pseudocode progr
 
 ![While Flowchart](/images/lab10/while_flow.svg)
 
-In this flowchart, we once again begin at the top at the circle labeled "Start". From there, we see that our program will read input and store it in the variable `x`. We also create the variable `y` and store the initial value of $1$ there. At this point, we hit a diamond-shaped decision node, representing the while loop. If the Boolean expression in that decision node is `true`, then we follow the branch to the right that enters the loop. Here, we see yet another decision loop that represents the if statement inside of the loop. When we see a loop and an if statement side by side in a flowchart like this, it is very easy to see how similar they actually are.
+In this flowchart, we once again begin at the top at the circle labeled "Start". From there, we see that our program will read input and store it in the variable `x`. We also create the variable `y` and store the initial value of $1$ there. At this point, we hit a diamond-shaped decision node, representing the while loop. If the Boolean expression in that decision node is `true`, then we follow the branch to the right that enters the loop. Here, we see yet another decision node that represents the if statement inside of the loop. When we see a loop and an if statement side by side in a flowchart like this, it is very easy to see how similar they actually are.
 
-After the if statement, we increment the value stored in in `y`, and then we see the flowchart path will loop back up to the beginning of the while loop, starting with the decision node at the top. This is the key concept in a while loop - once we reach the end of an iteration, we must go back to the top and enter the decision node once again. 
+After the if statement, we increment the value stored in `y`, and then we see the flowchart path will loop back up to the beginning of the while loop, starting with the decision node at the top. This is the key concept in a while loop - once we reach the end of an iteration, we must go back to the top and enter the decision node once again. 
 
 When we reach a point where the Boolean expression evaluates to `false`, our flowchart will then finish at the circle labeled "End".
 

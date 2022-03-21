@@ -92,7 +92,7 @@ Here, we once again must check to see if we should enter the loop. Since our loo
 
 ![Code Trace 11](/images/lab10/trace11_11.png)
 
-Inside the loop, we'll oncea again update the value in `z` by multiplying it by `x`. So, `z` now stores $25$.
+Inside the loop, we'll once again update the value in `z` by multiplying it by `x`. So, `z` now stores $25$.
 
 ![Code Trace 12](/images/lab10/trace11_12.png)
 
