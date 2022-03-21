@@ -2,11 +2,11 @@
 title: "Introduction"
 pre: "0. "
 weight: 01
-hidden: false
+hidden: true
 date: 2021-03-16T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube zSWnsYkYvFA >}}
 
 Over the last few labs, we've explored how we can change the **control flow** of our programs using conditional statements. A program that doesn't contain any conditional statements will have a linear control flow. Each time we run the program, it will execute the same steps in the same order, but it may use different data based on input from the user.
 

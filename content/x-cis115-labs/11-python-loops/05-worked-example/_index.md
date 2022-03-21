@@ -5,7 +5,7 @@ weight: 50
 date: 2021-03-16T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube 1MUxdVRemk4 >}}
 
 #### Resources
 
@@ -195,7 +195,7 @@ This is a pretty straightforward set of conditional statements, but it goes to s
 
 ## Initial Testing and Debugging
 
-So, at this point, we can put all of the pieces together a test our program. Here is the complete program that we've written so far:
+So, at this point, we can put all of the pieces together and test our program. Here is the complete program that we've written so far:
 
 ```python
 import random
