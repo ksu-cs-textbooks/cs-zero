@@ -76,7 +76,7 @@ We'll add $9$ to the `total` here, and jump to the top again.
 
 ![Tutor 10](/images/lab11/tutor7_10.png) 
 
-Once again, we will check the Boolean expression and see that it is still `True, so we'll enter the loop and add $9$ to the `total` yet again before repeating the process from the top of the loop. At this point, we should see this state in Python tutor.
+Once again, we will check the Boolean expression and see that it is still `True`, so we'll enter the loop and add $9$ to the `total` yet again before repeating the process from the top of the loop. At this point, we should see this state in Python tutor.
 
 ![Tutor 12](/images/lab11/tutor7_12.png) 
 

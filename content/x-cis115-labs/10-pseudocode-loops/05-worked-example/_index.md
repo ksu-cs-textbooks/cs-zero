@@ -185,13 +185,13 @@ Consider the following list of inputs, which are marked with the player's turn a
 
 This list represents one complete game. The first input, `"1"`, will be the first input provided by player 1, then the `"2"` will be player 2's turn, and so on. However, as the inputs progress, we start to see some invalid inputs as well. When the game receives an invalid input, the `read_input()` procedure will enter the loop, and the same player will be prompted for input again until a valid input is received. So, looking through this list, we see that it includes both the situation where the input provided is valid the first time, bypassing the loop, as well as situations where the initial input provided by a player is invalid, entering the loop and prompting for additional input. So, this set of input achieves path coverage in just one game!
 
-We may also want to test and make sure that it is possible for both players to win. To do that, we can simply come up with another set of inputs similar to the one given above, but use different values for the valid inputs to make sure that player 2 wins that game. By doing so, we've achieve every possible outcome of the game.
+We may also want to test and make sure that it is possible for both players to win. To do that, we can simply come up with another set of inputs similar to the one given above, but use different values for the valid inputs to make sure that player 2 wins that game. By doing so, we've achieved every possible outcome of the game.
 
 ## Testing - Loop Termination
 
-The other part of testing this program is to show that the loops will terminate properly. You won't be required to prove this yourself in this course, but you should still think about it when designing and testing them. So, let's briefly take a look at that processes as well.
+The other part of testing this program is to show that the loops will terminate properly. You won't be required to prove this yourself in this course, but you should still think about it when designing and testing them. So, let's briefly take a look at that process as well.
 
-First, we can look at the loop in `read_input()` first. This is a bit tricky, since the condition for repeating in the loop is entirely driven by user input. So, we really can't say whether the loop will terminate or not, but we can easily show that _if_ the user inputs a valid value, the loop will correctly terminate and the program can continue running. So, as far as our testing goes, that's good enough.
+First, we can look at the loop in `read_input()` procedure. This is a bit tricky, since the condition for repeating in the loop is entirely driven by user input. So, we really can't say whether the loop will terminate or not, but we can easily show that _if_ the user inputs a valid value, the loop will correctly terminate and the program can continue running. So, as far as our testing goes, that's good enough.
 
 The loop in the `main()` procedure is a bit different. This loop will repeat while the value stored in `total` is less than or equal to $21$. So, to prove this loop will terminate, we need to come up with a **loop variant** and show that it is reducing each time the loop is executed. Thankfully, we can just say that the loop variant is `21 - total`. As the value in `total` increases, that value will decrease until it reaches $0$ or less. 
 

@@ -133,7 +133,7 @@ main()
     x = int(input("Enter a number: "))
     line = ""
     i = 0
-    <mark>while i < x:<mark>
+    <mark>while i < x:</mark>
         line = line + "*"
         print(line)
         i = i + 1
