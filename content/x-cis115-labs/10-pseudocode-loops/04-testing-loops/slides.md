@@ -9,7 +9,7 @@ hidden: true
     y <- NUMBER(INPUT())
     REPEAT WHILE(x < y)
     {
-        x = x + y
+        x = x + x
     }
     DISPLAY(x)
 }
