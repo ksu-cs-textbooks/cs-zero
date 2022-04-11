@@ -5,7 +5,7 @@ weight: 01
 date: 2021-4-10T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube toqYzaPOzPo >}}
 
 In the last few labs, we explored how we can use iterative structures in our code, such as while loops and for loops, to repeat steps a certain number of times or while a Boolean condition is true. This is a very powerful tool, since it allows us to build programs that can repeatedly ask the user to provide input until a valid value is received, or even perform a repeated calculation until it reaches a desired result.
 
