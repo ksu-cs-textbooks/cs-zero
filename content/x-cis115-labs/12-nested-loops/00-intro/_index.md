@@ -2,7 +2,6 @@
 title: "Introduction"
 pre: "0. "
 weight: 01
-hidden: true
 date: 2021-4-10T00:00:01-05:00
 ---
 

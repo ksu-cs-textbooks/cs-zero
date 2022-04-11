@@ -2,70 +2,76 @@
 type: "reveal"
 hidden: true
 ---
-<section>
-    <h3>While Loop</h3>
-    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">while &lt;boolean expression>:
-    &lt;block of statements>
-</code></pre>
-</section>
 
 <section>
-    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def main():
-    x = int(input("Enter a number from 0 to 100: "))
-    total = 0
-    while total % 100 != x:
-        total = total + 9
-    print("The smallest multiple of 9 that ends in {} is {}"
-            .format(x, total))
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-python stretch">def main():
+    for i in range(3):
+        for j in range(5):
+            print("* ", end="")
+        print("")
 <br>
 main()
 </code></pre>
+<br>
+    <pre class="fragment"><code class="language-plaintext">* * * * * 
+* * * * * 
+* * * * *</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_1.png">
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-python stretch">def main():
+    for i in range(5):
+        for j in range(i + 1):
+            print("* ", end="")
+        print("")
+<br>
+main()
+</code></pre>
+<br>
+    <pre class="fragment"><code class="language-plaintext">* 
+* * 
+* * * 
+* * * * 
+* * * * * </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_3.png">
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-python stretch">def main():
+    for i in range(5):
+        for j in range(4 - i):
+            print("  ", end="")
+        for j in range(i + 1):
+            print("* ", end="")
+        print("")
+<br>
+main()
+</code></pre>
+<br>
+    <pre class="fragment"><code class="language-plaintext">        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_4.png">
-</section>
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-python stretch">def main():
+    sum = 0
+    count = 0
+    for i in range(10):
+        for j in range(i + 1):
+            sum = sum + (i * j)
+            count += 1
+    print("sum: {}, count: {}".format(sum, count))
+</code></pre>
+<br>
+    <pre class="fragment"><code style="font-size: 45px; line-height: 50px" class="language-python stretch">def main():
+    for i in range(5):
+        for j in range(i + 1):
+            print("* ", end="")
+        print("")
+</code></pre>
 
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_6.png">
-</section>
+<img class="fragment plain" src="/images/lab12/output.png">
 
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_7.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_8.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_9.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_10.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_12.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_13.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_14.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7.gif">
 </section>

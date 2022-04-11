@@ -2,70 +2,136 @@
 type: "reveal"
 hidden: true
 ---
+
 <section>
-    <h3>While Loop</h3>
-    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">while &lt;boolean expression>:
-    &lt;block of statements>
-</code></pre>
+    <h3>Problem Statement</h3>
+    <p style="font-size: 55px">Write a program to print the sum of the first <code>n</code> prime numbers, where <code>n</code> is provided as input from the user. </p>
 </section>
 
 <section>
-    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def main():
-    x = int(input("Enter a number from 0 to 100: "))
-    total = 0
-    while total % 100 != x:
-        total = total + 9
-    print("The smallest multiple of 9 that ends in {} is {}"
-            .format(x, total))
+	<h3>Handling Input</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def main():
 <br>
 main()
 </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_1.png">
+	<h3>Handling Input</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def positive_input():
+    x = int(input("Enter a positive integer: "))
+    while x <= 0:
+        print("Invalid input!")
+        x = int(input("Enter a positive integer: "))
+    return x
+<br>
+def main():
+    n = positive_input()
+<br>
+main()
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_3.png">
+	<h3>Prime Numbers</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def is_prime(n):
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_4.png">
+	<h3>Prime Numbers</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def is_prime(n):
+    for i in range(2, n):
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_6.png">
+	<h3>Prime Numbers</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def is_prime(n):
+    for i in range(2, n):
+        if n % i == 0:
+            # i equally divides n
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_7.png">
+	<h3>Prime Numbers</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def is_prime(n):
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    # what if we don't return false?
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_8.png">
+	<h3>Prime Numbers</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def is_prime(n):
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_9.png">
+	<h3>Main Function</h3>
+    <pre><code style="font-size: 40px; line-height: 45px" class="language-python stretch">def main():
+    n = positive_input()
+    count = 0
+    i = 2
+    sum = 0
+    while count < n:
+        if is_prime(i):
+            sum = sum + i
+            count = count + 1
+        i = i + 1
+    print("The sum of the first {} prime numbers is {}".
+           format(n, sum))
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_10.png">
+	<h3>Full Program</h3>
+    <pre><code style="font-size: 25px; line-height: 27px" class="language-python stretch">def positive_input():
+    x = int(input("Enter a positive integer: "))
+    while x <= 0:
+        print("Invalid input!")
+        x = int(input("Enter a positive integer: "))
+    return x
+<br>
+def is_prime(n):
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+<br>
+def main():
+    n = positive_input()
+    count = 0
+    i = 2
+    sum = 0
+    while count < n:
+        if is_prime(i):
+            sum = sum + i
+            count = count + 1
+        i = i + 1
+    print("The sum of the first {} prime numbers is {}".format(n, sum))
+<br>
+main()
+</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_12.png">
+	<h3>Testing</h3>
+	<ul>
+	    <li>Main Function</li>
+		<li>Prime Function</li>
+	</ul>
+	<br><br>
+	<p style="font-size: 60px;" class="fragment">2 + 3 + 5 + 7 + 11 + 13 + 17 + 19 + 23 = 100</p>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_13.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_14.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7.gif">
+	<img class="stretch plain" src="/images/lab12/output6.png">
 </section>

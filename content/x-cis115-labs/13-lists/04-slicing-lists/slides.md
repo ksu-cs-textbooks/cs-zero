@@ -3,69 +3,56 @@ type: "reveal"
 hidden: true
 ---
 <section>
-    <h3>While Loop</h3>
-    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">while &lt;boolean expression>:
-    &lt;block of statements>
-</code></pre>
+    <h3>List Slicing</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">nums[start:end]</code></pre>
+	<br>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-python stretch">nums[start:end:step]</code></pre>
+</section>
+
+<section>
+    <h3>List Slicing</h3>
+    <ul>
+		<li>Numbers can be Omitted</li>
+		<li>Numbers can be Negative</li>
 </section>
 
 <section>
     <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def main():
-    x = int(input("Enter a number from 0 to 100: "))
-    total = 0
-    while total % 100 != x:
-        total = total + 9
-    print("The smallest multiple of 9 that ends in {} is {}"
-            .format(x, total))
+    nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    print(nums)<br>
+    # simple slices
+    print(nums[3:7])
+    print(nums[5:])
+    print(nums[:5])
+    print(nums[::2])
+    print(nums[1::2])<br>
+    # negative numbers
+    print(nums[-1])
+    print(nums[-7:-3])
+    print(nums[-3:])
+    print(nums[:-3])
+    print(nums[::-1])
 <br>
 main()
 </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_1.png">
+	<img class="stretch plain" src="/images/lab13/output2.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_3.png">
+    <h3>List from Range</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">nums = range(10)
+print(nums[3:7])</code></pre>
+	<br>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-plaintext stretch">range(3, 7)</code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_4.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_6.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_7.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_8.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_9.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_10.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_12.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_13.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_14.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7.gif">
+    <h3>List from Range</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">nums = list(range(10))
+print(nums[3:7])</code></pre>
+	<br>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-plaintext stretch">[3, 4, 5, 6]</code></pre>
 </section>

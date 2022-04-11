@@ -2,70 +2,93 @@
 type: "reveal"
 hidden: true
 ---
-<section>
-    <h3>While Loop</h3>
-    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">while &lt;boolean expression>:
-    &lt;block of statements>
-</code></pre>
-</section>
 
 <section>
-    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def main():
-    x = int(input("Enter a number from 0 to 100: "))
-    total = 0
-    while total % 100 != x:
-        total = total + 9
-    print("The smallest multiple of 9 that ends in {} is {}"
-            .format(x, total))
+    <pre><code style="font-size: 30px; line-height: 33px" class="language-python stretch">import random
+import string
+<br>
+def encode(secret, step):
+    output = ""
+    for i in secret:
+        output = output + i
+        for j in step:
+            output = output + random.choice(string.ascii_lowercase)
+    return output
+<br>
+def decode(code, step):
+    return code[::step]
+<br>
+def main():
+    secret = input("Enter a secret word")
+    step = int(input("Enter a positive integer"))
+    code = encode(secret, step)
+    print("Your code is:")
+    print(code)
+    print()
+    decoded = decode(code, step)
+    print("I can decode it back to:")
+    print(decoded)
 <br>
 main()
 </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_1.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_7.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_3.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_8.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_4.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_10.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_6.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_12.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_7.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_13.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_8.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_14.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_9.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_15.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_10.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_16.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_12.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_17.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_13.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_24.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_14.png">
+	<img class="stretch plain" src="/images/lab13/tutor12_102.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7.gif">
+	<img class="stretch plain" src="/images/lab13/tutor12_104.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab13/tutor12_107.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab13/tutor12_109.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab13/tutor12_111.png">
 </section>

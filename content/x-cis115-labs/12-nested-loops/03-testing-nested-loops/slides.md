@@ -2,70 +2,63 @@
 type: "reveal"
 hidden: true
 ---
-<section>
-    <h3>While Loop</h3>
-    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">while &lt;boolean expression>:
-    &lt;block of statements>
-</code></pre>
-</section>
 
 <section>
-    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def main():
-    x = int(input("Enter a number from 0 to 100: "))
-    total = 0
-    while total % 100 != x:
-        total = total + 9
-    print("The smallest multiple of 9 that ends in {} is {}"
-            .format(x, total))
+    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def positive_input():
+    x = int(input("Enter a positive integer: "))
+    while x <= 0:
+        print("Invalid input!")
+        x = int(input("Enter a positive integer: "))
+    return x
+<br>
+def main():
+    x = positive_input()
+    y = positive_input()
+    while y <= x:
+        for i in range(x - y):
+            print("*", end="")
+            y = y + 2
+        print("")
+    print("Complete!")
 <br>
 main()
 </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_1.png">
+	<img class="stretch plain" src="/images/lab12/output2.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_3.png">
+	<img class="stretch plain" src="/images/lab12/output3.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_4.png">
+	<img class="stretch plain" src="/images/lab12/output4.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_6.png">
+	<img class="stretch plain" src="/images/lab12/output5.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_7.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_8.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_9.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_10.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_12.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_13.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7_14.png">
-</section>
-
-<section>
-	<img class="stretch plain" src="/images/lab11/tutor7.gif">
+    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def positive_input():
+    x = int(input("Enter a positive integer: "))
+    while x <= 0:
+        print("Invalid input!")
+        x = int(input("Enter a positive integer: "))
+    return x
+<br>
+def main():
+    x = positive_input()
+    y = positive_input()
+    while <mark>y <= x</mark>:
+        for i in range(<mark>x - y</mark>):
+            print("*", end="")
+            y = y + 2
+        print("")
+    print("Complete!")
+<br>
+main()
+</code></pre>
 </section>

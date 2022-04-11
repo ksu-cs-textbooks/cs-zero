@@ -2,70 +2,117 @@
 type: "reveal"
 hidden: true
 ---
-<section>
-    <h3>While Loop</h3>
-    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">while &lt;boolean expression>:
-    &lt;block of statements>
-</code></pre>
-</section>
 
 <section>
-    <pre><code style="font-size: 35px; line-height: 40px" class="language-python stretch">def main():
-    x = int(input("Enter a number from 0 to 100: "))
-    total = 0
-    while total % 100 != x:
-        total = total + 9
-    print("The smallest multiple of 9 that ends in {} is {}"
-            .format(x, total))
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-python stretch">def main():
+    i = 1
+    while i < 10:
+        j = i
+        while j < 10:
+            print("{} ".format(j), end="")
+            j = j + 1
+        print("")
+        i = i + 1
+    print("Complete!")
 <br>
 main()
 </code></pre>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_1.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_1.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_3.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_4.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_4.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_5.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_6.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_6.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_7.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_7.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_8.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_8.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_9.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_9.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_10.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_10.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_12.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_11.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_13.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_12.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7_14.png">
+	<img class="stretch plain" src="/images/lab12/tutor9_13.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/lab11/tutor7.gif">
+	<img class="stretch plain" src="/images/lab12/tutor9_35.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_37.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_38.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_39.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_40.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_42.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_64.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_66.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_186.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9_187.png">
+</section>
+
+<section>
+	<img class="stretch plain" src="/images/lab12/tutor9.gif">
+</section>
+
+<section>
+	<h3>Tips for Nested Loops</h3>
+	<ul>
+		<li>Understand Boolean Expressions</li>
+		<li>Separate Loops into Functions</li>
+		<li>Combine Loops</li>
+		<li>Simple Loops</li>
+	</ul>
 </section>

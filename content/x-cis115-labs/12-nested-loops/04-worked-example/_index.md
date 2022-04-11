@@ -40,6 +40,7 @@ def positive_input():
         x = int(input("Enter a positive integer: "))
     return x
 
+
 def main():
     n = positive_input()
 

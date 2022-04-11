@@ -92,6 +92,16 @@ main()
 
 Here, we have two for loops nested inside of our outer loop. The first loop creates a range using the expression `4 - i`, and the second loop uses the expression `i + i`. So, when `i` is equal to $0$ during the first iteration of the outer loop, the first inner loop will be executed $4$ times, and the second loop only $1$ time. Then, on the next iteration of the outer loop, the first inner loop will only run $3$ times, while the second loop now runs $2$ times. Each time, the sum of the iterations will be $5$, so our lines will always be the same length. 
 
+When we run the code, we'll get this output:
+
+```tex
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * 
+```
+
 ## Example 3
 
 Up to this point, we've just been writing loops to print shapes using ASCII art. While that may seem trivial, understanding the "shape" that will be produced by a given set of nested loops can really help us understand how the code itself will function with other data. 
