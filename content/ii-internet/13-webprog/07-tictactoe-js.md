@@ -5,7 +5,15 @@ weight: 35
 date: 2020-08-28T16:27:26-05:00
 ---
 
+{{% notice tip tip-1 "JQuery Script Tag" %}}
+
+In some older videos, the JQuery script tag is shown using `http` in the URL. This should be changed to `https` in order to work correctly due to some recent browser security updates. Alternatively, you can always find the correct JQuery script tag by visiting https://releases.jquery.com/ and clicking the "uncompressed" link next to the latest version of JQuery. 
+
+{{% /notice %}}
+
 {{< youtube eompYk6zR6Q >}}
+
+<!-- TODO Rerecord Video -->
 
 #### Resources
 * [Slides](../slides/14-WebProgramming2.pdf)
