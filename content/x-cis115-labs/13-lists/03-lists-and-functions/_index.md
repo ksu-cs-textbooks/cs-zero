@@ -5,7 +5,7 @@ weight: 30
 date: 2021-04-10T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube G5bIf_cLoFA >}}
 
 #### Resources
 
@@ -99,7 +99,7 @@ The next step in this program is to call the `append_sum()` method, using the sa
 
 ![Tutor 18](/images/lab13/tutor11_18.png)
 
-In the `append_sum()` function, our goal is to sum up all of the values currently in the list, and then append that value to the end of the. So, we'll need to create a `sum` variable to keep track of the total, which will initially store $0$:
+In the `append_sum()` function, our goal is to sum up all of the values currently in the list, and then append that value to the end of the list. So, we'll need to create a `sum` variable to keep track of the total, which will initially store $0$:
 
 ![Tutor 19](/images/lab13/tutor11_19.png)
 
@@ -107,7 +107,7 @@ Thankfully, since we are not going to update the list from within our loop, we c
 
 ![Tutor 20](/images/lab13/tutor11_20.png)
 
-Inside of the loop, all we are doing is adding the value currently stored in `i` to the `sum` variable. So, we'll store $2$ in `sum` and jump back to the top of the list.
+Inside of the loop, all we are doing is adding the value currently stored in `i` to the `sum` variable. So, we'll store $2$ in `sum` and jump back to the top of the loop.
 
 ![Tutor 21](/images/lab13/tutor11_21.png)
 
@@ -139,7 +139,7 @@ Finally, we'll print the contents of the list at that point, and jump back to th
 
 ![Tutor 48](/images/lab13/tutor11_48.png)
 
-Each time, the list will be updated by the various functions that the `main()` function calls. Thankfully, since Python uses **call by reference**, each function is able to update the same list object in memory, making it quick an easy to work with lists and functions in Python. At the end of the entire program, we'll see this state:
+Each time, the list will be updated by the various functions that the `main()` function calls. Thankfully, since Python uses **call by reference**, each function is able to update the same list object in memory, making it quick and easy to work with lists and functions in Python. At the end of the entire program, we'll see this state:
 
 ![Tutor 110](/images/lab13/tutor11_110.png)
 
@@ -147,4 +147,4 @@ A full animation of this program, with some steps omitted, is shown here:
 
 ![Tutor 11](/images/lab13/tutor11.gif)
 
-Functions that use lists as parameters are a very common technique in programming, and it very important to understand how they work. If we aren't careful, it is very easy to make a change to a list inside of a function call, and then later assume that the original list is unchanged. Likewise, if we pass a list as an argument to a function that works differently than we think it should, it could end up changing our data without us even noticing it. Hopefully this example makes it very clear how Python functions handle lists as parameters. 
+Functions that use lists as parameters are a very common technique in programming, and it is very important to understand how they work. If we aren't careful, it is very easy to make a change to a list inside of a function call, and then later assume that the original list is unchanged. Likewise, if we pass a list as an argument to a function that works differently than we think it should, it could end up changing our data without us even noticing it. Hopefully this example makes it very clear how Python functions handle lists as parameters. 

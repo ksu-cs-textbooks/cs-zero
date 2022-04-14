@@ -5,7 +5,7 @@ weight: 60
 date: 2021-04-10T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube k-pL--zTYlM >}}
 
 #### Resources
 
@@ -40,7 +40,7 @@ def main():
 main()
 ```
 
-Next, we'll include the `positive_input()` function that we've used in several previous labs, which handles prompting the use for a positive integer input and will prompt the user for additional input if an invalid value is provided. Once again, we're doing our best to reuse pieces of code we've already written:
+Next, we'll include the `positive_input()` function that we've used in several previous labs, which handles prompting the user for a positive integer input and will prompt the user for additional input if an invalid value is provided. Once again, we're doing our best to reuse pieces of code we've already written:
 
 ```python
 def positive_input():
