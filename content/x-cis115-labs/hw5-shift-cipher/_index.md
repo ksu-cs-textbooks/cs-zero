@@ -86,14 +86,14 @@ If the character in the input message is not found in the `string.ascii_lowercas
 
 This function should return the created output message.
 
-## The Encode Function
+## The Decode Function
 
 The decode function requires two parameters:
 
 * `message` - the text provided by the user in the `get_message()` function.
 * `key` the key provided by the `create_key()` function
 
-This function will decode the text stored in `message` using the key stored in `key`.\
+This function will decode the text stored in `message` using the key stored in `key`.\\
 
 To decode a message, create an empty output message and loop through the characters in the input message one at a time and follow these steps:
 
