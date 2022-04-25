@@ -51,7 +51,7 @@ Most of the questions in this tree have two possible answers, but there is at le
 
 ## The Assignment
 
-Write your program in a file named `homework4.py` inside the `python` folder in Codio. This should be a **complete Python program** consisting of the following elements:
+Write your program in a file named `homework4.py`, which will be uploaded to Canvas. This should be a **complete Python program** consisting of the following elements:
 
 1. A `two_inputs(prompt, input_1, input_2)` function
 1. A `three_inputs(prompt, input_1, input_2, input_3)` function
