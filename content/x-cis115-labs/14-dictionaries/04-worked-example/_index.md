@@ -13,7 +13,7 @@ date: 2021-04-23T00:00:01-05:00
 
 Finally, let's go through a complete worked example program that uses dictionaries in Python. Consider the following problem statement:
 
-> Write a program that will compute the score of a given word in a game of [Scrabble](https://en.wikipedia.org/wiki/Scrabble). Assume that there are no special squares present. The program should prompt the user to input a string that only contains characters, and then compute the total score of that string by summing the value assigned to each letter. If the user inputs a string that contains invalid characters, the program should prompt for additional input until a valid word is received.
+> Write a program that will compute the score of a given word in a game of [Scrabble](https://en.wikipedia.org/wiki/Scrabble). Assume that there are no special squares present. The program should prompt the user to input a string that only contains letters, and then compute the total score of that string by summing the value assigned to each letter. If the user inputs a string that contains invalid characters, the program should prompt for additional input until a valid word is received.
 
 This is a pretty simple program that can easily make use of a dictionary in Python. So, let's go through the process of solving it!
 
