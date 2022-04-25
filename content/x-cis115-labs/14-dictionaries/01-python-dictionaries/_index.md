@@ -5,7 +5,7 @@ weight: 10
 date: 2021-04-23T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube OCFZhReWBIw >}}
 
 #### Resources
 
@@ -119,7 +119,7 @@ def main():
 main()
 ```
 
-This program will ask the user to provide a number as input, and then it will populate a dictionary where the key is a string representing a mathematical expression including that number, and the value will be the result of that expression. Let's trace through this program in Python Tutor. As always, you can copy and paste the code in the `tutor.py` file in Codio, or click this [PythonTutor](https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20base%20%3D%20int%28input%28%22Enter%20a%20whole%20number%3A%20%22%29%29%0A%20%20%20%20powers%20%3D%20%7B%7D%0A%20%20%20%20for%20i%20in%20range%286%29%3A%0A%20%20%20%20%20%20%20%20powers%5B%22%7B%7D%5E%7B%7D%22.format%28base,%20i%29%5D%20%3D%20base%20**%20i%0A%20%20%20%20print%28powers%29%0A%0A%0Amain%28%29&cumulative=false&curInstr=20&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%223%22%5D&textReferences=false) link to open it on the web.
+This program will ask the user to provide a number as input, and then it will populate a dictionary where the key is a string representing a mathematical expression including that number, and the value will be the result of that expression. Let's trace through this program in Python Tutor. As always, you can copy and paste the code in the `tutor.py` file in Codio, or click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20base%20%3D%20int%28input%28%22Enter%20a%20whole%20number%3A%20%22%29%29%0A%20%20%20%20powers%20%3D%20%7B%7D%0A%20%20%20%20for%20i%20in%20range%286%29%3A%0A%20%20%20%20%20%20%20%20powers%5B%22%7B%7D%5E%7B%7D%22.format%28base,%20i%29%5D%20%3D%20base%20**%20i%0A%20%20%20%20print%28powers%29%0A%0A%0Amain%28%29&cumulative=false&curInstr=20&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%223%22%5D&textReferences=false) link to open it on the web.
 
 When we start tracing the program in Python Tutor, we can skip ahead until it reaches the first line of code in the `main()` function, at which point we'll see this state:
 

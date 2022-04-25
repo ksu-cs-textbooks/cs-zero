@@ -27,7 +27,7 @@ list_a = []
 list_a.append(4)
 ```
 
-Items in a list can be access and updated using square brackets:
+Items in a list can be accessed and updated using square brackets:
 
 ```python
 list_b = [5, 3, 7]

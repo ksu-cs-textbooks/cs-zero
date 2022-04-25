@@ -5,7 +5,7 @@ weight: 40
 date: 2021-04-23T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube tKJjpEvZidc >}}
 
 #### Resources
 
@@ -164,7 +164,7 @@ def compute_score(word):
     return total
 ```
 
-The Boolean expression `letter in scores` will return true if the current letter in our word is present as a key in the dictionary scores. The same syntax also works for determining if an element is present in a list!
+The Boolean expression `letter in scores` will return true if the current letter in our word is present as a key in the dictionary `scores`. The same syntax also works for determining if an element is present in a list!
 
 ## Complete Program
 

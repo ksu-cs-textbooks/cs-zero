@@ -5,7 +5,7 @@ weight: 01
 date: 2021-04-23T00:00:01-05:00
 ---
 
-{{< youtube  >}}
+{{< youtube RnwIej2eA-o >}}
 
 Previously, we learned how we can use lists in Python to store multiple values, or elements, in a single variable. Each element in a list is given an index, which allows us to uniquely reference and identify each element's position in a list. Python lists use consecutive integers starting at $0$ as indexes, which makes for a pretty easy to use data structure.
 
