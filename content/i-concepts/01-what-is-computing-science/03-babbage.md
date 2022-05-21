@@ -1,6 +1,6 @@
 ---
 title: "Charles Babbage"
-pre: "1.2 "
+pre: "1.3 "
 weight: 10
 date: 2020-08-10T16:27:26-05:00
 ---
@@ -12,6 +12,10 @@ date: 2020-08-10T16:27:26-05:00
 
 #### Resources
 * [Slides](../slides/01-What-is-Computing.pdf)
+
+## Notes About This Selection
+
+We chose to include this... 
 
 #### Video Script
 
