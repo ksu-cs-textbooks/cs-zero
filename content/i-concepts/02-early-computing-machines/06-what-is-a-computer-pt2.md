@@ -1,6 +1,6 @@
 ---
-title: "What is a Computer (Pt. 2)"
-pre: "2.3 "
+title: "\u2705 \u2705 What is a Computer (Pt. 2)"
+pre: "2.6 "
 weight: 15
 date: 2020-08-10T16:27:26-05:00
 ---

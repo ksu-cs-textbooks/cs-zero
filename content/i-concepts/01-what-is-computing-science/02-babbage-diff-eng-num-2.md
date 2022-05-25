@@ -1,5 +1,5 @@
 ---
-title: "Babbage's Difference Engine"
+title: "\u2705 \u2705  Babbage's Difference Engine"
 pre: "1.2 "
 weight: 6
 date: 2020-08-10T16:27:26-05:00

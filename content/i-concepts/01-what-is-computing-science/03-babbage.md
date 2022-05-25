@@ -1,5 +1,5 @@
 ---
-title: "Charles Babbage"
+title: "\u2705 \u2705  Charles Babbage"
 pre: "1.3 "
 weight: 10
 date: 2020-08-10T16:27:26-05:00
