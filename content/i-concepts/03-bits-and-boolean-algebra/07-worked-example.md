@@ -1,6 +1,6 @@
 ---
 title: "Worked Example"
-pre: "3.6 "
+pre: "3.7 "
 weight: 25
 date: 2020-05-27T10:53:26-05:00
 ---
