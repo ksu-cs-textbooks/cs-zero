@@ -1,6 +1,6 @@
 ---
 title: "Complexity Part 2"
-pre: "6.8 "
+pre: "6.9 "
 weight: 40
 date: 2020-08-10T16:27:26-05:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "What is an Algorithm"
-pre: "6.2 "
+pre: "6.3 "
 weight: 10
 date: 2020-08-10T16:27:26-05:00
 ---
