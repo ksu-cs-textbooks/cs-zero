@@ -1,7 +1,7 @@
 ---
 title: "What ARE Universal Computers?"
-pre: "5.2 "
-weight: 10
+pre: "5.6 "
+weight: 30
 date: 2020-08-10T16:27:26-05:00
 ---
 

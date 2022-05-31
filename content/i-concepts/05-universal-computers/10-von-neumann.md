@@ -1,7 +1,7 @@
 ---
 title: "Von Neumann Architecture"
-pre: "5.4 "
-weight: 20
+pre: "5.10 "
+weight: 50
 date: 2020-08-10T16:27:26-05:00
 ---
 
