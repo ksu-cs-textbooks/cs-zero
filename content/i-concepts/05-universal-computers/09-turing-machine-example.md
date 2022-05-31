@@ -1,6 +1,6 @@
 ---
 title: "Turing Machine Example"
-pre: "5.10 "
+pre: "5.9 "
 weight: 45
 date: 2020-08-10T16:27:26-05:00
 ---
