@@ -1,7 +1,7 @@
 ---
 title: "Von Neumann"
-pre: "8.3 "
-weight: 15
+pre: "8.6 "
+weight: 24
 date: 2020-08-28T16:27:26-05:00
 ---
 

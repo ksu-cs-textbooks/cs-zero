@@ -1,7 +1,7 @@
 ---
 title: "Parts of a Computer"
-pre: "8.4 "
-weight: 20
+pre: "8.7 "
+weight: 30
 date: 2020-08-28T16:27:26-05:00
 ---
 
