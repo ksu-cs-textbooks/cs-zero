@@ -1,7 +1,7 @@
 ---
 title: "Software Development Life Cycle Part 3"
-pre: "9.4 "
-weight: 20
+pre: "9.5 "
+weight: 25
 date: 2020-08-28T16:27:26-05:00
 ---
 
