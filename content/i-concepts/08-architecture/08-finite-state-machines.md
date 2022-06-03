@@ -1,5 +1,5 @@
 ---
-title: "Finite State Machines"
+title: "\u2705 \u2705 Finite State Machines"
 pre: "8.8 "
 weight: 35
 date: 2020-08-28T16:27:26-05:00

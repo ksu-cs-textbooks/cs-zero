@@ -1,5 +1,5 @@
 ---
-title: "AT&T Archives: Invention of the First Electric Computer"
+title: "\u2705 \u2705 AT&T Archives: Invention of the First Electric Computer"
 pre: "7.2 "
 weight: 7
 date: 2020-08-28T16:27:26-05:00

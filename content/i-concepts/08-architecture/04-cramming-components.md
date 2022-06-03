@@ -1,5 +1,5 @@
 ---
-title: "Cramming More Components onto Integrated Circuits"
+title: "\u2705 \u2705 Cramming More Components onto Integrated Circuits"
 pre: "8.4 "
 weight: 15
 date: 2020-08-28T16:27:26-05:00

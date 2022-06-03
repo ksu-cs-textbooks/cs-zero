@@ -1,5 +1,5 @@
 ---
-title: "Von Neumann Architecture"
+title: "\u2705 \u2705 Von Neumann Architecture"
 pre: "5.10 "
 weight: 50
 date: 2020-08-10T16:27:26-05:00

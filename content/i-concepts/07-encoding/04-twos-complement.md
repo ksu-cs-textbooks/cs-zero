@@ -1,5 +1,5 @@
 ---
-title: "Twos Complement"
+title: "\u2705 \u2705 Twos Complement"
 pre: "7.4 "
 weight: 15
 date: 2020-08-28T16:27:26-05:00

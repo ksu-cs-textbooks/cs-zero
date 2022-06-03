@@ -1,5 +1,5 @@
 ---
-title: "Boolean Algebra"
+title: "\u2705 \u2705 Boolean Algebra"
 pre: "3.3 "
 weight: 13
 date: 2020-05-27T10:53:26-05:00

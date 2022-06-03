@@ -1,5 +1,5 @@
 ---
-title: "Operators"
+title: "\u2705 \u2705 Operators"
 pre: "3.2 "
 weight: 10
 date: 2020-05-27T10:53:26-05:00
