@@ -7,3 +7,9 @@ date: 2020-08-10T16:27:26-05:00
 
 {{< youtube O5nskjZ_GoI >}}
 
+## Notes About This Selection
+
+
+## Reference
+
+CrashCourse. "Early Computing: Crash Course Computer Science". Feb, 22, 2017. YouTube. Available: https://www.youtube.com/watch?v=O5nskjZ_GoI
