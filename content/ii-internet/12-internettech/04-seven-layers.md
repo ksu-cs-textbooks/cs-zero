@@ -1,7 +1,7 @@
 ---
 title: "Seven Layer OSI Model"
-pre: "12.2 "
-weight: 10
+pre: "12.4 "
+weight: 20
 date: 2020-08-28T16:27:26-05:00
 ---
 
