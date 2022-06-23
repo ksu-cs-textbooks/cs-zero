@@ -1,7 +1,7 @@
 ---
 title: "Modern Cryptography"
-pre: "16.5 "
-weight: 25
+pre: "16.8 "
+weight: 40
 date: 2020-10-24T00:27:26-05:00
 ---
 

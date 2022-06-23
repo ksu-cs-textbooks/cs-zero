@@ -1,7 +1,7 @@
 ---
 title: "Cracking Enigma"
-pre: "16.4 "
-weight: 20
+pre: "16.6 "
+weight: 30
 date: 2020-10-24T00:27:26-05:00
 ---
 
