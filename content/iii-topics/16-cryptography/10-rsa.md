@@ -1,7 +1,7 @@
 ---
 title: "RSA Encryption"
-pre: "16.6 "
-weight: 25
+pre: "16.10 "
+weight: 55
 date: 2020-10-24T00:27:26-05:00
 ---
 
