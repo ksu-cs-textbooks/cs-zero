@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Parts of a Computer"
+title: "Parts of a Computer"
 pre: "8.7 "
 weight: 30
 date: 2020-08-28T16:27:26-05:00

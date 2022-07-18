@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Floating Point"
+title: "Floating Point"
 pre: "7.5 "
 weight: 20
 date: 2020-08-28T16:27:26-05:00

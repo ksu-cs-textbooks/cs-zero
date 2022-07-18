@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Integrated Circuits"
+title: "Integrated Circuits"
 pre: "8.3 "
 weight: 10
 date: 2020-08-28T16:27:26-05:00

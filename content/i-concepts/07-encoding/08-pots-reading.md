@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2714 Pattern on the Stone Reading"
+title: "Pattern on the Stone Reading"
 pre: "7.8 "
 weight: 60
 date: 2020-05-27T10:53:26-05:00
