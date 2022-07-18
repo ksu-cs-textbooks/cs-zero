@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 What is a Computer (Pt. 1)"
+title: "What is a Computer (Pt. 1)"
 pre: "2.3 "
 weight: 10
 date: 2020-08-10T16:27:26-05:00
