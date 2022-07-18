@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Truth Tables"
+title: "Truth Tables"
 pre: "3.5 "
 weight: 20
 date: 2020-05-27T10:53:26-05:00

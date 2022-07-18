@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Modern Turing Machines"
+title: "Modern Turing Machines"
 pre: "5.8 "
 weight: 40
 date: 2020-08-10T16:27:26-05:00

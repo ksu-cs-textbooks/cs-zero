@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Logic to Switches"
+title: "Logic to Switches"
 pre: "3.4 "
 weight: 15
 date: 2020-05-27T10:53:26-05:00

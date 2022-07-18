@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Heuristics"
+title: "Heuristics"
 pre: "6.10 "
 weight: 45
 date: 2020-08-10T16:27:26-05:00

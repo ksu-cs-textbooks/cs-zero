@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Electronic Computing (Crash Course)"
+title: "Electronic Computing (Crash Course)"
 pre: "5.4 "
 weight: 15
 date: 2020-08-10T16:27:26-05:00

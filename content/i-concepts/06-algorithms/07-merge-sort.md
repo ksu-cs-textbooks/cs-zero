@@ -1,5 +1,5 @@
 ---
-title: "\u2705 \u2705 Merge Sort"
+title: "Merge Sort"
 pre: "6.7 "
 weight: 30
 date: 2020-08-10T16:27:26-05:00
