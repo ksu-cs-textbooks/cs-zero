@@ -1,7 +1,7 @@
 ---
 title: "Ranking"
-pre: "19.3 "
-weight: 15
+pre: "19.4 "
+weight: 20
 date: 2020-10-24T00:27:26-05:00
 ---
 

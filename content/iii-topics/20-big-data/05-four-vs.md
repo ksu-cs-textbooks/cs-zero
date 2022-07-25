@@ -1,7 +1,7 @@
 ---
 title: "The Four V's"
-pre: "20.2 "
-weight: 10
+pre: "20.5 "
+weight: 25
 date: 2020-10-24T00:27:26-05:00
 ---
 

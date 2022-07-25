@@ -1,7 +1,7 @@
 ---
 title: "Map Reduce"
-pre: "20.3 "
-weight: 15
+pre: "20.6 "
+weight: 30
 date: 2020-10-24T00:27:26-05:00
 ---
 

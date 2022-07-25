@@ -1,7 +1,7 @@
 ---
 title: "Big Data"
-pre: "20.1 "
-weight: 5
+pre: "20.2 "
+weight: 10
 date: 2020-10-24T00:27:26-05:00
 ---
 
