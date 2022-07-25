@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Agents"
-pre: "18.3 "
-weight: 15
+pre: "18.5 "
+weight: 25
 date: 2020-10-24T00:27:26-05:00
 ---
 

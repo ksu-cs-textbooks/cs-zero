@@ -1,7 +1,7 @@
 ---
 title: "Machine Intelligence"
-pre: "18.2 "
-weight: 10
+pre: "18.4 "
+weight: 20
 date: 2020-10-24T00:27:26-05:00
 ---
 

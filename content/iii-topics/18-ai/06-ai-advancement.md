@@ -1,7 +1,7 @@
 ---
 title: "AI Advancements"
-pre: "18.4 "
-weight: 20
+pre: "18.6 "
+weight: 30
 date: 2020-10-24T00:27:26-05:00
 ---
 
