@@ -10,4 +10,5 @@ pre = "<b>21. </b>"
 
 # Ethics
 
-<iframe src="./slides/ieee-code-of-ethics.png" width="725" height="410>
+![IEEE Code of Ethics](./slides/ieee-code-of-ethics.png)
+

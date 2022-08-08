@@ -177,8 +177,7 @@ Each team will be given a topic to research. The team will locate and organize m
 #### Wiki Article
 Each team will use the material collected for the topic research project, as well as information from the resulting class discussions, to create an article to be added to the final course wiki. The article is expected to be a thorough examination of the topic and should be written in such a way that others taking this course can read it and understand the material. The team will be responsible for finalizing the entire draft of the wiki and making sure it has a consistent design and feel to it. 
 
-
-{{% include "themes/ksucs-hugo-theme/static/files/syllabus-no-copyright.md" %}}
+{{< syllabus exclude="copyright" >}}
 
 ## Subject to Change
 

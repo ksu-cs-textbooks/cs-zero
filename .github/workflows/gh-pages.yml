@@ -26,7 +26,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --config github.toml
+        run: hugo -b "https://ksu-cs-textbooks.github.io/cszero"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

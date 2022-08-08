@@ -10,4 +10,5 @@ pre = "<b>22. </b>"
 
 # Graphics and Video Games
 
-<iframe src="https://upload.wikimedia.org/wikipedia/commons/9/97/Video-Game-Controller-Icon-IDV-green-history.svg" width="100%" height="500">
+![Video Game Controller](https://upload.wikimedia.org/wikipedia/commons/9/97/Video-Game-Controller-Icon-IDV-green-history.svg)
+
