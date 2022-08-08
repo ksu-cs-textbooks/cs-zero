@@ -7,29 +7,29 @@ hidden: true
 	<img class="plain stretch" src="/images/core-logo-on-white.svg">
 </section>
 <section>
-	<h3>Emily Alfs-Votipka</h3>
+	<h3>Russell Feldhausen</h3>
 	<p>
-		<i>Pronouns: she/her</i><br>
-		2161 Engineering Hall<br>
+		<i>Pronouns: he/him</i><br>
+		(785) 292-3121 (Call/Text)<br>
+		2213 Engineering Hall<br>
 		<i>(working remotely)</i><br>
 		<br>
-		<b>emilyalfs AT ksu DOT edu</b><br>
+		<b>russfeld AT ksu DOT edu</b><br>
+		https://russfeld.me  -  @russfeld<br>
 	</p>
 </section>
 <section>
 	<h3>Other Instructors & TAs</h3>
 	<ul>
+		<li>Emily Alfs-Votipka</li>
+		<li>Nathan Bean</li>
 		<li>George "Bud" LaVezzi</li>
 		<li>Joshua Weese</li>
-		<li>Russell Feldhausen</li>
-		<li>Nathan Bean</li>
 		<li>Dr. Scott DeLoach</li>
-	</ul>s
+	</ul>
 </section>
 <section>
-	<p>Please use <br/>
-	<img class="plain" src="/images/110_help.png" width="600"><br/>
-	 for all course communication</p>
+	<p>Contact russfeld AT ksu DOT edu</p>
 </section>
 <section>
 	<img class="stretch plain" src="/images/codio_logo.svg">
@@ -76,15 +76,6 @@ hidden: true
 	</ul>
 </section>
 <section>
-	<h3>Grading</h3>
-	<ul>
-	    <li>70% Canvas Quizzes</li>
-	    <li>20% Programming Labs</li>
-	    <li>10% Python Assignments</li>
-	</ul>
-	<p>Standard 90-80-70-60 grading scale</p>
-</section>
-<section>
 	<h3>What's Different?</h3>
 	<ul>
 		<li>No Scheduled Class Times</li>
@@ -112,7 +103,6 @@ hidden: true
 	<ul>
 		<li>Watch Video on Canvas and Codio</li>
 		<li>Read the Syllabus</li>
-		<li>Complete the Course Readiness Quiz</li>
 		<li>Read the Extra Credit Assignments</li>
 	</ul>
 </section>

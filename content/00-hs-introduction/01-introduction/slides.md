@@ -7,29 +7,29 @@ hidden: true
 	<img class="plain stretch" src="/images/core-logo-on-white.svg">
 </section>
 <section>
-	<h3>Emily Alfs-Votipka</h3>
+	<h3>Russell Feldhausen</h3>
 	<p>
-		<i>Pronouns: she/her</i><br>
-		2161 Engineering Hall<br>
+		<i>Pronouns: he/him</i><br>
+		(785) 292-3121 (Call/Text)<br>
+		2213 Engineering Hall<br>
 		<i>(working remotely)</i><br>
 		<br>
-		<b>emilyalfs AT ksu DOT edu</b><br>
+		<b>russfeld AT ksu DOT edu</b><br>
+		https://russfeld.me  -  @russfeld<br>
 	</p>
 </section>
 <section>
 	<h3>Other Instructors & TAs</h3>
 	<ul>
+		<li>Emily Alfs-Votipka</li>
+		<li>Nathan Bean</li>
 		<li>George "Bud" LaVezzi</li>
 		<li>Joshua Weese</li>
-		<li>Russell Feldhausen</li>
-		<li>Nathan Bean</li>
 		<li>Dr. Scott DeLoach</li>
 	</ul>
 </section>
 <section>
-	<p>Please use <br/>
-	<img class="plain" src="/images/110_help.png" width="600"><br/>
-	 for all course communication</p>
+	<p>Contact your teacher for assistance!</p>
 </section>
 <section>
 	<img class="stretch plain" src="/images/codio_logo.svg">
@@ -41,7 +41,8 @@ hidden: true
 		<li>Lectures, Quizzes, Projects</li>
 		<li>Gated - Must Complete in Order</li>
 		<li>Work Around your Schedule</li>
-		<li>Automated Grading</li>
+		<li>CC 110 - Manual Grading</li>
+		<li>CC 210 - Automated Grading</li>
 	</ul>
 </section>
 <section>
@@ -76,18 +77,26 @@ hidden: true
 	</ul>
 </section>
 <section>
-	<h3>Grading</h3>
+	<h3>CC 110 Grading</h3>
 	<ul>
-	    <li>70% Canvas Quizzes</li>
-	    <li>20% Programming Labs</li>
-	    <li>10% Python Assignments</li>
+	    <li>60% Lectures & Quizzes</li>
+	    <li>10% Discussions</li>
+	    <li>15% Programming Labs (Drop 1 Lowest)</li>
+			<li>15% Programming Homeworks</li>
+	</ul>
+	<p>Standard 90-80-70-60 grading scale</p>
+</section>
+<section>
+	<h3>CC 210 Grading</h3>
+	<ul>
+	    <li>30% Tutorials & Quizzes</li>
+	    <li>70% Programming Projects</li>
 	</ul>
 	<p>Standard 90-80-70-60 grading scale</p>
 </section>
 <section>
 	<h3>What's Different?</h3>
 	<ul>
-		<li>No Scheduled Class Times</li>
 		<li>Work Around Your Schedule</li>
 		<li>Automated Grading</li>
 		<li><del>Long Lectures</del> Short Videos</li>
