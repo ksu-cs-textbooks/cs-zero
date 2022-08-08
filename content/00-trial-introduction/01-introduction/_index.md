@@ -14,10 +14,11 @@ weight: 10
 
 #### Video Script
 
-
 [Slide 1] 
 
-Hello and welcome to the Computational Core Trial Course! My name is Russ Feldhausen, and I’ll be one of the instructors for this program. My contact information is shown here, and is also listed on the syllabus
+Hello and welcome to the Computational Core Trial Course! 
+
+My name is Russ Feldhausen, and I’ll be one of the instructors for this program. My contact information is shown here, and is also listed on the syllabus
 
 [Slide 2]
 
