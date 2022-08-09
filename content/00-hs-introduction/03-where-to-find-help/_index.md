@@ -5,10 +5,7 @@ weight: 30
 date: 2018-08-24T10:53:26-05:00
 ---
 
-<!-- TODO russfeld -->
-
-{{< youtube  >}}
-<!--- Vtpmu_p4k_g --->
+{{< youtube dhko8kjuz9c >}}
 
 #### Resources
 
@@ -53,8 +50,7 @@ If you have issues with the technical content of the course, specifically relate
 If you are still stuck or unsure of where to go, the next best thing is to talk with your teacher. As discussed earlier, they will do their best to help you as soon as they can, and if they are stumped they can pass that question along to us.
 
 Of course, as another step you can always exercise your information-gathering skills and use online search tools such as Google to answer your question. 
-While you are not allowed to search online for direct solutions to assignments or projects, you are more than welcome to use Google to access programming resources such as StackOverflow, language documentation, and other tutorials. 
-I can definitely assure you that programmers working in industry are often using Google and other online resources to solve problems, so there is no reason why you shouldn't start building that skill now.
+While you are not allowed to search online for direct solutions to assignments or projects, you are more than welcome to use Google to access programming resources such as StackOverflow, language documentation, and other tutorials. I can definitely assure you that programmers working in industry are often using Google and other online resources to solve problems, so there is no reason why you shouldn't start building that skill now.
 
 [Slide 6]
 

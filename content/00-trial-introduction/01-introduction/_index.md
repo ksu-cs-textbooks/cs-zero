@@ -4,9 +4,7 @@ pre: "1. "
 weight: 10
 ---
 
-<!-- TODO russfeld -->
-
-{{< youtube  >}}
+{{< youtube SOW4f9v3IBQ >}}
 
 #### Resources
 
@@ -34,7 +32,7 @@ In addition to Canvas, we’ll be using the online learning platform Codio for m
 
 [Slide 5]
 
-The Computational Core program consists of several courses, and each course contains a number of learning modules. There are about 30 modules in this course. Each module will usually consist of some lecture material and quizzes, and there are a few modules which include a programming component. The modules themselves are gated, which means that you must complete each item in the module in order before continuing. In addition, the modules enforce prerequisite requirements from other modules. 
+The Computational Core program consists of several courses, and each course contains a number of learning modules. There are about 20-30 modules in each course. Each module will usually consist of some lecture material and quizzes, and there are a few modules which include a programming component. The modules themselves are gated, which means that you must complete each item in the module in order before continuing. In addition, the modules enforce prerequisite requirements from other modules. 
 
 You are welcome to work on this course at any time during the week as your schedule allows, provided that you complete each module before the listed due date. There will be roughly two modules due each week. The modules are self-contained, and nearly all of the grading in this course is completed automatically through Canvas and Codio. So, you can complete modules at any time before the due date, and once a module is complete, you may immediately start on the next one.
 
@@ -50,13 +48,11 @@ One thing we highly encourage each of you to do is read the syllabus for this co
 
 One very important part of the syllabus that every student should read is the late work policy. First off, each module has a due date, and you may work on that module at any time before it is due, provided you have met the prerequisites. As discussed before, you must do all the readings and assignments in a module in listed order before moving on, so you cannot jump ahead. A module is considered completed when all items have been completed.
 
-For the purposes of grading, we will use the date and time that the confirmation quiz was submitted at the end of each module to determine when the module was completed. This is due to the way that Codio handles automated grading, as it may resubmit previously graded assignments if an error in the module is corrected, making a previously completed assignment appear to be submitted late.
-
-If any work is submitted after the due date, a penalty of 10% of the total points possible in that assignment will be deducted for each day it is late, up to a maximum of 3 days. After 3 days beyond the due date, you will receive a 0 on the assignment. Please refer to the full late policy in the syllabus for more information about how late work is handled in this course.
+In most Computational Core courses, if any work is submitted after the due date, a penalty of 10% of the total points possible in that assignment will be deducted for each day it is late, up to a maximum of 3 or 5 days. After that, you will receive a 0 on the assignment. Please refer to the full late policy in the syllabus for more information about how late work is handled in this course.
 
 Finally, even if a module is late, it still must be completed before you can move on to a later module. So, it is very important to avoid getting behind in this course, as it can be very difficult to get back on track. If you ever find that you are struggling to keep up, please don't be afraid to contact either the instructors or GTAs for assistance. We'd be happy to help you get caught back up quickly.
 
-This is intended to be a completely online, self-paced course. There are no mandatory scheduled course times. All of the content is available online, so you can work whenever and wherever you want. It could be a 3-hour block once a week, or a few minutes here and there between classes. It’s really up to you and your schedule. However, remember that each module may require 4 to 6 or more hours of work to complete, so make sure you have plenty of time available to devote to this course.
+The trial course is intended to be a completely online, self-paced course. There are no mandatory scheduled course times. All of the content is available online, so you can work whenever and wherever you want. It could be a 3-hour block once a week, or a few minutes here and there between classes. It’s really up to you and your schedule. However, remember that each module may require 4 to 6 or more hours of work to complete, so make sure you have plenty of time available to devote to this course.
 
 Also, a vast majority of the grading in this course will be handled automatically through Canvas and Codio. This means that you'll be able to receive feedback directly from those systems as soon as you submit your work. You may also contact the instructors and GTAs for additional tips and feedback regarding your work, but depending on the number of students in the program, we may not be able to review every student submission directly.
 
