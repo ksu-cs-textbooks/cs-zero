@@ -6,8 +6,6 @@ pre: "6.1 "
 
 ## CC 110 - Introduction to Computing - Spring 2022
 
-[Previous Versions]({{<relref "./old">}})
-
 ### Instructor Contact Information
 
 * **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
