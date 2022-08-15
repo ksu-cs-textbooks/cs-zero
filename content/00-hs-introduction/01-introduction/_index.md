@@ -4,9 +4,7 @@ pre: "1. "
 weight: 10
 ---
 
-<!-- TODO russfeld -->
-
-{{< youtube  >}}
+{{< youtube b2ORPVwfXZw >}}
 
 #### Resources
 
@@ -81,7 +79,7 @@ For this course, the only supplies you'll need as a student are access to a mode
 
 [Slide 12]
 
-Finally, as you are aware, this course is always subject to change. This is a relatively new program here at K-State, and we’re always working on new and interesting ideas to integrate into the courses. The best advice I have is to look upon this graphic with the words “Don’t Panic” written in large, friendly letters.  If you find yourself falling behind, or not understanding seek our help via cc110-help.
+Finally, as you are aware, this course is always subject to change. This is a relatively new program here at K-State, and we’re always working on new and interesting ideas to integrate into the courses. The best advice I have is to look upon this graphic with the words “Don’t Panic” written in large, friendly letters.  If you find yourself falling behind, or not understanding, please contact your teacher for assistance.
 
 [Slide 13]
 
