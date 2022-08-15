@@ -1,12 +1,10 @@
 ---
-title: "CC 115 Syllabus - Fall 2022"
+title: "CC 115 Syllabus - Spring 2022"
 weight: 62
 pre: "6.2 "
 ---
 
-## CC 115 - Introduction to Computing Science - Fall 2022
-
-[Previous Versions]({{<relref "./old">}})
+## CC 115 - Introduction to Computing Science - Spring 2022
 
 ### Contact
 
@@ -14,27 +12,26 @@ pre: "6.2 "
 **All emails** for the course should be sent to [cis115help@KSUemailProd.onmicrosoft.com](mailto:cis115help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 {{% /notice %}}
 
-**Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches sections B, D, and E)
+**Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches section C)
 
 - **Office:** 2161 Engineering Hall (DUE)  
 - **Phone:** Office - (785) 532-6350 
-- **Office  Hours:** TBD
+- **Office  Hours:** By appointment
     - **Want to meet with me? https://calendly.com/emilyalfs**  
 
-**Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A and C)
+**Instructor:**  Russell Feldhausen (he/him) – [russfeld@ksu.edu](mailto:russfeld@ksu.edu) (teaches sections B)
 
-- **Office**: 
-- **Phone:** 
-- **Office Hours:** 
-  - **Want to meet with me?** 
+- **Office**: 2213 Engineering Hall (DUE)   
+- **Phone:** Office - (785) 292-3121 (call/text)
+- **Office Hours:** T 2:30 - 3:30 and by appointment
+  - **Want to meet with me? https://calendly.com/russfeld** 
 
 | Undergraduate Teaching Assistants |             |                                 |
 | --------------------------------- | ----------- | ------------------------------- |
 | **Name**                          | **Section** | **Office Hours (DUE 1118)**     |
-| Nathan Herscovici                 |             |                                 |
-| Nathan Lee                        |             |                                 |
-| Emma Lucas                        |             |                                 |
-| Ryan Stueve                       |             |                                 |
+| Easton Bolinger                   | C           | M 4:30 - 6:00 [Monday Zoom](https://ksu.zoom.us/j/98633751991?pwd=N3ViTjhDV1dHQmFxREtmRjZCeS96UT09) W: 1:30 - 3:30 [Wednesday Zoom](https://ksu.zoom.us/j/95380686573?pwd=NVo3R2o1SW1TL2xqallrL0FpL2ZLQT09)             |
+| Chris Loura                       | B           | M, U: 2:30 - 5:00               |
+| Brandon Bednar                    | C           | T: 2:30 - 3:30, U: 12:30 - 2:00 [Zoom Link for Both](https://ksu.zoom.us/j/95998068947)|
 
 <br/>
 
