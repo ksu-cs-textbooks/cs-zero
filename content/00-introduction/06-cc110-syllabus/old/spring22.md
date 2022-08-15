@@ -1,10 +1,10 @@
 ---
-title: "CC 110 Syllabus - Fall 2022"
+title: "CC 110 Syllabus - Spring 2022"
 weight: 61
 pre: "6.1 "
 ---
 
-## CC 110 - Introduction to Computing - Fall 2022
+## CC 110 - Introduction to Computing - Spring 2022
 
 [Previous Versions]({{<relref "./old">}})
 
