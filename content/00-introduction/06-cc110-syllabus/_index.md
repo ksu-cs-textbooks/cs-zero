@@ -93,7 +93,7 @@ Letter grades will be assigned following the standard scale:
 Read this late work policy very carefully! If you are unsure how to interpret it, please contact the instructors via the help email. Not understanding the policy does not mean that it won't apply to you!
 {{% /notice %}}
 
-Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. 
+Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. **Any assignment submitted late will have that assignment’s grade reduced by 10% of the total possible points on that project for each day it is late.** This penalty will be assessed automatically in the Canvas gradebook. 
 
 **The following table outlines the highest possible score that a module can earn based on when it is complete** 
 
