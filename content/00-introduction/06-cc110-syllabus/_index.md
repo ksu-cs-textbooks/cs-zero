@@ -100,7 +100,7 @@ Since this course is entirely online, students may work at any time and at their
 |  | Thursday | Friday | Saturday | Sunday | Monday |
 | --- | --- | --- | --- | --- | --- |
 | Before or at 11:59PM CST | 100% | 90% | 80% | 70% | 60% |
-| After 11:59PM CST | 90% | 80% | 70% | 60% | 0% |
+| After 11:59PM CST | 90% | 80% | 70% | 60% | 50% |
 
 Even if a module is not submitted on time, it must still be completed before a student is allowed to begin the next module. So, students should take care not to get too far behind, as it may be very difficult to catch up.
 
