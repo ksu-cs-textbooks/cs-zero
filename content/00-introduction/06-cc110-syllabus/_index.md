@@ -12,7 +12,8 @@ pre: "6.1 "
 
 * **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Office:** DUE 2161 
-* **Virtual Office Hours:** Schedule a meeting with me: https://calendly.com/emilyalfs Appointments held via [Zoom](https://ksu.zoom.us/).
+- **Office  Hours:** TBD
+    - **Want to meet with me? https://calendly.com/emilyalfs**  
 
 #### Preferred Methods of Communication:
 
@@ -24,9 +25,12 @@ pre: "6.1 "
 | Undergraduate Teaching Assistants |                                     |
 | --------------------------------- | ----------------------------------- |
 | **Name**                          | **Office Hours (DUE 1118)**         |
-| Easton Bolinger                   | M 4:30 - 6:00 [Monday Zoom](https://ksu.zoom.us/j/98633751991?pwd=N3ViTjhDV1dHQmFxREtmRjZCeS96UT09) W: 1:30 - 3:30 [Wednesday Zoom](https://ksu.zoom.us/j/95380686573?pwd=NVo3R2o1SW1TL2xqallrL0FpL2ZLQT09)                |
-| Chris Loura                       | M, U: 2:30 - 5:00                   |
-| Brandon Bednar                    | T: 2:30 - 3:30, U: 12:30 - 2:00 [Zoom Link for Both](https://ksu.zoom.us/j/95998068947)    |
+| Carrie Aponte (primary CC110 UTA) |             |
+| Nathan Herscovici                 |             |                                 
+| Nathan Lee                        |             |       
+| Emma Lucas                        |             |    
+| Ryan Stueve                       |             |
+
 ### Prerequisites
 
 * None

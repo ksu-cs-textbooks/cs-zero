@@ -31,10 +31,11 @@ pre: "6.2 "
 | Undergraduate Teaching Assistants |             |                                 |
 | --------------------------------- | ----------- | ------------------------------- |
 | **Name**                          | **Section** | **Office Hours (DUE 1118)**     |
-| Nathan Herscovici                 |             |                                 |
-| Nathan Lee                        |             |                                 |
-| Emma Lucas                        |             |                                 |
-| Ryan Stueve                       |             |                                 |
+| Carrie Aponte                     |   CC110     |                                 |
+| Nathan Herscovici                 |   A,C       |                                 |
+| Nathan Lee                        |     B,D     |                                 |
+| Emma Lucas                        |    A,C      |                                 |
+| Ryan Stueve                       |     B,D     |                                 |
 
 <br/>
 
