@@ -84,11 +84,6 @@ This course is an introduction to the history, fundamental theories, basic progr
 
 To accomplish this goal, we will do several hands-on learning activities, have meaningful in-class discussions, write about our own thoughts and opinions on various subjects, and research topics that are central to Computing Science. While doing so, we will try to relate the concepts we are learning to real-world problems and ideas.  
 
-{{% notice note %}}
-
-Some hands-on learning may be limited due to COVID-19 this semester.
-
-{{% /notice %}}
 
 ### Course Objectives
 By the end of this course, each student will be able to:
