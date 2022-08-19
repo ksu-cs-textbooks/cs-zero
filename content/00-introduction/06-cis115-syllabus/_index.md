@@ -35,8 +35,8 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 | **Name**                          | **Section** | **Office Hours (DUE 1118)**     |
 | Carrie Aponte                     |   CC110     |                                 |
 | Nathan Herscovici                 |   A,C       |                                 |
-| Nathan Lee                        |     B,D     |                                 |
-| Emma Lucas                        |    A,C      |                                 |
+| Nathan Lee                        |     B,D,E     |                                 |
+| Emma Lucas                        |    A,C,E      |                                 |
 | Ryan Stueve                       |     B,D     |                                 |
 
 <br/>
