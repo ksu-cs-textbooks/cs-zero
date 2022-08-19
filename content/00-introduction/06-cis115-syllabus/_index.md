@@ -4,7 +4,7 @@ weight: 62
 pre: "6.2 "
 ---
 
-## CC 115 - Introduction to Computing Science - Fall 2022
+## CIS 115 - Introduction to Computing Science - Fall 2022
 
 [Previous Versions]({{<relref "./old">}})
 
@@ -12,6 +12,8 @@ pre: "6.2 "
 
 {{% notice info %}}
 **All emails** for the course should be sent to [cis115help@KSUemailProd.onmicrosoft.com](mailto:cis115help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
+
+Communication can also be done through Microsoft Teams. If you have not been invited to join the team for CIS 115, please let any of us know and we will get you added.
 {{% /notice %}}
 
 **Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches sections B, D, and E)
@@ -23,10 +25,10 @@ pre: "6.2 "
 
 **Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A and C)
 
-- **Office**: 
-- **Phone:** 
+- **Office:** 2214 Engineering Hall (DUE)
+- **Phone:** See calendar below 
 - **Office Hours:** 
-  - **Want to meet with me?** 
+  - **Want to meet with me?** https://calendly.com/weeser
 
 | Undergraduate Teaching Assistants |             |                                 |
 | --------------------------------- | ----------- | ------------------------------- |
@@ -117,13 +119,13 @@ In short, this course will focus on several learning activities designed to enga
 
 **Attendance in class is required**. The majority of class periods will include hands-on/group activities to be completed in class that will help illustrate the topic of the day. Collaborating and communicating with others in the class is a large part of these activities and is encouraged. Participating in each of these activities is key to learning, so failing to attend class or complete in-class activities and labs will result in a reduced grade for that day’s work. ***Simply attending class does not guarantee that you will receive points\***
 
-**Face coverings are required at ALL times** in class and walking about the engineering building.  If you are not wearing a face covering properly, you will be asked to either correctly put one on or leave the classroom. See the official statement on face coverings toward the end of this syllabus.  While there are not assigned seats, please try to sit in the same place every time you come to class.
+**Face coverings** are not required; however, they are encouraged if you are feeling ill. (See general face coverings policy down below)
 
 **Need to miss a class?** Work will never be completely excused, however some exceptions/extensions can be given in 2 situations:
 
 - You are absent due to a **university activity** and have given the instructor **prior notice** of the absence. Excuses after the absence will not be accepted, even for university activities
 
-- You have a “major life event” that prevents you from completing class, such as an illness or family emergency. **These events must be verified through the K-State Office of Student Life**. Contact them **AS SOON AS YOU CAN** once you know you will be away from class. They will work with your instructors while you are gone. Contact your instructor once you are able to discuss make-up work and absences.
+- You have a "major life event" that prevents you from completing class, such as an illness or family emergency. **These events must be verified through the K-State Office of Student Life**. Contact them **AS SOON AS YOU CAN** once you know you will be away from class. They will work with your instructors while you are gone. Contact your instructor once you are able to discuss make-up work and absences.
 
 {{% notice note%}}
 Attendance accommodations include all COVID related causes, but Student Life should still be some of the first people you contact.
@@ -132,9 +134,9 @@ Attendance accommodations include all COVID related causes, but Student Life sho
 ### Assignments
 
 {{% notice warning%}}
-Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. Any unauthorized aid may result in a sanction for the course and report submitted to the Academic Honor Council. The standard policy for this course, a violation of the Honor Pledge/Code will result in an automatic 0 for the assignment and the violation will be reported to the Honor System. A second violation will result in an XF in the course. Sanctions will apply to **ALL** parties involved in the violation. Posting or viewing course content (*homework, labs, etc.*) on study sites and alike (*Chegg, StackOverflow, etc.*) will result in an XF in the course.
+Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don't get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden. This includes viewing posts as well. It also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. We have a **ZERO tolerance** policy in regard to academic dishonesty. Any violation of this policy will result in an immediate XF for the course.
 
-**Note that depending on what the first violation is, the sanction may be worse than just a 0 for the assignment**
+    *If you are struggling in the course or you have doubts on something, please ask!  Your instructors and TAs are here to help!*
 {{% /notice %}}
 
 There will be some programming or written assignments given from time to time that must be completed outside of class. It is acceptable to communicate with other students about the concepts in the assignment if you do not understand it, but you should not discuss the details of how the assignment should be completed. Your submission should be your own work, or the work of your small group if allowed by the instructor.  Some work will require you to look up certain programming syntax and techniques on the internet, **but** there is a fine line between learning and copying! ***When in doubt, ask!***
@@ -158,7 +160,7 @@ Poor planning/procrastination on your part does not constitute as an emergency o
 
 {{% /notice %}}
 
-Every student should strive to turn in work on time. **Late work will receive penalty of 10% of the possible points for each day it is late**. Some assignments will NOT be accepted late! Others will be limited to a maximum of three days late (not always 3 days). Missed class attendance cannot be made up, though as mentioned above some areas will drop the lowest score. If you are getting behind in the class, you are encouraged to speak to the instructor for options to make up missed work.
+Every student should strive to turn in work on time. *Late work will receive penalty of 10% of the possible points for each partial day it is late*. **Some assignments will NOT be accepted late**! Others will be limited to a maximum of three days late (not always 3 days). You can see if an assignment is accepted late by seeing if the last available date for that assignment in canvas goes past its due date. Missed class attendance cannot be made up, though as mentioned above some areas will drop the lowest score. If you are getting behind in the class, you are encouraged to speak to the instructor before it becomes too late to recover.
 
 #### Programming Work
 
@@ -166,11 +168,11 @@ Every student should strive to turn in work on time. **Late work will receive pe
 Programming assignments that are turned in and do not run or that are not in the required format will receive a grade of 0, **no exceptions**. My recommendation to avoid making this mistake is to check your solution after you submitted it to Canvas. **Redownload** what you submitted from Canvas and run it again to assure that the program you submitted is working as intended.
 {{% /notice %}}
 
-There will be two primary types of programming assignments: homework and labs. <u>Labs</u> will be only available to be completed during designated class times unless otherwise stated. To get credit for completing a lab, you must have your work checked off by the professor or TA before leaving class.  Partial credit is awarded for labs started in class, but not completed in time. No credit is given for a lab if you do not attend class unless a prior arrangement is made given a valid reason (see attendance policy).  <u>Homework</u> will be mostly individual work unless otherwise stated and is intended to be done outside of class time.  Work that is not your own will be considered a violation of the honor code.  Class time may be used for working on homework if you have completed the lab work for that class period. 
+There will be two primary types of programming assignments: homework and labs. <u>Labs</u> will be only available to be completed during designated class times unless otherwise stated. To get credit for completing a lab, you must have your work checked off by the professor or TA before leaving class.  Partial credit is awarded for labs started in class, but not completed in time. No credit is given for a lab if you do not attend class unless a prior arrangement is made given a valid reason (see attendance policy). <u>Homework</u> will be individual work unless otherwise stated and is intended to be done outside of class time.  Work that is not your own will be considered a violation of the honor code.  Class time may be used for working on homework if you have completed the lab work for that class period. 
 
 #### Team Assignments
 
-Students will be assigned to a team at the beginning of the semester. Each team will be responsible for completing two major projects during the semester. Some group work will include a **REQUIRED** peer evaluation component which can adjust that portion of the individual’s grade up to 50%. If a student should fail to contribute to a group assignment at all, their grade for that assignment will be reduced to a zero. **Failure to complete the peer evaluation will result in a 10% grade deduction for that assignment**. Also note that all group work still should be completed in a socially distance environment, whether that be online or in-person while wearing masks.
+Students will be assigned to a team at the beginning of the semester. Each team will be responsible for completing two major projects during the semester. Some group work will include a **REQUIRED** peer evaluation component which can adjust that portion of the individual’s grade up to 50%. If a student should fail to contribute to a group assignment at all, their grade for that assignment will be reduced to a zero. **Failure to complete the peer evaluation will result in a 10% grade deduction for that assignment**.
 
 #### Topic Research
 
@@ -184,3 +186,6 @@ Each team will use the material collected for the topic research project, as wel
 ## Subject to Change
 
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the K-State Canvas page for this course and emailed to all students.
+
+## Copyright Notification 
+Copyright 2022 (Joshua L. Weese) as to this syllabus and all lectures. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
