@@ -1,5 +1,5 @@
 ---
-title: "CC 115 Syllabus - Fall 2022"
+title: "CIS 115 Syllabus - Fall 2022"
 weight: 62
 pre: "6.2 "
 ---
