@@ -179,6 +179,10 @@ Each team will be given a topic to research. The team will locate and organize m
 #### Wiki Article
 Each team will use the material collected for the topic research project, as well as information from the resulting class discussions, to create an article to be added to the final course wiki. The article is expected to be a thorough examination of the topic and should be written in such a way that others taking this course can read it and understand the material. The team will be responsible for finalizing the entire draft of the wiki and making sure it has a consistent design and feel to it. 
 
+## Safe Zone Statement
+
+I am part of the SafeZone community network of trained K-State  faculty/staff/students who are available to listen and support you. As a SafeZone Ally, I can help you connect with resources on campus to  address problems you face that interfere with your academic success,  particularly issues of sexual violence, hateful acts, or concerns faced  by individuals due to sexual orientation/gender identity. My goal is to  help you be successful and to maintain a safe and equitable campus.
+
 {{< syllabus exclude="copyright" >}}
 
 ## Subject to Change
@@ -186,4 +190,4 @@ Each team will use the material collected for the topic research project, as wel
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the K-State Canvas page for this course and emailed to all students.
 
 ## Copyright Notification 
-Copyright 2022 (Joshua L. Weese) as to this syllabus and all lectures. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
+Copyright 2022 (Joshua L. Weese and Emily Alfs-Votipka) as to this syllabus, all lectures, and course content. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
