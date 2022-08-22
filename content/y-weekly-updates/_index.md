@@ -11,5 +11,3 @@ noprint = true
 # Weekly Updates
 
 Information for Current Students!
-
-[Previous Semesters Are Here]({{<relref "./old">}})
