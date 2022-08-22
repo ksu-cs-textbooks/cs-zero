@@ -13,9 +13,6 @@ date: 2020-08-10T16:27:26-05:00
 #### Resources
 * [Slides](../slides/01-What-is-Computing.pdf)
 
-## Notes About This Selection
-
-We chose to include this... 
 
 #### Video Script
 
