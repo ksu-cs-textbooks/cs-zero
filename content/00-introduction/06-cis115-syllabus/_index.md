@@ -27,24 +27,25 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 
 - **Office:** 2214 Engineering Hall (DUE)
 - **Phone:** See calendar below 
-- **Office Hours:** 
+- **Office Hours:** weeser.net/calendar
   - **Want to meet with me?** https://calendly.com/weeser
 
-| Undergraduate Teaching Assistants |             |                                 |
-| --------------------------------- | ----------- | ------------------------------- |
-| **Name**                          | **Section** | **Office Hours (DUE 1118)**     |
-| Carrie Aponte                     |   CC110     |                                 |
-| Sicheng Chen                      |           |                                   |
-| Nathan Herscovici                 |   A,C       |                                 |
-| Nathan Lee                        |     B,D,E     |                                 |
-| Emma Lucas                        |    A,C,E      |                                 |
-| Ryan Stueve                       |     B,D     |                                 |
+**Undergraduate Teaching Assistants**
+*All TA office hours can be found on the embedded calendar below.*
+| **Name**                          | **Section** |
+| --------------------------------- | ----------- |
+| Carrie Aponte                     |   CC110     |
+| Sicheng Chen                      |   A,C       |
+| Nathan Herscovici                 |   A,C       |
+| Nathan Lee                        |   B,D,E     |
+| Emma Lucas                        |   A,C,E     |
+| Ryan Stueve                       |   B,D       | 
 
 <br/>
 
 ### Office Hours and Course Schedule
 
-<iframe src=https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&mode=WEEK&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161&color=%23009688 style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Required Texts
 - “The Pattern on the Stone: The Simple Ideas that Make Computers Work” by W. Daniel Hillis. **ISBN 046502596X**, newer version is also available and will work fine
