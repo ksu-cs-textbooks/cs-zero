@@ -36,9 +36,10 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 | --------------------------------- | ----------- |
 | Carrie Aponte                     |   CC110     |
 | Sicheng Chen                      |   A,C       |
+| Scarlett Fortney                  |   E         |
 | Nathan Herscovici                 |   A,C       |
-| Nathan Lee                        |   B,D,E     |
-| Emma Lucas                        |   A,C,E     |
+| Nathan Lee                        |   B,D       |
+| Emma Lucas                        |   A,C       |
 | Ryan Stueve                       |   B,D       | 
 
 <br/>
