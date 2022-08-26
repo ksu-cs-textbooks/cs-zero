@@ -20,16 +20,19 @@ pre: "6.1 "
 * **Email**: Please use "cc110-help" (cc110-help@ksuemailprod.onmicrosoft.com if not on web-mail) for all communication regarding these courses as it allows instructors and TAs to provide a clear and detailed response, as well as easily store and record communication for reference later. You should receive a response within one business day, and hopefully much sooner. Note emailing the instructor or teaching assistants directly may result in longer wait times for your support.
 
 
-### Teaching Assistants
+**Undergraduate Teaching Assistants**
+*All TA office hours can be found on the embedded calendar below.*
+| **Name**                          | **Section** |
+| --------------------------------- | ----------- |
+| Carrie Aponte                     |   CC110     |
+| Sicheng Chen                      |   A,C       |
+| Scarlett Fortney                  |   E         |
+| Nathan Herscovici                 |   A,C       |
+| Nathan Lee                        |   B,D       |
+| Emma Lucas                        |   A,C       |
+| Ryan Stueve                       |   B,D       | 
+| Mason Vick                        |   E         |
 
-| Undergraduate Teaching Assistants |                                     |
-| --------------------------------- | ----------------------------------- |
-| **Name**                          | **Office Hours (DUE 1118)**         |
-| Carrie Aponte (primary CC110 UTA) |             |
-| Nathan Herscovici                 |             |                                 
-| Nathan Lee                        |             |       
-| Emma Lucas                        |             |    
-| Ryan Stueve                       |             |
 
 ### Prerequisites
 
