@@ -132,6 +132,11 @@ To participate in this course, students must have access to a modern web browser
 
 ### Subject to Change
 
-The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the Canvas page for this course and emailed to all students. All changes may also be posted to Piazza.
+The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the Canvas page for this course and emailed to all students. 
+
+{{% notice warning %}}
+Effective 9/26/2022: Due to rampant plagiarism, the copying and pasting of code is no longer allowed. All coding must be done in the Codio IDE. Moving forward, if you paste any code into Codio (other than code which is explicitly given as starter code) you will receive an XF. The `X` indicates that academic dishonesty occurred and the `F` indicates that you failed the course. 
+{{% /notice %}}
+
 
 {{< syllabus exclude="facecoverings" >}}
