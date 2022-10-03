@@ -20,7 +20,7 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 
 - **Office:** 2161 Engineering Hall (DUE)  
 - **Phone:** Office - (785) 532-6350 
-- **Office  Hours:** Monday and Friday 10-12
+- **Office  Hours:** Monday 10-12 and Friday 11-1
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs 
 
 **Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A and C)
