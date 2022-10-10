@@ -5,6 +5,12 @@ weight: 50
 date: 2020-08-28T16:27:26-05:00
 ---
 
+{{% notice tip "VPN Off Campus" %}}
+
+To access CIS Linux while off campus, you must use K-State's VPN. You do not need to use the VPN when connected to KSU Wireless or KSU Housing wifi. Here is a reference for the K-State VPN including how to install and how to use it: https://www.k-state.edu/it/cybersecurity/vpn/ 
+
+{{% /notice %}}
+
 {{< youtube 2QiYIiZ_U5w >}}
 
 
