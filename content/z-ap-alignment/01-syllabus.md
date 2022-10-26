@@ -134,7 +134,7 @@ Notes: Add more on impacts? Take information from CIS 400/CC 410? In-class activ
 Students are introduced to the field of human-computer interaction, starting with the work of Douglas Engelbart and the "Mother of all Demos" exploring his NLS system. Students then learn about the history of modern computer interfaces, including the creation of the desktop metaphor used in most modern systems. Students also learn about some failed experiments such as Microsoft Bob and discuss what makes a good or bad interface. Students see the work of Don Norman and user-centered design. Finally, students are introduced to several new and interesting concepts in HCI and future computer interfaces, such as virtual/augmented reality, multi-touch interfaces, and examples of building accessible interfaces. 
 
 * **CRD** 1.2 Program Function & Purpose
-* **IOC** 5.1 Beneficial & Harmful Effects
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.4 Crowdsourcing
 
 Notes: discussion guide for Mother of All Demos? 
 
@@ -146,7 +146,7 @@ Students explore the history of the internet, starting with J.C.R. Licklider and
 
 * **CRD** 1.1 Collaboration 
 * **CSN** 4.1 The Internet
-* **IOC** 5.1 Beneficial & Harmful Effects
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.4 Crowdsourcing
 
 ##### Chapter 12 - How the Internet Works
 
@@ -165,14 +165,84 @@ Students learn the basics of web programming including HTML and CSS, and build a
 #### Unit 3 - CS Topics
 
 ##### Chapter 14 - High Performance Computing
+
+Students learn about the concepts behind high-performance computing and why we need larger and more powerful computers to tackle some of the world's biggest problems. Students explore ways that large problems can be broken down into smaller parts and run in parallel on multiple computers. Students also see some real-world examples of problems that high-performance computing can solve. Finally, students are given a virtual tour through K-State's own supercomputer. 
+
+* **CRD** 1.1 Collaboration, 1.3 Program Design & Development
+* **Data** 2.4 Using Programs with Data
+* **CSN** 4.3 Parallel & Distributed Computing
+* **IOC** 5.1 Beneficial & Harmful Effects
+
 ##### Chapter 15 - Compression & Error Checking
+
+Students explore various ways that data can be compressed, including run-length encoding and Huffman coding. Students also learn about methods for detecting and correcting errors in data, such as checksums. 
+
+* **DAT** 2.2 Data Compression, 2.3 Extracting Information from Data
+* **AAP** 3.2 Data Abstraction, 3.9 Developing Algorithms
+* **CSN** 4.2 Fault Tolerance
+
 ##### Chapter 16 - Cryptography
+
+Students learn the fundamental concepts and history of cryptography, starting with simple substitution ciphers. Students follow a case-study of the enigma machine and how it was defeated by the work of Alan Turing and others during the second world war. Students learn about modern cryptography principles including public-key cryptography, digital signatures, and perform a simple example of RSA encryption. 
+
+* **CSN** 4.1 The Internet
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.4 Crowdsourcing
+
+Notes: Add discussions!
+
 ##### Chapter 17 - Cybersecurity
+
+Students explore the basics of cybersecurity, including a math-based discussion of passwords and relative password strength, as well as how passwords can be stored securely in a program. Students also learn about various cybersecurity threats such as social engineering. 
+
+* **CSN** 4.1 The Internet
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.5 Legal & Ethical Concerns, 5.6 Safe Computing
+
+Notes: Add discussions!
+
 ##### Chapter 18 - Artificial Intelligence
+
+Students explore the field of artificial intelligence and what it means to say a machine is intelligent. Students engage in a discussion around the Turing Test and the Chinese Room counterexample. Students learn about intelligent agents and how they are used throughout the world, and explore other AI advancements such as neural networks and deep learning. 
+
+* **DAT** 2.3 Extracting Information from Data, 2.4 Using Programs with Data
+* **AAP** 3.16 Simulations
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.3 Computing Bias
+
+Notes: Add discussions!
+
 ##### Chapter 19 - Search & Information Retrieval
+
+Students explore the basics of databases and relational data. Students also learn about how information can be indexed and searched, followed by an introduction to ranking and the process of page rank for web searches. 
+
+* **DAT** 2.3 Extracting Information from Data, 2.4 Using Programs with Data
+* **AAP** 3.9 Developing Algorithms, 3.16 Simulations
+* **CSN** 4.1 The Internet
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.3 Computing Bias, 5.4 Crowdsourcing
+
+Notes - add bias to discussions
+
 ##### Chapter 20 - Big Data
+
+Students explore the impact of big data in computing and how it is being used to solve large-scale real-world problems in areas such as healthcare. Students are also introduced to the concept of map-reduce in programming.
+
+* **DAT** 2.3 Extracting Information from Data, 2.4 Using Programs with Data
+* **AAP** 3.9 Developing Algorithms
+* **CSN** 4.3 Parallel & Distributed Computing
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.4 Crowdsourcing
+
 ##### Chapter 21 - Ethics
+
+Students explore some of the legal and ethical impacts of computing, including intellectual property, bias, privacy, and fair use. Students also learn about the digital divide and how that impacts access to information and equity. 
+
+* **IOC** 5.1 Beneficial & Harmful Effects, 5.2 Digital Divide, 5.3 Computing Bias, 5.4 Crowdsourcing, 5.5 Legal & Ethical Concerns
+
+Notes - this is pretty aspirational?
+
 ##### Chapter 22 - Graphics & Video Games
+
+Students explore the basics of computer graphics and how they have evolved over time. Students learn about the "uncanny valley" effect. Students also see how early video game graphics were built, exploring concepts related to data compression and efficiency on such small systems.
+
+* **DAT** 2.1 Binary Numbers, 2.2 Data Compression
+* **AAP** 3.16 Simulations, 3.17 Algorithmic Efficiency
 
 ### Programming Content
 
