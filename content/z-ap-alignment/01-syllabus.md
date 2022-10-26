@@ -112,14 +112,55 @@ Students learn about the work of George Stibitz and the creation of the Model K 
 Notes: add examples to do in class
 
 ##### Chapter 8 - Computer Architecture
+
+Students learn about the development of the integrated circuit, seeing how it was the culmination of many small advancements by many different groups and how it helped solve the "Tyranny of Numbers" complexity problem of computers at that time. From there, students learn about Moore's Law and how more and more components are placed on integrated circuit chips, leading to the first microprocessor in the Intel 4004 chip. Students also are re-introduced to Von Neumann Architecture and the parts of a modern computer. Finally, students perform an in-class exercise introducing finite state machines and how they can be used to represent real-world ideas in a computer program.
+
+* **CRD** 1.1 Collaboration
+* **AAP** 3.3 Data Abstraction, 3.9 Developing Algorithms, 3.16 Simulations
+
+Notes: add finite state machine examples, talk about simulations
+
 ##### Chapter 9 - Software Engineering
+
+Students learn about the practice of software engineering, including the software crisis and the recognition of the need for better language structures and processes. Students explore the various stages of the software development life cycle and different methodologies such as waterfall, iterative/incremental development, and agile.
+
+* **CRD** 1.1 Collaboration, 1.3 Program Design & Development
+* **IOC** 5.1 Beneficial & Harmful Effects
+
+Notes: Add more on impacts? Take information from CIS 400/CC 410? In-class activity?
+
 ##### Chapter 10 - Human-Computer Interaction
+
+Students are introduced to the field of human-computer interaction, starting with the work of Douglas Engelbart and the "Mother of all Demos" exploring his NLS system. Students then learn about the history of modern computer interfaces, including the creation of the desktop metaphor used in most modern systems. Students also learn about some failed experiments such as Microsoft Bob and discuss what makes a good or bad interface. Students see the work of Don Norman and user-centered design. Finally, students are introduced to several new and interesting concepts in HCI and future computer interfaces, such as virtual/augmented reality, multi-touch interfaces, and examples of building accessible interfaces. 
+
+* **CRD** 1.2 Program Function & Purpose
+* **IOC** 5.1 Beneficial & Harmful Effects
+
+Notes: discussion guide for Mother of All Demos? 
 
 #### Unit 2 - The Internet
 
 ##### Chapter 11 - The History of the Internet
+
+Students explore the history of the internet, starting with J.C.R. Licklider and his "Intergalactic Computer Network" concept, leading to the creation of the ARPANET. Students see videos and information from many pivotal figures in the history of the internet including Leonard Kleinrock, Vint Cerf, and Tim Berners-Lee. Students learn how the development of HTML and the world wide web helped bring the internet to the public, and how the dot-com bubble was a major turning point in the early internet before the rise of social media. 
+
+* **CRD** 1.1 Collaboration 
+* **CSN** 4.1 The Internet
+* **IOC** 5.1 Beneficial & Harmful Effects
+
 ##### Chapter 12 - How the Internet Works
+
+Students learn about the developments that lead to the technology behind the internet, such as packet-switching, and the various protocols that make up the seven layer OSI network model. Students learn how these developments were meant to build robust, fault-tolerant networks that can work in a variety of conditions.
+
+* **CSN** 4.1 The Internet, 4.2 Fault Tolerance
+
 ##### Chapter 13 - Web Programming
+
+Students learn the basics of web programming including HTML and CSS, and build a simple JavaScript Tic-Tac-Toe game to explore interactivity on webpages. 
+
+* **CRD** 1.3 Program Design & Development
+* **AAP** 3.12 Calling Procedures, 3.13 Developing Procedures
+* **CSN** 4.1 The Internet
 
 #### Unit 3 - CS Topics
 
