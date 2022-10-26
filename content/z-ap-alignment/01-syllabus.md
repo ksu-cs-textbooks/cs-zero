@@ -29,6 +29,13 @@ The textbook can be found online at:
 * Alternate Link: https://ksu-cs-textbooks.github.io/cszero/ 
 * Authors & Contributors: https://core.cs.ksu.edu/authors/
 
+Much of the content in the eTextbook is broadly inspired by two books:
+
+* _The Pattern on the Stone: The Simple Ideas That Make Computers Work_ by W. Daniel Hillis
+* _Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers_ by John MacCormick
+
+These books are recommended reading for students in the AP version of this course but are not required. 
+
 ## CR 2 - Develop Understanding of Content
 
 _The course provides opportunities to develop student understanding of the required content outlined in each of the big ideas described in the AP Course and Exam Description._
@@ -45,12 +52,65 @@ They are separated to allow teachers flexibility in structuring the course each 
 #### Unit 1 - CS Concepts
 
 ##### Chapter 1 - What is Computing Science?
+
+Students are introduced to the field of computer science, including the original definition of a computer. They will learn about the reasons why pioneers such as Babbage and Lovelace desired to build machines to handle computations, reducing the risk of human error when computing mathematical tables. 
+
+* **DAT** 3.2 Data Abstraction, 3.16 Simulations
+* **IOC** 5.1 Beneficial & Harmful Effects
+
+Notes: Add direct call-out to simulation, talk about beneficial effects of computing
+
 ##### Chapter 2 - Early Computing Machines
+
+Students learn about the early history of computing machines, including the Antikythera Mechanism, abacus, and slide rule. Students then discuss and explore what features must be present in a device in order for it to be considered a computer, aiming for computation, storage, input, and output. Students are then introduced to key devices that pioneered the development of these features, such as Pascal's Calculator and the Leibniz Wheel (computation), Jacquard Loom (input via punch cards), Babbage's Difference Engine (output via press plates), and Babbage's Analytical Engine (integrating all items and including a storage mechanism). Students will see that the development of computer technology required input from many areas.
+
+* **CRD** 1.1 Collaboration, 1.2 Program Function & Purpose
+
+Notes: clearly call out the collaboration needed to build these tools; discuss how they were built to solve specific problems and have a set purpose
+
 ##### Chapter 3 - Bits & Boolean Algebra
+
+Students are introduced to the concepts in Boolean logic, including the AND, OR, NOT, and XOR operators. Students then explore Boolean algebra, observing how many of the rules have parallels directly to mathematics. Students also explore DeMorgan's Theorem. Students work on several examples in class, going from truth tables to Venn diagrams and finally Boolean logic expressions. From there, students see how Boolean logic can be implemented using simple electronic circuits, forming the building blocks of modern computers.
+
+* **AAP** 3.5 Boolean Expressions
+
+Notes: add discussion and examples to teacher guide
+
 ##### Chapter 4 - Programming
+
+Students explore the history of programming and many diverse pioneers such as Grace Hopper, Ada Lovelace and Margaret Hamilton. Students then learn what it means to actually "program" a computer and explore the process of taking code written in a high-level language (such as Java) and using tools such as compilers, interpreters, and assemblers to convert that code to assembly and eventually machine-level instructions that can actually be performed by a computer. 
+
+* **CRD** 1.1 Collaboration, 1.2 Program Function & Purpose
+* **AAP** 3.2 Data Abstraction
+
+Notes: show how modern programming process is built upon the work of many pioneers; discuss how high-level code and machine code demonstrate abstraction
+
 ##### Chapter 5 - Universal Computers
+
+Students learn about the work of Alan Turing and the concepts behind a universal computer like the Turing Machine. Students work through an example to build a simple Turing machine to mimic Boolean logic operators using a few simple instructions. From there, students see how the concept of a universal computer, coupled with the prior concepts from other historical computers, led to the creation of the Von Neumann Architecture that is used in most modern computers. 
+
+* **CRD** 1.1 Collaboration
+* **AAP** 3.2 Data Abstraction, 3.9 Developing Algorithms, 3.16 Simulations
+
+Notes: add Turing machine examples to teacher guide; clearly address turing machines as simulations. Add decidability?
+
 ##### Chapter 6 - Algorithms
+
+Students learn about Al-Khwarizmi and the history of the word "algorithm" before exploring simple algorithms such as Euclid's Algorithm. Students then go through an activity using playing cards to learn about four different sorting algorithms - insertion/selection sort, bubble sort, merge sort, and quicksort. At each step, students discuss how many "steps" it took to complete the algorithm, and then use that data to explore algorithmic complexity. Students are then introduced to Big-O notation as a way to compare the running time of algorithms, and by analyzing quicksort they also learn about the difference between worst-case and expected-case performance. Students are then introduced to the Traveling Salesman problem as a way to explore heuristics and the development of faster algorithms to find a good answer, but not necessarily the best answer. 
+
+* **AAP** 3.9 Developing Algorithms, 3.17 Algorithmic Efficiency
+
+Notes: add binary search? discuss lists? 
+
 ##### Chapter 7 - Encoding
+
+Students learn about the work of George Stibitz and the creation of the Model K computer, one of the first to use binary values when performing calculations. Using that motivation, students learn about binary numbers and representation, including twos complement for negative values, floating-point for decimal values, ASCII for text, and both vector and raster image formats. Students also briefly see the basics of compression by replacing repeated data with smaller representations, but also see a case study showing how that can lead to loss of data and errors if done improperly.
+
+* **DAT** 2.1 Binary Numbers, 2.2 Data Compression, 2.3 Extracting Information from Data
+* **AAP** 3.2 Data Abstraction
+
+Notes: add examples to do in class
+
 ##### Chapter 8 - Computer Architecture
 ##### Chapter 9 - Software Engineering
 ##### Chapter 10 - Human-Computer Interaction
