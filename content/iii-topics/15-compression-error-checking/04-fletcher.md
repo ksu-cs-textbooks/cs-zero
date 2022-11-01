@@ -7,7 +7,7 @@ date: 2020-10-16T00:27:26-05:00
 
 {{% notice warning warning-1 "Errata" %}}
 
-_The C2 total on the slide at 0:54 - 2:10 is incorrect. The total is $7336$ but that value modulo $255$ is $196$, not $96$ as shown in the video._
+_The C2 total on the slide at 0:54 - 2:10 is incorrect. The total is `7336` but that value modulo `255` is `196`, not `96` as shown in the video._
 
 {{% /notice %}}
 
