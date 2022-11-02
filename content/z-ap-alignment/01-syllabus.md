@@ -248,25 +248,107 @@ Students explore the basics of computer graphics and how they have evolved over 
 
 #### Lab 1 - Introduction
 
+This lab introduces students to the basics of the Codio interface and gives some examples of the various assessments contained in the labs.
+
 #### Labs 2 & 3 - Basic Programming
 
+These labs introduce students to the basic syntax of both pseudocode and Python. Students learn how to use a simple Linux terminal to navigate the file system and execute programs. Students learn to use `print` to display output, and explore examples of printing input with and without newline characters. Students learn to create basic variables that store strings. Students explore code tracing both by hand (in pseudocode) and using Python Tutor. Finally, students learn to create functions or procedures, including simple parameters and arguments, and learn how to create a `main` function or procedure for their programs. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.1 Variables & Assignments, 3.2 Data Abstraction, 3.4 Strings, 3.12 Calling Procedures, 3.13 Developing Procedures
+
 #### Labs 4 & 5 - Operations & Input
+
+These labs introduce math and string operators in both pseudocode and Python. Students learn about integer and floating-point data types and how to convert between the two. In addition, students learn how to return data from functions or procedures, and explore how to use the basics of function composition to combine expressions into more complex statements, such as using the result of a function call directly as an argument to another function. Students learn how to request input from the user and convert a string into a numerical value. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **DAT** - 2.1 Binary Numbers, 2.4 Using Programs with Data
+* **AAP** - 3.1 Variables & Assignments, 3.3 Mathematical Expressions, 3.12 Calling Procedures, 3.13 Developing Procedures
+
 #### Labs 6 & 7 - Conditionals
+
+These labs introduce students to conditional statements in both pseudocode and Python. Students learn about the Boolean data type and a number of Boolean operators and comparators used in Boolean expressions. Students then learn about if and if-else statements, and explore how to test their programs by developing inputs that achieve branch and path coverage. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.1 Variables & Assignments, 3.3 Mathematical Expressions, 3.5 Boolean Expressions, 3.6 Conditionals, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures
 
 #### Lab 8 - Homework 3
 
+This lab is a stand-in for homework 3, which is partially done in-class along with the unit on web programming. It is discussed below. 
+
 #### Lab 9 - Nested Conditionals
 
+In this lab, students explore the concepts being nesting and chaining conditionals. Students learn about the usefulness of mutual exclusion when designing conditional statements, and also explore the concept of variable scope and blocks of code. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.5 Boolean Expressions, 3.6 Conditionals, 3.7 Nested Conditionals, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures
+
 #### Labs 10 & 11 - Loops
+
+This lab introduces the concepts of loops and iteration in both pseudocode and Python. Students will see both for loops (iterating across a collection or range) and while loops (iterating while a Boolean condition is true). Students also learn how to use loops to prompt for input and repeat until a valid input is received. Students learn to test loops using inputs that achieve branch and path coverage. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.5 Boolean Expressions, 3.8 Iteration, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures
+
 #### Lab 12 - Nested Loops
+
+This lab reinforces previous learning on loops with examples on how to nest a loop inside of another loop. Students will learn how skills for tracing execution through these loops by hand and using Python tutor. Students also learn skills for testing these loops and developing inputs that properly explore the edge cases. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.5 Boolean Expressions, 3.8 Iteration, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures
+
 #### Lab 13 - Lists
+
+This lab introduces students to the list data structure in Python. Students learn about the list data type, including accessing elements by index and adding elements. Students explore how to use loops with lists to iterate through elements. Students learn that lists are handled in a "pass by reference" way when used as arguments to functions. Students learn that strings can also be treated like lists, and that lists can be sliced in a variety of ways.
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **DAT** - 2.4 Using Programs with Data
+* **AAP** - 3.1 Variables & Assignments, 3.2 Data Abstraction, 3.4 Strings, 3.9 Developing Algorithms, 3.10 Lists, 3.12 Calling Procedures, 3.13 Developing Procedures 
+
 #### Lab 14 - Dictionaries
+
+This lab introduces the dictionary data structure in Python. Students learn how to add and access elements in a dictionary, and how to iterate through all elements in a dictionary, including both keys and values. Students also see that dictionaries are treated similar to lists when used as function arguments. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **DAT** - 2.4 Using Programs with Data
+* **AAP** - 3.1 Variables & Assignments, 3.2 Data Abstraction, 3.4 Strings, 3.9 Developing Algorithms, 3.10 Lists, 3.12 Calling Procedures, 3.13 Developing Procedures, 3.16 Simulations
+
 #### Homework 1
+
+The first homework typically involves some sort of mathematical simulation, such as compound interest. It reinforces the topics of variables, numeric and string data types, reading input, using math operators, and formatting output. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.1 Variables & Assignments, 3.2 Data Abstraction, 3.3 Mathematical Expressions, 3.4 Strings, 3.5 Boolean Expressions, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures, 3.16 Simulations
+
 #### Homework 2
+
+The second homework typically involves conditional statements as well as mathematical operators and more practice with input, output, and functions.
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **AAP** - 3.1 Variables & Assignments, 3.3 Mathematical Expressions, 3.5 Boolean Expressions, 3.6 Conditionals, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures, 3.16 Simulations
+
 #### Homework 3 
+
+The third homework introduces students to creating websites with HTML and CSS. Students also follow a tutorial to create a simple game in JavaScript to explore interactivity on web pages. 
+
+* **AAP** - 3.2 Data Abstraction, 3.14 Libraries
+* **CSN** - 4.1 The Internet
+
 #### Homework 4
+
+The fourth homework covers the use of nested conditional statements, as well as user input and handling functions with parameters and return values.
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **DAT** - 2.3 Extracting Information from Data, 2.4 Using Programs with Data
+* **AAP** - 3.1 Variables & Assignments, 3.2 Data Abstraction, 3.3 Mathematical Expressions, 3.4 Strings, 3.5 Boolean Expressions, 3.6 Conditionals, 3.7 Nested Conditionals, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures, 3.16 Simulations
+
 #### Homework 5 
 
+The fifth homework covers the use of loops and advanced data structures such as lists or dictionaries. It usually involves a larger amount of input, either a string or a list of values. 
+
+* **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
+* **DAT** - 2.3 Extracting Information from Data, 2.4 Using Programs with Data
+* **AAP** - 3.1 Variables & Assignments, 3.2 Data Abstraction, 3.3 Mathematical Expressions, 3.4 Strings, 3.5 Boolean Expressions, 3.6 Conditionals, 3.7 Nested Conditionals, 3.8 Iteration, 3.9 Developing Algorithms, 3.10 Lists, 3.12 Calling Procedures, 3.13 Developing Procedures, 3.16 Simulations
 
 ## CR 3 - Develop Understanding of Big Ideas
 
