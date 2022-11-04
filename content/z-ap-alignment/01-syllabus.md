@@ -285,10 +285,10 @@ In this lab, students explore the concepts being nesting and chaining conditiona
 
 #### Labs 10 & 11 - Loops
 
-This lab introduces the concepts of loops and iteration in both pseudocode and Python. Students will see both for loops (iterating across a collection or range) and while loops (iterating while a Boolean condition is true). Students also learn how to use loops to prompt for input and repeat until a valid input is received. Students learn to test loops using inputs that achieve branch and path coverage. 
+This lab introduces the concepts of loops and iteration in both pseudocode and Python. Students will see both for loops (iterating across a collection or range) and while loops (iterating while a Boolean condition is true). Students also learn how to use loops to prompt for input and repeat until a valid input is received. Students learn to test loops using inputs that achieve branch and path coverage. Students also learn how to import the `random` library in Python and generate random integer values in a range. 
 
 * **CRD** - 1.2 Program Function & Purpose, 1.3 Program Design & Development, 1.4 Identifying & Correcting Errors
-* **AAP** - 3.5 Boolean Expressions, 3.8 Iteration, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures
+* **AAP** - 3.5 Boolean Expressions, 3.8 Iteration, 3.9 Developing Algorithms, 3.12 Calling Procedures, 3.13 Developing Procedures, 3.14 Libraries, 3.15 Random Values
 
 #### Lab 12 - Nested Loops
 
