@@ -354,34 +354,111 @@ The fifth homework covers the use of loops and advanced data structures such as 
 
 _The course provides opportunities to develop student understanding of the big ideas._
 
+### Big Idea 1 - Creative Development
+
+The course includes several programming assignments that are completed by the student. Each assignment requires the student to write code that solves a problem and meets an expected structure. Students will also write a reflection for each assignment that discusses their program design process, any problems solved or debugging performed, and resources or assistance used. Current homework assignments are described above in detail. Most assignments fit one or more of these categories:
+
+* Simple calculator program
+* Cash register or purchase simulator
+* HTML website and simple game
+* Decision tree simulator
+* Simple cipher program
+* Grade calculator
+* Random number simulator
+
+### Big Idea 2 - Data
+
+Students in this course explore data in a variety of ways. Students participate in an activity to see how data is represented in binary as integers and floating point, and how those numbers can be translated to text using ASCII, as well as colors and vectors to create images and videos. Another activity has students explore data compression and error checking. Students also participate in an activity to learn how data is used to train a neural network. 
+
+### Big Idea 3 - Algorithms & Programming
+
+Students participate in an activity using a deck of cards to learn various sorting algorithms (bubble sort, insertion sort, merge sort, and quicksort). Students also participate in an activity to simulate the random surfer model used by page rank. Students also learn about Turing machines and participate in a simple activity to develop an algorithm for a Turing machine that simulates a Boolean operator, such as "xor" on two binary values. 
+
+In addition, students perform many guided programming labs and unguided homeworks to further explore algorithms and programming, both in pseudocode as well as Python. 
+
+### Big Idea 4 - Computer Systems & Networks
+
+Students participate in an activity to simulate a packet-switched network as part of a number guessing game. Each team chooses a secret number and is assigned a name. Then, teams use a simulated DHCP protocol to be assigned an address, and then they can use a simulated DNS protocol to find the addresses assigned to other teams. Then, teams can send simulated HTTP packets to guess the receiving team's number, and they respond with HTTP response codes whether the correct number is "higher" or "lower" than the guess. Throughout the activity, students are encouraged to think about how a real network operates, and teachers are encouraged to allow some "packet loss" or even "reset the router" and force teams to re-connect to the network before continuing. This also leads to discussions of how packet-switched networks include fault tolerance. 
+
+In another activity, students simulate a map-reduce algorithm to count the words in a small poem, learning about parallel and distributed systems. 
+
+### Big Idea 5 - Impact of Computing
+
+Throughout the semester, students participate in many guided discussions about the impact of computing on the world and in society. Some discussion topics include:
+
+* Observed changes in Computing Technology over the years
+* Algorithms in the world and how they impact us
+* Human-Computer Interaction and UI design
+* The filter bubble
+* Evolution/Impact of Computer Graphics
+* "The Creepy Line" documentary video on ethics
+
 ## CR 4 - CT Practice 1: Computational Solution Design
 
 _The course provides opportunities for students to develop the skills related to Computational Thinking Practice 1: Computational Solution Design, as outlined in the AP Course and Exam Description._
+
+Students will write complete computer programs to solve various homework assignments that must meet a given specification. Students will need to determine the appropriate program structures to be used to solve the problem, and then develop and test their solution. 
+
+Through many of the in-class activities, students will also explore and discuss various existing ways computer scientists have solved real-world problems, such as the development of search algorithms, sorting algorithms, data compression, and error checking. Students will also evaluate the various methods and discuss their performance and tradeoffs. 
 
 ## CR 5 - CT Practice 2: Algorithms & Program Development
 
 _The course provides opportunities for students to develop the skills related to Computational Thinking Practice 2: Algorithms and Program Development, as outlined in the AP Course and Exam Description._
 
+Students will design and implement algorithms to solve a variety of computing tasks. Students will discuss the importance of carefully developing algorithms and using clear, explicit instructions through activities such as the classic "make a sandwich" unplugged activity. In the homework assignments, students will implement algorithms to make change in a transaction, guide users through a decision tree, and use a simple cipher to encode and decode secret messages. 
+
+Students will also explore a variety of computing concepts in pseudocode, requiring them to think and reason clearly about what the program will do, especially since they have no way to run the program and confirm the result directly.
+
 ## CR 6 - CT Practice 3: Abstraction in Program Development
 
 _The course provides opportunities for students to develop the skills related to Computational Thinking Practice 3: Abstraction in Program Development, as outlined in the AP Course and Exam Description._
+
+Students will write several programs that require user input, such as compound interest calculator or cash register simulator. Students will explore how the data input by the user is stored in variables and used to represent various items in the real world. 
+
+In another homework, students will use a simple cipher to encode and decode secret messages. Students will explore how text is made up of individual characters, and how we can use a randomized or reordered list of characters as a "key" to encode and decode the data. 
 
 ## CR 7 - CT Practice 4: Code Analysis
 
 _The course provides opportunities for students to develop the skills related to Computational Thinking Practice 4: Code Analysis, as outlined in the AP Course and Exam Description._
 
+In many of the lab assignments, students will complete many exercises that involve reading code and determining what is performed or what output is produced. Students will also participate in several code tracing activities (similar to Python Tutor) in both pseudocode and Python to explore procedure calls, passing arguments and returning values. 
+
+Students will also be asked to develop a number of test cases for various sample programs in the lab assignments, aiming to achieve either branch coverage or path coverage across code that contains conditional statements or loops.
+
 ## CR 8 - CT Practice 5: Computing Innovations
 
 _The course provides opportunities for students to develop the skills related to Computational Thinking Practice 5: Computing Innovations, as outlined in the AP Course and Exam Description._
+
+Students will explore many computing innovations throughout the course, starting with the history of computing and moving to modern advancements such as neural networks, computer graphics, the internet, and big data, among many others.
+
+Students will also participate in many discussions in-class and/or online on a variety of computing topics, such as how technology has changed during their lifetimes, the "filter bubble," observable algorithms in daily life, and more. Students will also explore some of the ethical and legal concerns around social media and cybersecurity. 
 
 ## CR 9 - CT Practice 6: Responsible Computing
 
 _The course provides opportunities for students to develop the skills related to Computational Thinking Practice 6: Responsible Computing, as outlined in the AP Course and Exam Description._
 
+Students will explore issues related to digital hygiene, such as using secure passwords, avoiding suspicious emails, and combatting social engineering and phishing tactics.
+
+Students will also discuss ways that computer interfaces and websites can be built to me more inclusive for users with limited access or ability to interact with the system. Students will also see examples of instances where artificial intelligence can introduce unintentional bias into the results. 
+
 ## CR 10 - Investigate Computing Innovations
 
 _The course provides a minimum of three opportunities for students to investigate different computing innovations._
 
+### Computing Innovation 1, Prompt A
+
+Students will participate in a guided discussion in class on the development of Web 2.0, the rise of social media, and its impacts on society. Students will explore both their own experiences interacting with social media, how it has impacted society and culture, and review any recent news articles related to the topic. Based on the discussion, students will write reflection papers to address the beneficial and harmful impacts of social media.
+
+### Computing Innovation 2, Prompt B
+
+Students will participate in an activity that simulates training an artificial neural network to identify animals. Each student is given a part of a larger image, and then all students vote on whether the overall image contains a cat or a dog. Students who get the answer correct are given more votes, simulating a higher weight in the neural network. This repeats for several iterations until the network is well trained. Students will discuss how the input data affects the quality of the output, and explore case-studies where training a neural network didn't work well or introduced unintentional bias in the output. Students will use this knowledge to write a short explanation in their own words of how neural networks work and how they are trained. 
+
+### Computing Innovation 3, Prompt C
+
+Students will learn about how to properly store and secure passwords in an application, involving the use of a hash function and a randomized salt value. Students will respond to prompts asking them to describe the security, privacy, and data storage concerns related to storing user account information and passwords for an application. 
+
 ## CR 11 - Create Performance Task
 
 _Students are provided at least 12 hours of dedicated class time to complete the AP Create Performance Task._
+
+Following the completion of the programming labs, students will be given at least 12 hours of class time across multiple class sessions to complete the AP Create Performance task.  
