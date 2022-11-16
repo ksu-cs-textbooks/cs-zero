@@ -26,11 +26,11 @@
     {{- partial "custom-header.html" . }}
   </head>
   <body class="mobile-support {{ (partial "output-format.hugo" .) }}{{- if .Site.Params.disableInlineCopyToClipBoard }} disableInlineCopyToClipboard{{ end }}" data-url="{{ .RelPermalink }}">
-    <div id="body" class="default-animation" data-iframe-height>
+    <div id="body" class="default-animation">
       <!-- [x] russfeld -->
       <!-- nav removed -->
       <!-- end -->
-      <main id="body-inner" class="highlightable {{ partial "archetype.hugo" (dict "hook" "styleclass" "page" . "parameter" .) }}" tabindex="-1">
+      <main id="body-inner" class="highlightable {{ partial "archetype.hugo" (dict "hook" "styleclass" "page" . "parameter" .) }}" tabindex="-1" data-iframe-height>
         <div class="flex-block-wrapper">
           <div id="head-tags">
 {{- partial "tags.html" . }}
