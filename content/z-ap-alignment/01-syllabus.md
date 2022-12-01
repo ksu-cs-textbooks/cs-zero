@@ -58,7 +58,7 @@ Students are introduced to the field of computer science, including the original
 * **DAT** 3.2 Data Abstraction, 3.16 Simulations
 * **IOC** 5.1 Beneficial & Harmful Effects
 
-Notes: Add direct call-out to simulation, talk about beneficial effects of computing
+<!--Notes: Add direct call-out to simulation, talk about beneficial effects of computing-->
 
 ##### Chapter 2 - Early Computing Machines
 
@@ -66,7 +66,7 @@ Students learn about the early history of computing machines, including the Anti
 
 * **CRD** 1.1 Collaboration, 1.2 Program Function & Purpose
 
-Notes: clearly call out the collaboration needed to build these tools; discuss how they were built to solve specific problems and have a set purpose
+<!--Notes: clearly call out the collaboration needed to build these tools; discuss how they were built to solve specific problems and have a set purpose-->
 
 ##### Chapter 3 - Bits & Boolean Algebra
 
@@ -74,7 +74,7 @@ Students are introduced to the concepts in Boolean logic, including the AND, OR,
 
 * **AAP** 3.5 Boolean Expressions
 
-Notes: add discussion and examples to teacher guide
+<!--Notes: add discussion and examples to teacher guide-->
 
 ##### Chapter 4 - Programming
 
@@ -83,7 +83,7 @@ Students explore the history of programming and many diverse pioneers such as Gr
 * **CRD** 1.1 Collaboration, 1.2 Program Function & Purpose
 * **AAP** 3.2 Data Abstraction
 
-Notes: show how modern programming process is built upon the work of many pioneers; discuss how high-level code and machine code demonstrate abstraction
+<!--Notes: show how modern programming process is built upon the work of many pioneers; discuss how high-level code and machine code demonstrate abstraction-->
 
 ##### Chapter 5 - Universal Computers
 
@@ -92,7 +92,7 @@ Students learn about the work of Alan Turing and the concepts behind a universal
 * **CRD** 1.1 Collaboration
 * **AAP** 3.2 Data Abstraction, 3.9 Developing Algorithms, 3.16 Simulations
 
-Notes: add Turing machine examples to teacher guide; clearly address turing machines as simulations. Add decidability?
+<!--Notes: add Turing machine examples to teacher guide; clearly address turing machines as simulations. Add decidability?-->
 
 ##### Chapter 6 - Algorithms
 
@@ -100,7 +100,7 @@ Students learn about Al-Khwarizmi and the history of the word "algorithm" before
 
 * **AAP** 3.9 Developing Algorithms, 3.17 Algorithmic Efficiency
 
-Notes: add binary search? discuss lists? 
+<!--Notes: add binary search? discuss lists?-->
 
 ##### Chapter 7 - Encoding
 
@@ -109,7 +109,7 @@ Students learn about the work of George Stibitz and the creation of the Model K 
 * **DAT** 2.1 Binary Numbers, 2.2 Data Compression, 2.3 Extracting Information from Data
 * **AAP** 3.2 Data Abstraction
 
-Notes: add examples to do in class
+<!--Notes: add examples to do in class-->
 
 ##### Chapter 8 - Computer Architecture
 
@@ -118,7 +118,7 @@ Students learn about the development of the integrated circuit, seeing how it wa
 * **CRD** 1.1 Collaboration
 * **AAP** 3.3 Data Abstraction, 3.9 Developing Algorithms, 3.16 Simulations
 
-Notes: add finite state machine examples, talk about simulations
+<!--Notes: add finite state machine examples, talk about simulations-->
 
 ##### Chapter 9 - Software Engineering
 
@@ -127,7 +127,7 @@ Students learn about the practice of software engineering, including the softwar
 * **CRD** 1.1 Collaboration, 1.3 Program Design & Development
 * **IOC** 5.1 Beneficial & Harmful Effects
 
-Notes: Add more on impacts? Take information from CIS 400/CC 410? In-class activity?
+<!--Notes: Add more on impacts? Take information from CIS 400/CC 410? In-class activity?-->
 
 ##### Chapter 10 - Human-Computer Interaction
 
@@ -136,7 +136,7 @@ Students are introduced to the field of human-computer interaction, starting wit
 * **CRD** 1.2 Program Function & Purpose
 * **IOC** 5.1 Beneficial & Harmful Effects, 5.4 Crowdsourcing
 
-Notes: discussion guide for Mother of All Demos? 
+<!--Notes: discussion guide for Mother of All Demos?-->
 
 #### Unit 2 - The Internet
 
@@ -188,7 +188,7 @@ Students learn the fundamental concepts and history of cryptography, starting wi
 * **CSN** 4.1 The Internet
 * **IOC** 5.1 Beneficial & Harmful Effects, 5.4 Crowdsourcing
 
-Notes: Add discussions!
+<!--Notes: Add discussions!-->
 
 ##### Chapter 17 - Cybersecurity
 
@@ -197,7 +197,7 @@ Students explore the basics of cybersecurity, including a math-based discussion 
 * **CSN** 4.1 The Internet
 * **IOC** 5.1 Beneficial & Harmful Effects, 5.5 Legal & Ethical Concerns, 5.6 Safe Computing
 
-Notes: Add discussions!
+<!--Notes: Add discussions!-->
 
 ##### Chapter 18 - Artificial Intelligence
 
@@ -207,7 +207,7 @@ Students explore the field of artificial intelligence and what it means to say a
 * **AAP** 3.16 Simulations
 * **IOC** 5.1 Beneficial & Harmful Effects, 5.3 Computing Bias
 
-Notes: Add discussions!
+<!--Notes: Add discussions!-->
 
 ##### Chapter 19 - Search & Information Retrieval
 
