@@ -12,6 +12,15 @@ weight: 10
 * **CSN** - Computer Systems & Networks
 * **IOC** - Impact of Computing
 
+## Computational Thinking Practices Guide
+
+* **CT1** - Computational Solution Design
+* **CT2** - Algorithms & Program Development
+* **CT3** - Abstraction in Program Development
+* **CT4** - Code Analysis
+* **CT5** - Computing Innovations
+* **CT6** - Responsible Computing 
+
 Reference: [AP Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf)
 
 ## CR 1 - Resources
