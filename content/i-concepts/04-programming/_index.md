@@ -11,3 +11,5 @@ pre = "<b>4. </b>"
 # Programming
 
 ![Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/0/0f/Ada_lovelace.jpg)
+
+<!-- TODO Add Liskov Talk from SIGCSE? -->
