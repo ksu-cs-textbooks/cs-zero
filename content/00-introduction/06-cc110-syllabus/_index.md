@@ -17,7 +17,7 @@ pre: "6.1 "
 
 #### Preferred Methods of Communication:
 
-* **Email**: Please use "cc110-help" (cc110-help@ksuemailprod.onmicrosoft.com if not on web-mail) for all communication regarding these courses as it allows instructors and TAs to provide a clear and detailed response, as well as easily store and record communication for reference later. You should receive a response within one business day, and hopefully much sooner. Note emailing the instructor or teaching assistants directly may result in longer wait times for your support.
+* **Email**: Please use "cc110-help" (cc110-help@ksuemailprod.onmicrosoft.com if not on web-mail) for all communication regarding these courses as it allows instructors and TAs to provide a clear and detailed response, as well as easily store and record communication for reference later. **You should receive a response within one business day, and hopefully much sooner.** Note emailing the instructor or teaching assistants directly may result in longer wait times for your support.
 
 
 **Undergraduate Teaching Assistants**
