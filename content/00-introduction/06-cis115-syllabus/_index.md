@@ -33,8 +33,11 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 *All TA office hours can be found on the embedded calendar below.*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
-| Nathan Herscovici                 |   A,C       |
-| Emma Lucas                        |   A,C       |
+| Nathan Herscovici                 |   B,C       |
+| Emma Lucas                        |   B,C       |
+| Carrie Aponte | - |
+| John Partridge | - | 
+| Ryan Stueve | - |
 
 
 <br/>
