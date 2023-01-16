@@ -35,8 +35,8 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 | --------------------------------- | ----------- |
 | Nathan Herscovici                 |   B,C       |
 | Emma Lucas                        |   B,C       |
+| John Partridge | B,C | 
 | Carrie Aponte | - |
-| John Partridge | - | 
 | Ryan Stueve | - |
 
 
