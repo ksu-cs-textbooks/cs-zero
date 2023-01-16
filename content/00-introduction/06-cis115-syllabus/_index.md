@@ -149,7 +149,8 @@ There will be some programming or written assignments given from time to time th
 - 15% - Programming Labs (*Lowest score is dropped*) and Programming Homework
 - 15% - Python Exams
 - 10% - Discussions 
-- 40% - Quizzes (*Lowest two scores are dropped*)
+- 30% - Quizzes (*Lowest two scores are dropped*)
+- 10% - Final Exam
 
 Letter grades will be assigned following the standard scale: 
 
