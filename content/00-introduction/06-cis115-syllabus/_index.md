@@ -145,9 +145,9 @@ Assignments are to be completed without any collaboration with classmates or oth
 There will be some programming or written assignments given from time to time that must be completed outside of class. It is acceptable to communicate with other students about the concepts in the assignment if you do not understand it, but you should not discuss the details of how the assignment should be completed. Your submission should be your own work, or the work of your small group if allowed by the instructor.  Some work will require you to look up certain programming syntax and techniques on the internet, **but** there is a fine line between learning and copying! ***When in doubt, ask!***
 
 #### Grading
-- 25% - Topic Research and Wiki Article
-- 12.5% - Programming Homework
-- 12.5% - Programming Labs (*Lowest score is dropped*)
+- 20% - Topic Research and Wiki Article
+- 15% - Programming Labs (*Lowest score is dropped*) and Programming Homework
+- 15% - Python Exams
 - 10% - Discussions 
 - 40% - Quizzes (*Lowest two scores are dropped*)
 
