@@ -153,4 +153,17 @@ We reserve the right to use various platforms that can perform automatic plagiar
 The copying and pasting of code is not allowed. All coding must be done in the Codio IDE. If you paste any code into Codio (other than code which is explicitly given as starter code in the course) a zero will be given. If the violation occurs a second time, an XF will be given for the course.
 {{% /notice %}}
 
+### Authorized Aid
+
+All graded work is individual effort. You are authorized  to use:
+
+1.      course’s materials,
+2.      direct web-links from this course
+3.      the appropriate languages documentation (https://docs.python.org/3/  or https://docs.oracle.com/javase/ Links to an external site.)
+4.      Email help received through  310 help email, CC - Instructors, GTAs
+5.      Zoom/In-person help received from Instructors or GTA
+6.      ACM help session (an on campus only resource) Most Tuesdays in EH 1116, 6:30PM. 
+7.      Tutors from the Academic Assistance Center or provided by K-State Athletics 
+Use of on-line solutions whether for reference or code is prohibited.  Use of previous semester's answers, whether your own or another student's is prohibited.  Use of code-completion/suggestion tool's, other than those we have installed in the Codio editor, is prohibited.
+
 {{< syllabus exclude="honesty">}}
