@@ -147,10 +147,11 @@ There will be some programming or written assignments given from time to time th
 #### Grading
 - 20% - Topic Research and Wiki Article
 - 15% - Programming Labs (*Lowest lab is dropped*) and Programming Homework
-- 15% - Python Exams
 - 10% - Discussions 
 - 30% - Quizzes (*Lowest two scores are dropped*)
-- 10% - Final Exam
+- Exams
+  - 15% - Python Exams
+  - 10% - Final Exam
 
 Letter grades will be assigned following the standard scale: 
 
@@ -196,4 +197,4 @@ We are part of the SafeZone community network of trained K-State  faculty/staff/
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the K-State Canvas page for this course and emailed to all students.
 
 ## Copyright Notification 
-Copyright 2022 (Joshua L. Weese and Emily Alfs-Votipka) as to this syllabus, all lectures, and course content. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
+Copyright 2023 (Joshua L. Weese and Emily Alfs-Votipka) as to this syllabus, all lectures, and course content. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
