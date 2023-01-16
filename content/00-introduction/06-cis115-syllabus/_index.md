@@ -137,7 +137,7 @@ Attendance accommodations include all COVID related causes, but Student Life sho
 ### Assignments
 
 {{% notice warning%}}
-Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don't get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden. This includes viewing posts as well. It also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. We have a **ZERO tolerance** policy in regard to academic dishonesty. Any violation of this policy will result in an immediate XF for the course.
+Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don't get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden and will result in an XF. This includes viewing posts as well. It also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. 
 
     *If you are struggling in the course or you have doubts on something, please ask!  Your instructors and TAs are here to help!*
 {{% /notice %}}
@@ -146,7 +146,7 @@ There will be some programming or written assignments given from time to time th
 
 #### Grading
 - 20% - Topic Research and Wiki Article
-- 15% - Programming Labs (*Lowest score is dropped*) and Programming Homework
+- 15% - Programming Labs (*Lowest lab is dropped*) and Programming Homework
 - 15% - Python Exams
 - 10% - Discussions 
 - 30% - Quizzes (*Lowest two scores are dropped*)
