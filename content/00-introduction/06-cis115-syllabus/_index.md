@@ -1,10 +1,10 @@
 ---
-title: "CIS 115 Syllabus - Fall 2022"
+title: "CIS 115 Syllabus - Spring 2023"
 weight: 62
 pre: "6.2 "
 ---
 
-## CIS 115 - Introduction to Computing Science - Fall 2022
+## CIS 115 - Introduction to Computing Science - Spring 2023
 
 [Previous Versions]({{<relref "./old">}})
 
@@ -16,14 +16,13 @@ pre: "6.2 "
 Communication can also be done through Microsoft Teams. If you have not been invited to join the team for CIS 115, please let any of us know and we will get you added.
 {{% /notice %}}
 
-**Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches sections B, D, and E)
+**Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches sections C)
 
 - **Office:** 2161 Engineering Hall (DUE)  
-- **Phone:** Office - (785) 532-6350 
-- **Office  Hours:** Monday 10-12 and Friday 11-1
+- **Office  Hours:** TBD
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs 
 
-**Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A and C)
+**Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections B )
 
 - **Office:** 2214 Engineering Hall (DUE)
 - **Phone:** See calendar below 
@@ -34,14 +33,9 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 *All TA office hours can be found on the embedded calendar below.*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
-| Carrie Aponte                     |   CC110     |
-| Sicheng Chen                      |   A,C       |
-| Scarlett Fortney                  |   E         |
 | Nathan Herscovici                 |   A,C       |
-| Nathan Lee                        |   B,D       |
 | Emma Lucas                        |   A,C       |
-| Ryan Stueve                       |   B,D       | 
-| Mason Vick                        |   E         |
+
 
 <br/>
 

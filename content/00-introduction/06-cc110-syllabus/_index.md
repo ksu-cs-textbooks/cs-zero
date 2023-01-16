@@ -1,10 +1,10 @@
 ---
-title: "CC 110 Syllabus - Fall 2022"
+title: "CC 110 Syllabus - Spring 2023"
 weight: 61
 pre: "6.1 "
 ---
 
-## CC 110 - Introduction to Computing - Fall 2022
+## CC 110 - Introduction to Computing - Spring 2023
 
 [Previous Versions]({{<relref "./old">}})
 
@@ -12,7 +12,7 @@ pre: "6.1 "
 
 * **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Office:** DUE 2161 
-- **Office  Hours:** Monday 10-12 and Friday 11-1
+- **Office  Hours:** TBD
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs
 
 #### Preferred Methods of Communication:
@@ -25,13 +25,7 @@ pre: "6.1 "
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
 | Carrie Aponte                     |   CC110     |
-| Sicheng Chen                      |   A,C       |
-| Scarlett Fortney                  |   E         |
-| Nathan Herscovici                 |   A,C       |
-| Nathan Lee                        |   B,D       |
-| Emma Lucas                        |   A,C       |
-| Ryan Stueve                       |   B,D       | 
-| Mason Vick                        |   E         |
+
 
 
 ### Prerequisites
@@ -39,6 +33,17 @@ pre: "6.1 "
 * None
 
 <iframe src=https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&mode=WEEK&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161&color=%23009688 style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+### How to Get Help in this  Course
+CC 110 can be an interesting course due to the large amount of material covered and much of the material is brand new to students. Therefore, you are encouraged to seek help whenever you feel you are being overwhelmed or don’t understand a topic. **You are not alone!** Most students in CC 110 have never studied anything relating to computer science before, so it is new to everyone. The instructors and TAs are ***always*** willing to help students with ***any*** questions you may have about the class or other issues related to Computing Science. So please, don’t be afraid to ask questions. Get help early and often!     
+
+Here are the 5 **recommended ways to get help** on CC 110:  
+
+- Review the course materials posted on K-State Canvas and the course website 
+- Send assignment questions to the CC 110 Help email ([cc110-help@ksuemailprod.onmicrosoft.com](mailto:cc110-help@ksuemailprod.onmicrosoft.com))  
+- Visit your professor's office hours, or the office hours for your TA if available  
+- Schedule a one-on-one meeting with your professor/TA  
 
 ### Course Overview
 
@@ -57,6 +62,7 @@ By the end of this course, each student will be able to:
 * Research and learn about new ideas and areas in Computing Science and share those ideas with others.
 * Develop a personal understanding of how Computing Science affects his or her own life.
 * Understand many different subject areas within Computing Science and how they are changing our understanding of the field.
+
 
 ### Major Course Topics
 
@@ -134,9 +140,17 @@ To participate in this course, students must have access to a modern web browser
 
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the Canvas page for this course and emailed to all students. 
 
+
+### Academic Honesty
+
+Kansas State University has an Honor and Integrity System based on personal integrity, which is presumed to be sufficient assurance that, in academic matters, one's work is performed honestly and without unauthorized assistance. Undergraduate and graduate students, by registration, acknowledge the jurisdiction of the Honor and Integrity System. The policies and procedures of the [Honor and Integrity System](https://www.k-state.edu/honor/) apply to all full and part-time students enrolled in undergraduate and graduate courses on-campus, off-campus, and via distance learning. A component vital to the Honor and Integrity System is the inclusion of the Honor Pledge which applies to all assignments, examinations, or other course work undertaken by students. The Honor Pledge is implied, whether or not it is stated: "On my honor, as a student, I have neither given nor received unauthorized aid on this academic work." A grade of XF can result from a breach of academic honesty. The F indicates failure in the course; the X indicates the reason is an Honor Pledge violation.
+
+**For this course, a violation of the Honor Pledge will result in sanctions such as a 0 on the assignment or an XF in the course, depending on severity. Actively seeking unauthorized aid, such as posting lab assignments on sites such as Chegg or StackOverflow or asking another person to complete your work, even if unsuccessful, will result in an immediate XF in the course.**
+
+We reserve the right to use various platforms that can perform automatic plagiarism detection by tracking changes made to files and comparing submitted projects against other students' submissions and known solutions. That information may be used to determine if plagiarism has taken place.
+
 {{% notice warning %}}
-Effective 9/26/2022: Due to rampant plagiarism, the copying and pasting of code is no longer allowed. All coding must be done in the Codio IDE. Moving forward, if you paste any code into Codio (other than code which is explicitly given as starter code) you will receive an XF. The `X` indicates that academic dishonesty occurred and the `F` indicates that you failed the course. 
+The copying and pasting of code is not allowed. All coding must be done in the Codio IDE. If you paste any code into Codio (other than code which is explicitly given as starter code in the course) a zero will be given. If the violation occurs a second time, an XF will be given for the course.
 {{% /notice %}}
 
-
-{{< syllabus exclude="facecoverings" >}}
+{{< syllabus exclude="honesty">}}
