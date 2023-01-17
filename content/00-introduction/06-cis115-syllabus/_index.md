@@ -53,6 +53,7 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 
 ### Required Texts
 - “The Pattern on the Stone: The Simple Ideas that Make Computers Work” by W. Daniel Hillis. **ISBN 046502596X**, newer version is also available and will work fine
+ - Free digital version though the KSU Library: https://k-state.primo.exlibrisgroup.com/permalink/01KSU_INST/1bihi0g/alma9942605917302401 
 - “Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers” by John MacCormick. **ISBN 0691158193**
 - “A Byte of Python” by Swwaroop C.H.
     - This book is free! Its accessed at https://python.swaroopch.com/ 
