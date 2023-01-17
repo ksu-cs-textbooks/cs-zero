@@ -38,7 +38,7 @@ pre: "6.1 "
 ### How to Get Help in this  Course
 CC 110 can be an interesting course due to the large amount of material covered and much of the material is brand new to students. Therefore, you are encouraged to seek help whenever you feel you are being overwhelmed or don’t understand a topic. **You are not alone!** Most students in CC 110 have never studied anything relating to computer science before, so it is new to everyone. The instructors and TAs are ***always*** willing to help students with ***any*** questions you may have about the class or other issues related to Computing Science. So please, don’t be afraid to ask questions. Get help early and often!     
 
-Here are the 5 **recommended ways to get help** on CC 110:  
+Here are the 4 **recommended ways to get help** on CC 110:  
 
 - Review the course materials posted on K-State Canvas and the course website 
 - Send assignment questions to the CC 110 Help email ([cc110-help@ksuemailprod.onmicrosoft.com](mailto:cc110-help@ksuemailprod.onmicrosoft.com))  
@@ -162,7 +162,7 @@ All graded work is individual effort. You are authorized  to use:
 1.      course’s materials,
 2.      direct web-links from this course
 3.      the appropriate languages documentation (https://docs.python.org/3/  or https://docs.oracle.com/javase/ Links to an external site.)
-4.      Email help received through  310 help email, CC - Instructors, GTAs
+4.      Email help received through  110 help email, CC - Instructors, GTAs
 5.      Zoom/In-person help received from Instructors or GTA
 6.      ACM help session (an on campus only resource) Most Tuesdays in EH 1116, 6:30PM. 
 7.      Tutors from the Academic Assistance Center or provided by K-State Athletics 
