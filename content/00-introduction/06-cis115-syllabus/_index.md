@@ -19,7 +19,7 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 **Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches sections C)
 
 - **Office:** 2161 Engineering Hall (DUE)  
-- **Office  Hours:** TBD
+- **Office  Hours:** M/W 1:00-3:00
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs 
 
 **Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections B )

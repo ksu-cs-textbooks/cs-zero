@@ -12,7 +12,7 @@ pre: "6.1 "
 
 * **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Office:** DUE 2161 
-- **Office  Hours:** TBD
+- **Office  Hours:** M/W 1:00-3:00
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs
 
 #### Preferred Methods of Communication:
