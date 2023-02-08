@@ -12,7 +12,7 @@ hidden: true
 	<p><small><a href="https://people.cs.ksu.edu/~nhbean/cis400/a-learning-programming/">https://people.cs.ksu.edu/~nhbean/cis400/a-learning-programming/</a></small></p>
 </section>
 <section>
-	<p><i>The person doing the <b>work</b> is the person going the <b>learning</b>.</i><br>- Various Educators</p>
+	<p><i>The person doing the <b>work</b> is the person doing the <b>learning</b>.</i><br>- Various Educators</p>
 </section>
 <section>
 	<h2>Myth</h2>
