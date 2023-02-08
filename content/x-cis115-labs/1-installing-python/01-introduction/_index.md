@@ -7,6 +7,8 @@ date: 2021-01-15T00:00:01-05:00
 
 {{< youtube U6uxnVMMZ98 >}}
 
+<!-- TODO Update Video to remove Atom -->
+
 In this lab, we're going to cover various ways to install Python on your computer. First, we'll cover the basic way to install Python on a Windows system. To begin, open a web browser and go to python.org/downloads. Here you can find downloads for the latest version of Python for Windows as well as other operating systems. I'm going to click the button here to download the latest version of Python for Windows. 
 
 Once the file is downloaded, I can double click it to open and run the installer. When we run the installer, there are a couple of options that we'll want to change. Notice by default, it will install Python into this complicated directory here, which can make it very hard to find. Also, it does not add Python to the path which we definitely want to do. So we'll check mark this checkbox and then we will customize the installation. We'll go ahead and check mark the boxes to install all of the optional features. When choosing advanced options, we can check mark the option to install for all users, which will place Python in the program files directory, making it much easier to find. We can click install and it will install very quickly. 
