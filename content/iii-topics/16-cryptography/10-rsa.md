@@ -5,11 +5,20 @@ weight: 55
 date: 2020-10-24T00:27:26-05:00
 ---
 
+{{% notice warning "Error in Video" %}}
+
+In the video, the values of `d` and `e` are swapped at one point. Thankfully, this doesn't matter since they are commutative and can be used in any order, but it is a bit confusing. We'll correct this video in the future!
+
+{{% /notice %}}
+
+<!-- TODO Fix Video -->
+
 {{< youtube J2s00V7fPmY >}}
 
-
 #### Resources
+
 * [Slides](../slides/22-Cryptography.pdf)
+* [RSA Calculator Worksheet](https://www.cs.drexel.edu/~jpopyack/Courses/CSP/Wi18/notes/10.1_Cryptography/RSAWorksheetv4e.html)
 
 #### Video Script
 
