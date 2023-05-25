@@ -2275,6 +2275,13 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Feb 2021 00:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Introduction</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/00-intro/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/00-intro/</guid>
+      <description>Loops are one of the most useful ways we can modify the control flow in our programs. With both loops and conditional statements in our list of available programming skills, we can write programs that execute different branches of code based on a Boolean expression, and we can also repeatedly execute the same piece of code either a defined number of times or while a Boolean expression evaluates to True.</description>
+    </item>
+    <item>
       <title>While Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/01-while-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>

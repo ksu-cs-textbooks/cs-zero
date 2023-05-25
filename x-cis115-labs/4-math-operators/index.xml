@@ -2275,13 +2275,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jan 2021 00:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/00-intro/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/00-intro/</guid>
-      <description>A great way to think of a computer program is that it is a process of telling the computer how to store and manipulate data. Everything from simple calculators all the way to the latest video games can all fit this definition. So far, we&amp;rsquo;ve only worked with one type of data in this course - strings. Strings are very useful, since they can be used to print text and information for the user to see via the user interface, but they are very limited when it comes to other uses.</description>
-    </item>
-    <item>
       <title>Numeric Data</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/01-numeric-data/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
