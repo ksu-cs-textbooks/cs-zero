@@ -1,0 +1,133 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <pre><code style="font-size: 30px; line-height: 33px" class="language-python stretch">import random
+import string
+<br>
+def encode(secret, step):
+    output = ""
+    for i in secret:
+        output = output + i
+        for j in step:
+            output = output + random.choice(string.ascii_lowercase)
+    return output
+<br>
+def decode(code, step):
+    return code[::step]
+<br>
+def main():
+    secret = input("Enter a secret word")
+    step = int(input("Enter a positive integer"))
+    code = encode(secret, step)
+    print("Your code is:")
+    print(code)
+    print()
+    decoded = decode(code, step)
+    print("I can decode it back to:")
+    print(decoded)
+<br>
+main()
+</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_7.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_10.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_12.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_13.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_14.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_15.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_16.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_17.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_24.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_102.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_104.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_107.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_109.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor12_111.png">
+</section>
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>

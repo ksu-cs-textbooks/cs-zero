@@ -1,0 +1,131 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <h3>Return Statement</h3>
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-plaintext stretch">PROCEDURE mult_mod(value, multiply, modulo)
+{
+    value <- value * multiply
+    value <- value MOD modulo
+    RETURN(value)
+}<br>
+PROCEDURE main()
+{
+    DISPLAY("Enter a value: ")
+    text <- INPUT()
+    value <- NUMBER(text)
+    answer <- mult_mod(value, 5, 3)
+    DISPLAY(answer)
+}<br>
+main()
+</code></pre>
+</section>
+<section>
+    <h3>Return Statement</h3>
+    <pre><code style="font-size: 45px; line-height: 50px" class="language-plaintext stretch">PROCEDURE mult_mod(value, multiply, modulo)
+{
+    value <- value * multiply
+    value <- value MOD modulo
+    <mark>RETURN(value)</mark>
+}<br>
+PROCEDURE main()
+{
+    DISPLAY("Enter a value: ")
+    text <- INPUT()
+    value <- NUMBER(text)
+    answer <- mult_mod(value, 5, 3)
+    DISPLAY(answer)
+}<br>
+main()
+</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_1.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_3.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_5.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_6.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_7.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_10.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_11.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_12.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8_13.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace8.gif">
+</section>
+
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>

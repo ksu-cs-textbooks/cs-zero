@@ -1,0 +1,133 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <h3>Creating a List</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">list_1 = []</code></pre>
+	<br>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-python stretch">list_2 = [1, 2, 3]</code></pre>
+</section>
+<section>
+    <h3>Adding to a List</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">list_2 = [1, 2, 3]
+list_2.append(4)</code></pre>
+</section>
+<section>
+    <h3>Accessing List Items</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">list_2 = [1, 2, 3]
+print(list_2[0])    # 1
+print(list_2[1])    # 2
+print(list_2[2])    # 3</code></pre>
+</section>
+<section>
+    <h3>Updating List Items</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">list_2 = [1, 2, 3]
+list_2[1] = 5
+print(list_2)       # [1, 5, 3]</code></pre>
+</section>
+<section>
+    <pre><code style="font-size: 50px; line-height: 55px" class="language-python stretch">def main():
+    sums = []
+    total = 0
+    for i in range(1, 5):
+        total = total + i
+        sums.append(total)
+    print(sums)
+<br>
+main()</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_4.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_5.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_6.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_7.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_9.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_10.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_12.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_15.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_18.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_19.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10_20.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab13/tutor10.gif">
+</section>
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>

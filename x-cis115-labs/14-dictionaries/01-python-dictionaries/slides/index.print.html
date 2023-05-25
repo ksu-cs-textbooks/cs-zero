@@ -1,0 +1,143 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <h3>Creating a Dictionary</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">dict_1 = {}</code></pre>
+	<br>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-python stretch">dict_2 = {"a": 1, "b": 2, "c": 3}</code></pre>
+</section>
+<section>
+    <h3>Creating a Dictionary</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">dict_3 = {
+    "cat": "mammal",
+    "lizard": "reptile",
+    "goldfish": "fish",
+    "chickadee": "bird"
+}</code></pre>
+</section>
+<section>
+    <h3>Adding to a Dictionary</h3>
+    <pre><code style="font-size: 60px; line-height: 70px" class="language-python stretch">dict_1 = {}
+dict_1["Kansas"] = "Topeka"
+dict_1["Nebraska"] = "Lincoln"
+dict_1["Missouri"] = "Jefferson City"
+</code></pre>
+</section>
+<section>
+    <h3>Accessing Dictionary Items</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">dict_3 = {
+    "cat": "mammal",
+    "lizard": "reptile",
+    "goldfish": "fish",
+    "chickadee": "bird"
+}</code></pre>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-python stretch">print(dict_3["cat"])   # mammal</code></pre>
+</section>
+<section>
+    <h3>Updating Dictionary Items</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-python stretch">dict_3 = {
+    "cat": "mammal",
+    "lizard": "reptile",
+    "goldfish": "fish",
+    "chickadee": "bird"
+}</code></pre>
+	<pre class="fragment"><code style="font-size: 70px; line-height: 80px" class="language-python stretch">dict_3["cat"] = "feline"<br>
+print(dict_3["cat"])   # feline</code></pre>
+</section>
+<section>
+    <pre><code style="font-size: 45px; line-height: 55px" class="language-python stretch">def main():
+    base = int(input("Enter a whole number: "))
+    powers = {}
+    for i in range(6):
+        powers["{}^{}".format(base, i)] = base ** i
+    print(powers)
+<br>
+main()</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_4.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_5.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_6.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_7.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_9.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_10.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_19.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13_20.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab14/tutor13.gif">
+</section>
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>

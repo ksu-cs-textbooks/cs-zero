@@ -1,0 +1,121 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <pre><code style="font-size: 40px; line-height: 50px" class="language-plaintext stretch">PROCEDURE swap(one, two)
+{
+    temp <- one
+    one <- two
+    two <- temp
+    DISPLAY(one)
+    DISPLAY(two)
+}<br>
+PROCEDURE main()
+{
+    first <-  "Willie"
+    last <- "Wildcat"
+    swap(first, last)
+    DISPLAY(first)
+    DISPLAY(last)
+}<br>
+main()</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_1.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_6.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_9.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_10.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_11.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_12.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_13.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_14.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_18.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_19.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_20.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6_24.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace6.gif">
+</section>
+
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>

@@ -1,0 +1,137 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <h3>Input Expression</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext stretch">DISPLAY("Enter your name: ")
+name <- INPUT()
+DISPLAY("Hello ")
+DISPLAY(name)
+</code></pre>
+    <br>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext"><br>
+</code></pre>
+</section>
+<section>
+    <h3>Input Expression</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext stretch">DISPLAY("Enter your name: ")
+name <- INPUT()
+DISPLAY("Hello ")
+DISPLAY(name)
+</code></pre>
+    <br>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext">Enter your name: <mark> </mark><br>
+</code></pre>
+</section>
+<section>
+    <h3>Input Expression</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext stretch">DISPLAY("Enter your name: ")
+name <- INPUT()
+DISPLAY("Hello ")
+DISPLAY(name)
+</code></pre>
+    <br>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext">Enter your name: <mark>Willie Wildcat</mark><br>
+</code></pre>
+</section>
+<section>
+    <h3>Input Expression</h3>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext stretch">DISPLAY("Enter your name: ")
+name <- INPUT()
+DISPLAY("Hello ")
+DISPLAY(name)
+</code></pre>
+    <br>
+    <pre><code style="font-size: 70px; line-height: 80px" class="language-plaintext">Enter your name: Willie Wildcat
+Hello Willie Wildcat</code></pre>
+</section>
+<section>
+    <h3>Numerical Input</h3>
+    <pre><code style="font-size: 55px; line-height: 65px" class="language-plaintext stretch">DISPLAY("Enter a number: ")
+text <- INPUT()
+number <- NUMBER(text)
+square <- number * number
+DISPLAY("The square of your input is ")
+DISPLAY(square)
+</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_1.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_2.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_3.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_4.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_5.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_6.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab4/trace7.gif">
+</section>
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>

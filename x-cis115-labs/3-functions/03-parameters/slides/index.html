@@ -1,0 +1,125 @@
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title></title>
+
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reset.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/theme/black.css">
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/css/reveal-theme.css">
+
+		
+		<link rel="stylesheet" href="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+    <b>parameters</b>: required inputs for a procedure<br>
+    <b>arguments</b>: values in procedure calls stored as parameters
+</section>
+<section>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext stretch">PROCEDURE hello_world(first_name, last_name)
+{
+    DISPLAY("Hello ")
+    DISPLAY(first_name)
+    DISPLAY(" ")
+    DISPLAY(last_name)
+}</code></pre>
+</section>
+<section>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">hello_world("Willie", "Wildcat")</code></pre>
+    <br>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext"> </code></pre>
+    <br>
+    <br>
+</section>
+<section>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">hello_world("Willie", "Wildcat")</code></pre>
+    <br>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext">Hello Willie Wildcat</code></pre>
+    <br>
+    <br>
+</section>
+<section>
+    <pre><code style="font-size: 50px; line-height: 60px" class="language-plaintext stretch">PROCEDURE hello_world(first_name, last_name)
+{
+    DISPLAY("Hello ")
+    DISPLAY(first_name)
+    DISPLAY(" ")
+    DISPLAY(last_name)
+}<br>
+PROCEDURE main()
+{
+    hello_world("Willie", "Wildcat")
+}<br>
+main()</code></pre>
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_1.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_5.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_6.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_7.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_8.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_14.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5_15.png">
+</section>
+<section>
+	<img class="stretch plain" src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab2/trace5.gif">
+</section>
+
+			</div>
+		</div>
+
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/dist/reveal.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/markdown/markdown.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/highlight/highlight.js"></script>
+		<script src="https://ksu-cs-textbooks.github.io/cs-zero/reveal/plugin/math/math.js"></script>
+		<script>
+			
+			
+			
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial:false,
+				progress: false,
+				transition: 'fade',
+				width: 1440,
+				height: 1080,
+				highlight: {
+					escapeHTML: false
+				},
+
+				
+				plugins: [ RevealMarkdown, RevealHighlight, RevealMath ]
+			});
+
+			window.addEventListener("mousedown", handleClick, false);
+			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+			function handleClick(e) {
+				e.preventDefault();
+				if(e.button === 0) Reveal.next();
+				if(e.button === 2) Reveal.prev();
+			}
+		</script>
+	</body>
+</html>
