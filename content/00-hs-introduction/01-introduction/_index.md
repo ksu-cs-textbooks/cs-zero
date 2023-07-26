@@ -1,10 +1,12 @@
 ---
-title: "Course Introduction - 2022-2023"
+title: "Course Introduction - 2023-2024"
 pre: "1. "
 weight: 10
 ---
 
-{{< youtube b2ORPVwfXZw >}}
+<!-- TODO Record Video -->
+
+{{< youtube  >}}
 
 #### Resources
 
@@ -15,13 +17,13 @@ weight: 10
 
 [Slide 1] 
 
-Hello and welcome to the Computational Core program!
+Hello and welcome to the Cyber Pipeline program!
 
-My name is Russ Feldhausen, and I’ll be one of the instructors for this program. My contact information is shown here, and is also listed on the syllabus
+My name is Russ Feldhausen, and I’ll be one of the instructors for this program. 
 
 [Slide 2]
 
-There are many other instructors for this program that you may see in the tutorial videos. They all have been instrumental in the development of this program. 
+There are many other instructors for this program that you may see in the tutorial videos. They all have been instrumental in the development of this program. You'll see me, along with many of my colleagues at Kansas State University, in the videos throughout this course.
 
 [Slide 3]
 
@@ -35,9 +37,9 @@ In addition to Canvas, we’ll be using the online learning platform Codio for m
 
 [Slide 5]
 
-The Computational Core program consists of several courses, and each course contains a number of learning modules. There are about 15-20 modules in each course. Each module will usually consist of some lecture material and quizzes, and there are a few modules which include a programming component. The modules themselves are gated, which means that you must complete each item in the module in order before continuing. In addition, the modules enforce prerequisite requirements from other modules. 
+The Cyber Pipeline program consists of several courses, and each course contains a number of learning modules. Each module will usually consist of some lecture material and quizzes, and there are a few modules which include a programming component. The modules themselves are gated, which means that you must complete each item in the module in order before continuing. In addition, the modules enforce prerequisite requirements from other modules. 
 
-You are welcome to work on this course at any time during the week as your schedule allows, provided that you complete each module before the listed due date. Your teachers will work with you to set due dates for your individual class. The modules are self-contained, ut have some differences in grading. For CC 110, all of the programming content is manually graded, and I'll be working with your teachers to get things graded in a timely manner. Nearly all of the grading in the CC 210 course is completed automatically through Canvas and Codio.
+You are welcome to work on this course at any time during the week as your schedule allows, provided that you complete each module before the listed due date. Your teachers will work with you to set due dates for your individual class. The modules are self-contained, but have some differences in grading.
 
 [Slide 6]
 
@@ -45,27 +47,25 @@ Looking ahead to the rest of this introductory module, you’ll see that there a
 
 [Slide 7]
 
-One thing we highly encourage each of you to do is read the syllabus for this course in its entirety, and let us know if you have any questions. My view is that the syllabus is a contract between me as your teacher and you as a student, defining how each of us should treat each other and what we should expect from each other. We have made a few changes to the standard syllabus template for this program, and those changes are clearly highlighted. Finally, the syllabus itself is subject to change as needed as we adapt this program to meet the needs of its students, and all changes will be clearly communicated to everyone before they take effect.
+One thing we highly encourage each of you to do is read the syllabus for this course in its entirety, and let us know if you have any questions. My view is that the syllabus is a contract between me as your teacher and you as a student, defining how each of us should treat each other and what we should expect from each other. Finally, the syllabus itself is subject to change as needed as we adapt this program to meet the needs of its students, and all changes will be clearly communicated to everyone before they take effect.
 
-Your high school teachers may also give you an addition to this syllabus that outlines their own expectations in the classroom. So, their statements will take precedence over my syllabus in your classroom.
-
-[Slide 7]
-
-One very important part of the syllabus that every student should read is the late work policy. First off, each module has a due date, and you may work on that module at any time before it is due, provided you have met the prerequisites. As discussed before, you must do all the readings and assignments in a module in listed order before moving on, so you cannot jump ahead. A module is considered completed when all items have been completed.
-
-If any work is submitted after the due date, a penalty of 10% of the total points possible in that assignment will be deducted for each day it is late, up to a maximum of 3 days. After 3 days beyond the due date, you will receive a 0 on the assignment. Please refer to the full late policy in the syllabus for more information about how late work is handled in this course.
-
-Finally, even if a module is late, it still must be completed before you can move on to a later module. So, it is very important to avoid getting behind in this course, as it can be very difficult to get back on track. If you ever find that you are struggling to keep up, please don't be afraid to contact either the instructors or GTAs for assistance. We'd be happy to help you get caught back up quickly.
+Your high school teachers may also give you an addition to this syllabus that outlines their own expectations in the classroom, including how they will handle due dates and late work. So, their statements will take precedence over my syllabus in your classroom.
 
 [Slide 8]
 
-The grading in this course is very simple. For CC 110, 60% of the grade comes from the lectures and quizzes that make up the bulk of the learning content around computing science. 10% of your grade comes from the few interactive discussions you'll engage in online. Finally, 15% of your grade comes from the programming labs, where you'll be able to drop your 1 lowest lab grade, and the other 15% comes from the programming homework assignments. 
+The grading schemes for each of these courses are pretty simple. 
+
+In CC 110, 80% of the grade comes from completing the tutorials & quizzes, and 20% of the grade comes from participating in the discussions around various computer science topics.
+
+For CC 111, 60% of the grade comes from the lab assignments that introduce new programming concepts, and 40% of the grade comes from the homeworks you'll complete to demonstrate what you've learned in the labs. 
+
+Finally, for CC 210, 70% of the grade comes from the programming projects, and 30% of the grade is from the tutorials.
+
+In each of these classes, your teacher may choose to adjust the weights used in this grading scheme. They will let you know of any changes they've made. 
 
 [Slide 9]
 
-For CC 210, 70% of your grade comes from the various programming projects throughout the semester, and the other 30% comes from your work on the programming tutorials and quizzes in both Codio and Canvas.
-
-In this program, the standard "90-80-70-60" grading scale will apply, though I reserve the right to curve grades up to a higher grade level at my discretion. Therefore, you will never be required to get higher than 90% for an A, but you may get an A if you score slightly below 90% if I choose to curve the grades.
+In this program, the standard "90-80-70-60" grading scale will apply, though your teacher reserves the right to curve grades up to a higher grade level at their discretion. Therefore, you will never be required to get higher than 90% for an A, but you may get an A if you score slightly below 90% if they choose to curve the grades.
 
 [Slide 10]
 

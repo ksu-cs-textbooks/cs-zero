@@ -5,6 +5,8 @@ weight: 30
 date: 2018-08-24T10:53:26-05:00
 ---
 
+<!-- todo remove? -->
+
 {{< youtube dhko8kjuz9c >}}
 
 #### Resources

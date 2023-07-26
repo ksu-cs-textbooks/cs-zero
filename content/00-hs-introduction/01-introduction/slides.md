@@ -4,16 +4,12 @@ hidden: true
 ---
 <section>
 	<h2>Welcome to the</h2>
-	<img class="plain stretch" src="/images/core-logo-on-white.svg">
+	<img class="plain stretch" src="/images/pipeline-logo-on-white.svg">
 </section>
 <section>
 	<h3>Russell Feldhausen</h3>
 	<p>
 		<i>Pronouns: he/him</i><br>
-		(785) 292-3121 (Call/Text)<br>
-		2213 Engineering Hall<br>
-		<i>(working remotely)</i><br>
-		<br>
 		<b>russfeld AT ksu DOT edu</b><br>
 		https://russfeld.me  -  @russfeld<br>
 	</p>
@@ -22,10 +18,10 @@ hidden: true
 	<h3>Other Instructors & TAs</h3>
 	<ul>
 		<li>Emily Alfs-Votipka</li>
-		<li>Nathan Bean</li>
-		<li>George "Bud" LaVezzi</li>
-		<li>Joshua Weese</li>
+		<li>Dr. Nathan Bean</li>
 		<li>Dr. Scott DeLoach</li>
+		<li>George "Bud" LaVezzi</li>
+		<li>Dr. Joshua Weese</li>
 	</ul>
 </section>
 <section>
@@ -41,8 +37,6 @@ hidden: true
 		<li>Lectures, Quizzes, Projects</li>
 		<li>Gated - Must Complete in Order</li>
 		<li>Work Around your Schedule</li>
-		<li>CC 110 - Manual Grading</li>
-		<li>CC 210 - Automated Grading</li>
 	</ul>
 </section>
 <section>
@@ -53,7 +47,6 @@ hidden: true
 		<li>Where to Get Help</li>
 		<li>Plagiarism</li>
 		<li>Extra Credit</li>
-		<li>Course Readiness Quiz</li>
 	</ul>
 </section>
 <section>
@@ -62,38 +55,35 @@ hidden: true
 		<li>Contract Between Teacher & Student</li>
 		<li>Read Carefully</li>
 		<li>Ask Questions</li>
-		<li>Diversity Statement</li>
-		<li>Netiquette</li>
 		<li><i>Subject to Change</i></li>
-	</ul>
-</section>
-<section>
-  <h3>Late Work</h3>
-	<ul>
-		<li>Each Module has a Due Date</li>
-		<li>Complete ALL Work in Module</li>
-		<li>Still Must Complete Module</li>
-		<li><b><i>Don't Get Behind!</i></b></li>
 	</ul>
 </section>
 <section>
 	<h3>CC 110 Grading</h3>
 	<ul>
-	    <li>60% Lectures & Quizzes</li>
-	    <li>10% Discussions</li>
-	    <li>15% Programming Labs (Drop 1 Lowest)</li>
-			<li>15% Programming Homeworks</li>
+	    <li>80% Tutorials & Quizzes</li>
+	    <li>20% Discussions</li>
+	</ul>
+	<p>Standard 90-80-70-60 grading scale</p>
+</section>
+<section>
+	<h3>CC 111 Grading</h3>
+	<ul>
+	    <li>60% Labs</li>
+	    <li>40% Homeworks</li>
 	</ul>
 	<p>Standard 90-80-70-60 grading scale</p>
 </section>
 <section>
 	<h3>CC 210 Grading</h3>
 	<ul>
-	    <li>30% Tutorials & Quizzes</li>
 	    <li>70% Programming Projects</li>
+	    <li>30% Tutorials</li>
 	</ul>
 	<p>Standard 90-80-70-60 grading scale</p>
 </section>
+
+
 <section>
 	<h3>What's Different?</h3>
 	<ul>
