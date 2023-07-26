@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CIS 115 Syllabus - Spring 2023 on CC 110 Textbook</title>
+    <title>CIS 115 Syllabus - Spring 2023 on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cis115-syllabus/</link>
-    <description>Recent content in CIS 115 Syllabus - Spring 2023 on CC 110 Textbook</description>
+    <description>Recent content in CIS 115 Syllabus - Spring 2023 on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cis115-syllabus/index.xml" rel="self" type="application/rss+xml" />
   </channel>

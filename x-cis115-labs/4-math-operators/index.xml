@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math Operators on CC 110 Textbook</title>
+    <title>Math Operators on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/</link>
-    <description>Recent content in Math Operators on CC 110 Textbook</description>
+    <description>Recent content in Math Operators on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jan 2021 00:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/index.xml" rel="self" type="application/rss+xml" />

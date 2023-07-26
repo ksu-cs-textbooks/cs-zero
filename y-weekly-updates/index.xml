@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weekly Updates on CC 110 Textbook</title>
+    <title>Weekly Updates on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/</link>
-    <description>Recent content in Weekly Updates on CC 110 Textbook</description>
+    <description>Recent content in Weekly Updates on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jan 2021 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/index.xml" rel="self" type="application/rss+xml" />

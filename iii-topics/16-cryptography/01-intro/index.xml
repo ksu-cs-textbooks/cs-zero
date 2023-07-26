@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on CC 110 Textbook</title>
+    <title>Introduction on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/01-intro/</link>
-    <description>Recent content in Introduction on CC 110 Textbook</description>
+    <description>Recent content in Introduction on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Oct 2020 00:27:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/01-intro/index.xml" rel="self" type="application/rss+xml" />

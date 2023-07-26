@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Data on CC 110 Textbook</title>
+    <title>Big Data on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/02-big-data/</link>
-    <description>Recent content in Big Data on CC 110 Textbook</description>
+    <description>Recent content in Big Data on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Oct 2020 00:27:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/02-big-data/index.xml" rel="self" type="application/rss+xml" />

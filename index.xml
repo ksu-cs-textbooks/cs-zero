@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on CC 110 Textbook</title>
+    <title>Homepage on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/</link>
-    <description>Recent content in Homepage on CC 110 Textbook</description>
+    <description>Recent content in Homepage on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 May 2021 01:01:01 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/index.xml" rel="self" type="application/rss+xml" />
@@ -2287,13 +2287,6 @@
       <pubDate>Tue, 08 Dec 2020 00:53:05 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/</guid>
       <description>Part I Computer Science Concepts The basic building blocks of computer science theory and programming, along with a bit of history!</description>
-    </item>
-    <item>
-      <title>HS Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/</guid>
-      <description>Chapter 0 High School Introduction Welcome to the Computer Science Introductory course!</description>
     </item>
     <item>
       <title>The Internet</title>

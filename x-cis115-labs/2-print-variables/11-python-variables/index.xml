@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Variables on CC 110 Textbook</title>
+    <title>Variables on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/11-python-variables/</link>
-    <description>Recent content in Variables on CC 110 Textbook</description>
+    <description>Recent content in Variables on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 00:00:01 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/11-python-variables/index.xml" rel="self" type="application/rss+xml" />

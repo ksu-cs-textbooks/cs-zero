@@ -2268,19 +2268,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nested Loops on CC 110 Textbook</title>
+    <title>Nested Loops on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/</link>
-    <description>Recent content in Nested Loops on CC 110 Textbook</description>
+    <description>Recent content in Nested Loops on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Apr 2021 00:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/00-intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/00-intro/</guid>
-      <description>In the last few labs, we explored how we can use iterative structures in our code, such as while loops and for loops, to repeat steps a certain number of times or while a Boolean condition is true. This is a very powerful tool, since it allows us to build programs that can repeatedly ask the user to provide input until a valid value is received, or even perform a repeated calculation until it reaches a desired result.</description>
-    </item>
     <item>
       <title>Nested While Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/</link>

@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Electronic Computing (Crash Course) on CC 110 Textbook</title>
+    <title>Electronic Computing (Crash Course) on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/04-electronic-computing/</link>
-    <description>Recent content in Electronic Computing (Crash Course) on CC 110 Textbook</description>
+    <description>Recent content in Electronic Computing (Crash Course) on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 16:27:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/04-electronic-computing/index.xml" rel="self" type="application/rss+xml" />

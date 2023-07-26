@@ -2268,9 +2268,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testing Nested Loops on CC 110 Textbook</title>
+    <title>Testing Nested Loops on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/03-testing-nested-loops/</link>
-    <description>Recent content in Testing Nested Loops on CC 110 Textbook</description>
+    <description>Recent content in Testing Nested Loops on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Apr 2021 00:00:01 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/03-testing-nested-loops/index.xml" rel="self" type="application/rss+xml" />
