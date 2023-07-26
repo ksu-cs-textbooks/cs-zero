@@ -2279,7 +2279,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/00-intro/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/00-intro/</guid>
-      <description>Previously, we learned how we can use lists in Python to store multiple values, or elements, in a single variable. Each element in a list is given an index, which allows us to uniquely reference and identify each element&amp;rsquo;s position in a list. Python lists use consecutive integers starting at $0$ as indexes, which makes for a pretty easy to use data structure.
+      <description>YouTube Video Previously, we learned how we can use lists in Python to store multiple values, or elements, in a single variable. Each element in a list is given an index, which allows us to uniquely reference and identify each element&amp;rsquo;s position in a list. Python lists use consecutive integers starting at $0$ as indexes, which makes for a pretty easy to use data structure.
 However, what if we would like to use some other value besides an integer as the index?</description>
     </item>
     <item>
@@ -2287,14 +2287,14 @@ However, what if we would like to use some other value besides an integer as the
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/01-python-dictionaries/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/01-python-dictionaries/</guid>
-      <description>Resources Slides In theory, a dictionary is very similar to a list in Python - it is a data structure that can store many different items within a single variable. However, instead of just storing single values as elements and assigning them sequential indexes, dictionaries store a number of key-value pairs. A key is any value that can be used as a unique identifier for the associated value to be stored in the dictionary.</description>
+      <description>YouTube Video Resources Slides In theory, a dictionary is very similar to a list in Python - it is a data structure that can store many different items within a single variable. However, instead of just storing single values as elements and assigning them sequential indexes, dictionaries store a number of key-value pairs. A key is any value that can be used as a unique identifier for the associated value to be stored in the dictionary.</description>
     </item>
     <item>
       <title>Loops with Dictionaries</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/02-loops-with-dictionaries/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/02-loops-with-dictionaries/</guid>
-      <description>Resources Slides Another useful way we can work with dictionaries in Python is by iterating through them. In Python 3.6 and beyond, the items in a dictionary will be presented in the same order that they were added to the dictionary. This isn&amp;rsquo;t always the case in other languages or older versions of Python
+      <description>YouTube Video Resources Slides Another useful way we can work with dictionaries in Python is by iterating through them. In Python 3.6 and beyond, the items in a dictionary will be presented in the same order that they were added to the dictionary. This isn&amp;rsquo;t always the case in other languages or older versions of Python
 Loops with Dictionaries - Keys There are two ways we can iterate through a dictionary in Python.</description>
     </item>
     <item>
@@ -2302,7 +2302,7 @@ Loops with Dictionaries - Keys There are two ways we can iterate through a dicti
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/03-dictionaries-and-functions/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/03-dictionaries-and-functions/</guid>
-      <description>Resources Slides Finally, let&amp;rsquo;s briefly look at how dictionaries operate when used as parameters to functions in Python. As we can probably guess from the earlier example in Python Tutor, dictionaries also use call by reference, just like lists.
+      <description>YouTube Video Resources Slides Finally, let&amp;rsquo;s briefly look at how dictionaries operate when used as parameters to functions in Python. As we can probably guess from the earlier example in Python Tutor, dictionaries also use call by reference, just like lists.
 Here&amp;rsquo;s a short example program in Python that demonstrates the use of dictionaries with functions.
 def add_score(scores): name = input(&amp;#34;Enter a name: &amp;#34;) score = int(input(&amp;#34;Enter a score: &amp;#34;)) scores[name] = score def average_score(scores): total = 0 for key, value in scores.</description>
     </item>
@@ -2311,7 +2311,7 @@ def add_score(scores): name = input(&amp;#34;Enter a name: &amp;#34;) score = in
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/04-worked-example/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/04-worked-example/</guid>
-      <description>Resources Slides Finally, let&amp;rsquo;s go through a complete worked example program that uses dictionaries in Python. Consider the following problem statement:
+      <description>YouTube Video Resources Slides Finally, let&amp;rsquo;s go through a complete worked example program that uses dictionaries in Python. Consider the following problem statement:
 Write a program that will compute the score of a given word in a game of Scrabble. Assume that there are no special squares present. The program should prompt the user to input a string that only contains letters, and then compute the total score of that string by summing the value assigned to each letter.</description>
     </item>
     <item>

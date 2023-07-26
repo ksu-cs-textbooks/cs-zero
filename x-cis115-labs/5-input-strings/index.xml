@@ -2279,21 +2279,21 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/00-intro/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/00-intro/</guid>
-      <description>Manipulating data is a key part of any useful computer program, and Python is a great language for learning how to do just that. In this lab, we&amp;rsquo;re going to expand our knowledge of Python to include numeric data types, which allow us to store numbers in variables. We&amp;rsquo;ll also learn about the mathematical operators we can use to manipulate the data in those variables, and how we can convert data between the various different types we&amp;rsquo;ve learned about so far.</description>
+      <description>YouTube Video Manipulating data is a key part of any useful computer program, and Python is a great language for learning how to do just that. In this lab, we&amp;rsquo;re going to expand our knowledge of Python to include numeric data types, which allow us to store numbers in variables. We&amp;rsquo;ll also learn about the mathematical operators we can use to manipulate the data in those variables, and how we can convert data between the various different types we&amp;rsquo;ve learned about so far.</description>
     </item>
     <item>
       <title>Pseudocode Input</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/01-pseudocode-input/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/01-pseudocode-input/</guid>
-      <description>Resources Slides So far, we&amp;rsquo;ve mainly focused on writing programs that can store and manipulate data, but the data itself has always been included in the code itself. While that approach is great for learning the basics, real programs often need to receive data as input from the user. This allows programs to truly be interactive and perform work based on what the user needs. So, let&amp;rsquo;s introduce a new expression in pseudocode that allows our programs to receive input from the user.</description>
+      <description>YouTube Video Resources Slides So far, we&amp;rsquo;ve mainly focused on writing programs that can store and manipulate data, but the data itself has always been included in the code itself. While that approach is great for learning the basics, real programs often need to receive data as input from the user. This allows programs to truly be interactive and perform work based on what the user needs. So, let&amp;rsquo;s introduce a new expression in pseudocode that allows our programs to receive input from the user.</description>
     </item>
     <item>
       <title>String Concatenation</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/02-string-concat/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/02-string-concat/</guid>
-      <description>Resources Slides So far we&amp;rsquo;ve only looked at operators that can be used on two numeric values, but there are also a few operations we can perform on strings as well. Let&amp;rsquo;s look at one important operator that is commonly used with strings - the concatenation operator. In pseudocode, like most other programming languages, we&amp;rsquo;ll use the plus symbol + to represent the concatenation operator.
+      <description>YouTube Video Resources Slides So far we&amp;rsquo;ve only looked at operators that can be used on two numeric values, but there are also a few operations we can perform on strings as well. Let&amp;rsquo;s look at one important operator that is commonly used with strings - the concatenation operator. In pseudocode, like most other programming languages, we&amp;rsquo;ll use the plus symbol + to represent the concatenation operator.
 The term concatenate may be a new term, since it isn&amp;rsquo;t used very often outside of programming.</description>
     </item>
     <item>
@@ -2301,7 +2301,7 @@ The term concatenate may be a new term, since it isn&amp;rsquo;t used very often
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/03-return-procedures/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/03-return-procedures/</guid>
-      <description>Resources Slides Getting data from the user is one way we can store data in our programs. What if we want to create a procedure that produces a new data value? We can do that using a special statement called the return statement.
+      <description>YouTube Video Resources Slides Getting data from the user is one way we can store data in our programs. What if we want to create a procedure that produces a new data value? We can do that using a special statement called the return statement.
 In a procedure, we can choose any expression to be the result of calling the procedure, which will allow us to use the procedure as part of an expression instead of a statement.</description>
     </item>
     <item>
@@ -2309,7 +2309,7 @@ In a procedure, we can choose any expression to be the result of calling the pro
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/04-complex-pseudocode/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/04-complex-pseudocode/</guid>
-      <description>Resources Slides Previously, we worked through this simple example pseudocode program:
+      <description>YouTube Video Resources Slides Previously, we worked through this simple example pseudocode program:
 DISPLAY(&amp;#34;Enter a number: &amp;#34;) text &amp;lt;- INPUT() number &amp;lt;- NUMBER(text) square &amp;lt;- number * number DISPLAY(&amp;#34;The square of your input is &amp;#34;) DISPLAY(square) However, we can greatly shorten this program&amp;rsquo;s code using a couple of programming features that we have not covered yet. Let&amp;rsquo;s look at how we can do that.
 Expressions of Expressions The single biggest thing to understand about expressions in programming is that we can usually combine them in a variety of different ways.</description>
     </item>
@@ -2318,14 +2318,14 @@ Expressions of Expressions The single biggest thing to understand about expressi
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/05-python-input/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/05-python-input/</guid>
-      <description>Resources Slides The Python programs we&amp;rsquo;ve written up to this point are very static - each time we run the program, it will perform the same exact operations. Since we&amp;rsquo;re running these programs on a real computer, it might be helpful to build programs that can read and respond to input from the user, making them much more useful overall. Python includes many different ways to handle user input, but in this lab we&amp;rsquo;ll just focus on the simple input() function.</description>
+      <description>YouTube Video Resources Slides The Python programs we&amp;rsquo;ve written up to this point are very static - each time we run the program, it will perform the same exact operations. Since we&amp;rsquo;re running these programs on a real computer, it might be helpful to build programs that can read and respond to input from the user, making them much more useful overall. Python includes many different ways to handle user input, but in this lab we&amp;rsquo;ll just focus on the simple input() function.</description>
     </item>
     <item>
       <title>Python Strings</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/06-python-strings/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/06-python-strings/</guid>
-      <description>Resources Slides Python also includes an operator that can be used to concatenate two strings together. Just like in pseudocode, we can use the plus symbol + between two strings to concatenate them together into a single string, making it much simpler to build more complex strings and outputs.
+      <description>YouTube Video Resources Slides Python also includes an operator that can be used to concatenate two strings together. Just like in pseudocode, we can use the plus symbol + between two strings to concatenate them together into a single string, making it much simpler to build more complex strings and outputs.
 A simple example is shown below:
 first = &amp;#34;Hello&amp;#34; second = &amp;#34;World&amp;#34; print(first + second) When executed, this code will display this output:</description>
     </item>
@@ -2334,7 +2334,7 @@ first = &amp;#34;Hello&amp;#34; second = &amp;#34;World&amp;#34; print(first + s
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/07-return-functions/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/07-return-functions/</guid>
-      <description>Resources Slides Python functions are also capable of returning a value, just like we&amp;rsquo;ve seen in pseudocode. In Python, we use the return keyword, instead of a RETURN() statement, but the concept is the same.
+      <description>YouTube Video Resources Slides Python functions are also capable of returning a value, just like we&amp;rsquo;ve seen in pseudocode. In Python, we use the return keyword, instead of a RETURN() statement, but the concept is the same.
 Let&amp;rsquo;s look at a quick example of a full Python program that includes a function that returns a value:
 def square_sum(one, two): one = one * one two = two * two total = one + two return total def main(): text_one = input(&amp;#34;Enter the first number: &amp;#34;) one = int(text_one) text_two = input(&amp;#34;Enter the second number: &amp;#34;) two = int(text_two) total = square_sum(one, two) print(&amp;#34;The sum of squares of {} and {} is {}&amp;#34;.</description>
     </item>
@@ -2343,9 +2343,8 @@ def square_sum(one, two): one = one * one two = two * two total = one + two retu
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/08-complex-python/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/08-complex-python/</guid>
-      <description>Resources Slides Finally, let&amp;rsquo;s look at how we can rewrite some of our previous Python programs by combining expressions into more complex statements. Just like we saw in pseudocode, Python also allows us to perform multiple actions on a single line of code, provided they can all be combined in some way to create a single statement.
-Let&amp;rsquo;s consider the example on the previous page, shown here:
-def square_sum(one, two): one = one * one two = two * two total = one + two return total def main(): text_one = input(&amp;#34;Enter the first number: &amp;#34;) one = int(text_one) text_two = input(&amp;#34;Enter the second number: &amp;#34;) two = int(text_two) total = square_sum(one, two) print(&amp;#34;The sum of squares of {} and {} is {}&amp;#34;.</description>
+      <description>YouTube Video Resources Slides Finally, let&amp;rsquo;s look at how we can rewrite some of our previous Python programs by combining expressions into more complex statements. Just like we saw in pseudocode, Python also allows us to perform multiple actions on a single line of code, provided they can all be combined in some way to create a single statement.
+Let&amp;rsquo;s consider the example on the previous page, shown here:</description>
     </item>
     <item>
       <title>Summary</title>

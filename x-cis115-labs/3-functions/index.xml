@@ -2279,7 +2279,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/01-pseudocode-procedures/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/01-pseudocode-procedures/</guid>
-      <description>Resources Slides As our programs get larger and larger, we&amp;rsquo;ll probably find that we keep repeating pieces of code over and over again in our programs. In fact, we&amp;rsquo;ve probably already done that a few times just working through this lab. What if we had some way to build a small block of code once, and then reuse it over and over again in our programs?
+      <description>YouTube Video Resources Slides As our programs get larger and larger, we&amp;rsquo;ll probably find that we keep repeating pieces of code over and over again in our programs. In fact, we&amp;rsquo;ve probably already done that a few times just working through this lab. What if we had some way to build a small block of code once, and then reuse it over and over again in our programs?
 Thankfully, this is a core feature of most programming languages!</description>
     </item>
     <item>
@@ -2287,7 +2287,7 @@ Thankfully, this is a core feature of most programming languages!</description>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/02-main-procedure/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/02-main-procedure/</guid>
-      <description>Resources Slides Up to this point, we&amp;rsquo;ve simply written code and expected it to run easily in our &amp;ldquo;mental model&amp;rdquo; of a computer. However, many programming languages place one additional requirement on code that we should also follow: all code must be part of a procedure.
+      <description>YouTube Video Resources Slides Up to this point, we&amp;rsquo;ve simply written code and expected it to run easily in our &amp;ldquo;mental model&amp;rdquo; of a computer. However, many programming languages place one additional requirement on code that we should also follow: all code must be part of a procedure.
 What does this mean? Put simply, we shouldn&amp;rsquo;t place any code in our programs that isn&amp;rsquo;t part of a procedure. Or, put another way, our programs should only consist of procedures and nothing else.</description>
     </item>
     <item>
@@ -2295,14 +2295,14 @@ What does this mean? Put simply, we shouldn&amp;rsquo;t place any code in our pr
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/03-parameters/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/03-parameters/</guid>
-      <description>Resources Slides The last new concept we&amp;rsquo;re going to introduce in this lab is the concept of parameters. We just learned how to create procedures in our code, but our current understanding of procedures has one very important flaw in it: a procedure will always do the same thing each time we call it! What if we want to write a procedure that performs the same operation, but uses different data each time?</description>
+      <description>YouTube Video Resources Slides The last new concept we&amp;rsquo;re going to introduce in this lab is the concept of parameters. We just learned how to create procedures in our code, but our current understanding of procedures has one very important flaw in it: a procedure will always do the same thing each time we call it! What if we want to write a procedure that performs the same operation, but uses different data each time?</description>
     </item>
     <item>
       <title>Expressions as Arguments</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/04-expressions-arguments/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/04-expressions-arguments/</guid>
-      <description>Resources Slides Let&amp;rsquo;s briefly consider one more important situation that may arise when calling procedures. What if the arguments provided in a procedure call are variables themselves? What does that look like?
+      <description>YouTube Video Resources Slides Let&amp;rsquo;s briefly consider one more important situation that may arise when calling procedures. What if the arguments provided in a procedure call are variables themselves? What does that look like?
 Let&amp;rsquo;s work through an example:
 PROCEDURE swap(one, two) { temp &amp;lt;- one one &amp;lt;- two two &amp;lt;- temp DISPLAY(one) DISPLAY(two) } PROCEDURE main() { first &amp;lt;- &amp;#34;Willie&amp;#34; last &amp;lt;- &amp;#34;Wildcat&amp;#34; swap(first, last) DISPLAY(first) DISPLAY(last) } main() Before reading the code trace below, take a moment to read this code and see if you can predict what the output will be.</description>
     </item>
@@ -2311,7 +2311,7 @@ PROCEDURE swap(one, two) { temp &amp;lt;- one one &amp;lt;- two two &amp;lt;- te
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/05-python-functions/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/05-python-functions/</guid>
-      <description>Resources Slides Python also supports the use of procedures, which allows us to write small pieces of code that can be repeatedly used throughout our programs. In Python, we call these procedures functions. We&amp;rsquo;ve already seen one example of a function in Python - the print statement is actually a function! Let&amp;rsquo;s look at how we can create and use functions in Python.
+      <description>YouTube Video Resources Slides Python also supports the use of procedures, which allows us to write small pieces of code that can be repeatedly used throughout our programs. In Python, we call these procedures functions. We&amp;rsquo;ve already seen one example of a function in Python - the print statement is actually a function! Let&amp;rsquo;s look at how we can create and use functions in Python.
 Creating a Function The process of creating a function in Python is very similar to the way we created a procedure in pseudocode.</description>
     </item>
     <item>
@@ -2319,7 +2319,7 @@ Creating a Function The process of creating a function in Python is very similar
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/06-main-parameters-arguments/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/06-main-parameters-arguments/</guid>
-      <description>Resources Slides Let&amp;rsquo;s review a couple other concepts related to functions in Python. These will closely mirror what we&amp;rsquo;ve already learned in pseudocode, so we&amp;rsquo;ll cover them pretty quickly here.
+      <description>YouTube Video Resources Slides Let&amp;rsquo;s review a couple other concepts related to functions in Python. These will closely mirror what we&amp;rsquo;ve already learned in pseudocode, so we&amp;rsquo;ll cover them pretty quickly here.
 Main Function Just like in pseudocode, we can also create a main function in Python. The use of a main function in Python is not required at all - Python is designed as a scripting language, meaning we can write code directly in a Python file without using any functions at all.</description>
     </item>
     <item>
