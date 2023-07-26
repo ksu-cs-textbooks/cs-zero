@@ -1,9 +1,9 @@
 # Base URL where the site will be hosted
-baseURL = "https://textbooks.cs.ksu.edu/cc110"
+baseURL = "https://textbooks.cs.ksu.edu/cs-zero"
 # Default language for the site
 languageCode = "en-us"
 # Site Title
-title = "CC 110 Textbook"
+title = "Intro CS Textbook"
 # This will fix URLs to match baseURL (for hosting in subfolders)
 canonifyURLs = true
 # This displays last edited information at bottom of page
@@ -32,11 +32,11 @@ theme = ["hugo-theme-relearn"]
   # Prefix URL to edit current page. Will display an "Edit" button on top right hand corner of every page.
   # Useful to give opportunity to people to create merge request for your doc.
   # See the config.toml file from this documentation site to have an example.
-  editURL = "https://gitlab.cs.ksu.edu/-/ide/project/cc/110/generic/textbook/edit/master/-/content/"
+  editURL = "https://gitlab.cs.ksu.edu/-/ide/project/cs-textbooks/cs-zero/edit/master/-/content/"
   # Author of the site, will be used in meta information
-  author = "Russell Feldhausen"
+  author = "K-State CS Faculty"
   # Description of the site, will be used in meta information
-  description = "CC 110 Textbook"
+  description = "Intro CS Textbook"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
@@ -97,7 +97,7 @@ theme = ["hugo-theme-relearn"]
 
   # [x] russfeld
   # Custom parameters
-  commitURL = "https://gitlab.cs.ksu.edu/cc/110/generic/textbook/-/commit/"
+  commitURL = "https://gitlab.cs.ksu.edu/cs-textbooks/cs-zero/-/commit/"
 
 [markup]
   [markup.highlight]
