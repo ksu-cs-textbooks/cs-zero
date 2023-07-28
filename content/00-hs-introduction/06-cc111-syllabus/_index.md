@@ -1,7 +1,7 @@
 ---
-title: "CC 210 Syllabus - Fall 2023"
-weight: 63
-pre: "6.3 "
+title: "CC 111 Syllabus - Fall 2023"
+weight: 62
+pre: "6.2 "
 ---
 
 {{% notice info %}}
@@ -12,7 +12,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 210 - Fundamental Computer Programming Concepts HS (2023-2024)
+## CC 111 - Elements of Computer Programming HS (2023-2024)
 
 ### Instructor Contact Information
 
@@ -22,7 +22,6 @@ Your teachers may give you a syllabus that includes additional information that 
 * **Website:** https://russfeld.me
 * **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
 
-
 #### Preferred Methods of Communication:
 
 * **High School Teacher**: Students should primarily contact your high school teacher for any assistance in the course. 
@@ -31,67 +30,49 @@ Your teachers may give you a syllabus that includes additional information that 
 
 ### Prerequisites
 
-* CC 110 - Introduction to Computing (C or better)
+* Prerequisite or Concurrent: CC 110 - Introduction to Computing
 
 ### Course Overview
 
-Basic concepts in developing computer programs: program structure and syntax, primitive data types, variables, control flow, iteration, simple algorithms, debugging, and good software development practices. Introduction to object-oriented programming.  
+Brief experience with computer programming concepts such as variables, data types, functions, conditionals, iteration, and collections.
 
 ### Course Description
 
-The course introduces students to computer programming using one of several programming languages. Interactive lessons and engaging projects reinforce new skills and concepts while relating programming fundamentals to the real world. This course covers the basic concepts of programming, from variables and control flow to functions, objects, and simple algorithms.  
+This course serves as a primary introduction to modern programming by exploring core concepts such as variables, conditionals, iteration, and functions. Students participate in guided lab activities followed by individual homework assignments.
 
 ### Learning Objectives
 
-A successful students should be able to:
-1. Evaluate data requirements to create variables, use operators and call/create functions for: strings, integers, real numbers and Boolean values.
-2. Understand the creation and use of mono-typed arrays and their common built in methods and attributes.
-3. Analyze and adapt string methods to split, join and extract sub-strings to solve problems.
-4. Understand how code written by them may throw exceptions
-    1. Understand how to create new exceptions
-    1. Understand and adapt exception handling structures
-5. Understand how to create programs that read-from and write-to text files.
-6. Analyze and create conditional statement to control program execution
-7. Analyze and create loops to control program execution
-8. Analyze and adapt methods/function to control program execution
-    1. Remember to consider separation of concerns when creating methods
-9. Understand how to create instance-based classes to include 
-    1. public/private access of components
-    1. attributes, properties and methods
-    1. inheritance
-10. Understand how to adapt Boolean equations to common natural language problem statements 
-11. Understand how to adapt class APIs to incorporate objects in solutions
-12. Analyze medium-to-low-level designs expressed as text-based program requirements to create programs including: UML Class diagrams, flow charts and pseudo code 
-13. Create terminal or console based programs
+By the end of this course, each student will be able to:
+* Identify and use variables in a computer program
+* Understand and use basic data type, such as integers, floating-point numbers, Booleans, and strings.
+* Use conditional statements, including nested and chained conditional statements
+* Use both infinite and finite iteration constructs
+* Create and use functions
+* Create and use collections of data, such as lists and dictionaries
 
 ### Major Course Topics
 
-* Programming Basics  
-* Primitive Data Types  
-* Boolean Logic and Boolean Algebra  
-* Conditional Statements  
-* Loops  
-* Arrays / Lists  
-* Strings, String Parsing, and String Formatting  
-* Exception Handling and Debugging  
-* Console and File I/O  
-* Methods, Arguments and Parameters  
-* Classes and Objects  
-* Object-Oriented Programming  
-* Model-View-Controller Architecture  
-* Inheritance and Polymorphism  
-* Standard Library/Module Collections and generic types  
+* Programming Basics
+* Variables, Numbers * Math Operations
+* Strings
+* User Input * Output
+* Conditional Statements
+* Iteration (Loops)
+* Functions
+* Lists
+* Dictionaries
+* Classes and Objects
 
 ###  Course Structure
 
-These courses are being taught 100% online, and each module is self-paced. There may be some bumps in the road as we refine the overall course structure. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Some modules will include a coding project or assignment, many of which will be graded automatically through Codio. Assignments may also include portions which will be graded manually via Canvas or other tools.
+These courses are being taught 100% online, and each module is self-paced. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Assignments may also include portions which will be graded manually via Canvas, Codio, or other tools.
 
 ### Grading
 
 In theory, each student begins the course with an A. As you submit work, you can either maintain your A (for good work) or chip away at it (for less adequate or incomplete work). In practice, each student starts with 0 points in the gradebook and works upward toward a final point total earned out of the possible number of points. In this course, each assignment constitutes a portion of the final grade, as detailed below:
 
-* 70% Programming Projects
-* 30% Tutorials & Quizzes
+* 60% Programming Lab Assignments
+* 40% Programming Homeworks
 
 Letter grades will be assigned following the standard scale:
 

@@ -5,9 +5,7 @@ weight: 20
 date: 2020-01-16T10:53:26-05:00
 ---
 
-<!-- TODO record video -->
-
-{{< youtube >}}
+{{< youtube i85-CZxPiXc >}}
 
 <!-- Fall 2022 icfci8n6T5E -->
 <!-- Fall 2020 dqEBz0R41d4 -->

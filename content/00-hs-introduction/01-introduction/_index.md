@@ -4,9 +4,7 @@ pre: "1. "
 weight: 10
 ---
 
-<!-- TODO Record Video -->
-
-{{< youtube  >}}
+{{< youtube 6sVRIhRYMaQ >}}
 
 #### Resources
 

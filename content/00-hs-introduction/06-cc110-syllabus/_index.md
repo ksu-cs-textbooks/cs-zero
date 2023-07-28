@@ -1,5 +1,5 @@
 ---
-title: "CC 110 Syllabus - Spring 2022"
+title: "CC 110 Syllabus - Fall 2023"
 weight: 61
 pre: "6.1 "
 ---
@@ -12,7 +12,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 110 - Introduction to Computing HS (2022-2023)
+## CC 110 - Introduction to Computing HS (2023-2024)
 
 ### Instructor Contact Information
 
@@ -21,10 +21,6 @@ Your teachers may give you a syllabus that includes additional information that 
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
 * **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
-<br>
-* **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
-* **Office:** DUE 2161 
-* **Virtual Office Hours:** Schedule a meeting with me: https://calendly.com/emilyalfs Appointments held via [Zoom](https://ksu.zoom.us/).
 
 #### Preferred Methods of Communication:
 
@@ -42,7 +38,7 @@ An overview of the history of computers and programming. Famous historical figur
 
 ### Course Description
 
-This course serves as a primary introduction to modern computing and programming by reviewing historical figures and events and the impact they had on modern technology. Students are exposed to a variety of topics in computer science, and gain hands-on experience with some of these topics through the use of some basic programming skills. The goal of this course is to show students the wider world of computing and technology beyond programming, building a broad foundation for later courses to build upon.
+This course serves as a primary introduction to modern computing and programming by reviewing historical figures and events and the impact they had on modern technology. Students are exposed to a variety of topics in computer science. The goal of this course is to show students the wider world of computing and technology beyond programming, building a broad foundation for later courses to build upon.
 
 ### Learning Objectives
 
@@ -63,20 +59,17 @@ By the end of this course, each student will be able to:
 * Computer science areas such as artificial intelligence, human-computer interaction, high performance computing, data science, robotics, and more
 * Cybersecurity in a modern, interconnected world
 * Other disciplines related to computer science
-* Experience with basic programming concepts
 
 ###  Course Structure
 
-These courses are being taught 100% online, and each module is self-paced. There may be some bumps in the road as we refine the overall course structure. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Some modules will include a coding project or assignment, many of which will be graded automatically through Codio. Assignments may also include portions which will be graded manually via Canvas or other tools.
+These courses are being taught 100% online, and each module is self-paced. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Assignments may also include portions which will be graded manually via Canvas or other tools.
 
 ### Grading
 
 In theory, each student begins the course with an A. As you submit work, you can either maintain your A (for good work) or chip away at it (for less adequate or incomplete work). In practice, each student starts with 0 points in the gradebook and works upward toward a final point total earned out of the possible number of points. In this course, each assignment constitutes a portion of the final grade, as detailed below:
 
-* 60% Lectures & Quizzes 
-* 10% Discussions
-* 15% Codio Python Labs
-* 15% Codio Python Assignments
+* 80% Lectures & Quizzes 
+* 20% Discussions
 
 Letter grades will be assigned following the standard scale:
 
@@ -89,17 +82,14 @@ Letter grades will be assigned following the standard scale:
 ### Late Work
 
 {{% notice warning %}}
+
 Read this late work policy very carefully! If you are unsure how to interpret it, please contact the instructors via the help email. Not understanding the policy does not mean that it won't apply to you!
+
 {{% /notice %}}
 
 Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. 
 
-**The following table outlines the highest possible score that a module can earn based on when it is complete** 
-
-|  | Thursday | Friday | Saturday | Sunday | Monday |
-| --- | --- | --- | --- | --- | --- |
-| Before or at 11:59PM CST | 100% | 90% | 80% | 70% | 60% |
-| After 11:59PM CST | 90% | 80% | 70% | 60% | 0% |
+**Assignments submitted after the due date will be subject to a deduction equivalent to 0.4% of the total points on the assignment per hour that it is late, which is roughly equivalent to 10% of the total points per day that it is late.**
 
 Even if a module is not submitted on time, it must still be completed before a student is allowed to begin the next module. So, students should take care not to get too far behind, as it may be very difficult to catch up.
 
