@@ -720,6 +720,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 
 	
@@ -2279,42 +2284,42 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/01-introduction/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/01-introduction/</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to be taking a look at the Hypertext Markup Language. This is a continuation of our previous videos where we talked about the history of the internet, as well as how the internet actually worked. Now, in those videos, we took a look at Sir Tim Berners-Lee, who invented the Hypertext Markup Language along with the web server and the technology that was used to actually serve those web pages.</description>
+      <description>Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to be taking a look at the Hypertext Markup Language. This is a continuation of our previous videos where we talked about the history of the internet, as well as how the internet actually worked. Now, in those videos, we took a look at Sir Tim Berners-Lee, who invented the Hypertext Markup Language along with the web server and the technology that was used to actually serve those web pages.</description>
     </item>
     <item>
       <title>Basic HTML Part 1</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/02-basic-html-1/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/02-basic-html-1/</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to continue our talk on HTML and start looking a little bit at HTML tags. As we mentioned before, the language itself works off of a series of tags, tags are denoted by a less than and greater than symbol with the name of the tag in between. Now, some tags may also actually have attributes in between there, but we&amp;rsquo;ll get to that later.</description>
+      <description>Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to continue our talk on HTML and start looking a little bit at HTML tags. As we mentioned before, the language itself works off of a series of tags, tags are denoted by a less than and greater than symbol with the name of the tag in between. Now, some tags may also actually have attributes in between there, but we&amp;rsquo;ll get to that later.</description>
     </item>
     <item>
       <title>Basic HTML Part 2</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/03-basic-html-2/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/03-basic-html-2/</guid>
-      <description>YouTube Video Resources Slides Video Script So we talked briefly about CSS or Cascading Style Sheets before when we introduced html 4.0. But we haven&amp;rsquo;t actually added anything to our webpage yet. So far, our webpage is completely static and unstyled. So Cascading Style Sheets will allow you to modify things like font colors, background colors, styles, as far as like font types, spacing, layouts, pretty much anything that deals with style or looks, the cascading style sheet or the CSS sheet will be able to accommodate that.</description>
+      <description>Resources Slides Video Script So we talked briefly about CSS or Cascading Style Sheets before when we introduced html 4.0. But we haven&amp;rsquo;t actually added anything to our webpage yet. So far, our webpage is completely static and unstyled. So Cascading Style Sheets will allow you to modify things like font colors, background colors, styles, as far as like font types, spacing, layouts, pretty much anything that deals with style or looks, the cascading style sheet or the CSS sheet will be able to accommodate that.</description>
     </item>
     <item>
       <title>The Interactive Web</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/04-interactive-web/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/04-interactive-web/</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re gonna be taking a look at interactive web technologies. And now we&amp;rsquo;ve talked a lot about these things in the past about Web 1.0 vs 2.0. So going from the static plain HTML Web to Web 2.0, where everything is much more dynamic, interactive, more media, more content, more interactive technology. And so we&amp;rsquo;re going to take a look at how we can actually use some of these to make our websites a little bit more interesting.</description>
+      <description>Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re gonna be taking a look at interactive web technologies. And now we&amp;rsquo;ve talked a lot about these things in the past about Web 1.0 vs 2.0. So going from the static plain HTML Web to Web 2.0, where everything is much more dynamic, interactive, more media, more content, more interactive technology. And so we&amp;rsquo;re going to take a look at how we can actually use some of these to make our websites a little bit more interesting.</description>
     </item>
     <item>
       <title>Starting Tic Tac Toe</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/05-tictactoe-page/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/05-tictactoe-page/</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to be taking a look at how we might make our Tic Tac Toe game using HTML, CSS, and JavaScript. To start out here, we&amp;rsquo;re going to make a new HTML page. Now this can go straight back into your index.html that we made in the previous videos. The one I&amp;rsquo;m going to make for this video is going to be called tictactoe.</description>
+      <description>Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to be taking a look at how we might make our Tic Tac Toe game using HTML, CSS, and JavaScript. To start out here, we&amp;rsquo;re going to make a new HTML page. Now this can go straight back into your index.html that we made in the previous videos. The one I&amp;rsquo;m going to make for this video is going to be called tictactoe.</description>
     </item>
     <item>
       <title>Javascript</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/06-javascript/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/06-javascript/</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back everyone. In this video we&amp;rsquo;re gonna be looking at JavaScript. But let&amp;rsquo;s look into some of the history behind it. To start, we&amp;rsquo;re going to talk about Brendan Eich. Brendan Eich was actually one of the people who co founded the Mozilla project to of course launching the major browser Firefox, but he&amp;rsquo;s also the creator of JavaScript. Eich had a master&amp;rsquo;s degree from the University of Illinois at Urbana Champaign, but then he started working at Silicon Graphics, working about seven years or so on an operating systems project, and primarily a lot of networking code.</description>
+      <description>Resources Slides Video Script Welcome back everyone. In this video we&amp;rsquo;re gonna be looking at JavaScript. But let&amp;rsquo;s look into some of the history behind it. To start, we&amp;rsquo;re going to talk about Brendan Eich. Brendan Eich was actually one of the people who co founded the Mozilla project to of course launching the major browser Firefox, but he&amp;rsquo;s also the creator of JavaScript. Eich had a master&amp;rsquo;s degree from the University of Illinois at Urbana Champaign, but then he started working at Silicon Graphics, working about seven years or so on an operating systems project, and primarily a lot of networking code.</description>
     </item>
     <item>
       <title>Tic Tac Toe JS</title>
@@ -2322,21 +2327,21 @@
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/07-tictactoe-js/</guid>
       <description>JQuery Script Tag In some older videos, the JQuery script tag is shown using http in the URL. This should be changed to https in order to work correctly due to some recent browser security updates. Alternatively, you can always find the correct JQuery script tag by visiting https://releases.jquery.com/ and clicking the &amp;ldquo;uncompressed&amp;rdquo; link next to the latest version of JQuery.
-YouTube Video Resources Slides Video Script Welcome back everyone.</description>
+Resources Slides Video Script Welcome back everyone. In this video, we&amp;rsquo;re going to start making our Tic Tac Toe game a little bit more interesting by enabling us to actually play the game.</description>
     </item>
     <item>
       <title>More Web 2.0</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/08-more-interactive-web/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/08-more-interactive-web/</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back, everyone. Now let&amp;rsquo;s continue our discussion on interactive web technologies. So we&amp;rsquo;ve done a little bit of JavaScript so far to get our Tic Tac Toe game working. But there are a lot of other technologies out there that really make web 2.0 really work. So in concert with JavaScript, we have Ajax Ajax was released in 2005. And it allowed for a synchronous JavaScript.</description>
+      <description>Resources Slides Video Script Welcome back, everyone. Now let&amp;rsquo;s continue our discussion on interactive web technologies. So we&amp;rsquo;ve done a little bit of JavaScript so far to get our Tic Tac Toe game working. But there are a lot of other technologies out there that really make web 2.0 really work. So in concert with JavaScript, we have Ajax Ajax was released in 2005. And it allowed for a synchronous JavaScript.</description>
     </item>
     <item>
       <title>The Machine is Us/ing Us (Final Version)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/09-machine-us/</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/09-machine-us/</guid>
-      <description> YouTube Video </description>
+      <description> </description>
     </item>
     <item>
       <title>CIS Linux</title>
@@ -2344,7 +2349,7 @@ YouTube Video Resources Slides Video Script Welcome back everyone.</description>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/10-cs-linux/</guid>
       <description>VPN Off Campus To access CIS Linux while off campus, you must use K-State&amp;rsquo;s VPN. You do not need to use the VPN when connected to KSU Wireless or KSU Housing wifi. Here is a reference for the K-State VPN including how to install and how to use it: https://www.k-state.edu/it/cybersecurity/vpn/
-YouTube Video Resources Slides Video Script Welcome back everyone. In this video, I&amp;rsquo;m going to talk a little bit about how we can get connected to the CS Linux server.</description>
+Resources Slides Video Script Welcome back everyone. In this video, I&amp;rsquo;m going to talk a little bit about how we can get connected to the CS Linux server.</description>
     </item>
   </channel>
 </rss>

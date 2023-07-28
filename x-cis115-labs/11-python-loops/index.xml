@@ -720,6 +720,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 
 	
@@ -2279,35 +2284,35 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/00-intro/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/00-intro/</guid>
-      <description>YouTube Video Loops are one of the most useful ways we can modify the control flow in our programs. With both loops and conditional statements in our list of available programming skills, we can write programs that execute different branches of code based on a Boolean expression, and we can also repeatedly execute the same piece of code either a defined number of times or while a Boolean expression evaluates to True.</description>
+      <description>Loops are one of the most useful ways we can modify the control flow in our programs. With both loops and conditional statements in our list of available programming skills, we can write programs that execute different branches of code based on a Boolean expression, and we can also repeatedly execute the same piece of code either a defined number of times or while a Boolean expression evaluates to True.</description>
     </item>
     <item>
       <title>While Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/01-while-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/01-while-loops/</guid>
-      <description>YouTube Video Resources Slides The first type of loop to explore in Python is the while loop. A while loop uses a Boolean expression, and will repeat the code inside of the loop as long as the Boolean expression evaluates to True. These loops are typically used when we want to repeat some steps, but we aren&amp;rsquo;t sure exactly how many times it must be done. Instead, we typically know that there is some condition that must be True while we repeat the code, and once it turns False we can stop looping and continue with the program.</description>
+      <description>Resources Slides The first type of loop to explore in Python is the while loop. A while loop uses a Boolean expression, and will repeat the code inside of the loop as long as the Boolean expression evaluates to True. These loops are typically used when we want to repeat some steps, but we aren&amp;rsquo;t sure exactly how many times it must be done. Instead, we typically know that there is some condition that must be True while we repeat the code, and once it turns False we can stop looping and continue with the program.</description>
     </item>
     <item>
       <title>For Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/02-for-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/02-for-loops/</guid>
-      <description>YouTube Video Resources Slides Python also includes a second type of loop that is very useful, the for loop. Just like in pseudocode, a for loop is used when we want to repeat the steps a certain number of times. However, in Python, we can&amp;rsquo;t just say that we want to repeat something $10$ times. Instead, we use the built-in range() function in Python to generate a list of numbers that we use in our loop.</description>
+      <description>Resources Slides Python also includes a second type of loop that is very useful, the for loop. Just like in pseudocode, a for loop is used when we want to repeat the steps a certain number of times. However, in Python, we can&amp;rsquo;t just say that we want to repeat something $10$ times. Instead, we use the built-in range() function in Python to generate a list of numbers that we use in our loop.</description>
     </item>
     <item>
       <title>Input with Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/03-input-with-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/03-input-with-loops/</guid>
-      <description>YouTube Video Resources Slides Loops in Python are also a great way to handle situations where a user must input a value that meets certain criteria. Previously, we used an if statement to determine if the input was valid, but if it wasn&amp;rsquo;t valid all we could do was print an error and end the program. If we use a loop instead, we can prompt the user to provide additional input until we receive a valid value.</description>
+      <description>Resources Slides Loops in Python are also a great way to handle situations where a user must input a value that meets certain criteria. Previously, we used an if statement to determine if the input was valid, but if it wasn&amp;rsquo;t valid all we could do was print an error and end the program. If we use a loop instead, we can prompt the user to provide additional input until we receive a valid value.</description>
     </item>
     <item>
       <title>Testing Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/04-testing-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/04-testing-loops/</guid>
-      <description>YouTube Video Resources Slides Another important aspect of working with loops in code is learning how to properly test programs that contain loops. So, let&amp;rsquo;s look at some of the methods we can use when testing our programs containing loops to make sure they work correctly and won&amp;rsquo;t run into any problems.
+      <description>Resources Slides Another important aspect of working with loops in code is learning how to properly test programs that contain loops. So, let&amp;rsquo;s look at some of the methods we can use when testing our programs containing loops to make sure they work correctly and won&amp;rsquo;t run into any problems.
 Branch and Path Coverage Loops, like conditional statements, introduce different branches and paths into our programs. So, one of the first steps when testing these programs is to develop a set of inputs that will execute each branch of the code, as well as finding inputs that will execute multiple different paths through the program.</description>
     </item>
     <item>
@@ -2315,7 +2320,7 @@ Branch and Path Coverage Loops, like conditional statements, introduce different
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/05-worked-example/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/05-worked-example/</guid>
-      <description>YouTube Video Resources Slides Now that we&amp;rsquo;ve learned all about using loops in Python, let&amp;rsquo;s go through a complete worked example to see how all the pieces fit together. As we continue to develop larger and more complex programs, it is helpful to observe the entire process from start to finish so we can see how to easily develop a program one step at a time. Once we&amp;rsquo;ve created our program, we&amp;rsquo;ll also perform a bit of testing to make sure that it works correctly.</description>
+      <description>Resources Slides Now that we&amp;rsquo;ve learned all about using loops in Python, let&amp;rsquo;s go through a complete worked example to see how all the pieces fit together. As we continue to develop larger and more complex programs, it is helpful to observe the entire process from start to finish so we can see how to easily develop a program one step at a time. Once we&amp;rsquo;ve created our program, we&amp;rsquo;ll also perform a bit of testing to make sure that it works correctly.</description>
     </item>
     <item>
       <title>Summary</title>
