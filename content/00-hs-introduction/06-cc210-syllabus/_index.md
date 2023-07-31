@@ -31,7 +31,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 ### Prerequisites
 
-* CC 110 - Introduction to Computing (C or better)
+* CC 111 - Elements of Computer Programming (C or better)
 
 ### Course Overview
 
