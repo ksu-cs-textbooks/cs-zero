@@ -8,7 +8,7 @@ pre: "6.2 "
 
 This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
 
-Your teachers may give you a syllabus that includes additional information that is specific to your class. 
+Your teachers may give you a syllabus that includes additional information that is specific to your class.  
 
 {{% /notice %}}
 
