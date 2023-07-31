@@ -2280,13 +2280,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Feb 2021 00:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/00-intro/</link>
-      <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/00-intro/</guid>
-      <description>YouTube Video Conditional statements are a very powerful tool for programmers to use. In a previous lab, we explored simple conditional statements, including the if statement and if-else statement in both Python and pseudocode. However, up to this point we&amp;rsquo;ve only looked at how we can use a single conditional statement at a time in a program, which can be very limiting. So, in this lab, we&amp;rsquo;re going to explore how we can combine conditional statements in a variety of different ways to build even more complex programs.</description>
-    </item>
-    <item>
       <title>Linear Conditionals</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/01-linear/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
