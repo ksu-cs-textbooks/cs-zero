@@ -2284,7 +2284,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/</guid>
-      <description>Resources Slides To create a nested loop in Python, we can simply place a loop structure inside of the block of statements that is repeated by another loop structure. This is very similar to how we can nest conditional statements as well.
+      <description>YouTube Video Resources Slides To create a nested loop in Python, we can simply place a loop structure inside of the block of statements that is repeated by another loop structure. This is very similar to how we can nest conditional statements as well.
 For example, consider this short Python program:
 def main(): i = 1 while i &amp;lt; 10: j = i while j &amp;lt; 10: print(&amp;#34;{} &amp;#34;.format(j), end=&amp;#34;&amp;#34;) j = j + 1 print(&amp;#34;&amp;#34;) i = i + 1 print(&amp;#34;Complete!</description>
     </item>
@@ -2293,7 +2293,7 @@ def main(): i = 1 while i &amp;lt; 10: j = i while j &amp;lt; 10: print(&amp;#34
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/02-nested-for-loops/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/02-nested-for-loops/</guid>
-      <description>Resources Slides For loops can also be nested, just like while loops. In fact, nesting for loops is often much simpler than nesting while loops, since it is very easy to predict exactly how many times a for loop will iterate, and also because it is generally easier to determine if a for loop will properly terminate instead of a while loop.
+      <description>YouTube Video Resources Slides For loops can also be nested, just like while loops. In fact, nesting for loops is often much simpler than nesting while loops, since it is very easy to predict exactly how many times a for loop will iterate, and also because it is generally easier to determine if a for loop will properly terminate instead of a while loop.
 A great way to explore using nested for loops is by printing ASCII Art shapes.</description>
     </item>
     <item>
@@ -2301,7 +2301,7 @@ A great way to explore using nested for loops is by printing ASCII Art shapes.</
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/03-testing-nested-loops/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/03-testing-nested-loops/</guid>
-      <description>Resources Slides Testing nested loops can also be very tricky, especially because they can make our program&amp;rsquo;s control flow even more complex. So, let&amp;rsquo;s briefly go through an example to see how to determine what inputs we can use to test nested loops.
+      <description>YouTube Video Resources Slides Testing nested loops can also be very tricky, especially because they can make our program&amp;rsquo;s control flow even more complex. So, let&amp;rsquo;s briefly go through an example to see how to determine what inputs we can use to test nested loops.
 Consider the following example program:
 def positive_input(): x = int(input(&amp;#34;Enter a positive integer: &amp;#34;)) while x &amp;lt;= 0: print(&amp;#34;Invalid input!&amp;#34;) x = int(input(&amp;#34;Enter a positive integer: &amp;#34;)) return x def main(): x = positive_input() y = positive_input() while y &amp;lt;= x: for i in range(x - y): print(&amp;#34;*&amp;#34;, end=&amp;#34;&amp;#34;) y = y + 2 print(&amp;#34;&amp;#34;) print(&amp;#34;Complete!</description>
     </item>
@@ -2310,7 +2310,7 @@ def positive_input(): x = int(input(&amp;#34;Enter a positive integer: &amp;#34;
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/04-worked-example/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/04-worked-example/</guid>
-      <description>Resources Slides Now that we&amp;rsquo;ve explored how to create programs that contain nested loops, let&amp;rsquo;s work through a complete example problem to see how we can convert a problem statement into working code.
+      <description>YouTube Video Resources Slides Now that we&amp;rsquo;ve explored how to create programs that contain nested loops, let&amp;rsquo;s work through a complete example problem to see how we can convert a problem statement into working code.
 Consider the following problem statement:
 Write a program to print the sum of the first n prime numbers, where n is provided as input from the user.
 This is a very simple problem statement, but it can be very complex to build a program that satisfies it.</description>

@@ -2284,28 +2284,28 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/01-introduction/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/01-introduction/</guid>
-      <description>Resources Slides Video Script Introduction (Slide 1-2) For this lesson, we&amp;rsquo;re going to be talking primarily about Boolean logic, Boolean algebra and how that plays into computer science and the foundations of how important that is and the role it plays and what we do. So before we get started, and before we can talk about things such as Boolean logic, we need to know where it came from. That leads us to Aristotle, way back in the 300 BC, as you may know, right Aristotle is one of the fathers of modern philosophy and logic among many other things.</description>
+      <description>YouTube Video Resources Slides Video Script Introduction (Slide 1-2) For this lesson, we&amp;rsquo;re going to be talking primarily about Boolean logic, Boolean algebra and how that plays into computer science and the foundations of how important that is and the role it plays and what we do. So before we get started, and before we can talk about things such as Boolean logic, we need to know where it came from.</description>
     </item>
     <item>
       <title>Operators</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/02-operators/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/02-operators/</guid>
-      <description>Resources Slides Video Script Boolean Operators (Slide 6) And Let&amp;rsquo;s take a look at what the Boolean and operator does out in this Venn diagram here we&amp;rsquo;re going to kind of use these to showcase where the Boolean statements that we&amp;rsquo;re checking out with the Boolean operator where these statements are actually evaluated to be true. So if we assume that we are two facts here, A and B are both true.</description>
+      <description>YouTube Video Resources Slides Video Script Boolean Operators (Slide 6) And Let&amp;rsquo;s take a look at what the Boolean and operator does out in this Venn diagram here we&amp;rsquo;re going to kind of use these to showcase where the Boolean statements that we&amp;rsquo;re checking out with the Boolean operator where these statements are actually evaluated to be true. So if we assume that we are two facts here, A and B are both true.</description>
     </item>
     <item>
       <title>Boolean Algebra</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/03-algebra/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/03-algebra/</guid>
-      <description>Resources Slides Video Script DeMorgan&amp;rsquo;s Theorem (Slide 7) So with all these new tools, we needed some new algebraic rules to really deal with them. Thankfully, most of the rules you know, apply quite well, but there&amp;rsquo;s one rule that needed to be added. In mathematics. When you multiply by negative one, you have to change the signs. Similarly, Augustus DeMorgan came up with a way to deal with the negation of entire Boolean logic statements.</description>
+      <description>YouTube Video Resources Slides Video Script DeMorgan&amp;rsquo;s Theorem (Slide 7) So with all these new tools, we needed some new algebraic rules to really deal with them. Thankfully, most of the rules you know, apply quite well, but there&amp;rsquo;s one rule that needed to be added. In mathematics. When you multiply by negative one, you have to change the signs. Similarly, Augustus DeMorgan came up with a way to deal with the negation of entire Boolean logic statements.</description>
     </item>
     <item>
       <title>Logic to Switches</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/04-logic-to-switches/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/04-logic-to-switches/</guid>
-      <description>Resources Slides Video Script Logic via Electrical Switches? (Slide 9) With the new tools from Boole and DeMorgan, others began to see where they could be applied in the real world. In 1886, Charles Sanders Peirce noted in a letter that logical operations could be easily simulated by electrical switches. Many others worked on the idea too many to name here, but 51 years later.
+      <description>YouTube Video Resources Slides Video Script Logic via Electrical Switches? (Slide 9) With the new tools from Boole and DeMorgan, others began to see where they could be applied in the real world. In 1886, Charles Sanders Peirce noted in a letter that logical operations could be easily simulated by electrical switches. Many others worked on the idea too many to name here, but 51 years later.
 Claude Shannon (Slide 10) In 1937, something happened.</description>
     </item>
     <item>
@@ -2313,14 +2313,14 @@ Claude Shannon (Slide 10) In 1937, something happened.</description>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/05-truth-tables/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/05-truth-tables/</guid>
-      <description>Resources Slides Video Script Overview Let&amp;rsquo;s go through an example of some Boolean logic now that we&amp;rsquo;ve covered some of the operators and some of the rules that govern the Boolean algebra behind it. A lot of times what you&amp;rsquo;ll see in computer science, especially when you&amp;rsquo;re dealing with Boolean logic and complex algorithms, our truth tables, truth tables showcase all the different options for each Boolean variable inside of a Boolean logic statement, as well as what output those particular facts for those variables actually produce.</description>
+      <description>YouTube Video Resources Slides Video Script Overview Let&amp;rsquo;s go through an example of some Boolean logic now that we&amp;rsquo;ve covered some of the operators and some of the rules that govern the Boolean algebra behind it. A lot of times what you&amp;rsquo;ll see in computer science, especially when you&amp;rsquo;re dealing with Boolean logic and complex algorithms, our truth tables, truth tables showcase all the different options for each Boolean variable inside of a Boolean logic statement, as well as what output those particular facts for those variables actually produce.</description>
     </item>
     <item>
       <title>Boolean Logic (Crash Course)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/06-crash-course/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/06-crash-course/</guid>
-      <description>Notes About This Selection In this video, Carrie Anne shares the principals of binary numbers and how we use Boolean Algebra to work with binary values. We get to see the truth tables for the basic statements (or, and, not, xor) as well as their respective logic gates. We also get a good primer for working on more complex statements.
+      <description>YouTube Video Notes About This Selection In this video, Carrie Anne shares the principals of binary numbers and how we use Boolean Algebra to work with binary values. We get to see the truth tables for the basic statements (or, and, not, xor) as well as their respective logic gates. We also get a good primer for working on more complex statements.
 Reference CrashCourse. &amp;ldquo;Boolean Logic &amp;amp; Logic Gates: Crash Course Computer Science #3 &amp;ldquo;.</description>
     </item>
     <item>
@@ -2328,7 +2328,7 @@ Reference CrashCourse. &amp;ldquo;Boolean Logic &amp;amp; Logic Gates: Crash Cou
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/07-worked-example/</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/07-worked-example/</guid>
-      <description>Resources Slides Video Script Example 1 (Slide 13) So let&amp;rsquo;s take a look at example one. And the best way to start this is where the output is actually true. So if we examine this line here, this line and this line, we can see that when B and C are true, output is True. When a and c are true, the output is True, or when all three are true, the output is also true.</description>
+      <description>YouTube Video Resources Slides Video Script Example 1 (Slide 13) So let&amp;rsquo;s take a look at example one. And the best way to start this is where the output is actually true. So if we examine this line here, this line and this line, we can see that when B and C are true, output is True. When a and c are true, the output is True, or when all three are true, the output is also true.</description>
     </item>
     <item>
       <title>Pattern on the Stone Reading</title>

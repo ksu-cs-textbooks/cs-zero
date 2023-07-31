@@ -2284,7 +2284,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/00-intro/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/00-intro/</guid>
-      <description>So far, we&amp;rsquo;ve worked with many different programming structures, including functions, if statements, loops, and more. However, so far we&amp;rsquo;ve been a bit limited in how much data we can easily store. This is because a traditional variable can only store one value at a time!
+      <description>YouTube Video So far, we&amp;rsquo;ve worked with many different programming structures, including functions, if statements, loops, and more. However, so far we&amp;rsquo;ve been a bit limited in how much data we can easily store. This is because a traditional variable can only store one value at a time!
 If we want to store lots of data, it would be much easier if we had a way to store it in a structured way so that we can access it using a single variable name and possibly some other identifier.</description>
     </item>
     <item>
@@ -2292,14 +2292,14 @@ If we want to store lots of data, it would be much easier if we had a way to sto
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/01-python-lists/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/01-python-lists/</guid>
-      <description>Resources Slides The first collection we&amp;rsquo;ll review in Python is the list. A list in Python allows us to store many individual values, or elements, in a single variable. To keep track of the elements, each one is assigned an index, which is an integer that uniquely identifies the element&amp;rsquo;s position in the list. In Python, just like in many other programming languages, the indexes begin at $0$ and count up from there.</description>
+      <description>YouTube Video Resources Slides The first collection we&amp;rsquo;ll review in Python is the list. A list in Python allows us to store many individual values, or elements, in a single variable. To keep track of the elements, each one is assigned an index, which is an integer that uniquely identifies the element&amp;rsquo;s position in the list. In Python, just like in many other programming languages, the indexes begin at $0$ and count up from there.</description>
     </item>
     <item>
       <title>Loops with Lists</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/02-loops-with-lists/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/02-loops-with-lists/</guid>
-      <description>Resources Slides One great way to work with lists in Python is using a loop. Recall from an earlier lab that a for loop actually iterates over a list itself, and that the range() function is simply used to generate a list that the for loop can use. Likewise, while loops can also be used in a similar way.
+      <description>YouTube Video Resources Slides One great way to work with lists in Python is using a loop. Recall from an earlier lab that a for loop actually iterates over a list itself, and that the range() function is simply used to generate a list that the for loop can use. Likewise, while loops can also be used in a similar way.
 Let&amp;rsquo;s look at a quick example of how we can iterate through the items in a list using a loop in Python.</description>
     </item>
     <item>
@@ -2307,7 +2307,7 @@ Let&amp;rsquo;s look at a quick example of how we can iterate through the items 
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/03-lists-and-functions/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/03-lists-and-functions/</guid>
-      <description>Resources Slides Earlier in this lab, we saw Python Tutor create a list variable within the frame of a function, but that variable actually pointed to a list object that was stored in the global objects list. As it turns out, this seemingly minor distinction is a very important concept to understand how lists and functions interact with each other.
+      <description>YouTube Video Resources Slides Earlier in this lab, we saw Python Tutor create a list variable within the frame of a function, but that variable actually pointed to a list object that was stored in the global objects list. As it turns out, this seemingly minor distinction is a very important concept to understand how lists and functions interact with each other.
 To demonstrate what is going on, let&amp;rsquo;s explore a program that contains multiple functions that operate on lists using Python Tutor once again.</description>
     </item>
     <item>
@@ -2315,7 +2315,7 @@ To demonstrate what is going on, let&amp;rsquo;s explore a program that contains
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/04-slicing-lists/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/04-slicing-lists/</guid>
-      <description>Resources Slides One of the coolest features in Python is the ability to easily create slices of lists. A slice is simply a portion of a list that can be stored and used as a separate list, allowing us as programmers to quickly create and manipulate new lists based on existing lists.
+      <description>YouTube Video Resources Slides One of the coolest features in Python is the ability to easily create slices of lists. A slice is simply a portion of a list that can be stored and used as a separate list, allowing us as programmers to quickly create and manipulate new lists based on existing lists.
 There are two basic ways to create a list slice in Python.
 nums[start:end] - this will create a slice of the list stored in nums that begins as the index start and ends before the index end.</description>
     </item>
@@ -2324,15 +2324,15 @@ nums[start:end] - this will create a slice of the list stored in nums that begin
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/05-strings-are-lists/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/05-strings-are-lists/</guid>
-      <description>Resources Slides Throughout this course, we&amp;rsquo;ve seen several different ways to work with strings. In Python, just like in many other programming languages, it is possible to treat strings as a list of individual characters. Because of this, we can write many useful programs that use and manipulate strings in a variety of ways.
-Let&amp;rsquo;s look at one quick example program that can manipulate strings just like a list! Consider the following Python program:</description>
+      <description>YouTube Video Resources Slides Throughout this course, we&amp;rsquo;ve seen several different ways to work with strings. In Python, just like in many other programming languages, it is possible to treat strings as a list of individual characters. Because of this, we can write many useful programs that use and manipulate strings in a variety of ways.
+Let&amp;rsquo;s look at one quick example program that can manipulate strings just like a list!</description>
     </item>
     <item>
       <title>Worked Example</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/06-worked-example/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/06-worked-example/</guid>
-      <description>Resources Slides Finally, let&amp;rsquo;s work through another full example program in Python that uses lists and strings, just to gain some more experience with the various ways we can use the techniques we&amp;rsquo;ve learned in this lab.
+      <description>YouTube Video Resources Slides Finally, let&amp;rsquo;s work through another full example program in Python that uses lists and strings, just to gain some more experience with the various ways we can use the techniques we&amp;rsquo;ve learned in this lab.
 For this example, consider the following problem statement:
 Write a program to construct and print Pascal&amp;rsquo;s Triangle for a given number of rows. The user should be prompted to enter a positive integer indicating the number of rows, and if the user provides an invalid input the program should prompt for additional input until valid input is received.</description>
     </item>

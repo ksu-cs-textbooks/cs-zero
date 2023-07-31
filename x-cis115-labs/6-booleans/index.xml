@@ -2284,7 +2284,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/00-intro/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/00-intro/</guid>
-      <description>In this lab, we&amp;rsquo;re going to introduce another data type in pseudocode, the Boolean data type. Elsewhere in this course, we&amp;rsquo;ve already learned about Boolean values and how they work, so we won&amp;rsquo;t cover that information again here. Feel free to refer to other areas in this course for more background on Booleans, Boolean Logic, Boolean Algebra, and other related topics.
+      <description>YouTube Video In this lab, we&amp;rsquo;re going to introduce another data type in pseudocode, the Boolean data type. Elsewhere in this course, we&amp;rsquo;ve already learned about Boolean values and how they work, so we won&amp;rsquo;t cover that information again here. Feel free to refer to other areas in this course for more background on Booleans, Boolean Logic, Boolean Algebra, and other related topics.
 Here, we&amp;rsquo;re going to focus on how we can use Boolean values in our pseudocode programs.</description>
     </item>
     <item>
@@ -2292,14 +2292,14 @@ Here, we&amp;rsquo;re going to focus on how we can use Boolean values in our pse
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/01-pseudocode-booleans/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/01-pseudocode-booleans/</guid>
-      <description>Resources Slides In pseudocode, we can create variables that store values using the Boolean data type. These variables can only store one of two values: true or false. So, a Boolean value is really the simplest data value we can imagine - it is a single binary bit representing a value of true or false. In some systems, we may also refer to these values as 0 or 1, but in pseudocode we&amp;rsquo;ll just use true and false.</description>
+      <description>YouTube Video Resources Slides In pseudocode, we can create variables that store values using the Boolean data type. These variables can only store one of two values: true or false. So, a Boolean value is really the simplest data value we can imagine - it is a single binary bit representing a value of true or false. In some systems, we may also refer to these values as 0 or 1, but in pseudocode we&amp;rsquo;ll just use true and false.</description>
     </item>
     <item>
       <title>Pseudocode Operators</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/02-pseudocode-operators/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/02-pseudocode-operators/</guid>
-      <description>Resources Slides There are also many special operators that can be used to perform operations on Boolean values. These operators are used to along with one or more Boolean values in some way to produce a resulting value. Let&amp;rsquo;s review the three important Boolean operators in pseudocode.
+      <description>YouTube Video Resources Slides There are also many special operators that can be used to perform operations on Boolean values. These operators are used to along with one or more Boolean values in some way to produce a resulting value. Let&amp;rsquo;s review the three important Boolean operators in pseudocode.
 AND Operator The first Boolean operator we&amp;rsquo;ll review is the AND operator. This operator is used to determine if both Boolean values are true, and if so the resulting value will also be true.</description>
     </item>
     <item>
@@ -2307,7 +2307,7 @@ AND Operator The first Boolean operator we&amp;rsquo;ll review is the AND operat
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/03-pseudocode-comparators/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/03-pseudocode-comparators/</guid>
-      <description>Resources Slides Another powerful feature of pseudocode are the comparator operators, which can be used to create Boolean values by comparing string and number values in an expression. These comparators are a powerful way to build programs that can perform different actions based on data received from the user, as we&amp;rsquo;ll see later in this lab. Let&amp;rsquo;s review the commonly used comparators in pseudocode.
+      <description>YouTube Video Resources Slides Another powerful feature of pseudocode are the comparator operators, which can be used to create Boolean values by comparing string and number values in an expression. These comparators are a powerful way to build programs that can perform different actions based on data received from the user, as we&amp;rsquo;ll see later in this lab. Let&amp;rsquo;s review the commonly used comparators in pseudocode.
 Equal The equal comparator = is used to determine if two values are equivalent.</description>
     </item>
     <item>
@@ -2315,7 +2315,7 @@ Equal The equal comparator = is used to determine if two values are equivalent.<
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/04-python-booleans/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/04-python-booleans/</guid>
-      <description>Resources Slides In Python, Boolean values are stored in the bool data type. Just like in pseudocode, variables of the bool data type can only store one of two values, True or False.
+      <description>YouTube Video Resources Slides In Python, Boolean values are stored in the bool data type. Just like in pseudocode, variables of the bool data type can only store one of two values, True or False.
 To create a Boolean variable in Python, we can simply assign those values to a variable in an assignment statement:
 a = True b = False print(a) print(type(b)) When we execute that code, we&amp;rsquo;ll see the following output:</description>
     </item>
@@ -2324,7 +2324,7 @@ a = True b = False print(a) print(type(b)) When we execute that code, we&amp;rsq
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/05-python-operators/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/05-python-operators/</guid>
-      <description>Resources Slides Python also includes several operators that can be applied to one or two Boolean values. These operators make up the basis of Boolean logic, and allow us to construct complex expressions of Boolean values. Let&amp;rsquo;s quickly review the three basic Boolean operators present in Python.
+      <description>YouTube Video Resources Slides Python also includes several operators that can be applied to one or two Boolean values. These operators make up the basis of Boolean logic, and allow us to construct complex expressions of Boolean values. Let&amp;rsquo;s quickly review the three basic Boolean operators present in Python.
 And Operator In Python, we use the keyword and to perform the Boolean and operation. Just like in pseudocode, this operator will return True if both input values are also True, otherwise it will return False.</description>
     </item>
     <item>
@@ -2332,7 +2332,7 @@ And Operator In Python, we use the keyword and to perform the Boolean and operat
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/06-python-comparators/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/06-python-comparators/</guid>
-      <description>Resources Slides Python also uses various comparators to allow us to compare values of many different data types to produce a Boolean value. We can compare numbers, strings, and many other data types in Python using these comparators.
+      <description>YouTube Video Resources Slides Python also uses various comparators to allow us to compare values of many different data types to produce a Boolean value. We can compare numbers, strings, and many other data types in Python using these comparators.
 Since we&amp;rsquo;ve already covered the comparators in pseudocode, let&amp;rsquo;s just briefly go over all of them and discuss any ways they differ in Python compared to pseudocode.
 The basic comparators in Python are:</description>
     </item>

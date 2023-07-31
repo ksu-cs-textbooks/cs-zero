@@ -2284,21 +2284,21 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/01-passwords/</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/01-passwords/</guid>
-      <description>Resources Slides Video Script In this module, we&amp;rsquo;re going to discuss a lot of topics related to cyber security. Cyber Security is another important research area in computer science, and it&amp;rsquo;s one that directly impacts a lot of computer users in their daily lives. So in cybersecurity, we really are asking ourselves one big question, how do we keep our data secure, and that&amp;rsquo;s really all it comes down to.</description>
+      <description>YouTube Video Resources Slides Video Script In this module, we&amp;rsquo;re going to discuss a lot of topics related to cyber security. Cyber Security is another important research area in computer science, and it&amp;rsquo;s one that directly impacts a lot of computer users in their daily lives. So in cybersecurity, we really are asking ourselves one big question, how do we keep our data secure, and that&amp;rsquo;s really all it comes down to.</description>
     </item>
     <item>
       <title>Storing Passwords</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/02-storing-passwords/</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/02-storing-passwords/</guid>
-      <description>Resources Slides Video Script So finally, let&amp;rsquo;s talk about storing passwords securely in your applications. And there are a lot of different ways you can store passwords so that users could use them to authenticate. Let&amp;rsquo;s take a look at that. First, obviously, we could store the password itself. The user types in a password, we store that password in the database. Great, right? They type that password in again, we check it to make sure they typed in the same password.</description>
+      <description>YouTube Video Resources Slides Video Script So finally, let&amp;rsquo;s talk about storing passwords securely in your applications. And there are a lot of different ways you can store passwords so that users could use them to authenticate. Let&amp;rsquo;s take a look at that. First, obviously, we could store the password itself. The user types in a password, we store that password in the database. Great, right? They type that password in again, we check it to make sure they typed in the same password.</description>
     </item>
     <item>
       <title>Social Engineering</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/03-social-engineering/</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/03-social-engineering/</guid>
-      <description>Resources Slides Video Script Another area of cybersecurity that we should discuss is social engineering. Social engineering is all about using techniques to compromise the system by exploiting the users directly instead of the system security itself. And this is a really important concept. There&amp;rsquo;s an old saying, in computer science that a system is only as secure as the users that use that system. It&amp;rsquo;s kind of a play off the idea of a system is only as secure as its weakest link.</description>
+      <description>YouTube Video Resources Slides Video Script Another area of cybersecurity that we should discuss is social engineering. Social engineering is all about using techniques to compromise the system by exploiting the users directly instead of the system security itself. And this is a really important concept. There&amp;rsquo;s an old saying, in computer science that a system is only as secure as the users that use that system. It&amp;rsquo;s kind of a play off the idea of a system is only as secure as its weakest link.</description>
     </item>
     <item>
       <title>DEFCON Social Engineering CTF Report</title>

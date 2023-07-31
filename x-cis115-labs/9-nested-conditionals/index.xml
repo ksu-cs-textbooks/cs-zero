@@ -2284,14 +2284,14 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/00-intro/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/00-intro/</guid>
-      <description>Conditional statements are a very powerful tool for programmers to use. In a previous lab, we explored simple conditional statements, including the if statement and if-else statement in both Python and pseudocode. However, up to this point we&amp;rsquo;ve only looked at how we can use a single conditional statement at a time in a program, which can be very limiting. So, in this lab, we&amp;rsquo;re going to explore how we can combine conditional statements in a variety of different ways to build even more complex programs.</description>
+      <description>YouTube Video Conditional statements are a very powerful tool for programmers to use. In a previous lab, we explored simple conditional statements, including the if statement and if-else statement in both Python and pseudocode. However, up to this point we&amp;rsquo;ve only looked at how we can use a single conditional statement at a time in a program, which can be very limiting. So, in this lab, we&amp;rsquo;re going to explore how we can combine conditional statements in a variety of different ways to build even more complex programs.</description>
     </item>
     <item>
       <title>Linear Conditionals</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/01-linear/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/01-linear/</guid>
-      <description>Resources Slides To explore the various ways we can use conditional statements in code, let&amp;rsquo;s start by examining the same problem using three different techniques. We&amp;rsquo;ll use the classic Rock Paper Scissors game. In this game, two players simultaneously make one of three hand gestures, and then determine a winner based on the following diagram:
+      <description>YouTube Video Resources Slides To explore the various ways we can use conditional statements in code, let&amp;rsquo;s start by examining the same problem using three different techniques. We&amp;rsquo;ll use the classic Rock Paper Scissors game. In this game, two players simultaneously make one of three hand gestures, and then determine a winner based on the following diagram:
 1
 For example, if the first player displays a balled fist, representing rock and the second player displays a flat hand, representing paper, then the second player wins because &amp;ldquo;paper covers rock&amp;rdquo; according to the rules.</description>
     </item>
@@ -2300,7 +2300,7 @@ For example, if the first player displays a balled fist, representing rock and t
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/02-chaining/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/02-chaining/</guid>
-      <description>Resources Slides In the previous example, we saw a set of linear if statements to represent a Rock Paper Scissors game. As we discussed on that page, the Boolean expressions are meant to be mutually exclusive, meaning that only one of the Boolean expressions will be true no matter what input the user provides.
+      <description>YouTube Video Resources Slides In the previous example, we saw a set of linear if statements to represent a Rock Paper Scissors game. As we discussed on that page, the Boolean expressions are meant to be mutually exclusive, meaning that only one of the Boolean expressions will be true no matter what input the user provides.
 When we have mutually exclusive Boolean expressions like this, we can instead use if-else statements to make the mutually exclusive structure of the program clearer to the user.</description>
     </item>
     <item>
@@ -2308,22 +2308,22 @@ When we have mutually exclusive Boolean expressions like this, we can instead us
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/03-nesting/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/03-nesting/</guid>
-      <description>Resources Slides We&amp;rsquo;ve already seen how we can chain conditional statements by placing a new conditional statement inside of the False branch of another conditional statement. If we think about that, however, that implies that we probably should be able to place conditional statements inside of the True branch as well, or really anywhere. As it turns out, that&amp;rsquo;s exactly correct. We call this nesting, and it is really quite similar to what we&amp;rsquo;ve already seen in this lab.</description>
+      <description>YouTube Video Resources Slides We&amp;rsquo;ve already seen how we can chain conditional statements by placing a new conditional statement inside of the False branch of another conditional statement. If we think about that, however, that implies that we probably should be able to place conditional statements inside of the True branch as well, or really anywhere. As it turns out, that&amp;rsquo;s exactly correct. We call this nesting, and it is really quite similar to what we&amp;rsquo;ve already seen in this lab.</description>
     </item>
     <item>
       <title>Blocks and Scope</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/</guid>
-      <description>Resources Slides Now that we&amp;rsquo;ve seen how we can chain and nest multiple conditional statements in our code, we need to address a very important concept: variable scope.
-In programming, variable scope refers to the locations in code where variables can be accessed. Contrary to what we may think based on our experience, when we declare a variable in our code, it may not always be available everywhere. Instead, we need to learn the rules that determine where variables are available and why.</description>
+      <description>YouTube Video Resources Slides Now that we&amp;rsquo;ve seen how we can chain and nest multiple conditional statements in our code, we need to address a very important concept: variable scope.
+In programming, variable scope refers to the locations in code where variables can be accessed. Contrary to what we may think based on our experience, when we declare a variable in our code, it may not always be available everywhere.</description>
     </item>
     <item>
       <title>Worked Example</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/05-worked-example/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/05-worked-example/</guid>
-      <description>Resources Slides Let&amp;rsquo;s go through another worked example to see how we can translate a problem statement into a working program. We&amp;rsquo;ll also take a look at how we can test the program to verify that it is working as intended.
+      <description>YouTube Video Resources Slides Let&amp;rsquo;s go through another worked example to see how we can translate a problem statement into a working program. We&amp;rsquo;ll also take a look at how we can test the program to verify that it is working as intended.
 Problem Statement Here&amp;rsquo;s a short and simple game that can be played by two players:
 Three players each guess a positive integer greater than $0$, and then share them simultaneously.</description>
     </item>

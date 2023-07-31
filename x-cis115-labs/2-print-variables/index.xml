@@ -2284,7 +2284,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/01-pseudocode-intro/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/01-pseudocode-intro/</guid>
-      <description>Learning to program involves learning not only the syntax and rules of a new language, but also a new way of thinking. Not only do we want to write code that is understandable by the computer, we must also understand what the computer will do when it tries to run that code.
+      <description>YouTube Video Learning to program involves learning not only the syntax and rules of a new language, but also a new way of thinking. Not only do we want to write code that is understandable by the computer, we must also understand what the computer will do when it tries to run that code.
 A key part of that is learning to think like a computer thinks. We sometimes call this our &amp;ldquo;mental model&amp;rdquo; of a computer.</description>
     </item>
     <item>
@@ -2292,7 +2292,7 @@ A key part of that is learning to think like a computer thinks. We sometimes cal
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/02-display-statement/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/02-display-statement/</guid>
-      <description>Resources Slides First, let&amp;rsquo;s start by introducing some important vocabulary terms:
+      <description>YouTube Video Resources Slides First, let&amp;rsquo;s start by introducing some important vocabulary terms:
 string: A string in programming is any text that is stored as a value. We typically represent strings by placing them inside double quotes &amp;quot;&amp;quot; in our code and elsewhere. value: A value is a piece of data that our program is storing and manipulating. In our pseudocode, values consist of either numbers or strings. keyword: A keyword is a reserved word in a programming language that defines a particular statement, expression, structure, or other use.</description>
     </item>
     <item>
@@ -2300,14 +2300,14 @@ string: A string in programming is any text that is stored as a value. We typica
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/03-using-display/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/03-using-display/</guid>
-      <description>Resources Slides Now that we&amp;rsquo;ve been introduced to the DISPLAY(expression) statement, let&amp;rsquo;s write a few simple programs using that statement to see how it works. Again, we&amp;rsquo;re just learning how to run these programs using our &amp;ldquo;mental model&amp;rdquo; of a computer, so it is really important for us to closely pay attention to both the code and the output of these examples. We have to learn what rules govern how our computer should work, and the only way to do that is to explore lots of different programs and see what they do.</description>
+      <description>YouTube Video Resources Slides Now that we&amp;rsquo;ve been introduced to the DISPLAY(expression) statement, let&amp;rsquo;s write a few simple programs using that statement to see how it works. Again, we&amp;rsquo;re just learning how to run these programs using our &amp;ldquo;mental model&amp;rdquo; of a computer, so it is really important for us to closely pay attention to both the code and the output of these examples. We have to learn what rules govern how our computer should work, and the only way to do that is to explore lots of different programs and see what they do.</description>
     </item>
     <item>
       <title>Pseudocode Variables</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/04-pseudocode-variables/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/04-pseudocode-variables/</guid>
-      <description>Resources Slides Now that we&amp;rsquo;ve learned how to use the DISPLAY(expression) statement, let&amp;rsquo;s focus on the next major concept in pseudocode, as well as any other programming language: variables.
+      <description>YouTube Video Resources Slides Now that we&amp;rsquo;ve learned how to use the DISPLAY(expression) statement, let&amp;rsquo;s focus on the next major concept in pseudocode, as well as any other programming language: variables.
 The word variable is traditionally defined as a value that can change. We&amp;rsquo;ve seen variables like $x$ used in Algebraic equations like $x + 4 = 7$ to represent unknown values that we can try to work out. In programming a variable is defined as a way to store a value in a computer&amp;rsquo;s memory so we can retrieve it later.</description>
     </item>
     <item>
@@ -2315,7 +2315,7 @@ The word variable is traditionally defined as a value that can change. We&amp;rs
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/11-python-variables/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/11-python-variables/</guid>
-      <description>Resources Slides The print(expression) statement is very powerful in Python, but we really can&amp;rsquo;t do much with our programs using just a single statement. So, let&amp;rsquo;s look at how we can use variables in Python as well.
+      <description>YouTube Video Resources Slides The print(expression) statement is very powerful in Python, but we really can&amp;rsquo;t do much with our programs using just a single statement. So, let&amp;rsquo;s look at how we can use variables in Python as well.
 Recall that a variable is a value that can change. In programming, it is easiest to think of a variable as a place in memory where we can store a value, and then we can recall it later by using that variable in an expression.</description>
     </item>
     <item>
@@ -2323,29 +2323,28 @@ Recall that a variable is a value that can change. In programming, it is easiest
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/05-code-tracing/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/05-code-tracing/</guid>
-      <description>Resources Slides As our programs become more complex, it can become more and more difficult to run them on our &amp;ldquo;mental model&amp;rdquo; of a computer without a little bit of help. So, let&amp;rsquo;s go through an example of code tracing, one of the best ways to work through large blocks of code and keep track of everything that is going on. At the same time, we can also learn more about using variables in our programs!</description>
+      <description>YouTube Video Resources Slides As our programs become more complex, it can become more and more difficult to run them on our &amp;ldquo;mental model&amp;rdquo; of a computer without a little bit of help. So, let&amp;rsquo;s go through an example of code tracing, one of the best ways to work through large blocks of code and keep track of everything that is going on. At the same time, we can also learn more about using variables in our programs!</description>
     </item>
     <item>
       <title>Variables in Expressions</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/06-variables-in-expressions/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/06-variables-in-expressions/</guid>
-      <description>Resources Slides Let&amp;rsquo;s look at one more difficult concept in programming - using variables in the expressions for other variables. Right now we haven&amp;rsquo;t learned any operators (don&amp;rsquo;t worry - we&amp;rsquo;ll cover those in great detail in a future lab), but it is still important for us to understand what happens when we use the value in one variable to create or update the value in another variable.
-Let&amp;rsquo;s consider this program:</description>
+      <description>YouTube Video Resources Slides Let&amp;rsquo;s look at one more difficult concept in programming - using variables in the expressions for other variables. Right now we haven&amp;rsquo;t learned any operators (don&amp;rsquo;t worry - we&amp;rsquo;ll cover those in great detail in a future lab), but it is still important for us to understand what happens when we use the value in one variable to create or update the value in another variable.</description>
     </item>
     <item>
       <title>Python Introduction</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/07-python-intro/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/07-python-intro/</guid>
-      <description>In this lab, we&amp;rsquo;re going to take what we&amp;rsquo;ve learned in pseudocode and see how it transfers to a real programming language, Python. We&amp;rsquo;ve chosen Python because it is very easy to learn, easy to use, and it is used in many different places, from scientific computing and data analysis to web servers and even artificial intelligence. It is a very useful language to learn, and it makes a great first programming language.</description>
+      <description>YouTube Video In this lab, we&amp;rsquo;re going to take what we&amp;rsquo;ve learned in pseudocode and see how it transfers to a real programming language, Python. We&amp;rsquo;ve chosen Python because it is very easy to learn, easy to use, and it is used in many different places, from scientific computing and data analysis to web servers and even artificial intelligence. It is a very useful language to learn, and it makes a great first programming language.</description>
     </item>
     <item>
       <title>Working in the Terminal</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/08-terminal/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/08-terminal/</guid>
-      <description>Resources Slides First, let&amp;rsquo;s start with the basics of writing Python code in a file and running those files. This is the first major step toward actually writing a real program, but it can definitely be difficult the first time without prior experience to rely on. So, let&amp;rsquo;s go through it step by step and make sure we know how to run our programs in Python.
+      <description>YouTube Video Resources Slides First, let&amp;rsquo;s start with the basics of writing Python code in a file and running those files. This is the first major step toward actually writing a real program, but it can definitely be difficult the first time without prior experience to rely on. So, let&amp;rsquo;s go through it step by step and make sure we know how to run our programs in Python.
 At this point, we should already have Python installed on our system.</description>
     </item>
     <item>
@@ -2353,7 +2352,7 @@ At this point, we should already have Python installed on our system.</descripti
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/09-print-statement/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/09-print-statement/</guid>
-      <description>Resources Slides The first statement that we&amp;rsquo;ll cover in the Python programming language is the print(expression) statement. This statement is used to display output to the user via the terminal. So, when Python runs this statement, it will evaluate the expression to a single value, and then print that value to the terminal.
+      <description>YouTube Video Resources Slides The first statement that we&amp;rsquo;ll cover in the Python programming language is the print(expression) statement. This statement is used to display output to the user via the terminal. So, when Python runs this statement, it will evaluate the expression to a single value, and then print that value to the terminal.
 For example, the simplest Python code would be a simple Hello World program, where we use the print(expression) statement to display the text &amp;quot;Hello World&amp;quot; to the user:</description>
     </item>
     <item>
@@ -2361,14 +2360,14 @@ For example, the simplest Python code would be a simple Hello World program, whe
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/10-using-print/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/10-using-print/</guid>
-      <description>Resources Slides The print(expression) statement in Python works in much the same way as the DISPLAY(expression) statement in pseudocode, but with one major difference. In pseudocode, the DISPLAY(expression) statement will print the value from the expression to the user, but it won&amp;rsquo;t add anything like a space or newline to the end. In Python, however, the print(expression) statement will add a newline to the end of the output by default.</description>
+      <description>YouTube Video Resources Slides The print(expression) statement in Python works in much the same way as the DISPLAY(expression) statement in pseudocode, but with one major difference. In pseudocode, the DISPLAY(expression) statement will print the value from the expression to the user, but it won&amp;rsquo;t add anything like a space or newline to the end. In Python, however, the print(expression) statement will add a newline to the end of the output by default.</description>
     </item>
     <item>
       <title>Python Tutor</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/12-python-tutor/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/12-python-tutor/</guid>
-      <description>Resources Slides As we learn to write more complex programs in Python, it is important to make sure we can still mentally execute the code we are writing in our &amp;ldquo;mental model&amp;rdquo; of a computer before we actually run it on a computer. After all, if we don&amp;rsquo;t have at least an idea of what the code actually does before we write it, we really haven&amp;rsquo;t learned much about programming!</description>
+      <description>YouTube Video Resources Slides As we learn to write more complex programs in Python, it is important to make sure we can still mentally execute the code we are writing in our &amp;ldquo;mental model&amp;rdquo; of a computer before we actually run it on a computer. After all, if we don&amp;rsquo;t have at least an idea of what the code actually does before we write it, we really haven&amp;rsquo;t learned much about programming!</description>
     </item>
     <item>
       <title>Summary</title>

@@ -2284,7 +2284,7 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/00-intro/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/00-intro/</guid>
-      <description>Over the last few labs, we&amp;rsquo;ve explored how we can change the control flow of our programs using conditional statements. A program that doesn&amp;rsquo;t contain any conditional statements will have a linear control flow. Each time we run the program, it will execute the same steps in the same order, but it may use different data based on input from the user.
+      <description>YouTube Video Over the last few labs, we&amp;rsquo;ve explored how we can change the control flow of our programs using conditional statements. A program that doesn&amp;rsquo;t contain any conditional statements will have a linear control flow. Each time we run the program, it will execute the same steps in the same order, but it may use different data based on input from the user.
 When a program contains a conditional statement, its control flow can split into different branches.</description>
     </item>
     <item>
@@ -2292,28 +2292,28 @@ When a program contains a conditional statement, its control flow can split into
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/01-while-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/01-while-loops/</guid>
-      <description>Resources Slides The first type of loop we&amp;rsquo;ll explore in pseudocode is the while loop. A while loop is an iteration statement that will constantly repeat the code inside of it while a Boolean expression evaluates to true. This is very similar to how an if statement is constructed - we know that the code inside an if statement is only executed if the associated Boolean expression is true. In the case of a while loop, we do basically the same thing, but at the end of the code inside the loop, we go back to the top and check the Boolean expression again.</description>
+      <description>YouTube Video Resources Slides The first type of loop we&amp;rsquo;ll explore in pseudocode is the while loop. A while loop is an iteration statement that will constantly repeat the code inside of it while a Boolean expression evaluates to true. This is very similar to how an if statement is constructed - we know that the code inside an if statement is only executed if the associated Boolean expression is true.</description>
     </item>
     <item>
       <title>For Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/02-for-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/02-for-loops/</guid>
-      <description>Resources Slides Another type of loop that is commonly used in programming is the for loop. Instead of a while loop, which only uses a Boolean expression to determine if a loop repeats, a for loop is typically used to iterate a defined number of times, either by counting up or by iterating across a data structure such as a list. We&amp;rsquo;ll learn more about how to use for loops with lists later in this course.</description>
+      <description>YouTube Video Resources Slides Another type of loop that is commonly used in programming is the for loop. Instead of a while loop, which only uses a Boolean expression to determine if a loop repeats, a for loop is typically used to iterate a defined number of times, either by counting up or by iterating across a data structure such as a list. We&amp;rsquo;ll learn more about how to use for loops with lists later in this course.</description>
     </item>
     <item>
       <title>Input with Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/03-input-with-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/03-input-with-loops/</guid>
-      <description>Resources Slides One of the most powerful features of loops is to deal with invalid user input. For example, if we want a user to input a positive number, but they accidentally input a negative number instead, what should our program do? Previously, all we could do was print an error and ask the user to run the program again, but that isn&amp;rsquo;t very user friendly or efficient. Instead, we can use a loop to repeatedly prompt the user for input until we receive a valid input.</description>
+      <description>YouTube Video Resources Slides One of the most powerful features of loops is to deal with invalid user input. For example, if we want a user to input a positive number, but they accidentally input a negative number instead, what should our program do? Previously, all we could do was print an error and ask the user to run the program again, but that isn&amp;rsquo;t very user friendly or efficient.</description>
     </item>
     <item>
       <title>Testing Loops</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/04-testing-loops/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/04-testing-loops/</guid>
-      <description>Resources Slides Now that we&amp;rsquo;ve seen many examples of how to use loops in our code, let&amp;rsquo;s briefly discuss some techniques for testing programs that contain loops. Many of these techniques are similar to ones we&amp;rsquo;ve explored when testing conditional statements, but there are a few important nuances to think about.
+      <description>YouTube Video Resources Slides Now that we&amp;rsquo;ve seen many examples of how to use loops in our code, let&amp;rsquo;s briefly discuss some techniques for testing programs that contain loops. Many of these techniques are similar to ones we&amp;rsquo;ve explored when testing conditional statements, but there are a few important nuances to think about.
 Branch and Path Coverage First, just like we explored with conditional statements, it is important to test our programs in a way that we execute every possible branch, and try to find every possible path through the program as well.</description>
     </item>
     <item>
@@ -2321,7 +2321,7 @@ Branch and Path Coverage First, just like we explored with conditional statement
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/05-worked-example/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/05-worked-example/</guid>
-      <description>Resources Slides Let&amp;rsquo;s go through a complete worked example program so we can see how to use loops to transform a problem statement into a working program. Once we&amp;rsquo;re done, we&amp;rsquo;ll also talk about how we can test the program to determine if it works correctly and won&amp;rsquo;t run into an error.
+      <description>YouTube Video Resources Slides Let&amp;rsquo;s go through a complete worked example program so we can see how to use loops to transform a problem statement into a working program. Once we&amp;rsquo;re done, we&amp;rsquo;ll also talk about how we can test the program to determine if it works correctly and won&amp;rsquo;t run into an error.
 Problem Statement For this example, we&amp;rsquo;re going to write a simple program to play a variant of the game Nim known as the 21 Game.</description>
     </item>
     <item>
