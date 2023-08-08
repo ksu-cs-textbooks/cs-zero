@@ -2284,21 +2284,21 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/01-numeric-data/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/01-numeric-data/</guid>
-      <description>YouTube Video Resources Slides Previously, we learned about strings and string values in pseudocode. Recall that a string is just text inside of a set of quotation marks &amp;quot;&amp;quot;, such as &amp;quot;Hello World&amp;quot; or &amp;quot;Willie Wildcat&amp;quot;. In technical terms, a string is an example of a data type in programming. A data type defines the way a particular value can be stored in a computer. For text values, we use the string data type.</description>
+      <description>Resources Slides Previously, we learned about strings and string values in pseudocode. Recall that a string is just text inside of a set of quotation marks &amp;quot;&amp;quot;, such as &amp;quot;Hello World&amp;quot; or &amp;quot;Willie Wildcat&amp;quot;. In technical terms, a string is an example of a data type in programming. A data type defines the way a particular value can be stored in a computer. For text values, we use the string data type.</description>
     </item>
     <item>
       <title>Pseudocode Operators</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/02-pseudocode-operators/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/02-pseudocode-operators/</guid>
-      <description>YouTube Video Resources Slides Now that we have the ability to store numerical data in variables in pseudocode, we should also learn how to manipulate that data into something new. To do that, let&amp;rsquo;s learn about operators. An operator in programming is a special symbol that can be used in an expression to manipulate the data in some way. Most operators are binary operators, which means they perform an operation that uses two values as input and produces a single value as output.</description>
+      <description>Resources Slides Now that we have the ability to store numerical data in variables in pseudocode, we should also learn how to manipulate that data into something new. To do that, let&amp;rsquo;s learn about operators. An operator in programming is a special symbol that can be used in an expression to manipulate the data in some way. Most operators are binary operators, which means they perform an operation that uses two values as input and produces a single value as output.</description>
     </item>
     <item>
       <title>Integers &amp; Floats</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/03-integers-floats/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/03-integers-floats/</guid>
-      <description>YouTube Video Resources Slides So far, we&amp;rsquo;ve only worked with string values in Python. Strings are a very useful data type in programming languages such as Python, but they are very limited in their use. Recall that a data type simply defines how a particular value is stored in a computer. The str data type is used to store string values in Python.
+      <description>Resources Slides So far, we&amp;rsquo;ve only worked with string values in Python. Strings are a very useful data type in programming languages such as Python, but they are very limited in their use. Recall that a data type simply defines how a particular value is stored in a computer. The str data type is used to store string values in Python.
 Python supports many different data types for handling various data that we&amp;rsquo;d like to store and manipulate in our programs.</description>
     </item>
     <item>
@@ -2306,7 +2306,7 @@ Python supports many different data types for handling various data that we&amp;
       <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/04-python-operators/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:01 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/04-python-operators/</guid>
-      <description>YouTube Video Resources Slides We can also use Python to perform mathematical operations on numerical data using operators. So, let&amp;rsquo;s briefly review the operators we&amp;rsquo;ve learned so far, and introduce a couple of new operators that are unique to Python.
+      <description>Resources Slides We can also use Python to perform mathematical operations on numerical data using operators. So, let&amp;rsquo;s briefly review the operators we&amp;rsquo;ve learned so far, and introduce a couple of new operators that are unique to Python.
 Mathematical Operators Python supports the same mathematical operators that we&amp;rsquo;ve already seen in pseudocode. The only exception is the the modulo operation is performed using the percent symbol % instead of the MOD keyword.</description>
     </item>
     <item>

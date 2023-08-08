@@ -2278,16 +2278,5 @@
     <description>Recent content in HS Introduction on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Course Introduction - 2023-2024</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/01-introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/01-introduction/</guid>
-      <description>YouTube Video Resources Slides Video Script [Slide 1]
-Hello and welcome to the Cyber Pipeline program!
-My name is Russ Feldhausen, and I’ll be one of the instructors for this program.
-[Slide 2]
-There are many other instructors for this program that you may see in the tutorial videos. They all have been instrumental in the development of this program. You&amp;rsquo;ll see me, along with many of my colleagues at Kansas State University, in the videos throughout this course.</description>
-    </item>
   </channel>
 </rss>

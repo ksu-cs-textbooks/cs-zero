@@ -2284,21 +2284,21 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/01-rle/</link>
       <pubDate>Fri, 16 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/01-rle/</guid>
-      <description>YouTube Video Resources Slides Video Script In this module, we will spend a lot of time talking about compression and error checking in our computers. We&amp;rsquo;ve already talked about compression a little bit in the data encoding module earlier this semester. But now we&amp;rsquo;re going to spend an entire module talking about just these two topics. First, we&amp;rsquo;re going to talk about in compression. What do you think compression is and why do you think it&amp;rsquo;s useful?</description>
+      <description>Resources Slides Video Script In this module, we will spend a lot of time talking about compression and error checking in our computers. We&amp;rsquo;ve already talked about compression a little bit in the data encoding module earlier this semester. But now we&amp;rsquo;re going to spend an entire module talking about just these two topics. First, we&amp;rsquo;re going to talk about in compression. What do you think compression is and why do you think it&amp;rsquo;s useful?</description>
     </item>
     <item>
       <title>Compression - Huffman Coding</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/02-huffman/</link>
       <pubDate>Fri, 16 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/02-huffman/</guid>
-      <description>YouTube Video Resources Slides Video Script Next, let&amp;rsquo;s take a look at another form of compression called Huffman coding. Huffman coding uses the frequency of the letters in a piece of text to reduce the amount of space that they take up in the encoded data. To do this, we will count the occurrences of each character in our text. And we&amp;rsquo;ll use that count to make a binary tree with the data.</description>
+      <description>Resources Slides Video Script Next, let&amp;rsquo;s take a look at another form of compression called Huffman coding. Huffman coding uses the frequency of the letters in a piece of text to reduce the amount of space that they take up in the encoded data. To do this, we will count the occurrences of each character in our text. And we&amp;rsquo;ll use that count to make a binary tree with the data.</description>
     </item>
     <item>
       <title>Error Checking - Pinpoint</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/03-pinpoint/</link>
       <pubDate>Fri, 16 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/03-pinpoint/</guid>
-      <description>YouTube Video Resources Slides Video Script Now let&amp;rsquo;s talk about error checking. What do you think error checking means when we&amp;rsquo;re talking about sending and retrieving data? And why do you think it would be useful? Well, let&amp;rsquo;s take a look at an example. When we send data, such as this text, hello there, sometimes the data might get garbled in transmission. When you were a kid, if you played with radios or walkie talkies, or anything like that, you might have had trouble understanding what other people say, Heck, even it happens today, sometimes on cell phone calls.</description>
+      <description>Resources Slides Video Script Now let&amp;rsquo;s talk about error checking. What do you think error checking means when we&amp;rsquo;re talking about sending and retrieving data? And why do you think it would be useful? Well, let&amp;rsquo;s take a look at an example. When we send data, such as this text, hello there, sometimes the data might get garbled in transmission. When you were a kid, if you played with radios or walkie talkies, or anything like that, you might have had trouble understanding what other people say, Heck, even it happens today, sometimes on cell phone calls.</description>
     </item>
     <item>
       <title>Error Checking - Fletcher&#39;s Checksum</title>
@@ -2306,14 +2306,14 @@
       <pubDate>Fri, 16 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/</guid>
       <description>warning-1 The C2 total on the slide at 0:54 - 2:10 is incorrect. The total is 7336 but that value modulo 255 is 196, not 96 as shown in the video.
-YouTube Video Resources Slides Video Script Let&amp;rsquo;s look at an even better way to do a checksum to check and see if our data is correct. This is called Fletcher&amp;rsquo;s checksum. And here we&amp;rsquo;re giving a quick pseudocode of the algorithm that is used to generate Fletcher&amp;rsquo;s checksum.</description>
+Resources Slides Video Script Let&amp;rsquo;s look at an even better way to do a checksum to check and see if our data is correct. This is called Fletcher&amp;rsquo;s checksum. And here we&amp;rsquo;re giving a quick pseudocode of the algorithm that is used to generate Fletcher&amp;rsquo;s checksum.</description>
     </item>
     <item>
       <title>Error Checking - Other Methods</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/05-other-methods/</link>
       <pubDate>Fri, 16 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/05-other-methods/</guid>
-      <description>YouTube Video Resources Slides Video Script Let&amp;rsquo;s go over a couple other error checking methods that you might run across, we&amp;rsquo;re not going to go into these in too much detail because they are kind of complex at this level. But we&amp;rsquo;ll give you an idea of what&amp;rsquo;s out there, just so you can say you&amp;rsquo;ve seen it. One interesting example is the cyclic redundancy check or CRC. With CRC will have some sort of binary value.</description>
+      <description>Resources Slides Video Script Let&amp;rsquo;s go over a couple other error checking methods that you might run across, we&amp;rsquo;re not going to go into these in too much detail because they are kind of complex at this level. But we&amp;rsquo;ll give you an idea of what&amp;rsquo;s out there, just so you can say you&amp;rsquo;ve seen it. One interesting example is the cyclic redundancy check or CRC. With CRC will have some sort of binary value.</description>
     </item>
     <item>
       <title>Nine Algorithms that Changed the Future Ch 1 - Introduction</title>
