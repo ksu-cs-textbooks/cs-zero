@@ -20,7 +20,7 @@ theme = ["hugo-theme-relearn"]
 # TELE - Teleprompter
 # EMBED - Embeddable Version
 [outputs]
-  home = ["HTML", "RSS", "PRINT", "JSON"]
+  home = ["HTML", "RSS", "PRINT", "SEARCH", "SEARCHPAGE"]
   section = ["HTML", "RSS", "PRINT", "TELE", "EMBED"]
   page = ["HTML", "RSS", "PRINT", "TELE", "EMBED"]
 
@@ -87,7 +87,9 @@ theme = ["hugo-theme-relearn"]
   # this can be overridden in the pages frontmatter
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
-  themeVariant = ["light-theme", "dark-theme"]
+  themeVariant = ["auto", "light-theme", "dark-theme"]
+  # The first element is the variant for light mode, the second for dark mode
+  themeVariantAuto = ["light-theme", "dark-theme"]
   # Change the title separator. Default to "::".
   # titleSeparator = "-"
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view.
