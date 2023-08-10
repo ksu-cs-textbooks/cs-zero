@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,7 +2274,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hans Rosling&#39;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/01-200-years/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/01-200-years/index.html</link>
     <description>Recent content in Hans Rosling&#39;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

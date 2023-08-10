@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,7 +2274,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Four V&#39;s on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/05-four-vs/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/05-four-vs/index.html</link>
     <description>Recent content in The Four V&#39;s on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

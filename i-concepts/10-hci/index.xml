@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,116 +2274,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human-Computer Interaction on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/index.html</link>
     <description>Recent content in Human-Computer Interaction on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 16:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/01-introduction/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/01-introduction/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/01-introduction/</guid>
-      <description>Resources Slides Video Script In this module, we&amp;rsquo;ll discuss the field of human computer interaction or HCI, sometimes referred to as computer human interaction, or CHI. It is the study of how computers and humans interact and how we design computers to better support humans in that efforts. HCI is one of the fields that we&amp;rsquo;re going to look at it throughout the semester, we&amp;rsquo;ll do this several times.</description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/01-introduction/index.html</guid>
+      <description>YouTube Video Resources Slides Video Script In this module, we&amp;rsquo;ll discuss the field of human computer interaction or HCI, sometimes referred to as computer human interaction, or CHI. It is the study of how computers and humans interact and how we design computers to better support humans in that efforts. HCI is one of the fields that we&amp;rsquo;re going to look at it throughout the semester, we&amp;rsquo;ll do this several times.</description>
     </item>
     <item>
       <title>The Mother of All Demos</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/02-mother-of-all-demos/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/02-mother-of-all-demos/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/02-mother-of-all-demos/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/02-mother-of-all-demos/index.html</guid>
       <description>The full video of the Mother of All Demos is linked below, but it is nearly 2 hours long. While we&amp;rsquo;d love to have you watch the whole thing (and you are more than welcome to do so), we wanted to highlight a few of the more important parts. Listed below are the timestamps for a few important sections and a bit of discussion about each one. Feel free to skip around to watch a few of these sections to better understand what Douglas Engelbart was presenting.</description>
     </item>
     <item>
       <title>The Desktop Metaphor</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/03-desktop-metaphor/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/03-desktop-metaphor/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/03-desktop-metaphor/</guid>
-      <description>Resources Slides Video Script On the previous page in NLS was a very revolutionary system. Unfortunately, it was very hard for the average user to use. And so it really never could gain that mainstream reputation that it wanted. So we had to come up with an easier way to use modern computer systems.
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/03-desktop-metaphor/index.html</guid>
+      <description>YouTube Video Resources Slides Video Script On the previous page in NLS was a very revolutionary system. Unfortunately, it was very hard for the average user to use. And so it really never could gain that mainstream reputation that it wanted. So we had to come up with an easier way to use modern computer systems.
 And as the story goes, and engineer one day was staring at the top of his desk thinking about how to solve this problem, and that solution came to be known as the desktop metaphor.</description>
     </item>
     <item>
       <title>Clip from Pirates of Silicon Valley (Dramatization)</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/04-pirates-of-silicon-valley/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/04-pirates-of-silicon-valley/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/04-pirates-of-silicon-valley/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/04-pirates-of-silicon-valley/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>What is Good HCI?</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/05-good-hci/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/05-good-hci/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/05-good-hci/</guid>
-      <description>Resources Slides Video Script So now that we&amp;rsquo;ve seen some examples of historical computer interactions, let&amp;rsquo;s talk about what it might take to make a good computer interface today. Think about the computer systems that you interact with on a daily basis. What about them makes them easy to use or difficult to use? Would your answer change if you gave that computer system to a toddler, or maybe your grandmother or an elderly person?</description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/05-good-hci/index.html</guid>
+      <description>YouTube Video Resources Slides Video Script So now that we&amp;rsquo;ve seen some examples of historical computer interactions, let&amp;rsquo;s talk about what it might take to make a good computer interface today. Think about the computer systems that you interact with on a daily basis. What about them makes them easy to use or difficult to use? Would your answer change if you gave that computer system to a toddler, or maybe your grandmother or an elderly person?</description>
     </item>
     <item>
       <title>The Microsoft Bob Experience: Was It Really THAT Bad?</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/06-ms-bob/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/06-ms-bob/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/06-ms-bob/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/06-ms-bob/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>The Future</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/07-the-future/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/07-the-future/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/07-the-future/</guid>
-      <description>Resources Slides Video Script One person who&amp;rsquo;s very active in the field of HCI today is Don Norman. Don Norman was a 2006 Franklin medalist. And he&amp;rsquo;s really famous for writing a book called The Design of Everyday Things, which if you haven&amp;rsquo;t taken a look at it, I encourage you to at least look at the front cover of that book and see what he&amp;rsquo;s talking about. Don Norman is a real big proponent of designing things to be how they&amp;rsquo;re expected to be used instead of design just to be interesting.</description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/07-the-future/index.html</guid>
+      <description>YouTube Video Resources Slides Video Script One person who&amp;rsquo;s very active in the field of HCI today is Don Norman. Don Norman was a 2006 Franklin medalist. And he&amp;rsquo;s really famous for writing a book called The Design of Everyday Things, which if you haven&amp;rsquo;t taken a look at it, I encourage you to at least look at the front cover of that book and see what he&amp;rsquo;s talking about.</description>
     </item>
     <item>
       <title>User Centered Design - Don Norman</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/08-user-centered/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/08-user-centered/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/08-user-centered/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/08-user-centered/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Graphical User Interfaces (Crash Course) </title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Pattern on the Stone Reading</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/index.html</guid>
       <description>Read Pattern on the Stone, Chapter 9.</description>
     </item>
     <item>
       <title>Multi-touch Interfaces - Jeff Han on TED Talks</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/11-multi-touch-interfaces/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/11-multi-touch-interfaces/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/11-multi-touch-interfaces/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/11-multi-touch-interfaces/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>10/GUI Multi-touch Concept Video</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/12-multi-touch-concept/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/12-multi-touch-concept/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/12-multi-touch-concept/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/12-multi-touch-concept/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Google Glass How-to: Getting Started</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/13-google-glass/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/13-google-glass/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/13-google-glass/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/13-google-glass/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Jacob Tries the Oculus Rift (Warning - Strong Language)</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Dasher: Information Efficient Text Entry (Demo starts at 6:18) </title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/15-dasher/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/15-dasher/index.html</link>
       <pubDate>Wed, 27 May 2020 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/15-dasher/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/15-dasher/index.html</guid>
+      <description> YouTube Video </description>
     </item>
   </channel>
 </rss>

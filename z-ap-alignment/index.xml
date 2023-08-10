@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,17 +2274,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AP Alignment on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/index.html</link>
     <description>Recent content in AP Alignment on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AP Syllabus</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/</guid>
-      <description>Big Ideas Guide CRD - Creative Development DAT - Data AAP - Algorithms &amp;amp; Programming CSN - Computer Systems &amp;amp; Networks IOC - Impact of Computing Computational Thinking Practices Guide CT1 - Computational Solution Design CT2 - Algorithms &amp;amp; Program Development CT3 - Abstraction in Program Development CT4 - Code Analysis CT5 - Computing Innovations CT6 - Responsible Computing Reference: AP Course and Exam Description
-CR 1 - Resources The teacher and students have access to college-level computer science resources, in print or electronic format.</description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/index.html</guid>
+      <description>Big Ideas Guide CRD - Creative Development DAT - Data AAP - Algorithms &amp;amp; Programming CSN - Computer Systems &amp;amp; Networks IOC - Impact of Computing Computational Thinking Practices Guide CT1 - Computational Solution Design CT2 - Algorithms &amp;amp; Program Development CT3 - Abstraction in Program Development CT4 - Code Analysis CT5 - Computing Innovations CT6 - Responsible Computing Reference: AP Course and Exam Description CR 1 - Resources The teacher and students have access to college-level computer science resources, in print or electronic format.</description>
     </item>
   </channel>
 </rss>

@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,7 +2274,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python Dictionaries on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/01-python-dictionaries/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/01-python-dictionaries/index.html</link>
     <description>Recent content in Python Dictionaries on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

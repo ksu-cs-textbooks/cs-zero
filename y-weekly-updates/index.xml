@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,34 +2274,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weekly Updates on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/index.html</link>
     <description>Recent content in Weekly Updates on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jan 2021 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fall &#39;22 Week 1</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/01_week/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/01_week/index.html</link>
       <pubDate>Mon, 25 Jan 2021 00:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/01_week/</guid>
-      <description>Edited Transcript Hello and welcome to cc 110. I am Emily Alfs-Votipka and I&amp;rsquo;ll be your instructor for this semester. Feel free to call me Emily or Mrs. Alfs-Votipka. Either is fine with me, I wanted to just do a quick announcement video of what you can expect for this first week and just general tips for the course.
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/01_week/index.html</guid>
+      <description>YouTube Video Edited Transcript Hello and welcome to cc 110. I am Emily Alfs-Votipka and I&amp;rsquo;ll be your instructor for this semester. Feel free to call me Emily or Mrs. Alfs-Votipka. Either is fine with me, I wanted to just do a quick announcement video of what you can expect for this first week and just general tips for the course.
 The first thing that I wanted to share is ways to contact me.</description>
     </item>
     <item>
       <title>Fall &#39;22 Week 3</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/03_week/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/03_week/index.html</link>
       <pubDate>Mon, 25 Jan 2021 00:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/03_week/</guid>
-      <description> Edited Transcript Will be updated shortly!
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/03_week/index.html</guid>
+      <description> YouTube Video Edited Transcript Will be updated shortly!
 Key Points:
 My office hours are Monday and Friday 10-12 (DUE 2161) CC Help Sessions Wednesday 3:30-4:45 in Calvin 306 Check on the office hour schedule for TA office hours (DUE 1118) Use the CC110 help email for course help! Use the course calendar to stay up to date on due dates </description>
     </item>
     <item>
       <title>Spring&#39;23 Welcome</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/00_welcome/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/00_welcome/index.html</link>
       <pubDate>Mon, 25 Jan 2021 00:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/00_welcome/</guid>
-      <description>Edited Transcript Transcript to follow!</description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/00_welcome/index.html</guid>
+      <description>YouTube Video Edited Transcript Transcript to follow!</description>
     </item>
   </channel>
 </rss>

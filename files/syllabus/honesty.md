@@ -4,8 +4,8 @@ Kansas State University has an Honor and Integrity System based on personal inte
 
 **For this course, a violation of the Honor Pledge will result in sanctions such as a 0 on the assignment or an XF in the course, depending on severity. Actively seeking unauthorized aid, such as posting lab assignments on sites such as Chegg or StackOverflow, or asking another person to complete your work, even if unsuccessful, will result in an immediate XF in the course.**
 
-**Use of AI text and code generators such as ChatGPT and GitHub Copilot in any submission for this course is strictly forbidden unless explicitly allowed by your instructor. Any unauthorized use of these tools is considered plagiarism.**
+**This course assumes that all your course work will be done by you. Use of AI text and code generators such as ChatGPT and GitHub Copilot in any submission for this course is strictly forbidden unless explicitly allowed by your instructor. Any unauthorized use of these tools without proper attribution is a violation of the [K-State Honor Pledge](https://www.k-state.edu/honor/basics/pledge.html).**
 
 We reserve the right to use various platforms that can perform automatic plagiarism detection by tracking changes made to files and comparing submitted projects against other students' submissions and known solutions. That information may be used to determine if plagiarism has taken place.
 
-<!-- Updated Spring 2023 -->
+<!-- Updated Fall 2023 -->

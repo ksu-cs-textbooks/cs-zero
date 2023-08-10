@@ -16,4 +16,9 @@ For Kansas State Salina Campus:
 * [The Kansas State Salina Office of Student Life](https://www.salina.k-state.edu/student-life/) can direct you to additional resources.
 * [The Kansas State Salina Campus](https://www.k-state.edu/oie/documents/SalinaResourceSupportWheel.pdf) offers several services for students, including health services, counseling, and academic assistance. 
 
-<!-- Updated Spring 2023 -->
+For Global Campus/K-State Online:
+
+* K-State Online students have free access to mental health counseling with [My SSP](https://www.k-state.edu/lafene/programs/myssp.html) - 24/7 support via chat and phone.
+* The [Office of Student Life](https://www.k-state.edu/studentlife/) can direct you to additional resources.
+
+<!-- Updated Fall 2023 -->

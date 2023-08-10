@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2271,36 +2271,36 @@
 		
 		
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="generator" content="Hugo 0.101.0">
-    <meta name="generator" content="Relearn 5.2.0+tip">
+    <meta name="generator" content="Hugo 0.117.0">
+    <meta name="generator" content="Relearn 5.18.0">
     <meta name="description" content="Intro CS Textbook">
     <meta name="author" content="K-State CS Faculty">
     <title>Error Checking - Fletcher&#39;s Checksum :: Intro CS Textbook</title>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/" rel="canonical" type="text/html" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.xml" rel="alternate" type="application/rss+xml" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.print.html" rel="alternate" type="text/html" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/embed.html" rel="alternate" type="text/html" title="Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.html" rel="canonical" type="text/html" title="Error Checking - Fletcher&#39;s Checksum :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.xml" rel="alternate" type="application/rss+xml" title="Error Checking - Fletcher&#39;s Checksum :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.print.html" rel="alternate" type="text/html" title="Error Checking - Fletcher&#39;s Checksum :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/embed.html" rel="alternate" type="text/html" title="Error Checking - Fletcher&#39;s Checksum :: Intro CS Textbook">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691519978" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691519978" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/featherlight.min.css?1691519978" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/featherlight.min.css?1691519978" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691519978" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691519978" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/perfect-scrollbar.min.css?1691519978" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/nucleus.css?1691519978" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691519978" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691519978" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme.css?1691519978" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme-light-theme.css?1691519978" rel="stylesheet" id="variant-style">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/ie.css?1691519978" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/variant.css?1691519978" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/print.css?1691519978" rel="stylesheet" media="print">
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/variant.js?1691519978"></script>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691703190" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691703190" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/nucleus.css?1691703190" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691703190" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691703190" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/perfect-scrollbar.min.css?1691703190" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691703190" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691703190" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme.css?1691703190" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme-auto.css?1691703190" rel="stylesheet" id="variant-style">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/variant.css?1691703190" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/print.css?1691703190" rel="stylesheet" media="print">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/ie.css?1691703190" rel="stylesheet">
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/url.js?1691703190"></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/variant.js?1691703190"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
-      var index_url="https://ksu-cs-textbooks.github.io/cs-zero/index.json";
+      window.index_js_url="https://ksu-cs-textbooks.github.io/cs-zero/index.search.js";
       var root_url="https://ksu-cs-textbooks.github.io/cs-zero/";
       var baseUri=root_url.replace(/\/$/, '');
       // translations
@@ -2308,16 +2308,17 @@
       window.T_Copied_to_clipboard = 'Copied to clipboard!';
       window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
       window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
       // some further base stuff
       var baseUriFull='https:\/\/ksu-cs-textbooks.github.io\/cs-zero/';
-      window.variants && variants.init( [ 'light-theme', 'dark-theme' ] );
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
     </script>
     
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/custom.css?1691519978" rel="stylesheet">
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/jquery.min.js?1691519978" defer></script>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/custom.css?1691703190" rel="stylesheet">
 
   </head>
-  <body class="mobile-support tele disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/">
+  <body class="mobile-support tele disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.html">
     
     <div id="tele" class="tele mirror">
     
@@ -2327,16 +2328,18 @@
       
       <main id="body-inner" class="highlightable default" tabindex="-1">
         <div class="flex-block-wrapper">
-          <div id="head-tags">
-          </div>
           <article class="default">
-<h1>Error Checking - Fletcher&#39;s Checksum</h1>
+            <header class="headline">
+            </header>
+<h1 id="error-checking---fletchers-checksum">Error Checking - Fletcher&#39;s Checksum</h1>
+
 
 <div class="box notices cstyle warning">
-    <div class="box-label"><i class="fa-fw fas fa-Errata"></i> warning-1</div>
-    <div class="box-content">
+  <div class="box-label"><i class="fa-fw fas fa-Errata"></i> warning-1</div>
+  <div class="box-content">
+
 <p><em>The C2 total on the slide at 0:54 - 2:10 is incorrect. The total is <code>7336</code> but that value modulo <code>255</code> is <code>196</code>, not <code>96</code> as shown in the video.</em></p>
-    </div>
+</div>
 </div>
 
 <a href="https://www.youtube.com/watch?v=aEF-e5S-Q6Q">YouTube Video</a>
@@ -2344,9 +2347,8 @@
 <!-- TODO Fix Video -->
 <h4 id="resources">Resources</h4>
 <ul>
-<li>
-
-<a href="../slides/21-Compression-Error-Checking.pdf">Slides</a></li>
+<li><a href="../slides/21-Compression-Error-Checking.pdf">Slides</a>
+</li>
 </ul>
 <h4 id="video-script">Video Script</h4>
 <p>Let&rsquo;s look at an even better way to do a checksum to check and see if our data is correct. This is called Fletcher&rsquo;s checksum. And here we&rsquo;re giving a quick pseudocode of the algorithm that is used to generate Fletcher&rsquo;s checksum. Basically, the way it works is you divide the word into a sequence of equally sized blocks. And we&rsquo;ll just use the individual characters for this. And we&rsquo;ll start with two checksums, one of them, C1 starts at zero, the other to also starts at zero, then for every block, we&rsquo;ll add the value of the block to the first check sum. And then we&rsquo;ll add the new value of that checksum to the second checksum. And then finally, while we&rsquo;re done, we will calculate the values of the checksum mod 255 to reduce them to an eight bit binary value. And we&rsquo;ll return those two checksums.</p>
@@ -2354,23 +2356,23 @@
 <p>So in this example, by switching these two characters, the first checksum did not change, but the second checksum definitely changes. And that&rsquo;s because the order changed. Likewise, when we look at all of these examples, we see that all of them add up to the same set of characters. So the first checksum will always be 281. But the second checksum will be different every single time. And that&rsquo;s because we&rsquo;re adding this first checksum to the second checksum every single time so it captures the ordering of the characters as well as the values that they may change based on those different values. So even by adding a zero in there, we would get a different value for that second checksum. So once again, there will be a quiz after this video where you can try a little bit of Fletcher&rsquo;s checksum just to see how it works.</p>
 
             <footer class="footline">
+
             </footer>
           </article>
         </div>
       </main>
     </div>
     
-  </div>
+    </div>
     
     
     
     
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/clipboard.min.js?1691519978" defer></script>
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/perfect-scrollbar.min.js?1691519978" defer></script>
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/featherlight.min.js?1691519978" defer></script>
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/theme.js?1691519978" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/clipboard.min.js?1691703194" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/perfect-scrollbar.min.js?1691703194" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/theme.js?1691703194" defer></script>
     
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/tele-scroll.js?1691519978 defer"></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/tele-scroll.js?1691703194 defer"></script>
     
   </body>
 </html>

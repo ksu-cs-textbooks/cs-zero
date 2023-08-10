@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2271,36 +2271,36 @@
 		
 		
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="generator" content="Hugo 0.101.0">
-    <meta name="generator" content="Relearn 5.2.0+tip">
+    <meta name="generator" content="Hugo 0.117.0">
+    <meta name="generator" content="Relearn 5.18.0">
     <meta name="description" content="Intro CS Textbook">
     <meta name="author" content="K-State CS Faculty">
     <title>Blocks and Scope :: Intro CS Textbook</title>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/" rel="canonical" type="text/html" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/index.xml" rel="alternate" type="application/rss+xml" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/index.print.html" rel="alternate" type="text/html" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/tele.html" rel="alternate" type="text/html" title="Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/index.html" rel="canonical" type="text/html" title="Blocks and Scope :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/index.xml" rel="alternate" type="application/rss+xml" title="Blocks and Scope :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/index.print.html" rel="alternate" type="text/html" title="Blocks and Scope :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/tele.html" rel="alternate" type="text/html" title="Blocks and Scope :: Intro CS Textbook">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691519925" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691519925" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/featherlight.min.css?1691519925" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/featherlight.min.css?1691519925" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691519925" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691519925" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/perfect-scrollbar.min.css?1691519925" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/nucleus.css?1691519925" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691519925" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691519925" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme.css?1691519925" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme-light-theme.css?1691519925" rel="stylesheet" id="variant-style">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/ie.css?1691519925" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/variant.css?1691519925" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/print.css?1691519925" rel="stylesheet" media="print">
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/variant.js?1691519925"></script>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691703166" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691703166" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/nucleus.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691703166" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691703166" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/perfect-scrollbar.min.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691703166" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691703166" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme-auto.css?1691703166" rel="stylesheet" id="variant-style">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/variant.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/print.css?1691703166" rel="stylesheet" media="print">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/ie.css?1691703166" rel="stylesheet">
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/url.js?1691703166"></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/variant.js?1691703166"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
-      var index_url="https://ksu-cs-textbooks.github.io/cs-zero/index.json";
+      window.index_js_url="https://ksu-cs-textbooks.github.io/cs-zero/index.search.js";
       var root_url="https://ksu-cs-textbooks.github.io/cs-zero/";
       var baseUri=root_url.replace(/\/$/, '');
       // translations
@@ -2308,24 +2308,23 @@
       window.T_Copied_to_clipboard = 'Copied to clipboard!';
       window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
       window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
       // some further base stuff
       var baseUriFull='https:\/\/ksu-cs-textbooks.github.io\/cs-zero/';
-      window.variants && variants.init( [ 'light-theme', 'dark-theme' ] );
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
     </script>
     
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/custom.css?1691519925" rel="stylesheet">
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/jquery.min.js?1691519925" defer></script>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/custom.css?1691703166" rel="stylesheet">
 
   </head>
   <body class="mobile-support embed disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/embed.html">
-    <div id="body" class="default-animation" data-iframe-height="yes">
+    <div id="body" class="default-animation">
       
       
       
-      <main id="body-inner" class="highlightable default" tabindex="-1" data-iframe-height="yes" style="padding-bottom: 0px">
-        <div class="flex-block-wrapper" data-iframe-height="yes">
-          <div id="head-tags">
-          </div>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
           <article class="default">
     
     
@@ -2345,7 +2344,7 @@
 <p>First, let&rsquo;s talk about the most common type of variable scope, which is <strong>block scope</strong>. This type of variable scope is used in many programming languages, such as Java, C#, C/C++, and more. In block scope, variables are only available within the blocks where they are declared, including any other blocks nested within that block. Also, variables can only be accessed by code executed after the variable is initially declared or given a value.</p>
 <p>So, what is a <strong>block</strong>? Effectively, each function and conditional statement introduces a new block in the program. In languages such as Java and C/C++, blocks are typically surrounded by curly braces <code>{}</code>. In Python, blocks are indicated by the level of indentation.</p>
 <p>For example, consider the following Python code:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
+<div class="wrap-code highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e"># main block</span>
 </span></span><span style="display:flex;"><span>    x <span style="color:#f92672">=</span> int(input(<span style="color:#e6db74">&#34;Enter a number: &#34;</span>))
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> x <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">5</span>:
@@ -2366,8 +2365,7 @@
 </span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;?&#34;</span>)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>main()
-</span></span></code></pre></div><p>This program contains six different blocks of code:</p>
+</span></span><span style="display:flex;"><span>main()</span></span></code></pre></div><p>This program contains six different blocks of code:</p>
 <ul>
 <li>The <code>main</code> block, which is all of the code within the <code>main()</code> function</li>
 <li>Block <code>A</code>, which is all of the code inside of the <code>True</code> branch of the outermost conditional statement.</li>
@@ -2388,7 +2386,7 @@
 <p>One thing that is unique about this example is the variable <code>z</code>, which is declared in both block <code>B</code> and block <code>C</code>. What does this mean when we are dealing with block scope? Basically, those variables named <code>z</code> are actually <em>two different variables</em>! Since they cannot be accessed outside of the block that they are declared in, they should really be considered as completely separate entities, even though they are given the same name. This is one of the trickiest concepts when dealing with scope!</p>
 <p>So, if this program is using block scope, what variables can be printed at the very end of the program, where the question mark <code>?</code> is found in a <code>print()</code> statement? In this case, only the variable <code>x</code> exists in the <code>main()</code> function&rsquo;s scope, so it is the only variable that we can print at the end of the program.</p>
 <p>If we want to print the other variables, we must declare them in the appropriate scope. So, we can update our code as shown here to do that:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
+<div class="wrap-code highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e"># main block</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e"># variable declarations in main block</span>
 </span></span><span style="display:flex;"><span>    y <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
@@ -2414,12 +2412,11 @@
 </span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;?&#34;</span>)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>main()
-</span></span></code></pre></div><p>With this change, we can now access all of the variables in the <code>main()</code> function&rsquo;s scope, so any one of them could be printed at the end of the program. This also has the side effect of making the variable <code>z</code> in both blocks <code>B</code> and <code>C</code> the same variable, since it is now declared at a higher scope.</p>
+</span></span><span style="display:flex;"><span>main()</span></span></code></pre></div><p>With this change, we can now access all of the variables in the <code>main()</code> function&rsquo;s scope, so any one of them could be printed at the end of the program. This also has the side effect of making the variable <code>z</code> in both blocks <code>B</code> and <code>C</code> the same variable, since it is now declared at a higher scope.</p>
 <h2 id="python-function-scope">Python: Function Scope</h2>
 <p>Python, however, uses a different type of variable scope known as <strong>function scope</strong>. In function scope, variables that are declared anywhere in a function are accessible everywhere in that function as soon as they&rsquo;ve been declared or given a value. So, once we see a variable in the code while we&rsquo;re executing a function, we can access that variable anywhere within the function.</p>
 <p>Let&rsquo;s go back to the previous example, and look at that in terms of <strong>function scope</strong></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
+<div class="wrap-code highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e"># main block</span>
 </span></span><span style="display:flex;"><span>    x <span style="color:#f92672">=</span> int(input(<span style="color:#e6db74">&#34;Enter a number: &#34;</span>))
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> x <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">5</span>:
@@ -2440,16 +2437,22 @@
 </span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;?&#34;</span>)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>main()
-</span></span></code></pre></div><p>Using function scope, any of the variables <code>x</code>, <code>y</code>, <code>z</code>, <code>a</code> or <code>b</code> could be placed in the <code>print()</code> statement at the end of the main function, and the program <em>could</em> work. However, there is one major caveat that we must keep in mind: we can only print the variable if it has been given a value in the program!</p>
+</span></span><span style="display:flex;"><span>main()</span></span></code></pre></div><p>Using function scope, any of the variables <code>x</code>, <code>y</code>, <code>z</code>, <code>a</code> or <code>b</code> could be placed in the <code>print()</code> statement at the end of the main function, and the program <em>could</em> work. However, there is one major caveat that we must keep in mind: we can only print the variable if it has been given a value in the program!</p>
 <p>For example, if the user inputs a negative value for <code>x</code>, then the variables <code>y</code>, <code>z</code>, and <code>b</code> are never given a value! We can confirm this by running the program in Python Tutor. As we see here, at the end of the program, only the variables <code>x</code> and <code>a</code> are shown in the list of variables within the <code>main()</code> frame in Python Tutor on the right:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab9/tutor.png" alt="Python Tutor"></p>
+<p>
+<a href="#image-075b7ea1a8a2610c2a56fcd0bc7eac44" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab9/tutor.png" alt="Python Tutor" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-075b7ea1a8a2610c2a56fcd0bc7eac44">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab9/tutor.png" alt="Python Tutor" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Because of this, we have to be careful when we write our programs in Python using function scope. It is very easy to find ourselves in situations where our program will work most of the time, since it usually executes the correct blocks of code to populate the variables we need, but there may be situations where that isn&rsquo;t guaranteed.</p>
 <p>This is where testing techniques such as <strong>path coverage</strong> are so important. If we have a set of inputs that achieve path coverage, and we are able to show that the variables we need are available at the end of the program in each of those paths, then we know that we can use them.</p>
 <p>Alternatively, we can build our programs in Python as if Python used block scope instead of function scope. By assuming that variables are only available in the blocks where they are given a value, we can always ensure that we won&rsquo;t reach a situation where we are trying to access a variable that isn&rsquo;t available. <em>For novice programmers, this is often the simplest option.</em></p>
 <p>Dealing with scope is a tricky part of learning to program. Thankfully, in Python, as well as many other languages, we can easily use tools such as Python Tutor and good testing techniques to make sure our programs are well written and won&rsquo;t run into any errors related to variable scope.</p>
 
             <footer class="footline">
+
             </footer>
           </article>
         </div>
@@ -2458,13 +2461,8 @@
     
     
     
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/clipboard.min.js?1691519925" defer></script>
-    
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/featherlight.min.js?1691519925" defer></script>
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/theme.js?1691519925" defer></script>
-    
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/embed-iframe.js?1691519925 defer"></script>
-    <script src="https://cdn.jsdelivr.net/npm/iframe-resizer@4.3.2/js/iframeResizer.contentWindow.min.js"></script>
-    
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/clipboard.min.js?1691703177" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/perfect-scrollbar.min.js?1691703177" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/theme.js?1691703177" defer></script>
   </body>
 </html>

@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2271,36 +2271,36 @@
 		
 		
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="generator" content="Hugo 0.101.0">
-    <meta name="generator" content="Relearn 5.2.0+tip">
+    <meta name="generator" content="Hugo 0.117.0">
+    <meta name="generator" content="Relearn 5.18.0">
     <meta name="description" content="Intro CS Textbook">
     <meta name="author" content="K-State CS Faculty">
     <title>Nested While Loops :: Intro CS Textbook</title>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/" rel="canonical" type="text/html" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/index.xml" rel="alternate" type="application/rss+xml" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/index.print.html" rel="alternate" type="text/html" title="Intro CS Textbook">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/tele.html" rel="alternate" type="text/html" title="Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/index.html" rel="canonical" type="text/html" title="Nested While Loops :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/index.xml" rel="alternate" type="application/rss+xml" title="Nested While Loops :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/index.print.html" rel="alternate" type="text/html" title="Nested While Loops :: Intro CS Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/tele.html" rel="alternate" type="text/html" title="Nested While Loops :: Intro CS Textbook">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691519921" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691519921" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/featherlight.min.css?1691519921" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/featherlight.min.css?1691519921" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691519921" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691519921" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/perfect-scrollbar.min.css?1691519921" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/nucleus.css?1691519921" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691519921" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691519921" rel="stylesheet"></noscript>
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme.css?1691519921" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme-light-theme.css?1691519921" rel="stylesheet" id="variant-style">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/ie.css?1691519921" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/variant.css?1691519921" rel="stylesheet">
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/print.css?1691519921" rel="stylesheet" media="print">
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/variant.js?1691519921"></script>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691703166" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fontawesome-all.min.css?1691703166" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/nucleus.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691703166" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/auto-complete.css?1691703166" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/perfect-scrollbar.min.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691703166" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cs-zero/css/fonts.css?1691703166" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/theme-auto.css?1691703166" rel="stylesheet" id="variant-style">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/variant.css?1691703166" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/print.css?1691703166" rel="stylesheet" media="print">
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/ie.css?1691703166" rel="stylesheet">
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/url.js?1691703166"></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/variant.js?1691703166"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
-      var index_url="https://ksu-cs-textbooks.github.io/cs-zero/index.json";
+      window.index_js_url="https://ksu-cs-textbooks.github.io/cs-zero/index.search.js";
       var root_url="https://ksu-cs-textbooks.github.io/cs-zero/";
       var baseUri=root_url.replace(/\/$/, '');
       // translations
@@ -2308,24 +2308,23 @@
       window.T_Copied_to_clipboard = 'Copied to clipboard!';
       window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
       window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
       // some further base stuff
       var baseUriFull='https:\/\/ksu-cs-textbooks.github.io\/cs-zero/';
-      window.variants && variants.init( [ 'light-theme', 'dark-theme' ] );
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
     </script>
     
-    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/custom.css?1691519921" rel="stylesheet">
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/jquery.min.js?1691519921" defer></script>
+    <link href="https://ksu-cs-textbooks.github.io/cs-zero/css/custom.css?1691703166" rel="stylesheet">
 
   </head>
   <body class="mobile-support embed disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/embed.html">
-    <div id="body" class="default-animation" data-iframe-height="yes">
+    <div id="body" class="default-animation">
       
       
       
-      <main id="body-inner" class="highlightable default" tabindex="-1" data-iframe-height="yes" style="padding-bottom: 0px">
-        <div class="flex-block-wrapper" data-iframe-height="yes">
-          <div id="head-tags">
-          </div>
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
           <article class="default">
     
     
@@ -2341,7 +2340,7 @@
 </ul>
 <p>To create a nested loop in Python, we can simply place a loop structure inside of the block of statements that is repeated by another loop structure. This is very similar to how we can nest conditional statements as well.</p>
 <p>For example, consider this short Python program:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
+<div class="wrap-code highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">main</span>():
 </span></span><span style="display:flex;"><span>    i <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">while</span> i <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">10</span>:
 </span></span><span style="display:flex;"><span>        j <span style="color:#f92672">=</span> i
@@ -2353,54 +2352,166 @@
 </span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Complete!&#34;</span>)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>main()
-</span></span></code></pre></div><p>In this example, we see a Python while loop that uses the variable <code>i</code> in its Boolean expression first, and then inside of that loop we see another loop that uses <code>j</code> in its Boolean expression. When we run this code, each time we execute the steps inside of the outer while loop, we&rsquo;ll have to completely go through the inner while loop as well. It can be very complex to keep track of everything, but with a bit of practice we&rsquo;ll learn some strategies for mentally working through loops.</p>
+</span></span><span style="display:flex;"><span>main()</span></span></code></pre></div><p>In this example, we see a Python while loop that uses the variable <code>i</code> in its Boolean expression first, and then inside of that loop we see another loop that uses <code>j</code> in its Boolean expression. When we run this code, each time we execute the steps inside of the outer while loop, we&rsquo;ll have to completely go through the inner while loop as well. It can be very complex to keep track of everything, but with a bit of practice we&rsquo;ll learn some strategies for mentally working through loops.</p>
 <p>Before continuing, take a look at that program&rsquo;s code and see if you can determine what it will print!</p>
 <h2 id="code-tracing-example">Code Tracing Example</h2>
-<p>To really understand how a set of nested loops work, let&rsquo;s go through a code tracing example using Python Tutor. To follow along, place this code in the <code>tutor.py</code> file in the <code>python</code> folder on Codio, or click this 
-
-<a href="https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20i%20%3D%201%0A%20%20%20%20while%20i%20%3C%2010%3A%0A%20%20%20%20%20%20%20%20j%20%3D%20i%0A%20%20%20%20%20%20%20%20while%20j%20%3C%2010%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20print%28%22%7B%7D%20%22.format%28j%29,%20end%3D%22%22%29%0A%20%20%20%20%20%20%20%20%20%20%20%20j%20%3D%20j%20%2B%201%0A%20%20%20%20%20%20%20%20print%28%22%22%29%0A%20%20%20%20%20%20%20%20i%20%3D%20i%20%2B%201%0A%20%20%20%20print%28%22Complete!%22%29%0A%0A%0Amain%28%29&amp;cumulative=false&amp;curInstr=0&amp;heapPrimitives=nevernest&amp;mode=display&amp;origin=opt-frontend.js&amp;py=3&amp;rawInputLstJSON=%5B%5D&amp;textReferences=false" target="_blank" rel="noopener">Python Tutor</a> link to load Python Tutor in a web browser.</p>
+<p>To really understand how a set of nested loops work, let&rsquo;s go through a code tracing example using Python Tutor. To follow along, place this code in the <code>tutor.py</code> file in the <code>python</code> folder on Codio, or click this <a href="https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20i%20%3D%201%0A%20%20%20%20while%20i%20%3C%2010%3A%0A%20%20%20%20%20%20%20%20j%20%3D%20i%0A%20%20%20%20%20%20%20%20while%20j%20%3C%2010%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20print%28%22%7B%7D%20%22.format%28j%29,%20end%3D%22%22%29%0A%20%20%20%20%20%20%20%20%20%20%20%20j%20%3D%20j%20%2B%201%0A%20%20%20%20%20%20%20%20print%28%22%22%29%0A%20%20%20%20%20%20%20%20i%20%3D%20i%20%2B%201%0A%20%20%20%20print%28%22Complete!%22%29%0A%0A%0Amain%28%29&amp;cumulative=false&amp;curInstr=0&amp;heapPrimitives=nevernest&amp;mode=display&amp;origin=opt-frontend.js&amp;py=3&amp;rawInputLstJSON=%5B%5D&amp;textReferences=false" target="_blank">Python Tutor</a>
+ link to load Python Tutor in a web browser.</p>
 <p>When we first load this code in Python Tutor, we should see the following state:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_1.png" alt="Tutor 1"></p>
+<p>
+<a href="#image-308efd61796b36b79d83f04f09418240" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_1.png" alt="Tutor 1" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-308efd61796b36b79d83f04f09418240">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_1.png" alt="Tutor 1" class="lightbox-image" loading="lazy">
+</a></p>
 <p>When we look at the bottom of the Python Tutor page, we&rsquo;ll see that we are on step 1 of 187 steps! That&rsquo;s a very large number of steps to deal with! Up to this point, most of our programs have been around 20 or 30 steps in total. So, already we&rsquo;re seeing that nested loops can quickly create programs that execute many more steps.</p>
 <p>If we click next a few times, we&rsquo;ll see Python Tutor find the <code>main()</code> function definition, and then call that function from the bottom of the code. By the time we&rsquo;ve entered the <code>main()</code> function, we should be at this state:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_4.png" alt="Tutor 4"></p>
+<p>
+<a href="#image-1cab40e9859abb2cca4f241e829aafb8" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_4.png" alt="Tutor 4" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-1cab40e9859abb2cca4f241e829aafb8">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_4.png" alt="Tutor 4" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Here, we are setting up the iterator variable <code>i</code> that is used for the outermost loop. So, we&rsquo;ll store the value $1$ in <code>i</code> and then move to the next line:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_5.png" alt="Tutor 5"></p>
+<p>
+<a href="#image-965f837b5c5549e612578a8542fd07b1" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_5.png" alt="Tutor 5" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-965f837b5c5549e612578a8542fd07b1">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_5.png" alt="Tutor 5" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Now we&rsquo;re at the start of our outer while loop. That means that we&rsquo;ll need to evaluate the Boolean expression and determine if it is <code>True</code> or <code>False</code>. In this case, we can see that <code>i &lt; 10</code> will evaluate to <code>True</code>, so we should enter the loop.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_6.png" alt="Tutor 6"></p>
+<p>
+<a href="#image-da5f30832b227bc431e643bd215c0369" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_6.png" alt="Tutor 6" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-da5f30832b227bc431e643bd215c0369">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_6.png" alt="Tutor 6" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Once we are inside the loop, we&rsquo;ll start setting up the iterator variable <code>j</code> for the inner loop. In this code, we are storing the current value of <code>i</code> in <code>j</code>, so at this point <code>j</code> will also contain $1$.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_7.png" alt="Tutor 7"></p>
+<p>
+<a href="#image-fb1b3c4abfe06496b0abb733caf26bfe" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_7.png" alt="Tutor 7" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-fb1b3c4abfe06496b0abb733caf26bfe">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_7.png" alt="Tutor 7" class="lightbox-image" loading="lazy">
+</a></p>
 <p>At this point, we need to decide if we should enter the inner while loop. So, once again we&rsquo;ll look at the Boolean expression, <code>j &lt; 10</code>, and see that it is also <code>True</code> and we should enter the loop.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_8.png" alt="Tutor 8"></p>
+<p>
+<a href="#image-8aebd0c2767da192f3fc3c0f6355fec0" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_8.png" alt="Tutor 8" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-8aebd0c2767da192f3fc3c0f6355fec0">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_8.png" alt="Tutor 8" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Inside of the inner while loop, we&rsquo;ll perform two actions. First, we&rsquo;ll print the current value of <code>j</code> to the output, but we won&rsquo;t move to the next line since the <code>end</code> parameter is set to an empty string in the <code>print()</code> function:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_9.png" alt="Tutor 9"></p>
+<p>
+<a href="#image-20a9de93d3da7df6a797569eecfd9bc8" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_9.png" alt="Tutor 9" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-20a9de93d3da7df6a797569eecfd9bc8">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_9.png" alt="Tutor 9" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Then, we&rsquo;ll increment the value of <code>j</code> by $1$ before looping back to the top of the innermost loop:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_10.png" alt="Tutor 10"></p>
+<p>
+<a href="#image-a3ddfd96785e1f960f4ea2661240a667" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_10.png" alt="Tutor 10" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-a3ddfd96785e1f960f4ea2661240a667">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_10.png" alt="Tutor 10" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Notice that when we reach the end of the innermost loop, we jump back to the beginning of that loop, <strong>NOT</strong> to the beginning of the outermost loop. This is an important concept to learn - since we are only dealing with the inner loop at this point, we must continue to repeat its steps until the Boolean expression evaluates to <code>False</code>. So, since the Boolean expression <code>j &lt; 10</code> still evaluates to <code>True</code>, we should enter the loop once again.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_11.png" alt="Tutor 11"></p>
+<p>
+<a href="#image-dc8e72d6f4d4e3584352e14947e375cb" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_11.png" alt="Tutor 11" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-dc8e72d6f4d4e3584352e14947e375cb">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_11.png" alt="Tutor 11" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Inside the loop, we&rsquo;ll print the current value of <code>j</code> to the same line of output as before:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_12.png" alt="Tutor 12"></p>
+<p>
+<a href="#image-a1f3f0ad658d5f8d672c87b03dbdc656" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_12.png" alt="Tutor 12" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-a1f3f0ad658d5f8d672c87b03dbdc656">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_12.png" alt="Tutor 12" class="lightbox-image" loading="lazy">
+</a></p>
 <p>And once again we&rsquo;ll increment the value of <code>j</code> by $1$ and jump back to the top of the innermost while loop:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_13.png" alt="Tutor 13"></p>
+<p>
+<a href="#image-52b9558d18200647f1e5dc7409440d8e" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_13.png" alt="Tutor 13" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-52b9558d18200647f1e5dc7409440d8e">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_13.png" alt="Tutor 13" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Hopefully at this point we have a pretty good idea of what each step of the innermost while loop does. It will simply print the value of <code>j</code> and increment it by $1$, repeating those steps until <code>j</code> is greater than or equal to $10$. So, once the inner while loop terminates, we&rsquo;ll see this state:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_35.png" alt="Tutor 35"></p>
+<p>
+<a href="#image-7c578e2bfb7e5bd50828a52aa1968fef" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_35.png" alt="Tutor 35" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-7c578e2bfb7e5bd50828a52aa1968fef">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_35.png" alt="Tutor 35" class="lightbox-image" loading="lazy">
+</a></p>
 <p>We jumped from step 13 to step 35 just to complete the inner while loop. Finally, at this point we&rsquo;ll print an empty string, which will move our output to the next line, and then we&rsquo;ll increment the value in <code>i</code> by $1$ before looping to the top of the outer while loop:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_37.png" alt="Tutor 37"></p>
+<p>
+<a href="#image-889206a4577fbce112109b27dd39b2eb" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_37.png" alt="Tutor 37" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-889206a4577fbce112109b27dd39b2eb">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_37.png" alt="Tutor 37" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Now we must check to see if we should enter the outer while loop again by checking the Boolean expression <code>i &lt; 10</code>. Since that evaluates to <code>True</code>, we&rsquo;ll enter the loop a second time.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_38.png" alt="Tutor 38"></p>
+<p>
+<a href="#image-c1b0eaa26678ffae5b228f8b7687a377" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_38.png" alt="Tutor 38" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-c1b0eaa26678ffae5b228f8b7687a377">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_38.png" alt="Tutor 38" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Inside the loop, we&rsquo;ll reset the value of <code>j</code> to be the current value stored in <code>i</code>, which is now $2$, and then we&rsquo;ll reach the inner while loop:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_39.png" alt="Tutor 39"></p>
+<p>
+<a href="#image-cb6a138059350c5941116c1de118de27" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_39.png" alt="Tutor 39" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-cb6a138059350c5941116c1de118de27">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_39.png" alt="Tutor 39" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Here, we can evaluate the Boolean expression <code>j &lt; 10</code>, which is currently <code>True</code>, and determine that we should enter the inner while loop.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_40.png" alt="Tutor 40"></p>
+<p>
+<a href="#image-de595b1fb889169df8847ee4468386c9" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_40.png" alt="Tutor 40" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-de595b1fb889169df8847ee4468386c9">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_40.png" alt="Tutor 40" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Inside the loop, the code hasn&rsquo;t changed, so we can use our understanding from before to quickly figure out what this loop does. It will print the current value in <code>j</code> and then increment <code>j</code> by $1$, so we&rsquo;ll end up at this state:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_42.png" alt="Tutor 42"></p>
+<p>
+<a href="#image-8448ccc34c8a7fd065f8fb81993de372" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_42.png" alt="Tutor 42" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-8448ccc34c8a7fd065f8fb81993de372">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_42.png" alt="Tutor 42" class="lightbox-image" loading="lazy">
+</a></p>
 <p>At this point, we can easily assume that the inner loop will do pretty much the same thing as before - it will print all of the values from <code>i</code> up through $9$ to the output, all on the same line. So, once the inner loop has completely finished, we&rsquo;ll see the following state in Python Tutor:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_64.png" alt="Tutor 64"></p>
+<p>
+<a href="#image-e6d007ff3d08445c4590525b5c2b0460" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_64.png" alt="Tutor 64" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-e6d007ff3d08445c4590525b5c2b0460">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_64.png" alt="Tutor 64" class="lightbox-image" loading="lazy">
+</a></p>
 <p>We were able to quickly jump from step 42 all the way to step 64 just by understanding what the inner loop is doing and extrapolating from our previous experience. Now, we can finish up this iteration of the outer loop by printing a newline and then incrementing <code>i</code> by $1$, and then we&rsquo;ll be back at the beginning of the outer while loop:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_66.png" alt="Tutor 66"></p>
+<p>
+<a href="#image-dec7ba5fea2d785599ad88904cd212ba" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_66.png" alt="Tutor 66" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-dec7ba5fea2d785599ad88904cd212ba">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_66.png" alt="Tutor 66" class="lightbox-image" loading="lazy">
+</a></p>
 <p>At this point, we&rsquo;ve completely worked through two iterations of the outermost while loop, including two complete executions of the innermost while loop. So, we&rsquo;re at a good point to make a prediction about the output of the program as a whole, without executing the next 120 steps. It looks like the inner loop will print the values from <code>i</code> through $9$ on a single line, and then each line will start with the value of <code>i</code> being incremented by $1$ each time. So, overall, we can expect the entire outer while loop to produce the following output:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span>1 2 3 4 5 6 7 8 9 
+<div class="wrap-code highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span>1 2 3 4 5 6 7 8 9 
 </span></span><span style="display:flex;"><span>2 3 4 5 6 7 8 9 
 </span></span><span style="display:flex;"><span>3 4 5 6 7 8 9 
 </span></span><span style="display:flex;"><span>4 5 6 7 8 9 
@@ -2408,13 +2519,30 @@
 </span></span><span style="display:flex;"><span>6 7 8 9 
 </span></span><span style="display:flex;"><span>7 8 9 
 </span></span><span style="display:flex;"><span>8 9 
-</span></span><span style="display:flex;"><span>9
-</span></span></code></pre></div><p>And, indeed, if we jump ahead to the last line of the program we&rsquo;ll see exactly that situation in Python Tutor:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_186.png" alt="Tutor 186"></p>
+</span></span><span style="display:flex;"><span>9</span></span></code></pre></div><p>And, indeed, if we jump ahead to the last line of the program we&rsquo;ll see exactly that situation in Python Tutor:</p>
+<p>
+<a href="#image-5970642c7cefdc567d39a86b898fc4fc" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_186.png" alt="Tutor 186" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-5970642c7cefdc567d39a86b898fc4fc">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_186.png" alt="Tutor 186" class="lightbox-image" loading="lazy">
+</a></p>
 <p>The program ends by printing the string <code>&quot;Complete!&quot;</code>. At the end of the program, we&rsquo;ll see the following state:</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_187.png" alt="Tutor 187"></p>
+<p>
+<a href="#image-220d29b5ed820bbb2c167a3334d978b1" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_187.png" alt="Tutor 187" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-220d29b5ed820bbb2c167a3334d978b1">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9_187.png" alt="Tutor 187" class="lightbox-image" loading="lazy">
+</a></p>
 <p>A full animation of this process is shown here. After the first full iteration of the outer while loop, the rest of the internal steps are omitted and only the end of each loop iteration is shown.</p>
-<p><img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9.gif" alt="Tutor 9 Animated"></p>
+<p>
+<a href="#image-c1941725faaab9a59f033c44ec5d7b0b" class="lightbox-link">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9.gif" alt="Tutor 9 Animated" style="height: auto; width: auto;" loading="lazy">
+</a>
+<a href="javascript:history.back();" class="lightbox" id="image-c1941725faaab9a59f033c44ec5d7b0b">
+<img src="https://ksu-cs-textbooks.github.io/cs-zero/images/lab12/tutor9.gif" alt="Tutor 9 Animated" class="lightbox-image" loading="lazy">
+</a></p>
 <p>Working through an example program such as this one is a great way to explore how nested loops work in Python</p>
 <h2 id="tips-for-nested-loops">Tips for Nested Loops</h2>
 <p>Writing code that has nested while loops can be quite tricky, as there are several pitfalls that we might encounter. Here are a few tips to keep in mind when designing code that uses nested while loops:</p>
@@ -2427,6 +2555,7 @@
 <p>Nested loops present a very difficult challenge for programmers, because they are short snippets of code that may end up resulting in hundreds or even thousands of individual steps to be executed. So, anything we can do to make the loops simpler and easier to understand will greatly improve our ability to write programs with fewer bugs.</p>
 
             <footer class="footline">
+
             </footer>
           </article>
         </div>
@@ -2435,13 +2564,8 @@
     
     
     
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/clipboard.min.js?1691519921" defer></script>
-    
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/featherlight.min.js?1691519921" defer></script>
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/theme.js?1691519921" defer></script>
-    
-    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/embed-iframe.js?1691519921 defer"></script>
-    <script src="https://cdn.jsdelivr.net/npm/iframe-resizer@4.3.2/js/iframeResizer.contentWindow.min.js"></script>
-    
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/clipboard.min.js?1691703174" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/perfect-scrollbar.min.js?1691703174" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cs-zero/js/theme.js?1691703174" defer></script>
   </body>
 </html>

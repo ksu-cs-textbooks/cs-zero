@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2274,37 +2274,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High Performance Computing on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/</link>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/index.html</link>
     <description>Recent content in High Performance Computing on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2020 00:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to HPC</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/01-introduction/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/01-introduction/index.html</link>
       <pubDate>Fri, 16 Oct 2020 00:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/01-introduction/</guid>
-      <description>Resources Beocat Video Script Hey folks, today I&amp;rsquo;d like to talk to you a little bit about supercomputing. I&amp;rsquo;m Dr. Dan Andresen. I&amp;rsquo;m the director of our K-State Supercomputing center, also a professor in computer science. So if you want to see me come by my office or set up a Zoom meeting, happy to talk about this sort of thing. So supercomputing is about two things. It&amp;rsquo;s about size.</description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/01-introduction/index.html</guid>
+      <description>YouTube Video Resources Beocat Video Script Hey folks, today I&amp;rsquo;d like to talk to you a little bit about supercomputing. I&amp;rsquo;m Dr. Dan Andresen. I&amp;rsquo;m the director of our K-State Supercomputing center, also a professor in computer science. So if you want to see me come by my office or set up a Zoom meeting, happy to talk about this sort of thing. So supercomputing is about two things. It&amp;rsquo;s about size.</description>
     </item>
     <item>
       <title>Beocat Tour - Kyle Hutson</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/02-beocat-tour/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/02-beocat-tour/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/02-beocat-tour/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/02-beocat-tour/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Supercomputing and eScience (Eng)</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/03-supercomputing/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/03-supercomputing/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/03-supercomputing/</guid>
-      <description> </description>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/03-supercomputing/index.html</guid>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Pattern on the Stone Reading</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/04-pots-reading/</link>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/04-pots-reading/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/04-pots-reading/</guid>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/04-pots-reading/index.html</guid>
       <description>Read Pattern on the Stone, Chapter 7 - Speed: Parallel Computers</description>
     </item>
   </channel>

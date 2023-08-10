@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2273,10 +2273,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HS Introduction on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/</link>
-    <description>Recent content in HS Introduction on Intro CS Textbook</description>
+    <title>High School Introduction on Intro CS Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/index.html</link>
+    <description>Recent content in High School Introduction on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Introduction - 2023-2024</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/01-introduction/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/01-introduction/index.html</guid>
+      <description>YouTube Video Resources Slides Video Script [Slide 1]
+Hello and welcome to the Cyber Pipeline program!
+My name is Russ Feldhausen, and I’ll be one of the instructors for this program.
+[Slide 2]
+There are many other instructors for this program that you may see in the tutorial videos. They all have been instrumental in the development of this program. You&amp;rsquo;ll see me, along with many of my colleagues at Kansas State University, in the videos throughout this course.</description>
+    </item>
+    <item>
+      <title>Navigating Canvas &amp; Codio</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/02-navigating-canvas-codio/index.html</link>
+      <pubDate>Thu, 16 Jan 2020 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/02-navigating-canvas-codio/index.html</guid>
+      <description>YouTube Video Resources Codio Documentation Video Script This course makes extensive use of several features of Canvas which you may or may not have worked with before. To give you the best experience in this course, this video will briefly describe those features and the best way to access them.
+When you first access the course on Canvas, you will be shown this homepage. It contains quick links to the course syllabus and discussion boards.</description>
+    </item>
+    <item>
+      <title>How to Learn Programming</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/05-how-to-learn-programming/index.html</link>
+      <pubDate>Tue, 08 Dec 2020 00:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/05-how-to-learn-programming/index.html</guid>
+      <description>YouTube Video Resources Slides The Science of Learning Programming from Nathan Bean&amp;rsquo;s CIS 400 Textbook The Power of Believing You Can Improve | Carol Dweck - TED Talk on Mindsets and the Power of &amp;ldquo;Yet&amp;rdquo; The New Science of Learning: How to Learn in Haromony with your Brain by Terry Doyle and Todd Zakrajsek - Great Book on Learning Constructivism on Wikipedia - Article about Jean Piaget&amp;rsquo;s Learning Philosophy Toward a Developmental Epistemology of Computer Programming by Raymond Lister - Introduces the Stages of Learning to Program Video Script Before we launch into the course itself, I wanted to take a few minutes to share some information with you regarding what we know about how students learn to program.</description>
+    </item>
+    <item>
+      <title>CC 110 Syllabus - Fall 2023</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc110-syllabus/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc110-syllabus/index.html</guid>
+      <description>Info This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
+Your teachers may give you a syllabus that includes additional information that is specific to your class.
+CC 110 - Introduction to Computing HS (2023-2024) Instructor Contact Information Instructor: Russell Feldhausen (russfeld AT ksu DOT edu)</description>
+    </item>
+    <item>
+      <title>CC 111 Syllabus - Fall 2023</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc111-syllabus/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc111-syllabus/index.html</guid>
+      <description>Info This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
+Your teachers may give you a syllabus that includes additional information that is specific to your class.
+CC 111 - Elements of Computer Programming HS (2023-2024) Instructor Contact Information Instructor: Russell Feldhausen (russfeld AT ksu DOT edu)</description>
+    </item>
+    <item>
+      <title>CC 210 Syllabus - Fall 2023</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc210-syllabus/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc210-syllabus/index.html</guid>
+      <description>Info This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
+Your teachers may give you a syllabus that includes additional information that is specific to your class.
+CC 210 - Fundamental Computer Programming Concepts HS (2023-2024) Instructor Contact Information Instructor: Russell Feldhausen (russfeld AT ksu DOT edu)</description>
+    </item>
+    <item>
+      <title>Plagiarism Policy</title>
+      <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/07-plagiarism/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/07-plagiarism/index.html</guid>
+      <description>YouTube Video Resources K-State Honor &amp;amp; Integrity System Video Script &amp;ldquo;On my honor, as a student, I have neither given nor received unauthorized aid on this academic work.&amp;rdquo; - K-State Honor Pledge
+Plagiarism is a very serious concern in this course, and something that we do not take lightly. Computer programs and code are especially easy targets for plagiarism due to how easy it is to copy and manipulate code in such a way that it is unrecognizable as the original source but still performs correctly.</description>
+    </item>
   </channel>
 </rss>

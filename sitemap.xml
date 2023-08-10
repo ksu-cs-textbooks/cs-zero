@@ -18,6 +18,11 @@
 	
 	
 		
+		
+
+	
+	
+		
 
 	
 	
@@ -29,12 +34,12 @@
 		
 		
 		
+		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -111,13 +116,8 @@
 
 	
 	
-		
 		
 		
-		
-
-	
-	
 		
 		
 
@@ -667,19 +667,14 @@
 
 	
 	
-		
 		
 		
-
-	
-	
 		
 
 	
 	
 		
 		
-		
 
 	
 	
@@ -699,10 +694,15 @@
 	
 		
 		
+		
+
+	
+	
 		
 
 	
 	
+		
 		
 		
 
@@ -2273,1317 +2273,1317 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/01-introduction/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/01-the-antikythera-mech/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/01-the-antikythera-mech/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/01-computer-graphics/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/01-computer-graphics/index.html</loc>
     <lastmod>2022-07-25T14:26:15-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/01-200-years/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/01-200-years/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/01-intro/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/01-intro/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/01-passwords/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/01-passwords/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/01-relational/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/01-relational/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/21-ethics/01-creepy-line/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/21-ethics/01-creepy-line/index.html</loc>
     <lastmod>2023-01-09T12:16:51-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/01-rise-ai/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/01-rise-ai/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/01-rle/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/01-rle/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/01-introduction/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/01-history-of-internet/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/01-history-of-internet/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/01-introduction/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/01-introduction/index.html</loc>
     <lastmod>2023-02-19T14:19:01-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/01-introduction/index.html</loc>
     <lastmod>2022-02-28T13:02:22-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/01-introduction/index.html</loc>
     <lastmod>2023-03-20T11:58:27-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/01-introduction/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/01-introduction/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/01-introduction/index.html</loc>
     <lastmod>2022-08-22T12:42:39-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/02-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/02-introduction/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/01-introduction/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/01-introduction/index.html</loc>
     <lastmod>2023-01-09T12:16:51-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/02-arabic-numerals/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/02-arabic-numerals/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/02-top-secret-rosies/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/02-top-secret-rosies/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/01-introduction/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/</loc>
-    <lastmod>2022-01-15T17:28:04-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/02-ic-jack-kilby/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/02-ic-jack-kilby/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/02-babbage-diff-eng-num-2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/02-babbage-diff-eng-num-2/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/02-att-first-computer/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/02-att-first-computer/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/01-python-dictionaries/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/01-python-dictionaries/index.html</loc>
     <lastmod>2022-04-25T12:05:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/01-nested-while-loops/index.html</loc>
     <lastmod>2022-04-11T17:50:21-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/01-python-lists/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/01-python-lists/index.html</loc>
     <lastmod>2022-04-14T11:50:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/01-linear/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/01-linear/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/01-while-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/01-while-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/01-while-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/01-while-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/01-pseudocode-booleans/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/01-pseudocode-booleans/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/01-pseudocode-if/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/01-pseudocode-if/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/01-numeric-data/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/01-numeric-data/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/01-pseudocode-input/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/01-pseudocode-input/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/01_week/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/01_week/index.html</loc>
     <lastmod>2022-08-22T12:04:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/03_week/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/03_week/index.html</loc>
     <lastmod>2022-09-07T13:04:52-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/00_welcome/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/00_welcome/index.html</loc>
     <lastmod>2023-01-16T22:27:23-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/1-installing-python/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/1-installing-python/01-introduction/index.html</loc>
     <lastmod>2023-02-08T13:16:35-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/01-pseudocode-intro/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/01-pseudocode-intro/index.html</loc>
     <lastmod>2022-01-17T14:53:05-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/01-pseudocode-procedures/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/01-pseudocode-procedures/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/02-big-data/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/02-big-data/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/02-enigma-intro/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/02-enigma-intro/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/02-how-tv-works/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/02-how-tv-works/index.html</loc>
     <lastmod>2023-04-20T13:08:04-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/02-intelligence/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/02-intelligence/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/02-searching-web/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/02-searching-web/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/02-storing-passwords/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/02-storing-passwords/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/1-installing-python/</loc>
-    <lastmod>2022-01-15T19:22:25-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/1-installing-python/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/02-huffman/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/02-huffman/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/02-basic-html-1/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/02-basic-html-1/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/02-beocat-tour/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/02-beocat-tour/index.html</loc>
     <lastmod>2022-06-23T13:22:30-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/03-binary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/03-binary/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/02-high-tech-heros/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/02-high-tech-heros/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/03-integrated-circuits/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/03-integrated-circuits/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/02-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/02-introduction/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/02-mother-of-all-demos/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/02-mother-of-all-demos/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/03-babbage/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/03-babbage/index.html</loc>
     <lastmod>2022-08-22T12:42:39-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/02-grace-hopper/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/02-grace-hopper/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/03-top-secret-rosies-web/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/03-top-secret-rosies-web/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/03-what-is-a-computer-pt1/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/03-what-is-a-computer-pt1/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/03-what-is-an-algorithm/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/03-what-is-an-algorithm/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/02-margaret-hamilton/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/02-margaret-hamilton/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/02-operators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/02-operators/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/01-introduction/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/01-introduction/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/index.html</loc>
     <lastmod>2022-12-20T16:00:31-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/04-difference-engine/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/04-difference-engine/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/05-jacquard-loom/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/05-jacquard-loom/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/03-algebra/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/03-algebra/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/03-health-map/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/03-health-map/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/03-john-mcarthy/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/03-john-mcarthy/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/03-social-engineering/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/03-social-engineering/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/03-how-search/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/03-how-search/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/03-tin-toy/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/03-tin-toy/index.html</loc>
     <lastmod>2022-07-28T13:30:16-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/03-pinpoint/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/03-pinpoint/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/03-basic-html-2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/03-basic-html-2/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/04-cramming-components/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/04-cramming-components/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/03-enigma-machine/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/03-enigma-machine/index.html</loc>
     <lastmod>2022-06-23T14:09:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/03-jcr-licklider/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/03-jcr-licklider/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/03-protocols/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/03-protocols/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/03-sdlc-1/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/03-sdlc-1/index.html</loc>
     <lastmod>2022-06-02T15:41:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/03-supercomputing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/03-supercomputing/index.html</loc>
     <lastmod>2022-06-23T13:22:30-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/03-desktop-metaphor/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/03-desktop-metaphor/index.html</loc>
     <lastmod>2022-10-03T08:17:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/04-twos-complement/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/04-twos-complement/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/04-electronic-computing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/04-electronic-computing/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/04-insertion-sort/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/04-insertion-sort/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/03-queen-of-code/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/03-queen-of-code/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/06-what-is-a-computer-pt2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/06-what-is-a-computer-pt2/index.html</loc>
     <lastmod>2022-07-18T13:30:06-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/04-logic-to-switches/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/04-logic-to-switches/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/04-nano-second/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/04-nano-second/index.html</loc>
     <lastmod>2022-11-01T14:01:03-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/05-margaret-hamilton/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/05-margaret-hamilton/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/06-software-in-space/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/06-software-in-space/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/02-loops-with-dictionaries/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/02-loops-with-dictionaries/index.html</loc>
     <lastmod>2022-04-25T12:05:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/02-loops-with-lists/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/02-loops-with-lists/index.html</loc>
     <lastmod>2022-04-14T11:50:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/02-nested-for-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/02-nested-for-loops/index.html</loc>
     <lastmod>2022-04-11T17:50:21-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/02-chaining/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/02-chaining/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/02-for-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/02-for-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/02-for-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/02-for-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/02-pseudocode-if-else/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/02-pseudocode-if-else/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/02-pseudocode-operators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/02-pseudocode-operators/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/02-pseudocode-operators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/02-pseudocode-operators/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/02-string-concat/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/02-string-concat/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/02-display-statement/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/02-display-statement/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/02-main-procedure/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/02-main-procedure/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/04-enigma/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/04-enigma/index.html</loc>
     <lastmod>2022-06-23T14:09:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/04-google-trends/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/04-google-trends/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/04-machine-intelligence/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/04-machine-intelligence/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/04-ranking/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/04-ranking/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/04-uncanny-valley/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/04-uncanny-valley/index.html</loc>
     <lastmod>2022-07-25T14:24:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/</loc>
-    <lastmod>2022-01-17T14:53:05-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/04-fletcher/index.html</loc>
     <lastmod>2022-11-01T16:11:08-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/05-floating-point/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/05-floating-point/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/04-man-computer-symbiosis/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/04-man-computer-symbiosis/index.html</loc>
     <lastmod>2022-10-04T17:09:16-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/04-seven-layers/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/04-seven-layers/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/04-sdlc-2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/04-sdlc-2/index.html</loc>
     <lastmod>2022-06-02T15:41:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/04-interactive-web/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/04-interactive-web/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/05-intel-4004/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/05-intel-4004/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/05-bubble-sort/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/05-bubble-sort/index.html</loc>
     <lastmod>2023-03-01T11:45:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/07-early-computing-crash-course/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/07-early-computing-crash-course/index.html</loc>
     <lastmod>2022-06-13T15:55:48-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/07-what-is-programming/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/07-what-is-programming/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/04-pirates-of-silicon-valley/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/04-pirates-of-silicon-valley/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/05-truth-tables/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/05-truth-tables/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/02-navigating-canvas-codio/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/02-navigating-canvas-codio/index.html</loc>
     <lastmod>2022-01-15T13:17:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/08-early-programming/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/08-early-programming/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/06-crash-course/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/06-crash-course/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/06-von-neumann/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/06-von-neumann/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/04-defcon/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/04-defcon/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/05-oldschool-graph/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/05-oldschool-graph/index.html</loc>
     <lastmod>2022-07-25T14:24:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/05-intelligent-agents/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/05-intelligent-agents/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/05-four-vs/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/05-four-vs/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/05-other-methods/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/05-other-methods/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/05-flaw-enigma/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/05-flaw-enigma/index.html</loc>
     <lastmod>2022-06-23T14:09:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/05-intergalactic/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/05-intergalactic/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/05-sdlc-3/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/05-sdlc-3/index.html</loc>
     <lastmod>2022-06-02T15:41:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/05-tictactoe-page/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/05-tictactoe-page/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/05-www-crash-course/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/05-www-crash-course/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/05-good-hci/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/05-good-hci/index.html</loc>
     <lastmod>2022-10-03T08:19:33-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/06-complexity/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/06-complexity/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/05-9algs-ch3/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/05-9algs-ch3/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/05-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/05-pots-reading/index.html</loc>
     <lastmod>2023-02-08T08:45:10-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/09-first-languages/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/09-first-languages/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/05-the-imitation-game/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/05-the-imitation-game/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/07-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/07-worked-example/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/03-dictionaries-and-functions/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/03-dictionaries-and-functions/index.html</loc>
     <lastmod>2022-04-25T12:05:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/03-lists-and-functions/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/03-lists-and-functions/index.html</loc>
     <lastmod>2022-04-14T11:50:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/03-testing-nested-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/03-testing-nested-loops/index.html</loc>
     <lastmod>2022-04-11T17:50:21-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/03-input-with-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/03-input-with-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/03-input-with-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/03-input-with-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/03-nesting/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/03-nesting/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/03-pseudocode-comparators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/03-pseudocode-comparators/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/03-pseudocode-testing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/03-pseudocode-testing/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/03-integers-floats/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/03-integers-floats/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/03-return-procedures/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/03-return-procedures/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/03-parameters/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/03-parameters/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/03-using-display/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/03-using-display/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/06-ai-advancement/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/06-ai-advancement/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/06-cracking-enigma/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/06-cracking-enigma/index.html</loc>
     <lastmod>2022-06-23T14:09:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/06-oldschool-ii/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/06-oldschool-ii/index.html</loc>
     <lastmod>2022-07-25T14:24:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/06-map-reduce/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/06-map-reduce/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/</loc>
-    <lastmod>2022-01-17T14:53:05-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/06-float-point-computerphile/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/06-float-point-computerphile/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/06-javascript/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/06-javascript/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/06-part2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/06-part2/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/07-computer-parts/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/07-computer-parts/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/07-merge-sort/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/07-merge-sort/index.html</loc>
     <lastmod>2023-03-02T11:22:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/06-9algs-ch8/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/06-9algs-ch8/index.html</loc>
     <lastmod>2022-07-25T12:35:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/06-what-are-universal-computers/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/06-what-are-universal-computers/index.html</loc>
     <lastmod>2023-02-08T16:22:55-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/08-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/08-pots-reading/index.html</loc>
     <lastmod>2022-08-22T12:42:39-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/10-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/10-pots-reading/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/06-se-crash-course/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/06-se-crash-course/index.html</loc>
     <lastmod>2022-06-02T15:41:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/06-ms-bob/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/06-ms-bob/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/03-where-to-find-help/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/03-where-to-find-help/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/07-ai-healthcare/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/07-ai-healthcare/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/07-vg-history/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/07-vg-history/index.html</loc>
     <lastmod>2022-07-25T14:24:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/07-bombe/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/07-bombe/index.html</loc>
     <lastmod>2022-06-23T14:09:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/08-finite-state-machines/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/08-finite-state-machines/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/07-other-types/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/07-other-types/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/07-first-connection/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/07-first-connection/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/07-the-future/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/07-the-future/index.html</loc>
     <lastmod>2022-10-03T08:19:33-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/07-tictactoe-js/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/07-tictactoe-js/index.html</loc>
     <lastmod>2022-10-10T17:20:57-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/07-alan-turing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/07-alan-turing/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/08-quicksort/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/08-quicksort/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/04-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/04-worked-example/index.html</loc>
     <lastmod>2022-04-25T12:05:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/04-slicing-lists/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/04-slicing-lists/index.html</loc>
     <lastmod>2022-04-14T11:50:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/04-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/04-worked-example/index.html</loc>
     <lastmod>2022-04-11T17:50:21-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/04-blocks-scope/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/04-testing-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/04-testing-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/04-testing-loops/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/04-testing-loops/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/04-python-booleans/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/04-python-booleans/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/04-python-if/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/04-python-if/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/</loc>
-    <lastmod>2022-01-29T12:34:52-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/04-complex-pseudocode/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/04-complex-pseudocode/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/04-python-operators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/04-python-operators/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/04-expressions-arguments/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/04-expressions-arguments/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/04-pseudocode-variables/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/04-pseudocode-variables/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/08-mario/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/08-mario/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/08-modern-crypto/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/08-modern-crypto/index.html</loc>
     <lastmod>2022-06-23T14:09:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/08-pdp-demo/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/08-pdp-demo/index.html</loc>
     <lastmod>2022-07-25T14:24:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/08-more-interactive-web/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/08-more-interactive-web/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/08-part3/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/08-part3/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/09-complexity-2/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/09-complexity-2/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/08-modern-turing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/08-modern-turing/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/08-user-centered/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/08-user-centered/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/04-what-youll-learn/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/04-what-youll-learn/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/09-ibm-watson/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/09-ibm-watson/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/09-spacewar/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/09-spacewar/index.html</loc>
     <lastmod>2022-07-25T14:24:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/09-vint-cerf/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/09-vint-cerf/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/09-diffie-hellman/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/09-diffie-hellman/index.html</loc>
     <lastmod>2023-04-13T12:34:20-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/09-machine-us/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/09-machine-us/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/10-heuristics/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/10-heuristics/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/09-turing-machine-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/09-turing-machine-example/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/05-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/05-summary/index.html</loc>
     <lastmod>2022-04-23T13:08:05-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/05-strings-are-lists/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/05-strings-are-lists/index.html</loc>
     <lastmod>2022-04-14T11:50:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/05-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/05-summary/index.html</loc>
     <lastmod>2022-04-10T18:54:40-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/05-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/05-worked-example/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/05-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/05-worked-example/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/05-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/05-worked-example/index.html</loc>
     <lastmod>2022-03-21T18:03:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/05-python-if-else/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/05-python-if-else/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/05-python-operators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/05-python-operators/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/</loc>
-    <lastmod>2022-01-29T12:34:52-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/05-python-input/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/05-python-input/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/05-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/4-math-operators/05-summary/index.html</loc>
     <lastmod>2022-01-29T12:34:52-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/05-python-functions/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/05-python-functions/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/11-python-variables/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/11-python-variables/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/05-code-tracing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/05-code-tracing/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/05-how-to-learn-programming/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/05-how-to-learn-programming/index.html</loc>
     <lastmod>2023-02-08T10:19:06-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/10-deepmind/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/10-deepmind/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/</loc>
-    <lastmod>2022-08-08T15:06:06-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/10-cs-linux/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/10-cs-linux/index.html</loc>
     <lastmod>2022-10-10T17:20:21-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/10-part4/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/10-part4/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/10-von-neumann/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/10-von-neumann/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/10-rsa/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/10-rsa/index.html</loc>
     <lastmod>2023-04-12T10:32:24-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/11-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/11-summary/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/11-www-25th/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/11-www-25th/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/11-multi-touch-interfaces/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/11-multi-touch-interfaces/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/06-worked-example/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/06-worked-example/index.html</loc>
     <lastmod>2022-04-14T11:50:37-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/06-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/06-summary/index.html</loc>
     <lastmod>2023-01-09T12:16:51-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/06-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/06-summary/index.html</loc>
     <lastmod>2022-03-16T14:10:05-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/06-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/06-summary/index.html</loc>
     <lastmod>2022-03-16T14:10:05-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/</loc>
-    <lastmod>2022-02-11T19:49:37-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/06-python-comparators/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/06-python-comparators/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/06-python-testing/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/06-python-testing/index.html</loc>
     <lastmod>2022-02-14T14:54:15-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/06-python-strings/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/06-python-strings/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/06-main-parameters-arguments/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/06-main-parameters-arguments/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/06-variables-in-expressions/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/06-variables-in-expressions/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/12-moral-machine/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/12-moral-machine/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/12-part5/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/12-part5/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/11-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/11-pots-reading/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/11-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/11-pots-reading/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/08-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/08-pots-reading/index.html</loc>
     <lastmod>2022-07-18T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/07-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/07-pots-reading/index.html</loc>
     <lastmod>2022-06-02T15:41:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cc110-syllabus/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cc110-syllabus/index.html</loc>
     <lastmod>2023-01-20T08:52:57-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cis115-syllabus/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cis115-syllabus/index.html</loc>
     <lastmod>2023-01-20T08:52:57-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/13-comp-smarter/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/13-comp-smarter/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/13-line-mode/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/13-line-mode/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/12-multi-touch-concept/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/12-multi-touch-concept/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/07-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/07-summary/index.html</loc>
     <lastmod>2022-04-25T12:05:49-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/07-summary/index.html</loc>
     <lastmod>2022-02-11T19:49:37-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/6-booleans/07-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/07-summary/index.html</loc>
     <lastmod>2022-02-11T19:49:37-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/7-conditionals/07-summary/</loc>
-    <lastmod>2022-02-11T19:49:37-06:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/07-return-functions/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/07-return-functions/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/07-python-intro/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/07-python-intro/index.html</loc>
     <lastmod>2022-01-17T14:53:05-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/07-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/3-functions/07-summary/index.html</loc>
     <lastmod>2022-01-26T12:27:03-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/14-ml-ai-crash-course/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/14-ml-ai-crash-course/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/14-dot-com-bubble/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/14-dot-com-bubble/index.html</loc>
     <lastmod>2022-06-22T14:54:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/13-google-glass/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/13-google-glass/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/15-ml-wired/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/15-ml-wired/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/07-plagiarism/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/07-plagiarism/index.html</loc>
     <lastmod>2022-01-04T14:04:10-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/8-web-programming/</loc>
-    <lastmod>2022-03-16T14:10:05-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/8-web-programming/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/08-complex-python/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/08-complex-python/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/08-terminal/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/08-terminal/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/16-alpha-go/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/16-alpha-go/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/15-dasher/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/15-dasher/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/17-deepmind-starcraft/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/17-deepmind-starcraft/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/</loc>
-    <lastmod>2022-03-16T14:10:05-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/9-nested-conditionals/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/09-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/5-input-strings/09-summary/index.html</loc>
     <lastmod>2022-01-29T12:34:52-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/09-print-statement/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/09-print-statement/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/18-chatbot-vs-chatbot/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/18-chatbot-vs-chatbot/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/19-9algs-ch6/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/19-9algs-ch6/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/</loc>
-    <lastmod>2022-03-16T14:10:05-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/10-pseudocode-loops/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/10-using-print/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/10-using-print/index.html</loc>
     <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/</loc>
-    <lastmod>2022-08-23T12:55:32-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/01-what-is-computing-science/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/</loc>
-    <lastmod>2022-03-16T14:10:05-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/11-python-loops/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/</loc>
-    <lastmod>2022-04-10T18:54:40-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/12-nested-loops/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/12-python-tutor/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/12-python-tutor/index.html</loc>
     <lastmod>2022-02-14T11:21:00-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/06-9algs-intro/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/06-9algs-intro/index.html</loc>
     <lastmod>2022-06-23T13:35:41-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/04-pots-reading/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/04-pots-reading/index.html</loc>
     <lastmod>2022-06-23T13:26:58-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/07-9algs-ch5/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/07-9algs-ch5/index.html</loc>
     <lastmod>2022-06-23T13:57:16-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/</loc>
-    <lastmod>2022-04-10T18:54:40-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/13-lists/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/13-summary/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/2-print-variables/13-summary/index.html</loc>
     <lastmod>2022-01-17T14:53:05-06:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/11-9algs-ch4/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/11-9algs-ch4/index.html</loc>
     <lastmod>2022-06-23T14:23:58-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/08-9algs-ch7/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/08-9algs-ch7/index.html</loc>
     <lastmod>2022-06-23T13:35:41-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/</loc>
-    <lastmod>2022-04-23T13:08:05-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/x-cis115-labs/14-dictionaries/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/12-9algs-ch9/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/12-9algs-ch9/index.html</loc>
     <lastmod>2022-06-23T14:23:58-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/02-early-computing-machines/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/</loc>
-    <lastmod>2023-01-09T12:16:51-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/09-software-engineering/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/</loc>
-    <lastmod>2022-08-22T12:53:36-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/y-weekly-updates/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/11-internethistory/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/</loc>
-    <lastmod>2023-01-09T12:16:51-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/12-internettech/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/</loc>
-    <lastmod>2023-01-09T12:16:51-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/13-webprog/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/</loc>
-    <lastmod>2022-08-23T13:05:40-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/</loc>
-    <lastmod>2023-01-09T12:16:51-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/21-ethics/</loc>
-    <lastmod>2022-08-08T15:06:06-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/21-ethics/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/</loc>
-    <lastmod>2022-08-08T15:06:06-05:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/</loc>
-    <lastmod>2022-01-04T14:04:10-06:00</lastmod>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/categories/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/index.html</loc>
+    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/tags/</loc>
+    <loc>https://ksu-cs-textbooks.github.io/cs-zero/tags/index.html</loc>
   </url>
 </urlset>

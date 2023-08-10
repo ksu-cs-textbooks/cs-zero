@@ -6,4 +6,4 @@ Faculty and staff are committed to promoting equity and believe the success of a
 
 If you feel uncomfortable because of comments or behavior encountered in this class, you may bring it to the attention of your instructor, advisors, and/or mentors. If you have questions about how to proceed with a confidential process to resolve concerns, please contact the [Student Ombudsperson Office](https://www.k-state.edu/diversity-inclusion/resources/student-ombudsperson/). Violations of the [student code of conduct](https://www.k-state.edu/sga/judicial/student-code-of-conduct.html) can be reported using the [Code of Conduct Reporting Form](https://cm.maxient.com/reportingform.php?KansasStateUniv&layout_id=10). You can also report [discrimination, harassment or sexual harassment](https://www.k-state.edu/report/discrimination/), if needed.
 
-<!-- Updated Spring 2023 -->
+<!-- Updated Fall 2023 -->
