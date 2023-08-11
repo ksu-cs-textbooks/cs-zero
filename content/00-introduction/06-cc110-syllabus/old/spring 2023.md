@@ -6,11 +6,11 @@ pre: "6.1 "
 
 ## CC 110 - Introduction to Computing - Spring 2023
 
-[Previous Versions]({{<relref "./old">}})
+
 
 ### Instructor Contact Information
 
-* **Instructor:** Safia Malallah (safia AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
+* **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Office:** DUE 2161 
 - **Office  Hours:** M/W 1:00-3:00
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs
