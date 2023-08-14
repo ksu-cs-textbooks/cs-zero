@@ -1,14 +1,12 @@
 +++
-title = "HS Introduction"
+title = "High School Introduction"
 weight = 6
-chapter = true
+archetype = "chapter"
+ordinal = "0"
 pre = "<b>0. </b>"
 hidden = true
 noprint = true
 +++
 
-### Chapter 0
-
-# High School Introduction
 
 Welcome to the Computer Science Introductory course!

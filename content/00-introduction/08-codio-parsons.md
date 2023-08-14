@@ -3,6 +3,7 @@ title: "Codio Parsons"
 pre: "8. "
 weight: 85
 date: 2018-08-24T10:53:26-05:00
+hidden: true
 ---
 
 {{< youtube ADZJJ5u2Vd0 >}}

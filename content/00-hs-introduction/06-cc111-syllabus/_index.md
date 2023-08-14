@@ -1,18 +1,18 @@
 ---
-title: "CC 110 Syllabus - Fall 2023"
-weight: 61
-pre: "6.1 "
+title: "CC 111 Syllabus - Fall 2023"
+weight: 62
+pre: "6.2 "
 ---
 
 {{% notice info %}}
 
 This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
 
-Your teachers may give you a syllabus that includes additional information that is specific to your class. 
+Your teachers may give you a syllabus that includes additional information that is specific to your class.  
 
 {{% /notice %}}
 
-## CC 110 - Introduction to Computing HS (2023-2024)
+## CC 111 - Elements of Computer Programming HS (2023-2024)
 
 ### Instructor Contact Information
 
@@ -30,46 +30,49 @@ Your teachers may give you a syllabus that includes additional information that 
 
 ### Prerequisites
 
-* None
+* Prerequisite or Concurrent: CC 110 - Introduction to Computing
 
 ### Course Overview
 
-An overview of the history of computers and programming. Famous historical figures and their impact in modern computing. Introduction to major topics in computer science such as artificial intelligence, high performance computing, cryptography, big data, cyber security, robotics, and more. Brief experience with computer programming concepts.
+Brief experience with computer programming concepts such as variables, data types, functions, conditionals, iteration, and collections.
 
 ### Course Description
 
-This course serves as a primary introduction to modern computing and programming by reviewing historical figures and events and the impact they had on modern technology. Students are exposed to a variety of topics in computer science. The goal of this course is to show students the wider world of computing and technology beyond programming, building a broad foundation for later courses to build upon.
+This course serves as a primary introduction to modern programming by exploring core concepts such as variables, conditionals, iteration, and functions. Students participate in guided lab activities followed by individual homework assignments.
 
 ### Learning Objectives
 
 By the end of this course, each student will be able to:
-* Describe the history of Computing Science and list some of the important devices, innovations, and people that got us to where we are today.
-* Relate Computing Science to a variety of other disciplines and describe how they are interconnected with each other.
-* Apply and use Computing Science tools and techniques to solve real-world problems.
-* Research and learn about new ideas and areas in Computing Science and share those ideas with others.
-* Develop a personal understanding of how Computing Science affects his or her own life.
-* Understand many different subject areas within Computing Science and how they are changing our understanding of the field.
+* Identify and use variables in a computer program
+* Understand and use basic data type, such as integers, floating-point numbers, Booleans, and strings.
+* Use conditional statements, including nested and chained conditional statements
+* Use both infinite and finite iteration constructs
+* Create and use functions
+* Create and use collections of data, such as lists and dictionaries
 
 ### Major Course Topics
 
-* The history of computer science and early computing machines
-* The basics of binary representation, Boolean logic, data encoding, encryption, and error checking
-* Computational thinking, programming, and algorithm design
-* The history and technology behind the internet and how it affects our world
-* Computer science areas such as artificial intelligence, human-computer interaction, high performance computing, data science, robotics, and more
-* Cybersecurity in a modern, interconnected world
-* Other disciplines related to computer science
+* Programming Basics
+* Variables, Numbers * Math Operations
+* Strings
+* User Input * Output
+* Conditional Statements
+* Iteration (Loops)
+* Functions
+* Lists
+* Dictionaries
+* Classes and Objects
 
 ###  Course Structure
 
-These courses are being taught 100% online, and each module is self-paced. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Assignments may also include portions which will be graded manually via Canvas or other tools.
+These courses are being taught 100% online, and each module is self-paced. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Assignments may also include portions which will be graded manually via Canvas, Codio, or other tools.
 
 ### Grading
 
 In theory, each student begins the course with an A. As you submit work, you can either maintain your A (for good work) or chip away at it (for less adequate or incomplete work). In practice, each student starts with 0 points in the gradebook and works upward toward a final point total earned out of the possible number of points. In this course, each assignment constitutes a portion of the final grade, as detailed below:
 
-* 80% Lectures & Quizzes 
-* 20% Discussions
+* 60% Programming Lab Assignments
+* 40% Programming Homeworks
 
 Letter grades will be assigned following the standard scale:
 

@@ -1,7 +1,7 @@
 ---
-title: "CC 210 Syllabus - Spring 2022"
-weight: 62
-pre: "6.2 "
+title: "CC 210 Syllabus - Fall 2023"
+weight: 63
+pre: "6.3 "
 ---
 
 {{% notice info %}}
@@ -12,7 +12,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 210 - Introduction to Computing HS (2022-2023)
+## CC 210 - Fundamental Computer Programming Concepts HS (2023-2024)
 
 ### Instructor Contact Information
 
@@ -21,10 +21,7 @@ Your teachers may give you a syllabus that includes additional information that 
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
 * **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
-<br>
-* **Instructor:** Emily Alfs-Votipka (emilyalfs AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
-* **Office:** DUE 2161 
-* **Virtual Office Hours:** Schedule a meeting with me: https://calendly.com/emilyalfs Appointments held via [Zoom](https://ksu.zoom.us/).
+
 
 #### Preferred Methods of Communication:
 
@@ -34,7 +31,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 ### Prerequisites
 
-* CC 110 - Introduction to Computing (C or better)
+* CC 111 - Elements of Computer Programming (C or better)
 
 ### Course Overview
 
@@ -46,9 +43,9 @@ The course introduces students to computer programming using one of several prog
 
 ### Learning Objectives
 
-In either Java or Python (J or P), successful students should be able to:
+A successful students should be able to:
 1. Evaluate data requirements to create variables, use operators and call/create functions for: strings, integers, real numbers and Boolean values.
-2. Understand the creation and use of mono-typed Lists (P) or Arrays (J) and their common built in methods and attributes.
+2. Understand the creation and use of mono-typed arrays and their common built in methods and attributes.
 3. Analyze and adapt string methods to split, join and extract sub-strings to solve problems.
 4. Understand how code written by them may throw exceptions
     1. Understand how to create new exceptions
@@ -107,17 +104,14 @@ Letter grades will be assigned following the standard scale:
 ### Late Work
 
 {{% notice warning %}}
+
 Read this late work policy very carefully! If you are unsure how to interpret it, please contact the instructors via the help email. Not understanding the policy does not mean that it won't apply to you!
+
 {{% /notice %}}
 
 Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. 
 
-**The following table outlines the highest possible score that a module can earn based on when it is complete** 
-
-|  | Thursday | Friday | Saturday | Sunday | Monday |
-| --- | --- | --- | --- | --- | --- |
-| Before or at 11:59PM CST | 100% | 90% | 80% | 70% | 60% |
-| After 11:59PM CST | 90% | 80% | 70% | 60% | 0% |
+**Assignments submitted after the due date will be subject to a deduction equivalent to 0.4% of the total points on the assignment per hour that it is late, which is roughly equivalent to 10% of the total points per day that it is late.**
 
 Even if a module is not submitted on time, it must still be completed before a student is allowed to begin the next module. So, students should take care not to get too far behind, as it may be very difficult to catch up.
 

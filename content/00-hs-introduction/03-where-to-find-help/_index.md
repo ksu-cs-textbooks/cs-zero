@@ -3,7 +3,10 @@ title: "Where to Find Help"
 pre: "3. "
 weight: 30
 date: 2018-08-24T10:53:26-05:00
+hidden: true
 ---
+
+<!-- todo remove? -->
 
 {{< youtube dhko8kjuz9c >}}
 

@@ -1,8 +1,7 @@
 +++
-title = "Homepage"
-date = 2021-05-24T01:01:01-05:00
+title = "Intro CS Textbook"
+archetype = "home"
 +++
 
-# CC 110 Textbook
 
-This is the textbook for CC 110.
+This is the textbook for Intro to CS.
