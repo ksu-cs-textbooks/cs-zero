@@ -1,17 +1,15 @@
 ---
-title: "CIS 115 Syllabus - Spring 2023"
+title: "CIS 115 Syllabus - Fall 2023"
 weight: 62
-pre: "1"
+pre: ""
 ---
-
-## CIS 115 - Introduction to Computing Science - Fall 2023
 
 [Previous Versions]({{<relref "./old-syllabi">}})
 
 ### Contact
 
 {{% notice info %}}
-**All emails** for the course should be sent to [cis115help@KSUemailProd.onmicrosoft.com](mailto:cis115help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
+**All emails** for the course should be sent to [cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 
 Communication can also be done through Microsoft Teams. If you have not been invited to join the team for CIS 115, please let any of us know and we will get you added.
 {{% /notice %}}
@@ -79,7 +77,7 @@ CIS 115 can be an interesting course due to the large amount of material covered
 Here are the 5 **recommended ways to get help** on CIS 115:  
 
 - Review the course materials posted on K-State Canvas and the course website 
-- Send assignment questions to the CIS 115 Help email ([cis115help@KSUemailProd.onmicrosoft.com](mailto:cis115help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help)) OR via Microsoft Teams (The channels are intended for general questions, sharing of code/answers is restricted to direct messages). 
+- Send assignment questions to the CIS 115 Help email ([cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help)) OR via Microsoft Teams (The channels are intended for general questions, sharing of code/answers is restricted to direct messages). 
 - Visit your professor's office hours, or the office hours for your TA if available  
 - Ask your teammates for help or advice on assignments or projects (be mindful of the honor code!)
 - Schedule a one-on-one meeting with your professor/TA  

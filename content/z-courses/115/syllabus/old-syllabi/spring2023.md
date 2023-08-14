@@ -1,10 +1,10 @@
 ---
-title: "CIS 115 Syllabus - Spring 2023"
-weight: 62
-pre: "1"
+title: "Spring 2023"
+weight: 20231
+pre: ""
 ---
 
-## CIS 115 - Introduction to Computing Science - Fall 2023
+## ARCHIVED: CIS 115 - Introduction to Computing Science - Fall 2023
 
 ### Contact
 

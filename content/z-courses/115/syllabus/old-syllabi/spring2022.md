@@ -1,10 +1,10 @@
 ---
-title: "CC 115 Syllabus - Spring 2022"
-weight: 62
-pre: "6.2 "
+title: "Spring 2022"
+weight: 20221
+pre: ""
 ---
 
-## CC 115 - Introduction to Computing Science - Spring 2022
+## ARCHIVED: CIS 115 - Introduction to Computing Science - Spring 2022
 
 ### Contact
 

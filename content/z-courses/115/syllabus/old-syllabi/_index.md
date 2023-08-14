@@ -1,5 +1,5 @@
 +++
-title = "Previous Versions"
+title = "Previous Syllabi"
 hidden = true
 +++
 

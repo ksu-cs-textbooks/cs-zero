@@ -1,6 +1,6 @@
 ---
-title: "Course Introduction - 2022-2023"
-pre: "Z.115"
+title: "CIS 115 - Intro to Computing Science"
+pre: "115: "
 weight: 10
 ---
 
