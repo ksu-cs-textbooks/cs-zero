@@ -104,31 +104,6 @@
 	
 	
 		
-
-	
-	
-		
-
-	
-	
-		
-		
-
-	
-	
-		
-		
-
-	
-	
-		
-		
-		
-		
-
-	
-	
-		
 		
 
 	
@@ -1468,10 +1443,6 @@
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/index.html</loc>
-    <lastmod>2023-08-10T16:31:51-05:00</lastmod>
-  </url>
-  <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/index.html</loc>
     <lastmod>2023-08-10T16:31:51-05:00</lastmod>
   </url>
@@ -1578,10 +1549,6 @@
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/03-bits-and-boolean-algebra/02-operators/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/01-introduction/index.html</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/01-syllabus/index.html</loc>
@@ -1760,10 +1727,6 @@
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/02-navigating-canvas-codio/index.html</loc>
-    <lastmod>2022-01-15T13:17:15-06:00</lastmod>
-  </url>
-  <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/04-programming/08-early-programming/index.html</loc>
     <lastmod>2022-07-18T14:30:23-05:00</lastmod>
   </url>
@@ -1904,10 +1867,6 @@
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/03-where-to-find-help/index.html</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
-  </url>
-  <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/07-ai-healthcare/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
@@ -1980,10 +1939,6 @@
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/04-what-youll-learn/index.html</loc>
-    <lastmod>2022-02-11T23:24:07-06:00</lastmod>
-  </url>
-  <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/09-ibm-watson/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
@@ -2014,10 +1969,6 @@
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/09-gui-crash-course/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/05-how-to-learn-programming/index.html</loc>
-    <lastmod>2023-02-08T10:19:06-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/10-deepmind/index.html</loc>
@@ -2080,14 +2031,6 @@
     <lastmod>2022-06-02T15:41:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cc110-syllabus/index.html</loc>
-    <lastmod>2023-08-11T15:25:20-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cis115-syllabus/index.html</loc>
-    <lastmod>2023-01-20T08:52:57-06:00</lastmod>
-  </url>
-  <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/13-comp-smarter/index.html</loc>
     <lastmod>2022-07-25T12:21:43-05:00</lastmod>
   </url>
@@ -2118,10 +2061,6 @@
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/14-oculus-rift/index.html</loc>
     <lastmod>2022-06-02T16:09:02-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/07-plagiarism/index.html</loc>
-    <lastmod>2022-01-04T14:04:10-06:00</lastmod>
   </url>
   <url>
     <loc>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/16-alpha-go/index.html</loc>
