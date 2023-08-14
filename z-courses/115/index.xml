@@ -1368,17 +1368,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Course Introduction - 2022-2023 on Intro CS Textbook</title>
+    <title>CIS 115 - Intro to Computing Science on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/z-courses/115/index.html</link>
-    <description>Recent content in Course Introduction - 2022-2023 on Intro CS Textbook</description>
+    <description>Recent content in CIS 115 - Intro to Computing Science on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/z-courses/115/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CIS 115 Syllabus - Spring 2023</title>
+      <title>CIS 115 Syllabus - Fall 2023</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/z-courses/115/syllabus/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/z-courses/115/syllabus/index.html</guid>
-      <description>CIS 115 - Introduction to Computing Science - Fall 2023 Previous Versions Contact Info All emails for the course should be sent to cis115help@KSUemailProd.onmicrosoft.com (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.</description>
+      <description>Previous Versions Contact Info All emails for the course should be sent to cis115-help@KSUemailProd.onmicrosoft.com (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
+Communication can also be done through Microsoft Teams.</description>
     </item>
   </channel>
 </rss>
