@@ -14,38 +14,42 @@ pre: ""
 Communication can also be done through Microsoft Teams. If you have not been invited to join the team for CIS 115, please let any of us know and we will get you added.
 {{% /notice %}}
 
-**Instructor:** Emily Alfs-Votipka (she/her) – [emilyalfs@ksu.edu](mailto:emilyalfs@ksu.edu)   (teaches sections C)
+**Instructor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu)   (teaches sections B/D)
 
 - **Office:** 2161 Engineering Hall (DUE)  
-- **Office  Hours:** M/W 1:00-3:00
-    - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs 
+- **Office  Hours:** TBD
 
-**Instructor:**  Joshua Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections B )
+**Instructor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
 
 - **Office:** 2214 Engineering Hall (DUE)
-- **Phone:** See calendar below 
 - **Office Hours:** weeser.net/calendar
-  - **Want to meet with me?** https://calendly.com/weeser
+  - **Want to meet with me outside office hours?** https://calendly.com/weeser
 
 **Undergraduate Teaching Assistants**
 *All TA office hours can be found on the embedded calendar below.*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
-| Nathan Herscovici                 |   B,C       |
-| Emma Lucas                        |   B,C       |
-| John Partridge | B,C | 
-| Carrie Aponte | - |
-| Ryan Stueve | - |
-
+| Carrie Aponte                     | Online Only |
+| Cole James                        | A/C         |
+| Daniel Chang                      | A/C         |
+| Darius McAdam                     | A/C         |
+| Emma Lucas                        | E           |
+| Evangelos Chitwood                | Any         |
+| Logan Hayward                     | B/D         |
+| Ryan Stueve                       | Online Only |
+| Taj Ikhlaas                       | B/D         | 
 
 <br/>
 
-### Office Hours and Course Schedule
+### Course Schedule
 
- - Section B - with Dr. Joshua Weese 
-    - Tuesday 10:15 - 12:05 DUE 1117
- - Section C - with Emily Alfs-Votipka
-    - Tuesday 12:25 - 2:15 DUE 1117
+ - A	(Tuesdays) 8:05 - 9:55a
+ - B	(Tuesdays) 10:55a - 12:45p
+ - C	(Thursdays) 8:05 - 9:55a
+ - D	(Thursdays) 10:55a - 12:45p
+ - E	(Wednesdays) 8:30a - 10:20a
+
+### Office Hours
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -53,6 +57,7 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 - “The Pattern on the Stone: The Simple Ideas that Make Computers Work” by W. Daniel Hillis. **ISBN 046502596X**, newer version is also available and will work fine
  - Free digital version though the KSU Library: https://k-state.primo.exlibrisgroup.com/permalink/01KSU_INST/1bihi0g/alma9942605917302401 
 - “Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers” by John MacCormick. **ISBN 0691158193**
+- "CS Zero: An Introduction to Computing Science" https://textbooks.cs.ksu.edu/cs-zero/
 - “A Byte of Python” by Swwaroop C.H.
     - This book is free! Its accessed at https://python.swaroopch.com/ 
     - Download: https://github.com/swaroopch/byte-of-python/releases/latest 
