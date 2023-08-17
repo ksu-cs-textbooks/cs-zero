@@ -8,3 +8,5 @@ noprint = true
 +++
 
 Welcome to CS-Zero! There are some links below where you can find some course specific pages.
+
+{{% children %}}
