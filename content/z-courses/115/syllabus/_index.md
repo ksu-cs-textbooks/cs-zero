@@ -17,7 +17,8 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 **Instructor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu)   (teaches sections B/D)
 
 - **Office:** 2161 Engineering Hall (DUE)  
-- **Office  Hours:** TBD
+**Office Hours:** safiamalallah.com/calendar
+  - **Want to meet with me outside office hours?** https://calendly.com/safiamalallah
 
 **Instructor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
 
