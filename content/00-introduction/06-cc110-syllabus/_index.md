@@ -21,14 +21,14 @@ pre: "6.1 "
 
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below.*
+*All TA office hours can be found on the embedded calendar below.* TBA
 | **Name**                          |
 | --------------------------------- |
-| Carrie Aponte                     |
-| Nathan Herscovici                 |
-| Emma Lucas                        |
-| John Partridge                    |
-| Ryan Stueve                       |
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
 
 ### Prerequisites
 
