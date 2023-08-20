@@ -1,5 +1,5 @@
 ---
-title: "CC 110 Syllabus - Spring 2023"
+title: "CC 110 Syllabus - Fall 2023"
 weight: 61
 pre: "6.1 "
 ---
