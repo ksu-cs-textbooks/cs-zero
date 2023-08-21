@@ -16,11 +16,10 @@ Your teachers may give you a syllabus that includes additional information that 
 
 ### Instructor Contact Information
 
-* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)<br> _I use **he/him** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
-* **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
-* **Phone:** (785) 292-3121 (Call/Text)
-* **Website:** https://russfeld.me
-* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
+* **Instructor:** Safia Malallah (safia AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
+* **Office:** DUE 2161 
+- **Office  Hours:** safiamalallah.com/calendar
+    - **Want to meet with me outside of my regular office hours?** https://calendly.com/safiamalallah
 
 #### Preferred Methods of Communication:
 
