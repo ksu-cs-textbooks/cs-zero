@@ -33,7 +33,7 @@ Our **preffered method of contact** will be through the [Edstem Discussion board
 *All TA office hours can be found on the embedded calendar below.*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
-| Carrie Aponte                     | Online Only |
+| Carrie Aponte                     | Grading Only |
 | Cole James                        | A/C         |
 | Daniel Chang                      | A/C         |
 | Darius McAdam                     | A/C         |
@@ -172,9 +172,9 @@ There will be some programming or written assignments given from time to time th
 - 20% - Topic Research and Wiki Article
 - 15% - Programming Labs (*Lowest lab is dropped*) and Programming Homework
 - 10% - Discussions 
-- 30% - Quizzes (*Lowest two scores are dropped*)
+- 25% - Quizzes (*Lowest two scores are dropped*)
 - Exams
-  - 15% - Python Exams
+  - 20% - Python Exams
   - 10% - Final Exam
 
 Letter grades will be assigned following the standard scale: 
