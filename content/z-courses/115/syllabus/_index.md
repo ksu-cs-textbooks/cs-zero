@@ -10,7 +10,7 @@ pre: ""
 
 {{% notice info %}}
 
-Our **preffered method of contact** will be through the [Edstem Discussion board](https://k-state.instructure.com/courses/145415/external_tools/18457?display=borderless). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
+Our **preferred method of contact** will be through the [Edstem Discussion board](https://k-state.instructure.com/courses/145415/external_tools/18457?display=borderless). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
 
 **All emails** for the course should be sent to [cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email. You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 
@@ -161,7 +161,7 @@ Attendance accommodations include all COVID related causes, but Student Life sho
 ### Assignments
 
 {{% notice warning%}}
-Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don't get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden and will result in an XF. This includes viewing posts as well. It also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. 
+Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don’t get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden and will result in an XF. This also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. The use of AI assisted tools to write your assignments is also explicitly forbidden (ChatGPT, GitHub Code Pilot, etc.). You may use these tools as help in the learning process, but work that you submit for a grade must be 100% done by you and only you.
 
     *If you are struggling in the course or you have doubts on something, please ask!  Your instructors and TAs are here to help!*
 {{% /notice %}}
