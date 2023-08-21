@@ -103,7 +103,7 @@ This semester, we will be using edstem.org, specifically, there Ed Discussion pl
 - If you would like a new category or tag made, please let us know!
 
 If you need help getting started with the platform, please go through the following links:
-- [Student guid to Ed Discussion](https://edstem.org/us/help/student-discussion)
+- [Student guide to Ed Discussion](https://edstem.org/us/help/student-discussion)
 - [Content Editor Guide](https://edstem.org/us/help/content-editor)
 - [Push Notifications](https://edstem.org/us/help/push-notifications)
 
