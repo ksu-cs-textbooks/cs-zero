@@ -1,5 +1,5 @@
 ---
-title: "CC 110 Syllabus - Spring 2023"
+title: "CC 110 Syllabus - Fall 2023"
 weight: 61
 pre: "6.1 "
 ---
@@ -12,8 +12,8 @@ pre: "6.1 "
 
 * **Instructor:** Safia Malallah (safia AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Office:** DUE 2161 
-- **Office  Hours:** M/W 1:00-3:00
-    - **Want to meet with me outside of my regular office hours?** https://calendly.com/emilyalfs
+- **Office  Hours:** safiamalallah.com/calendar
+    - **Want to meet with me outside of my regular office hours?** https://calendly.com/safiamalallah
 
 #### Preferred Methods of Communication:
 
@@ -21,20 +21,18 @@ pre: "6.1 "
 
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below.*
+*All TA office hours can be found on the embedded calendar below.* TBA
 | **Name**                          |
 | --------------------------------- |
-| Carrie Aponte                     |
-| Nathan Herscovici                 |
-| Emma Lucas                        |
-| John Partridge                    |
-| Ryan Stueve                       |
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
 
 ### Prerequisites
 
 * None
-
-<iframe src=https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&mode=WEEK&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161&color=%23009688 style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ### How to Get Help in this  Course
@@ -79,15 +77,15 @@ By the end of this course, each student will be able to:
 
 ###  Course Structure
 
-These courses are being taught 100% online, and each module is self-paced. There may be some bumps in the road as we refine the overall course structure. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Some modules will include a coding project or assignment, many of which will be graded automatically through Codio. Assignments may also include portions which will be graded manually via Canvas or other tools.
+These courses are being taught 100% online, and each module is self-paced. There may be some bumps in the road as we refine the overall course structure. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Assignments may also include portions which will be graded manually via Canvas or other tools.
 
 ### Grading
 
 In theory, each student begins the course with an A. As you submit work, you can either maintain your A (for good work) or chip away at it (for less adequate or incomplete work). In practice, each student starts with 0 points in the gradebook and works upward toward a final point total earned out of the possible number of points. In this course, each assignment constitutes a portion of the final grade, as detailed below:
 
-* 70% Canvas Quizzes
-* 20% Codio Python Labs
-* 10% Codio Python Assignments
+* 80% Lectures & Quizzes
+* 20% Discussions
+
 
 
 Letter grades will be assigned following the standard scale:
@@ -104,7 +102,7 @@ Letter grades will be assigned following the standard scale:
 Read this late work policy very carefully! If you are unsure how to interpret it, please contact the instructors via the help email. Not understanding the policy does not mean that it won't apply to you!
 {{% /notice %}}
 
-Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. **Any assignment submitted late will have that assignment’s grade reduced by 10% of the total possible points on that project for each day it is late.** This penalty will be assessed automatically in the Canvas gradebook. 
+Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately two modules due each week. Each graded item in the module will have a specific due date specified. **Any assignment submitted late will have that assignment’s grade reduced by 10% of the total possible points on that project for each day it is late.** This penalty will be assessed automatically in the Canvas gradebook. 
 
 **The following table outlines the highest possible score that a module can earn based on when it is complete** 
 

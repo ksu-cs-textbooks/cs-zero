@@ -9,17 +9,21 @@ pre: ""
 ### Contact
 
 {{% notice info %}}
-**All emails** for the course should be sent to [cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email (please allow one full business day for response). You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 
-Communication can also be done through Microsoft Teams. If you have not been invited to join the team for CIS 115, please let any of us know and we will get you added.
+Our **preferred method of contact** will be through the [Edstem Discussion board](https://k-state.instructure.com/courses/145415/external_tools/18457?display=borderless). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
+
+**All emails** for the course should be sent to [cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email. You are welcome to send emails that may contain more sensitive information directly to intended recipients.
+
+**Please allow at least one full business day for responses to any inquiry.**
 {{% /notice %}}
 
 **Instructor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu)   (teaches sections B/D)
 
 - **Office:** 2161 Engineering Hall (DUE)  
-- **Office  Hours:** TBD
+**Office Hours:** safiamalallah.com/calendar
+  - **Want to meet with me outside office hours?** https://calendly.com/safiamalallah
 
-**Instructor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
+**Professor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
 
 - **Office:** 2214 Engineering Hall (DUE)
 - **Office Hours:** weeser.net/calendar
@@ -29,7 +33,7 @@ Communication can also be done through Microsoft Teams. If you have not been inv
 *All TA office hours can be found on the embedded calendar below.*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
-| Carrie Aponte                     | Online Only |
+| Carrie Aponte                     | Grading Only |
 | Cole James                        | A/C         |
 | Daniel Chang                      | A/C         |
 | Darius McAdam                     | A/C         |
@@ -83,10 +87,26 @@ CIS 115 can be an interesting course due to the large amount of material covered
 Here are the 5 **recommended ways to get help** on CIS 115:  
 
 - Review the course materials posted on K-State Canvas and the course website 
-- Send assignment questions to the CIS 115 Help email ([cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help)) OR via Microsoft Teams (The channels are intended for general questions, sharing of code/answers is restricted to direct messages). 
+- Check the [Edstem Discussion board](https://k-state.instructure.com/courses/145415/external_tools/18457?display=borderless) to see if a similar question has been asked, otherwise, post a new question.
 - Visit your professor's office hours, or the office hours for your TA if available  
+- Send a message to the CIS 115 Help email ([cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help)).
 - Ask your teammates for help or advice on assignments or projects (be mindful of the honor code!)
 - Schedule a one-on-one meeting with your professor/TA  
+
+#### More on the [Edstem Discussion board](https://k-state.instructure.com/courses/145415/external_tools/18457?display=borderless)
+
+This semester, we will be using edstem.org, specifically, there Ed Discussion platform. Ed Discussion is a reddit/forum style web app that allows students to post and ask questions. This will be our preferred way of communication when it comes to questions/etc. in the course. Please adhere to the following guidelines:
+- Before creating a new thread, please make sure there isn't a similar one already made.
+- If you are asking a question in Ed Discussion, please correctly mark it as such along with the correct tags.
+- Please make your thread public when possible in case others have the same questions.
+  - Threads can be made *anonymous* when needed. Course staff may anonymize private threads and make them public if they find it to be beneficial for the class.
+- When posting code, please do not post solutions or part of solutions to homework. If you need to share your code with us, please make your thread private.
+- If you would like a new category or tag made, please let us know!
+
+If you need help getting started with the platform, please go through the following links:
+- [Student guide to Ed Discussion](https://edstem.org/us/help/student-discussion)
+- [Content Editor Guide](https://edstem.org/us/help/content-editor)
+- [Push Notifications](https://edstem.org/us/help/push-notifications)
 
 <hr/>
 
@@ -142,7 +162,7 @@ Attendance accommodations include all COVID related causes, but Student Life sho
 ### Assignments
 
 {{% notice warning%}}
-Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don't get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden and will result in an XF. This includes viewing posts as well. It also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. 
+Assignments are to be completed without any collaboration with classmates or other outside help unless otherwise stated. It is crucial that all work you do is your own.  Posting (even if you don’t get a response) course content on Stack Overflow, Chegg, or other similar websites is expressly forbidden and will result in an XF. This also includes viewing solutions to course content that has not been provided to you through canvas by your instructor or TA. The use of AI assisted tools to write your assignments is also explicitly forbidden (ChatGPT, GitHub Code Pilot, etc.). You may use these tools as help in the learning process, but work that you submit for a grade must be 100% done by you and only you.
 
     *If you are struggling in the course or you have doubts on something, please ask!  Your instructors and TAs are here to help!*
 {{% /notice %}}
@@ -153,9 +173,9 @@ There will be some programming or written assignments given from time to time th
 - 20% - Topic Research and Wiki Article
 - 15% - Programming Labs (*Lowest lab is dropped*) and Programming Homework
 - 10% - Discussions 
-- 30% - Quizzes (*Lowest two scores are dropped*)
+- 25% - Quizzes (*Lowest two scores are dropped*)
 - Exams
-  - 15% - Python Exams
+  - 20% - Python Exams
   - 10% - Final Exam
 
 Letter grades will be assigned following the standard scale: 
