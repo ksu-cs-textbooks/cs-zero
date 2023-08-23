@@ -39,8 +39,8 @@ Continuing down the menu to the left, you'll find the usual Canvas links to view
 
 ===
 
-Now, let's go back to Canvas and load up one of the Codio projects. To load the first Codio projects, click the **Next** button at the bottom of this page to go to the next part of this module, which is the Codio Introduction tutorial. On that page, there will be a button to click, which opens Codio in a new browser window or tab.
+[comment]: <> (Now, let's go back to Canvas and load up one of the Codio projects. To load the first Codio projects, click the **Next** #button at the bottom of this page to go to the next part of this module, which is the Codio Introduction tutorial. On that page, there will be a button to click, which opens Codio in a new browser window or tab.
 
 Once Codio loads, it should give you the option to start the *Guide* for that module. You'll definitely want to select that option whenever you load a Codio project for the first time.
 
-From there, you can follow the steps in that guide to learn more about the Codio interface. The first page of the guide continues this video. I'll see you there!
+From there, you can follow the steps in that guide to learn more about the Codio interface. The first page of the guide continues this video. I'll see you there!)
