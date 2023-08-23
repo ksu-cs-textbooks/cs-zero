@@ -58,6 +58,7 @@ Communication can also be done through Microsoft Teams. If you have not been inv
  - Free digital version though the KSU Library: https://k-state.primo.exlibrisgroup.com/permalink/01KSU_INST/1bihi0g/alma9942605917302401 
 - “Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers” by John MacCormick. **ISBN 0691158193**
 - "CS Zero: An Introduction to Computing Science" https://textbooks.cs.ksu.edu/cs-zero/
+- "Introduction to Python" https://textbooks.cs.ksu.edu/intro-python/
 - “A Byte of Python” by Swwaroop C.H.
     - This book is free! Its accessed at https://python.swaroopch.com/ 
     - Download: https://github.com/swaroopch/byte-of-python/releases/latest 
