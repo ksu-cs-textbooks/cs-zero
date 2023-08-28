@@ -1354,63 +1354,63 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/01-intro/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/01-intro/index.html</guid>
-      <description>Resources Slides Video Script In this module, we&amp;rsquo;re going to take a look at one of the most important applications of computer science and modern technology- the field of cryptography. Cryptography is the study of ways to communicate securely and privately in the presence of third parties. If you think about it, cryptography is very important today with the rise of the Internet and modern technology. Any data that&amp;rsquo;s transmitted over the internet can be intercepted by just about anyone from your internet service provider all the way to the website that you&amp;rsquo;re communicating with, and anybody in between.</description>
+      <description>YouTube Video Resources Slides Video Script In this module, we&amp;rsquo;re going to take a look at one of the most important applications of computer science and modern technology- the field of cryptography. Cryptography is the study of ways to communicate securely and privately in the presence of third parties. If you think about it, cryptography is very important today with the rise of the Internet and modern technology. Any data that&amp;rsquo;s transmitted over the internet can be intercepted by just about anyone from your internet service provider all the way to the website that you&amp;rsquo;re communicating with, and anybody in between.</description>
     </item>
     <item>
       <title>Enigma Machine Introduction</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/02-enigma-intro/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/02-enigma-intro/index.html</guid>
-      <description>Resources Slides Video Script In this module, we&amp;rsquo;re going to take a look at one great example of the use of cryptography in computer science. And to do that we have to go all the way back in history to look at World War Two. This slide right here shows the height of German occupation of Europe during World War Two. And during that time, the Germans were sending encrypted messages to all of their field commanders using a system that was very, very much thought to be uncrackable at that time.</description>
+      <description>YouTube Video Resources Slides Video Script In this module, we&amp;rsquo;re going to take a look at one great example of the use of cryptography in computer science. And to do that we have to go all the way back in history to look at World War Two. This slide right here shows the height of German occupation of Europe during World War Two. And during that time, the Germans were sending encrypted messages to all of their field commanders using a system that was very, very much thought to be uncrackable at that time.</description>
     </item>
     <item>
       <title>Enigma Machine - Numberphile</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/03-enigma-machine/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/03-enigma-machine/index.html</guid>
-      <description>Watch through 5:50</description>
+      <description>YouTube Video Watch through 5:50</description>
     </item>
     <item>
       <title>Enigma Machine</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/04-enigma/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/04-enigma/index.html</guid>
-      <description>Resources Slides Video Script I present to you the German Enigma machine. The Enigma machine was used to encode messages during World War Two. And it was a really interesting piece of equipment. It used several different rotors that were rotated to create a key for the encryption, and used a plug board and a keyboard for inputs. And so as we saw in the video with the Enigma machine, you would set the rotors to a particular key.</description>
+      <description>YouTube Video Resources Slides Video Script I present to you the German Enigma machine. The Enigma machine was used to encode messages during World War Two. And it was a really interesting piece of equipment. It used several different rotors that were rotated to create a key for the encryption, and used a plug board and a keyboard for inputs. And so as we saw in the video with the Enigma machine, you would set the rotors to a particular key.</description>
     </item>
     <item>
       <title>Flaw in the Enigma Code - Numberphile</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/05-flaw-enigma/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/05-flaw-enigma/index.html</guid>
-      <description>Watch through 2:40</description>
+      <description>YouTube Video Watch through 2:40</description>
     </item>
     <item>
       <title>Cracking Enigma</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/06-cracking-enigma/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/06-cracking-enigma/index.html</guid>
-      <description>Resources Slides Video Script The success for cracking the Enigma machine really comes down to the work of this man, Marian Rejewski. Marian Rejewski was a Polish mathematician who worked on the Enigma machine in the early days of the 1920s and 1930s. The Enigma machine was actually originally available as a corporate machine; you could go out and buy it as a corporation, and use it to encrypt and store data.</description>
+      <description>YouTube Video Resources Slides Video Script The success for cracking the Enigma machine really comes down to the work of this man, Marian Rejewski. Marian Rejewski was a Polish mathematician who worked on the Enigma machine in the early days of the 1920s and 1930s. The Enigma machine was actually originally available as a corporate machine; you could go out and buy it as a corporation, and use it to encrypt and store data.</description>
     </item>
     <item>
       <title>Bombe Demonstration at Bletchley Park</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/07-bombe/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/07-bombe/index.html</guid>
-      <description> </description>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Modern Cryptography</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/08-modern-crypto/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/08-modern-crypto/index.html</guid>
-      <description>Resources Slides Video Script Of course, the impact of cracking the Enigma machine cannot be understated. It&amp;rsquo;s probably best put by Sir Harry Hensley, who is a British intelligence historian. And he wrote, &amp;ldquo;My own conclusion is that it shortened the war by not less than two years and probably by four years &amp;hellip; we wouldn&amp;rsquo;t have in fact been able to do the Normandy landings, even if we had left the Mediterranean aside, until at the earliest 1946, probably a bit later.</description>
+      <description>YouTube Video Resources Slides Video Script Of course, the impact of cracking the Enigma machine cannot be understated. It&amp;rsquo;s probably best put by Sir Harry Hensley, who is a British intelligence historian. And he wrote, &amp;ldquo;My own conclusion is that it shortened the war by not less than two years and probably by four years &amp;hellip; we wouldn&amp;rsquo;t have in fact been able to do the Normandy landings, even if we had left the Mediterranean aside, until at the earliest 1946, probably a bit later.</description>
     </item>
     <item>
       <title>Public Key Cryptography: Diffie-Hellman Key Exchange (short version)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/09-diffie-hellman/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/09-diffie-hellman/index.html</guid>
-      <description> </description>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>RSA Encryption</title>
@@ -1418,7 +1418,7 @@
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/10-rsa/index.html</guid>
       <description>Error in Video In the video, the values of d and e are swapped at one point. Thankfully, this doesn&amp;rsquo;t matter since they are commutative and can be used in any order, but it is a bit confusing. We&amp;rsquo;ll correct this video in the future!
-Resources Slides RSA Calculator Worksheet Video Script Let&amp;rsquo;s take a look at one modern form of encryption called RSA encryption. RSA was developed in 1977, and it was named for the three creators- Ron Rivest, Adi Shamir, and Leonard Adelman.</description>
+YouTube Video Resources Slides RSA Calculator Worksheet Video Script Let&amp;rsquo;s take a look at one modern form of encryption called RSA encryption. RSA was developed in 1977, and it was named for the three creators- Ron Rivest, Adi Shamir, and Leonard Adelman.</description>
     </item>
     <item>
       <title>Nine Algorithms that Changed the Future Ch 4 - Public Key Cryptography</title>
