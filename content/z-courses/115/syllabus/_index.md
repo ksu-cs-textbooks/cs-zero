@@ -60,7 +60,7 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
 
 ### Required Texts
 1. "The Pattern on the Stone: The Simple Ideas that Make Computers Work" by W. Daniel Hillis. **ISBN 046502596X**, newer version is also available and will work fine
-  1. Free digital version though the KSU Library: https://k-state.primo.exlibrisgroup.com/permalink/01KSU_INST/1bihi0g/alma9942605917302401 
+   1. Free digital version though the KSU Library: https://k-state.primo.exlibrisgroup.com/permalink/01KSU_INST/1bihi0g/alma9942605917302401 
 2. “Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today’s Computers” by John MacCormick. **ISBN 0691158193**
 3. "CS Zero: An Introduction to Computing Science" https://textbooks.cs.ksu.edu/cs-zero/
 4. "Introduction to Python" https://textbooks.cs.ksu.edu/intro-python/
