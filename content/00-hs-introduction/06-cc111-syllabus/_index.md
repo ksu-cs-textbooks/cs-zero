@@ -91,7 +91,7 @@ Read this late work policy very carefully! If you are unsure how to interpret it
 
 Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. 
 
-**Assignments submitted after the due date will be subject to a deduction equivalent to 0.4% of the total points on the assignment per hour that it is late, which is roughly equivalent to 10% of the total points per day that it is late.**
+**Assignments submitted after the due date will be subject to a deduction equivalent to 10% of the total points on the assignment per day that it is late. Late assignments will not be accepted if they have been submitted more than 3 days after the due date, unless a special reason is provided and prior approval for an extension has been obtained before the due date.**
 
 Even if a module is not submitted on time, it must still be completed before a student is allowed to begin the next module. So, students should take care not to get too far behind, as it may be very difficult to catch up.
 
