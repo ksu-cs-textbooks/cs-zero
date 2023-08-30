@@ -1359,21 +1359,21 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/01-introduction/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/01-introduction/index.html</guid>
-      <description>Resources Slides Video Script In this module, we will discuss how we can store data in our computers using various types of encoding. Recall, the computers only operate on binary values, which we&amp;rsquo;ll talk about a lot today in this lecture. And so how do we take things such as images and text and graphics and videos, and make all of those things accessible to our computer? Before we continue, let&amp;rsquo;s take a look at a few of the things we&amp;rsquo;ve covered in this class.</description>
+      <description>YouTube Video Resources Slides Video Script In this module, we will discuss how we can store data in our computers using various types of encoding. Recall, the computers only operate on binary values, which we&amp;rsquo;ll talk about a lot today in this lecture. And so how do we take things such as images and text and graphics and videos, and make all of those things accessible to our computer? Before we continue, let&amp;rsquo;s take a look at a few of the things we&amp;rsquo;ve covered in this class.</description>
     </item>
     <item>
       <title>AT&amp;T Archives: Invention of the First Electric Computer</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/02-att-first-computer/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/02-att-first-computer/index.html</guid>
-      <description> </description>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Binary Numbers</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/03-binary/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/03-binary/index.html</guid>
-      <description>Resources Slides Video Script The first thing we&amp;rsquo;re going to cover in this module is the concept of binary numbers. Binary numbers are really the core of everything that a computer does. And so we need a way that we can convert the base 10 numbers that we know today such as 24 42 86, into binary numbers that only use ones and zeros.
+      <description>YouTube Video Resources Slides Video Script The first thing we&amp;rsquo;re going to cover in this module is the concept of binary numbers. Binary numbers are really the core of everything that a computer does. And so we need a way that we can convert the base 10 numbers that we know today such as 24 42 86, into binary numbers that only use ones and zeros.
 So let&amp;rsquo;s start with simple natural numbers, the counting numbers, the whole numbers that are greater than zero.</description>
     </item>
     <item>
@@ -1381,28 +1381,28 @@ So let&amp;rsquo;s start with simple natural numbers, the counting numbers, the 
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/04-twos-complement/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/04-twos-complement/index.html</guid>
-      <description>Resources Slides Video Script In the previous video, we looked at binary numbers that are natural numbers, which are whole numbers greater than zero. There are a couple other binary data types that we&amp;rsquo;re going to look at in this module. The first one would be a signed integer, and assigned integer allows us to have negative values by changing the sign at the front of the number. So just like with decimal numbers, where we put a minus sign in the front to differentiate between positive numbers and negative numbers, we can do something similar with binary numbers by changing a sign bit at the front of the number to determine if it&amp;rsquo;s positive or negative.</description>
+      <description>YouTube Video Resources Slides Video Script In the previous video, we looked at binary numbers that are natural numbers, which are whole numbers greater than zero. There are a couple other binary data types that we&amp;rsquo;re going to look at in this module. The first one would be a signed integer, and assigned integer allows us to have negative values by changing the sign at the front of the number.</description>
     </item>
     <item>
       <title>Floating Point</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/05-floating-point/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/05-floating-point/index.html</guid>
-      <description>Resources Slides Video Script So far in this module, we&amp;rsquo;ve only dealt with whole numbers such as positive and negative whole numbers or integers. But what about numbers that have decimal points in them? How would we deal with those? In mathematics, of course, we call these rational numbers because they can be expressed as a ratio or a fraction. And so in mathematics, one thing that we&amp;rsquo;ve used for rational numbers would be scientific notation.</description>
+      <description>YouTube Video Resources Slides Video Script So far in this module, we&amp;rsquo;ve only dealt with whole numbers such as positive and negative whole numbers or integers. But what about numbers that have decimal points in them? How would we deal with those? In mathematics, of course, we call these rational numbers because they can be expressed as a ratio or a fraction. And so in mathematics, one thing that we&amp;rsquo;ve used for rational numbers would be scientific notation.</description>
     </item>
     <item>
       <title>Floating Point Numbers - Computerphile</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/06-float-point-computerphile/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/06-float-point-computerphile/index.html</guid>
-      <description> </description>
+      <description> YouTube Video </description>
     </item>
     <item>
       <title>Other Data Types</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/07-other-types/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/07-encoding/07-other-types/index.html</guid>
-      <description>Resources Slides Video Script So now that we understand how to encode numbers into binary, let&amp;rsquo;s look at some other data types and see how those work. The nice thing is in the computer, everything is really just a binary number. It&amp;rsquo;s all ones and zeros. So we really just have to find a way to take other types of data and convert them into numbers. And then we can store those numbers in our computer and use them in our computer programs.</description>
+      <description>YouTube Video Resources Slides Video Script So now that we understand how to encode numbers into binary, let&amp;rsquo;s look at some other data types and see how those work. The nice thing is in the computer, everything is really just a binary number. It&amp;rsquo;s all ones and zeros. So we really just have to find a way to take other types of data and convert them into numbers. And then we can store those numbers in our computer and use them in our computer programs.</description>
     </item>
     <item>
       <title>Pattern on the Stone Reading</title>
