@@ -1,11 +1,11 @@
 ---
-title: "What is a Computer (Pt. 1)"
+title: "What is a Computer? (Part 1)"
 pre: "2.3 "
 weight: 10
 date: 2020-08-10T16:27:26-05:00
 ---
 
-{{< youtube bGnBwUF7uEA >}}
+{{< youtube nujviMgD6dQ >}}
 
 #### Resources
 

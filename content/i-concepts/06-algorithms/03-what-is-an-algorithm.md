@@ -1,11 +1,11 @@
 ---
-title: "What is an Algorithm"
+title: "What is an Algorithm?"
 pre: "6.3 "
 weight: 10
 date: 2020-08-10T16:27:26-05:00
 ---
 
-{{< youtube xY9dQG4Sh6c >}}
+{{< youtube pAMDbIi4fVA >}}
 
 #### Resources
 
