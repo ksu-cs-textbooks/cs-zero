@@ -1,5 +1,5 @@
 +++
-title = "Cryptograpy"
+title = "Cryptography"
 date = 2020-10-24T00:23:05-05:00
 weight = 1600
 archetype = "chapter"
