@@ -11,7 +11,7 @@ In some older videos, the JQuery script tag is shown using `http` in the URL. Th
 
 {{% /notice %}}
 
-{{< youtube eompYk6zR6Q >}}
+{{< youtube -KQlH_7jR38 >}}
 
 <!-- TODO Rerecord Video -->
 
