@@ -13,7 +13,7 @@ pre: "6.1 "
 * **Instructor:** Safia Malallah <br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Email:** Safia@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
 Please avoid using the Canvas email functionality; instead, contact me directly at this email address. Canvas emails don't always reach my inbox reliably.<br>
-I'd like to emphasize that I make an effort to respond to emails within 24 "business hours". Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
+I'd like to emphasize that I make an effort to respond to emails within 24 "business hours" (if you don't receive a reply within 24 hours, please don't hesitate to reach out again). Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
 * **Office:** DUE 2161 
 - **Office  Hours:** safiamalallah.com/calendar
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/safiamalallah
