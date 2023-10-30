@@ -10,7 +10,9 @@ pre: "6.1 "
 
 ### Instructor Contact Information
 
-* **Instructor:** Safia Malallah (safia AT ksu DOT edu)<br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
+* **Instructor:** Safia Malallah <br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
+* **Email:** Safia@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com>
+Please avoid using the Canvas email functionality; instead, contact me directly at this email address. Canvas emails don't always reach my inbox reliably.
 * **Office:** DUE 2161 
 - **Office  Hours:** safiamalallah.com/calendar
     - **Want to meet with me outside of my regular office hours?** https://calendly.com/safiamalallah
