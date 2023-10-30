@@ -1364,70 +1364,70 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/01-introduction/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/01-introduction/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script In this module, we&amp;rsquo;re going to learn about algorithms. But before we can discuss algorithms, let&amp;rsquo;s take a look at something that you might be very familiar with and see how it actually relates to the idea of an algorithm. For example, we can ask ourselves, how do you shuffle cards? It&amp;rsquo;s something that is really hard to describe. But once you see it, and you can observe other people doing it, it&amp;rsquo;s pretty easy to understand what&amp;rsquo;s going on.</description>
+      <description>Resources Slides Video Script In this module, we&amp;rsquo;re going to learn about algorithms. But before we can discuss algorithms, let&amp;rsquo;s take a look at something that you might be very familiar with and see how it actually relates to the idea of an algorithm. For example, we can ask ourselves, how do you shuffle cards? It&amp;rsquo;s something that is really hard to describe. But once you see it, and you can observe other people doing it, it&amp;rsquo;s pretty easy to understand what&amp;rsquo;s going on.</description>
     </item>
     <item>
       <title>The Weird Truth About Arabic Numerals (SciShow)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/02-arabic-numerals/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/02-arabic-numerals/index.html</guid>
-      <description> YouTube Video </description>
+      <description> </description>
     </item>
     <item>
       <title>What is an Algorithm?</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/03-what-is-an-algorithm/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/03-what-is-an-algorithm/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script So what is an algorithm in computer science? A good definition for an algorithm is a finite list of specific instructions for carrying out a procedure or solving a problem. If you think about it, every computer program we write consists of many different algorithms. Because as we&amp;rsquo;ve learned, writing a computer program is exactly that. It&amp;rsquo;s giving the computer a list of very specific instructions that we&amp;rsquo;d like it to carry out so that it can perform a task or solve a problem for us.</description>
+      <description>Resources Slides Video Script So what is an algorithm in computer science? A good definition for an algorithm is a finite list of specific instructions for carrying out a procedure or solving a problem. If you think about it, every computer program we write consists of many different algorithms. Because as we&amp;rsquo;ve learned, writing a computer program is exactly that. It&amp;rsquo;s giving the computer a list of very specific instructions that we&amp;rsquo;d like it to carry out so that it can perform a task or solve a problem for us.</description>
     </item>
     <item>
       <title>Insertion Sort</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/04-insertion-sort/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/04-insertion-sort/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script In these next couple of videos, we&amp;rsquo;re going to introduce the concept of sorting algorithms. Sorting algorithms are used when we want to arrange sets of data in order either from smallest to largest or largest to smallest in our computer programs. As it turns out, there are many different ways that we can sort our data using different algorithms. And each of those algorithms have unique characteristics that make them suitable for certain types of data in certain situations.</description>
+      <description>Resources Slides Video Script In these next couple of videos, we&amp;rsquo;re going to introduce the concept of sorting algorithms. Sorting algorithms are used when we want to arrange sets of data in order either from smallest to largest or largest to smallest in our computer programs. As it turns out, there are many different ways that we can sort our data using different algorithms. And each of those algorithms have unique characteristics that make them suitable for certain types of data in certain situations.</description>
     </item>
     <item>
       <title>Bubble Sort</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/05-bubble-sort/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/05-bubble-sort/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script The next algorithm we&amp;rsquo;re going to look at is bubble sort. Bubble sort might seem similar to Insertion Sort, but it&amp;rsquo;s actually quite the different algorithm. So in bubble sort, what we will do is we will start by comparing two side by side elements in the list of data. And then if they&amp;rsquo;re out of order, we will swap them. You can see in the animation above me how those two red boxes move to compare two side by side items.</description>
+      <description>Resources Slides Video Script The next algorithm we&amp;rsquo;re going to look at is bubble sort. Bubble sort might seem similar to Insertion Sort, but it&amp;rsquo;s actually quite the different algorithm. So in bubble sort, what we will do is we will start by comparing two side by side elements in the list of data. And then if they&amp;rsquo;re out of order, we will swap them. You can see in the animation above me how those two red boxes move to compare two side by side items.</description>
     </item>
     <item>
       <title>Complexity (Part 1)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/06-complexity/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/06-complexity/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script So far, we&amp;rsquo;ve looked at two different algorithms for sorting decks of cards, Insertion Sort, and bubblesort. So let&amp;rsquo;s take a minute and try and decide which of those algorithms do you think is faster for a computer? a better question might be, which of those two algorithms was faster for you as it person to perform? Those are really tough questions to answer, aren&amp;rsquo;t they?</description>
+      <description>Resources Slides Video Script So far, we&amp;rsquo;ve looked at two different algorithms for sorting decks of cards, Insertion Sort, and bubblesort. So let&amp;rsquo;s take a minute and try and decide which of those algorithms do you think is faster for a computer? a better question might be, which of those two algorithms was faster for you as it person to perform? Those are really tough questions to answer, aren&amp;rsquo;t they?</description>
     </item>
     <item>
       <title>Merge Sort</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/07-merge-sort/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/07-merge-sort/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script The next algorithm we&amp;rsquo;re going to look at is merge sort. Merge Sort is a very unique algorithm because it&amp;rsquo;s an example of the divide and conquer paradigm of creating algorithms. In fact, Merge Sort was actually written way back in the 1950s and 60s to allow us the ability to sort data that didn&amp;rsquo;t even fit on a single data storage media at the time.</description>
+      <description>Resources Slides Video Script The next algorithm we&amp;rsquo;re going to look at is merge sort. Merge Sort is a very unique algorithm because it&amp;rsquo;s an example of the divide and conquer paradigm of creating algorithms. In fact, Merge Sort was actually written way back in the 1950s and 60s to allow us the ability to sort data that didn&amp;rsquo;t even fit on a single data storage media at the time.</description>
     </item>
     <item>
       <title>Quick Sort</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/08-quicksort/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/08-quicksort/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script The last sorting algorithm we&amp;rsquo;re going to look at is quicksort. Quicksort is the newest of these algorithms being first published in 1961. Quicksort is a little bit different than the other sorting algorithms, because it requires us to choose a pivot element from the list and then sort based off of that pivot elements, it&amp;rsquo;s really kind of hard to understand conceptually without seeing it in action.</description>
+      <description>Resources Slides Video Script The last sorting algorithm we&amp;rsquo;re going to look at is quicksort. Quicksort is the newest of these algorithms being first published in 1961. Quicksort is a little bit different than the other sorting algorithms, because it requires us to choose a pivot element from the list and then sort based off of that pivot elements, it&amp;rsquo;s really kind of hard to understand conceptually without seeing it in action.</description>
     </item>
     <item>
       <title>Complexity Part 2</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/09-complexity-2/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/09-complexity-2/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script So now that we&amp;rsquo;ve learned about merge sort and quicksort, let&amp;rsquo;s take a look at the complexity of one of these algorithms. Just to understand how that works. For this example, we&amp;rsquo;re going to look at the complexity of merge sort. Let&amp;rsquo;s consider the example where we&amp;rsquo;re doing merge sort on eight numbers. So here we have the numbers 1,2,3,4,5,6,7,8. So the first step of Merge Sort would have us divide those in half into groups, 1,2,3,4, and group 5,6,7,8, then we would divide each of those in half again, ending up with four groups 1-2,3-4,5-6, and 7-8t.</description>
+      <description>Resources Slides Video Script So now that we&amp;rsquo;ve learned about merge sort and quicksort, let&amp;rsquo;s take a look at the complexity of one of these algorithms. Just to understand how that works. For this example, we&amp;rsquo;re going to look at the complexity of merge sort. Let&amp;rsquo;s consider the example where we&amp;rsquo;re doing merge sort on eight numbers. So here we have the numbers 1,2,3,4,5,6,7,8. So the first step of Merge Sort would have us divide those in half into groups, 1,2,3,4, and group 5,6,7,8, then we would divide each of those in half again, ending up with four groups 1-2,3-4,5-6, and 7-8t.</description>
     </item>
     <item>
       <title>Heuristics</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/10-heuristics/index.html</link>
       <pubDate>Mon, 10 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/06-algorithms/10-heuristics/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script So far in this module, we&amp;rsquo;ve studied algorithms, and remember that an algorithm is a specific set of steps that we can use to solve a problem. However, what if we&amp;rsquo;re faced with a problem that we can&amp;rsquo;t solve? Either because it&amp;rsquo;s impossible, or because we have so much data that we can&amp;rsquo;t possibly find the one right answer using an algorithm. In that case, we would use something we call a heuristic.</description>
+      <description>Resources Slides Video Script So far in this module, we&amp;rsquo;ve studied algorithms, and remember that an algorithm is a specific set of steps that we can use to solve a problem. However, what if we&amp;rsquo;re faced with a problem that we can&amp;rsquo;t solve? Either because it&amp;rsquo;s impossible, or because we have so much data that we can&amp;rsquo;t possibly find the one right answer using an algorithm. In that case, we would use something we call a heuristic.</description>
     </item>
     <item>
       <title>Pattern on the Stone Reading</title>
