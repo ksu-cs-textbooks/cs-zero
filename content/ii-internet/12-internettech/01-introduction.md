@@ -5,9 +5,8 @@ weight: 5
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube 2PODdJNvwgQ >}}
+{{< youtube mPVuQE67uek >}}
 
-<!-- CIS 115: gwdJX1NPI20 -->
 
 #### Resources
 * [Slides](../slides/11-How_the_Internet_Works.pdf)
