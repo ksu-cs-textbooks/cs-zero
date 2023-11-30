@@ -5,9 +5,7 @@ weight: 15
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube hB2s5JnujkQ >}}
-
-<!-- CIS 115: czAhoyaJejg -->
+{{< youtube _FH9mSXslhs >}}
 
 #### Resources
 * [Slides](../slides/9-Human_Computer_Interaction.pdf)
