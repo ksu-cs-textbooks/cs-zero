@@ -1364,14 +1364,14 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/01-200-years/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/01-200-years/index.html</guid>
-      <description> YouTube Video </description>
+      <description> </description>
     </item>
     <item>
       <title>Big Data</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/02-big-data/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/02-big-data/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script Welcome back everyone. In this video series, we&amp;rsquo;re going to be taking a look at big data. So exactly how big is big data? So here&amp;rsquo;s a slide of the metric prefixes. And so which ones do you think constitute as big data? or big data? Today, we&amp;rsquo;re talking about data anywhere from gigabytes to petabytes and beyond. And the future, we may even be dealing with exabytes of data.</description>
+      <description>Resources Slides Video Script Welcome back everyone. In this video series, we&amp;rsquo;re going to be taking a look at big data. So exactly how big is big data? So here&amp;rsquo;s a slide of the metric prefixes. And so which ones do you think constitute as big data? or big data? Today, we&amp;rsquo;re talking about data anywhere from gigabytes to petabytes and beyond. And the future, we may even be dealing with exabytes of data.</description>
     </item>
     <item>
       <title>HealthMap.org</title>
@@ -1392,14 +1392,14 @@
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/05-four-vs/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/05-four-vs/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script To really understand how big data can be useful, we can look at four different aspects that are usually referred to as the four V&amp;rsquo;s of big data. These are volume. So how much data there is a variety, how much or how little variety actually exist, velocity, just how fast data is being produced and or received. And veracity. How accurate is that data, there&amp;rsquo;s also a fifth fee, typically referred to as value.</description>
+      <description>Resources Slides Video Script To really understand how big data can be useful, we can look at four different aspects that are usually referred to as the four V&amp;rsquo;s of big data. These are volume. So how much data there is a variety, how much or how little variety actually exist, velocity, just how fast data is being produced and or received. And veracity. How accurate is that data, there&amp;rsquo;s also a fifth fee, typically referred to as value.</description>
     </item>
     <item>
       <title>Map Reduce</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/06-map-reduce/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/06-map-reduce/index.html</guid>
-      <description>YouTube Video Resources Slides Video Script One of the last things I want to talk about here with big data is some of the algorithms that we can actually use to work with this sheer amount of information. So one that I want to highlight here is called MapReduce. Oh, MapReduce is a very well known algorithm and big data realm. And now it&amp;rsquo;s been, of course, transformed significantly, since its original inception, inception, to handle even larger amounts of information.</description>
+      <description>Resources Slides Video Script One of the last things I want to talk about here with big data is some of the algorithms that we can actually use to work with this sheer amount of information. So one that I want to highlight here is called MapReduce. Oh, MapReduce is a very well known algorithm and big data realm. And now it&amp;rsquo;s been, of course, transformed significantly, since its original inception, inception, to handle even larger amounts of information.</description>
     </item>
   </channel>
 </rss>
