@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Intelligence"
+title: "Introduction to AI"
 pre: "18.2 "
 weight: 10
 date: 2020-10-24T00:27:26-05:00

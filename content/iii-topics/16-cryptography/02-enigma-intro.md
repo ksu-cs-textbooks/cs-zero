@@ -1,5 +1,5 @@
 ---
-title: "Enigma Machine Introduction"
+title: "Enigma Machine (Part 1)"
 pre: "16.2 "
 weight: 10
 date: 2020-10-24T00:27:26-05:00
