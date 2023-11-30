@@ -5,9 +5,9 @@ weight: 20
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube LqH8uSuDb-s >}}
+{{< youtube 4tBVJQdCF9k >}}
 
-<!-- CIS 115: q9_cGKpIbm0 -->
+
 
 #### Resources
 * [Slides](../slides/7-Encoding.pdf)
