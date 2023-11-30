@@ -1360,7 +1360,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 16:23:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
+      <title>Integrated Circuits (Part 1)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/01-introduction/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/01-introduction/index.html</guid>
@@ -1375,7 +1375,7 @@ This problem was really best summed up by Jack Morton, the Vice President of Bel
       <description> </description>
     </item>
     <item>
-      <title>Integrated Circuits</title>
+      <title>Integrated Circuits (Part 2)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/03-integrated-circuits/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/03-integrated-circuits/index.html</guid>
@@ -1398,14 +1398,14 @@ Cramming More Components onto Integrated Circuits </description>
 The Story of the Intel® 4004 </description>
     </item>
     <item>
-      <title>Von Neumann</title>
+      <title>Von Neumann Architecture</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/06-von-neumann/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/06-von-neumann/index.html</guid>
       <description>Resources Slides Video Script Up to this point in this class, we&amp;rsquo;ve talked about a certain type of computer called a fixed program computer. However, a fixed program computer has some limitations. A fixed program computer can only perform one task without being completely rebuilt and redesigned for another task. While this may seem very powerful, it is actually very limiting. So examples of fixed program computers would be Babbage&amp;rsquo;s Difference Engine.</description>
     </item>
     <item>
-      <title>Parts of a Computer</title>
+      <title>Computer Hardware</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/07-computer-parts/index.html</link>
       <pubDate>Fri, 28 Aug 2020 16:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/08-architecture/07-computer-parts/index.html</guid>

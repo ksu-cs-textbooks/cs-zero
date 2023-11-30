@@ -1367,7 +1367,7 @@
       <description>Resources Slides Video Script In this module, we&amp;rsquo;re going to take a look at one of the most important applications of computer science and modern technology- the field of cryptography. Cryptography is the study of ways to communicate securely and privately in the presence of third parties. If you think about it, cryptography is very important today with the rise of the Internet and modern technology. Any data that&amp;rsquo;s transmitted over the internet can be intercepted by just about anyone from your internet service provider all the way to the website that you&amp;rsquo;re communicating with, and anybody in between.</description>
     </item>
     <item>
-      <title>Enigma Machine Introduction</title>
+      <title>Enigma Machine (Part 1)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/02-enigma-intro/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/02-enigma-intro/index.html</guid>
@@ -1381,7 +1381,7 @@
       <description>Watch through 5:50</description>
     </item>
     <item>
-      <title>Enigma Machine</title>
+      <title>Enigma Machine (Part 2)</title>
       <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/04-enigma/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:27:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/04-enigma/index.html</guid>
