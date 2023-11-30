@@ -5,8 +5,7 @@ weight: 25
 date: 2020-10-24T00:27:26-05:00
 ---
 
-{{< youtube FTNf3MIViBo >}}
-<!-- KG68zy_ebxk -->
+{{< youtube Yn45PEKfSGw >}}
 
 #### Resources
 * [Slides](../slides/20-BigData.pdf)
