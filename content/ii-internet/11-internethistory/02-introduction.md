@@ -5,9 +5,8 @@ weight: 10
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube MnHPgzvlBA0 >}}
+{{< youtube Z6Ck96egCcY >}}
 
-<!-- CIS 115: sxJvT85ghT0 -->
 
 #### Resources
 * [Slides](../slides/10-History_of_the_Internet.pdf)
