@@ -5,9 +5,7 @@ weight: 30
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube -0qGcKTOXcU >}}
-
-<!-- CIS 115: ck5jX5NSRxw -->
+{{< youtube YfvKz4eIdj0 >}}
 
 #### Resources
 * [Slides](../slides/8-Computer_Architecture.pdf)
