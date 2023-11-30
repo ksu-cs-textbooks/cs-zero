@@ -5,9 +5,9 @@ weight: 5
 date: 2020-08-10T16:27:26-05:00
 ---
 
-{{< youtube FFSd4yXIHts >}}
+{{< youtube WRI9Jvoo6V4 >}}
 
-<!-- CIS 115: https://youtu.be/5YQh01jOriA -->
+
 
 #### Resources
 * [Slides](../slides/01-What-is-Computing.pdf)
