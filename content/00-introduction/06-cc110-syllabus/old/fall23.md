@@ -1,12 +1,10 @@
 ---
-title: "CC 110 Syllabus - Spring 2024"
+title: "CC 110 Syllabus - Fall 2023"
 weight: 61
 pre: "6.1 "
 ---
 
-## CC 110 - Introduction to Computing - Spring 2024
-
-[Previous Versions]({{<relref "./old">}})
+## CC 110 - Introduction to Computing - Spring 2023
 
 ### Instructor Contact Information
 
@@ -16,7 +14,8 @@ Please avoid using the Canvas email functionality; instead, contact me directly 
 I'd like to emphasize that I make an effort to respond to emails within 24 "business hours" (if you don't receive a reply within 24 hours, please don't hesitate to reach out again). Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
 <br>
 * **Office:** DUE 2161 
-- **Office  Hours:** https://calendly.com/safiamalallah
+- **Office  Hours:** safiamalallah.com/calendar
+    - **Want to meet with me outside of my regular office hours?** https://calendly.com/safiamalallah
 
 #### Preferred Methods of Communication:
 
@@ -47,7 +46,6 @@ Here are the 4 **recommended ways to get help** on CC 110:
 - Send assignment questions to the CC 110 Help email ([cc110-help@ksuemailprod.onmicrosoft.com](mailto:cc110-help@ksuemailprod.onmicrosoft.com))  
 - Visit your professor's office hours, or the office hours for your TA if available  
 - Schedule a one-on-one meeting with your professor/TA  
-- Tutoring center:  They offer both online and in-person support. You can access online tutoring through the Computational Core website at the following link: https://www.k-state.edu/aac/tutoring/appointment.html 
 
 ### Course Overview
 
