@@ -18,7 +18,7 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
 **Please allow at least one full business day for responses to any inquiry.**
 {{% /notice %}}
 
-**Instructor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu)   (teaches section C)
+**Professor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu)   (teaches section C)
 
 - **Office:** 2161 Engineering Hall (DUE)  
 **Office Hours:** safiamalallah.com/calendar
