@@ -12,7 +12,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 110 - Introduction to Computing HS (2023-2024)
+## CC 110 - Introduction to Computing HS (2023-2024) 
 
 ### Instructor Contact Information
 
