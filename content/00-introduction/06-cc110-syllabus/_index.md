@@ -174,4 +174,10 @@ All graded work is individual effort. You are authorized  to use:
 7.      Tutors from the Academic Assistance Center or provided by K-State Athletics 
 Use of on-line solutions whether for reference or code is prohibited.  Use of previous semester's answers, whether your own or another student's is prohibited.  Use of code-completion/suggestion tool's, other than those we have installed in the Codio editor, is prohibited.
 
+
+
+### AI Prohibited
+This course assumes that all your course work will be done by you. You will not need to use artificial intelligence (AI) tools such as ChatGPT for any of the assignments. In general, for this class, you should not have an AI instrument do the writing of any portion of any assignment, just as you would not have another person do your writing for you. My aim is to keep the focus on your originality and creativity, your learning and reflection. If you do use AI for any part of any assignment, you will need to cite it fully and properly, using MLA’s AI citation guidelines. Using an AI tool to generate assignment content without proper attribution would be a violation of the K-State Honor Pledge. (from Prof. Gregory Eiselein, Coffman University Distinguished Teaching Scholar)
+
+
 {{< syllabus exclude="honesty">}}
