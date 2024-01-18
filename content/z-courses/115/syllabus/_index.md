@@ -31,16 +31,17 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
   - **Want to meet with me outside office hours?** https://calendly.com/weeser
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below.*
+*All TA office hours can be found on the embedded calendar below. All TA office hours are accessible by any 115 student regardless of section*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
-| Carrie Aponte                     | Any         |
-| Cole James                        | TBD         |
-| Daniel Chang                      | TBD         |
-| Emma Lucas                        | Any         |
-| Evangelos Chitwood                | Any         |
+| Carrie Aponte                     | -           |
+| Cole James                        | -           |
+| Daniel Chang                      | C           |
+| Emma Lucas                        | -           |
+| Evangelos Chitwood                | B           |
 | Logan Hayward                     | B           |
-| Taj Ikhlaas                       | Any         | 
+| Taj Ikhlaas                       | -           | 
+| Abdullah Rasheed                  | C           | 
 
 <br/>
 
