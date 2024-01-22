@@ -24,8 +24,29 @@ I'd like to emphasize that I make an effort to respond to emails within 24 "busi
 
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below.* TBA
-<p>Come visit with us during office hours listed below (<em>Meeting method/location listed in location of calendar event. If no times work, let us know and we can meet by appointment</em>):<br /><iframe style="border: solid 1px #777;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;mode=WEEK&amp;showPrint=0&amp;src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;color=%23B39DDB&amp;color=%23616161&amp;color=%23009688" width="800" height="600"></iframe></p>
+*All TA office hours can be found on the embedded calendar below. All TA office hours are accessible by any 115 student regardless of section*
+| **Name**                          | **Section** |
+| --------------------------------- | ----------- |
+| Carrie Aponte                     | -           |
+| Cole James                        | -           |
+| Daniel Chang                      | -           |
+| Emma Lucas                        | -           |
+| Evangelos Chitwood                | -           |
+| Logan Hayward                     | -           |
+| Taj Ikhlaas                       | -           | 
+| Abdullah Rasheed                  | -           | 
+| Aidan Harries                     | -           |
+
+<br/>
+
+### Course Schedule
+
+online
+
+### Office Hours
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ### Prerequisites
 
