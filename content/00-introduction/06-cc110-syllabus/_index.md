@@ -24,7 +24,7 @@ I'd like to emphasize that I make an effort to respond to emails within 24 "busi
 
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below. All TA office hours are accessible by any 115 student regardless of section*
+*All TA office hours can be found on the embedded calendar below. All TA office hours are accessible by any student regardless of section*
 | **Name**                          | **Section** |
 | --------------------------------- | ----------- |
 | Carrie Aponte                     | -           |
