@@ -17,13 +17,16 @@ I'd like to emphasize that I make an effort to respond to emails within 24 "busi
 <br>
 * **Office:** DUE 2161 
 - **Office  Hours:** https://calendly.com/safiamalallah
-* **TA:**
-Carrie Aponte (she/her)
-* **Email:**  cgaponte@ksu.edu
+
+### TAs Contact Information
+* **TA:** Carrie Aponte (she/her) 
+* **Email:** cgaponte@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
 * **Online Office Hours:**  T/TH 12pm-2pm:
 https://us04web.zoom.us/j/2903782268?pwd=2OoM0gDU6ToBtWYJ8i9BIt64JZwFDT.1Links to an external site.
 Meeting ID: 290 378 2268
 Passcode: YLzK8m
+
+<br>
 #### Preferred Methods of Communication:
 
 * **Email**: Please use "cc110-help" (cc110-help@ksuemailprod.onmicrosoft.com if not on web-mail) for all communication regarding these courses as it allows instructors and TAs to provide a clear and detailed response, as well as easily store and record communication for reference later. **You should receive a response within one business day, and hopefully much sooner.** Note emailing the instructor or teaching assistants directly may result in longer wait times for your support.
