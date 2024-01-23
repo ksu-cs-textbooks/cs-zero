@@ -55,7 +55,7 @@ _All TA office hours can be found on the embedded calendar below. **ALL** TA off
 #### Final Exam Times
 
 -   **Section B**: Wednesday,May 5th in DUE 1117 from 9:40am - 11:30am
--   **Section C**: TBD
+-   **Section C**: Friday, May 10th in DUE 1117 from 9:40am - 11:30am
 
 ### Office Hours
 
