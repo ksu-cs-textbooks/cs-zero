@@ -49,17 +49,23 @@ _All TA office hours can be found on the embedded calendar below. **ALL** TA off
 
 ### Course Schedule
 
--   B (Tuesdays) 10:15am - 12:05pm
--   C (Tuesdays) 12:25pm - 2:15pm
+-   Section B (Tuesdays) 10:15am - 12:05pm
+-   Section C (Tuesdays) 12:25pm - 2:15pm
 
 #### Final Exam Times
 
--   B Wednesday,May 5th in DUE 1117 from 9:40am - 11:30am
--   C TBD
+-   **Section B**: Wednesday,May 5th in DUE 1117 from 9:40am - 11:30am
+-   **Section C**: TBD
 
 ### Office Hours
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+{{% notice info %}}
+
+Office hours are open times where you can come and get help without making an appointment! Our availability may change week to week. Please double check the office hours calendar before attending to confirm both time and location of office hours. If office hours are changed or canceled the day of, we will try to make announcements.
+
+{{% /notice %}}
+
+-   <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Required Texts
 
