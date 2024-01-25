@@ -15,8 +15,10 @@ pre: "6.1 "
 Please avoid using the Canvas email functionality; instead, contact me directly at this email address. Canvas emails don't always reach my inbox reliably.<br>
 I'd like to emphasize that I make an effort to respond to emails within 24 "business hours" (if you don't receive a reply within 24 hours, please don't hesitate to reach out again). Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
 <br>
-* **Office:**  https://safiamalallah.com/calendar  in person DUE 2161 or zoom <br>
-- **Office  Hours:** https://calendly.com/safiamalallah
+* **Office Hours:**  <br>
+- **time :**  https://safiamalallah.com/calendar   <br>
+- **In person:**  DUE 2161 <br>
+- **Online :** https://ksu.zoom.us/my/safiamalallah <br>
 
 
 #### Preferred Methods of Communication:
@@ -27,7 +29,7 @@ I'd like to emphasize that I make an effort to respond to emails within 24 "busi
 * **TA:** Carrie Aponte (she/her) <br>
 * **Email:** cgaponte@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
 * **Online Office Hours:**  T/TH 12pm-2pm:<br>
-https://us04web.zoom.us/j/2903782268?pwd=2OoM0gDU6ToBtWYJ8i9BIt64JZwFDT.1Links to an external site.
+https://us04web.zoom.us/j/2903782268?pwd=2OoM0gDU6ToBtWYJ8i9BIt64JZwFDT
 Meeting ID: 290 378 2268 <br>
 Passcode: YLzK8m <br>
 
