@@ -29,9 +29,8 @@ I'd like to emphasize that I make an effort to respond to emails within 24 "busi
 * **TA:** Carrie Aponte (she/her) <br>
 * **Email:** cgaponte@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
 * **Online Office Hours:**  T/TH 12pm-2pm:<br>
-https://us04web.zoom.us/j/2903782268?pwd=2OoM0gDU6ToBtWYJ8i9BIt64JZwFDT
-Meeting ID: 290 378 2268 <br>
-Passcode: YLzK8m <br>
+https://ksu.zoom.us/my/carrie.aponte
+
 
 <br>
 **Undergraduate Teaching Assistants**
