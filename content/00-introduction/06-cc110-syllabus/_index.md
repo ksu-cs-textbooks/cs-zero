@@ -16,7 +16,7 @@ Please avoid using the Canvas email functionality; instead, contact me directly 
 I'd like to emphasize that I make an effort to respond to emails within 24 "business hours" (if you don't receive a reply within 24 hours, please don't hesitate to reach out again). Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
 <br>
 * **Office Hours:**  <br>
-- **time :**  https://safiamalallah.com/calendar   <br>
+- **Time :**  Check the calendar below to locate my name and the type of the office hour. It could be in person, hybrid, or online. Please check the type regularly as it could change throughout the semester<br>
 - **In person:**  DUE 2161 <br>
 - **Online :** https://ksu.zoom.us/my/safiamalallah <br>
 
