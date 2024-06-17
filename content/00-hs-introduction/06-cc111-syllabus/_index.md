@@ -1,5 +1,5 @@
 ---
-title: "CC 111 Syllabus - Fall 2023"
+title: "CC 111 Syllabus - Fall 2024"
 weight: 62
 pre: "6.2 "
 ---
@@ -12,7 +12,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 111 - Elements of Computer Programming HS (2023-2024)
+## CC 111 - Elements of Computer Programming HS (2024-2025)
 
 ### Instructor Contact Information
 
@@ -107,12 +107,13 @@ If you are unable to complete the course in a timely manner, please contact the 
 
 Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https://www.k-state.edu/registrar/faculty-staff/forms/Incomplete%20agreement%20form.docx), the following stipulations apply to any incomplete grades given in Computational Core courses:
 
-1. Students may receive at most two incompletes in Computational Core courses throughout their time in the program
-2. Students will be given 6 calendar weeks from the end of the enrolled semester's finals week to complete the course
-3. Any modules in a future CC course which depend on incomplete work will not be accessible until the previous course is finished
-  1. For example, if a student is given an incomplete in CC 210, then all modules in CC 310 will be inaccessible until CC 210 is complete
-4. Students understand that access to instructor and GTA assistance may be limited after the end of an academic semester due to holidays and other obligations
-5. If a student fails to resolve an incomplete grade after 6 weeks, they will be assigned an 'F' in the course. In addition, they will be dropped from any other Computational Core courses which require the failed course as a prerequisite or corequisite.
+Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https://www.k-state.edu/registrar/faculty-staff/forms/Incomplete%20agreement%20form.docx), the following stipulations apply to any incomplete grades given in this course:
+
+1. Students will be given 6 calendar weeks from the end of the enrolled semester's finals week to complete the course
+2. Any modules in a future course which depend on incomplete work will not be accessible until the previous course is finished
+  1. For example, if a student is given an incomplete in CC 111, then all modules in CC 210 will be inaccessible until CC 111 is complete
+3. Students understand that access to instructor and GTA assistance may be limited after the end of an academic semester due to holidays and other obligations
+4. If a student fails to resolve an incomplete grade after 6 weeks, they will be assigned an 'F' in the course. In addition, they will be dropped from any other courses which require the failed course as a prerequisite or corequisite.
 
 ### Recommended Texts & Supplies
 
