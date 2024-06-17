@@ -4,7 +4,7 @@ weight: 20231
 pre: ""
 ---
 
-## ARCHIVED: CIS 115 - Introduction to Computing Science - Fall 2023
+## ARCHIVED: CIS 115 - Introduction to Computing Science - Spring 2023
 
 ### Contact
 
