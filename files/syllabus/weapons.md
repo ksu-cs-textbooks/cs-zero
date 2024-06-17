@@ -10,4 +10,4 @@ During this course, you will be required to engage in activities, such as intera
 
 Each individual who lawfully possesses a handgun on campus shall be wholly and solely responsible for carrying, storing and using that handgun in a safe manner and in accordance with the law, Board policy and University policy. All reports of suspected violation of the weapons policy are made to the University Police Department by picking up any Emergency Campus Phone or by calling 785-532-6412.
 
-<!-- Added Fall 2023 -->
+<!-- Verified Spring 2024 -->

@@ -21,4 +21,4 @@ For Global Campus/K-State Online:
 * K-State Online students have free access to mental health counseling with [My SSP](https://www.k-state.edu/lafene/programs/myssp.html) - 24/7 support via chat and phone.
 * The [Office of Student Life](https://www.k-state.edu/studentlife/) can direct you to additional resources.
 
-<!-- Updated Fall 2023 -->
+<!-- Verified Spring 2024 -->

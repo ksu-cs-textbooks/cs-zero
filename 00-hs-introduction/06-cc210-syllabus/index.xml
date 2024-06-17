@@ -98,6 +98,11 @@
 	
 		
 		
+
+	
+	
+		
+		
 		
 		
 
@@ -896,6 +901,11 @@
 
 	
 	
+		
+
+	
+	
+		
 		
 
 	
@@ -1353,9 +1363,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CC 210 Syllabus - Fall 2023 on Intro CS Textbook</title>
+    <title>CC 210 Syllabus - Fall 2024 on Intro CS Textbook</title>
     <link>https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc210-syllabus/index.html</link>
-    <description>Recent content in CC 210 Syllabus - Fall 2023 on Intro CS Textbook</description>
+    <description>Recent content in CC 210 Syllabus - Fall 2024 on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/00-hs-introduction/06-cc210-syllabus/index.xml" rel="self" type="application/rss+xml" />
   </channel>

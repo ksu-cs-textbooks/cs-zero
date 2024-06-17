@@ -26,3 +26,5 @@ Here are a few general rules to help us all communicate online in this course, e
 * **Avoid sarcasm, flaming, advertisements, lingo, trolling, doxxing, and other bad online habits.** They have no place in an academic environment. Tasteful humor is fine, but sarcasm can be misunderstood.
 
 As a participant in course discussions, you should also strive to honor the diversity of your classmates by adhering to the [K-State Principles of Community](https://www.k-state.edu/about/values/community/).
+
+<!-- Verified Spring 2024 -->
