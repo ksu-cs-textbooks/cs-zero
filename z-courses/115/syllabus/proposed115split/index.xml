@@ -1364,9 +1364,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CIS 115 Syllabus - Fall 2024 on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/z-courses/115/syllabus/proposed115split/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/cs-zero/z-courses/115/syllabus/proposed115split/index.html</link>
     <description>Recent content in CIS 115 Syllabus - Fall 2024 on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/z-courses/115/syllabus/proposed115split/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://textbooks.cs.ksu.edu/cs-zero/z-courses/115/syllabus/proposed115split/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

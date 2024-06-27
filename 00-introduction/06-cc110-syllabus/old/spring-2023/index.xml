@@ -1364,9 +1364,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CC 110 Syllabus - Spring 2023 on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cc110-syllabus/old/spring-2023/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/cs-zero/00-introduction/06-cc110-syllabus/old/spring-2023/index.html</link>
     <description>Recent content in CC 110 Syllabus - Spring 2023 on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/00-introduction/06-cc110-syllabus/old/spring-2023/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://textbooks.cs.ksu.edu/cs-zero/00-introduction/06-cc110-syllabus/old/spring-2023/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

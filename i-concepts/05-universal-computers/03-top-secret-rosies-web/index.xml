@@ -1364,10 +1364,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Top Secret Rosies Website on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/03-top-secret-rosies-web/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/cs-zero/i-concepts/05-universal-computers/03-top-secret-rosies-web/index.html</link>
     <description>Recent content in Top Secret Rosies Website on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 16:27:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/05-universal-computers/03-top-secret-rosies-web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2020 16:27:26 -0500</lastBuildDate><atom:link href="https://textbooks.cs.ksu.edu/cs-zero/i-concepts/05-universal-computers/03-top-secret-rosies-web/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

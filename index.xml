@@ -1364,36 +1364,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/cs-zero/index.html</link>
     <description>Recent content on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://textbooks.cs.ksu.edu/cs-zero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS Concepts</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/i-concepts/index.html</link>
       <pubDate>Tue, 08 Dec 2020 00:53:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/i-concepts/index.html</guid>
       <description>The basic building blocks of computer science theory and programming, along with a bit of history!</description>
     </item>
     <item>
       <title>The Internet</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/ii-internet/index.html</link>
       <pubDate>Tue, 08 Dec 2020 00:53:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/ii-internet/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/ii-internet/index.html</guid>
       <description>A fundamental part of today&amp;rsquo;s world! Let&amp;rsquo;s learn how it works, and how we can write webpages ourselves!</description>
     </item>
     <item>
       <title>CS Topics</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/index.html</link>
       <pubDate>Tue, 08 Dec 2020 00:53:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/index.html</guid>
       <description>An overview of some of the most important topics, research areas, and cool ideas in computer science!</description>
     </item>
     <item>
       <title>AP Alignment</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/z-ap-alignment/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/z-ap-alignment/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/z-ap-alignment/index.html</guid>
       <description>This section contains details and evidence for how this course is aligned with the AP Computer Science Principles course and exam.</description>
     </item>
   </channel>

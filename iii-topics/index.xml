@@ -1364,72 +1364,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS Topics on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/index.html</link>
     <description>Recent content in CS Topics on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 00:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 00:53:05 -0500</lastBuildDate><atom:link href="https://textbooks.cs.ksu.edu/cs-zero/iii-topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>High Performance Computing</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/14-hpc/index.html</link>
       <pubDate>Fri, 16 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/14-hpc/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/14-hpc/index.html</guid>
       <description> </description>
     </item>
     <item>
       <title>Compression &amp; Error Checking</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/15-compression-error-checking/index.html</link>
       <pubDate>Fri, 16 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/15-compression-error-checking/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/15-compression-error-checking/index.html</guid>
       <description> </description>
     </item>
     <item>
       <title>Cryptography</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/16-cryptography/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/16-cryptography/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/16-cryptography/index.html</guid>
       <description> </description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/17-cybersecurity/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/17-cybersecurity/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/17-cybersecurity/index.html</guid>
       <description> </description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/18-ai/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/18-ai/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/18-ai/index.html</guid>
       <description> Image Source: theconversation.com Image Source: xkcd.com </description>
     </item>
     <item>
       <title>Search and Information Retrieval</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/19-search-info/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/19-search-info/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/19-search-info/index.html</guid>
       <description> </description>
     </item>
     <item>
       <title>Big Data</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/20-big-data/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/20-big-data/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/20-big-data/index.html</guid>
       <description> Image Source: theconversation.com </description>
     </item>
     <item>
       <title>Ethics</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/21-ethics/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/21-ethics/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/21-ethics/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/21-ethics/index.html</guid>
       <description> </description>
     </item>
     <item>
       <title>Graphics and Video Games</title>
-      <link>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/22-graphics-and-video-games/index.html</link>
       <pubDate>Sat, 24 Oct 2020 00:23:05 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cs-zero/iii-topics/22-graphics-and-video-games/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cs-zero/iii-topics/22-graphics-and-video-games/index.html</guid>
       <description> </description>
     </item>
   </channel>

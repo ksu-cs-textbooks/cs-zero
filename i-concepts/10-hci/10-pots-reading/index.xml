@@ -1364,10 +1364,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pattern on the Stone Reading on Intro CS Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/cs-zero/i-concepts/10-hci/10-pots-reading/index.html</link>
     <description>Recent content in Pattern on the Stone Reading on Intro CS Textbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2020 10:53:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cs-zero/i-concepts/10-hci/10-pots-reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2020 10:53:26 -0500</lastBuildDate><atom:link href="https://textbooks.cs.ksu.edu/cs-zero/i-concepts/10-hci/10-pots-reading/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
