@@ -9,7 +9,7 @@ date: 2020-08-10T16:27:26-05:00
 
 #### Resources
 
-* [Slides](../slides/4-Programing.pdf)
+* [Slides](slides/4-Programing.pdf)
 
 #### Video Script
 

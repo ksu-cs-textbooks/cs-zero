@@ -12,7 +12,7 @@ hidden: true
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 * [K-State IT Help Desk](https://www.k-state.edu/its/helpdesk/) - Email helpdesk@ksu.edu
 * [K-State Online Canvas Help](http://public.online.k-state.edu/help/)
 * [Instructure Canvas Guides](https://community.canvaslms.com/community/answers/guides)

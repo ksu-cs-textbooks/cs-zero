@@ -15,7 +15,7 @@ _The C2 total on the slide at 0:54 - 2:10 is incorrect. The total is `7336` but 
 
 
 #### Resources
-* [Slides](../slides/21-Compression-Error-Checking.pdf)
+* [Slides](slides/21-Compression-Error-Checking.pdf)
 
 #### Video Script
 

@@ -9,7 +9,7 @@ date: 2018-08-24T10:53:26-05:00
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 * [Code.org Quotes](https://code.org/quotes)
 
 #### Video Script

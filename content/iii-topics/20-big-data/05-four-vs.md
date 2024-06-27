@@ -8,7 +8,7 @@ date: 2020-10-24T00:27:26-05:00
 {{< youtube Yn45PEKfSGw >}}
 
 #### Resources
-* [Slides](../slides/20-BigData.pdf)
+* [Slides](slides/20-BigData.pdf)
 
 #### Video Script
 

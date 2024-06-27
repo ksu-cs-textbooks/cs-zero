@@ -4,8 +4,8 @@ weight: 62
 pre: ""
 ---
 
--   [Link to this Syllabus]({{<ref "./">}})
--   [Previous Versions]({{<relref "./old-syllabi">}})
+-   [Link to this Syllabus]({{% ref "./" %}})
+-   [Previous Versions]({{% relref "./old-syllabi" %}})
 
 ### Contact
 

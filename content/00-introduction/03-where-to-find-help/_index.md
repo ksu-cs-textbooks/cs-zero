@@ -10,7 +10,7 @@ date: 2018-08-24T10:53:26-05:00
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 * [K-State IT Help Desk](https://www.k-state.edu/its/helpdesk/) - Email helpdesk@ksu.edu
 * [K-State Online Canvas Help](http://public.online.k-state.edu/help/)
 * [Instructure Canvas Guides](https://community.canvaslms.com/community/answers/guides)

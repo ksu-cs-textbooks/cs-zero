@@ -9,7 +9,7 @@ date: 2020-10-16T00:27:26-05:00
 
 
 #### Resources
-* [Slides](../slides/21-Compression-Error-Checking.pdf)
+* [Slides](slides/21-Compression-Error-Checking.pdf)
 
 #### Video Script
 

@@ -7,7 +7,7 @@ date: 2020-08-10T16:27:26-05:00
 ---
 
 #### Resources
-* <a href="../slides/prog_funds" target="_blank">Slides</a>
+* <a href="slides/prog_funds" target="_blank">Slides</a>
 
 There are two techniques that we would like to explicitly mention before we get too far into the course: decomposition and iteration. These concepts are crucial in helping us be better programmers and problem solvers. 
 

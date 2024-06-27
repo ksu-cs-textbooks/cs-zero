@@ -16,7 +16,7 @@ In some older videos, the JQuery script tag is shown using `http` in the URL. Th
 <!-- TODO Rerecord Video -->
 
 #### Resources
-* [Slides](../slides/14-WebProgramming2.pdf)
+* [Slides](slides/14-WebProgramming2.pdf)
 
 #### Video Script
 

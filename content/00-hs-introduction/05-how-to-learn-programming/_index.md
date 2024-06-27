@@ -10,7 +10,7 @@ date: 2020-12-08T00:53:26-05:00
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 * [The Science of Learning Programming](https://people.cs.ksu.edu/~nhbean/cis400/a-learning-programming/) from Nathan Bean's CIS 400 Textbook
 * [The Power of Believing You Can Improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU) - TED Talk on Mindsets and the Power of "Yet"
 * [The New Science of Learning: How to Learn in Haromony with your Brain](https://www.amazon.com/New-Science-Learning-Learn-Harmony/dp/1620360098) by Terry Doyle and Todd Zakrajsek - Great Book on Learning

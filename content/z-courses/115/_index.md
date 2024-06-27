@@ -6,5 +6,5 @@ weight: 10
 
 #### Resources
 
-* <a href="{{<relref "./syllabus">}}" target="_blank">Syllabus</a>
+* <a href="{{% relref "./syllabus" %}}" target="_blank">Syllabus</a>
 

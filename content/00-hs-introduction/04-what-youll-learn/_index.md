@@ -12,7 +12,7 @@ hidden: true
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 * [Code.org Quotes](https://code.org/quotes)
 
 #### Video Script

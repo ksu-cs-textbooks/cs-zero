@@ -9,7 +9,7 @@ date: 2020-08-28T16:27:26-05:00
 
 
 #### Resources
-* [Slides](../slides/13-WebProgramming1-cc.pdf)
+* [Slides](slides/13-WebProgramming1-cc.pdf)
 
 #### Video Script
 

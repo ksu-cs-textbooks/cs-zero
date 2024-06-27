@@ -15,7 +15,7 @@ To access CIS Linux while off campus, you must use K-State's VPN. You do not nee
 
 
 #### Resources
-* [Slides](../slides/13-WebProgramming1.pdf)
+* [Slides](slides/13-WebProgramming1-cc.pdf)
 
 #### Video Script
 

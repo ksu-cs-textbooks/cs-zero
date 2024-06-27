@@ -6,7 +6,7 @@ pre: "6.1 "
 
 ## CC 110 - Introduction to Computing - Spring 2024
 
-[Previous Versions]({{<relref "./old">}})
+[Previous Versions]({{% relref "./old" %}})
 
 ### Instructor Contact Information
 

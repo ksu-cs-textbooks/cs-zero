@@ -9,7 +9,7 @@ date: 2020-08-28T16:27:26-05:00
 
 
 #### Resources
-* [Slides](../slides/10-History_of_the_Internet.pdf)
+* [Slides](slides/10-History_of_the_Internet.pdf)
 
 #### Video Script
 

@@ -7,5 +7,5 @@ ordinal = "21"
 pre = "<b>21. </b>"
 +++
 
-![IEEE Code of Ethics](./slides/ieee-code-of-ethics.png)
+![IEEE Code of Ethics](slides/ieee-code-of-ethics.png)
 

@@ -12,7 +12,7 @@ hidden: true
 
 #### Resources
 
-* [Slides](../slides/03-Bits-and-Boolean-Algebra.pdf)
+* [Slides](slides/03-Bits-and-Boolean-Algebra.pdf)
 
 #### Video Script
 
