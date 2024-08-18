@@ -11,7 +11,7 @@ pre: ""
 
 {{% notice info %}}
 
-Our **preferred method of contact** will be through the [Edstem Discussion board](https://google.com). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
+Our **preferred method of contact** will be through the [Edstem Discussion board](https://k-state.instructure.com/courses/162644/external_tools/21764?display=borderless). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
 
 **All emails** for the course should be sent to [cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email. You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 
@@ -25,10 +25,15 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
   - **Want to meet with me outside office hours?** https://calendly.com/weeser
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below.*
-| **Name**                          | **Section** |
+*All TA office hours can be found on the embedded calendar below. Please try to not email TAs directly for general questions (use Ed Discussion or the help email instead).*
+| **Name**                          | **Email** |
 | --------------------------------- | ----------- |
-| placeholder                       | placeholder |
+| Carrie Aponte	                    | cgaponte@ksu.edu  |
+| Cole James	                      | colej5095@ksu.edu |
+| Zyada Mekonnen                    | ztmekonnen@ksu.edu|
+| Vinny Sun	                        | vinnysun1@ksu.edu |
+| Mason Vick	                      | mtvick@ksu.edu    |
+| Jess Whyrick	                    | jlwhyrick@ksu.edu |                   
 
 
 <br/>
@@ -73,13 +78,13 @@ CIS 115 can be an interesting course due to the large amount of material covered
 Here are the 5 **recommended ways to get help** on CIS 115:  
 
 - Review the course materials posted on K-State Canvas and the course website 
-- Check the [Edstem Discussion board](https://google.com) to see if a similar question has been asked, otherwise, post a new question.
+- Check the [Edstem Discussion board](https://k-state.instructure.com/courses/162644/external_tools/21764?display=borderless) to see if a similar question has been asked, otherwise, post a new question.
 - Visit your professor's office hours, or the office hours for your TA if available  
 - Send a message to the CIS 115 Help email ([cis115-help@KSUemailProd.onmicrosoft.com](mailto:cis115-help@KSUemailProd.onmicrosoft.com?subject=CIS%20115%20Help)).
 - Ask your classmates for help or advice on assignments or projects (be mindful of the honor code!)
 - Schedule a one-on-one meeting with your professor/TA  
 
-#### More on the [Edstem Discussion board](https://google.com)
+#### More on the [Edstem Discussion board](https://k-state.instructure.com/courses/162644/external_tools/21764?display=borderless)
 
 This semester, we will be using edstem.org, specifically, there Ed Discussion platform. Ed Discussion is a reddit/forum style web app that allows students to post and ask questions. This will be our preferred way of communication when it comes to questions/etc. in the course. Please adhere to the following guidelines:
 - Before creating a new thread, please make sure there isn't a similar one already made.
