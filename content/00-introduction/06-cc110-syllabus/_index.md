@@ -1,24 +1,26 @@
 ---
-title: "CC 110 Syllabus - Spring 2024"
+title: "CC 110 Syllabus - Fall 2024"
 weight: 61
 pre: "6.1 "
 ---
 
-## CC 110 - Introduction to Computing - Spring 2024
+## CC 110 - Introduction to Computing - Fall 2024
 
 [Previous Versions]({{% relref "./old" %}})
 
 ### Instructor Contact Information
-
+**Professor:**  Dr. Safia Malallah (She/her) 
+- **Office:** 2161 Engineering Hall (DUE)
+- **Office Hours:** Check the calendar 
+- **In person location:**  DUE 2161 <br>
+- **Online :** https://ksu.zoom.us/my/safiamalallah <br>
+- **Want to meet with me outside office hours?:** https://calendly.com/safiamalallah 
 * **Instructor:** Safia Malallah <br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Email:** Safia@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
 Please avoid using the Canvas email functionality; instead, contact me directly at this email address. Canvas emails don't always reach my inbox reliably.<br>
-I'd like to emphasize that I make an effort to respond to emails within 24 "business hours" (if you don't receive a reply within 24 hours, please don't hesitate to reach out again). Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
+I'd like to emphasize that I make an effort to respond to emails within 24 "business hours" (if you don't receive a reply within 24 hours, please don't hesitate to reach out again). 
+Specifically, on Fridays, I can only respond until I need to attend to my kids, which means you can anticipate my reply on Monday. Therefore, it's a good practice to reach out with your questions well in advance to ensure you have enough time to receive my response.
 <br>
-* **Office Hours:**  <br>
-- **Time :**  Check the calendar below to locate my name and the type of the office hour. It could be in person, hybrid, or online. Please check the type regularly as it could change throughout the semester<br>
-- **In person:**  DUE 2161 <br>
-- **Online :** https://ksu.zoom.us/my/safiamalallah <br>
 
 
 #### Preferred Methods of Communication:
@@ -28,33 +30,18 @@ I'd like to emphasize that I make an effort to respond to emails within 24 "busi
 ### TAs Contact Information
 * **TA:** Carrie Aponte (she/her) <br>
 * **Email:** cgaponte@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
-* **Online Office Hours:**  T/TH 12pm-2pm:<br>
 https://ksu.zoom.us/my/carrie.aponte
 
-
-<br>
-**Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below. All TA office hours are accessible by any student regardless of section*
-| **Name**                          | **Section** |
-| --------------------------------- | ----------- |
-| Carrie Aponte                     | -           |
-| Cole James                        | -           |
-| Daniel Chang                      | -           |
-| Emma Lucas                        | -           |
-| Evangelos Chitwood                | -           |
-| Logan Hayward                     | -           |
-| Taj Ikhlaas                       | -           | 
-| Abdullah Rasheed                  | -           | 
-| Aidan Harries                     | -           |
-
-<br/>
 
 
 
 ### Office Hours
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+Come visit with us during office hours listed below (<em>Meeting method/location listed in location of calendar event. If no times work, let us know and we can meet by appointment</em>). 
+Office hours are open times where you can come and get help without making an appointment! Our availability may change week to week. 
+Please double check the office hours calendar before attending to confirm both time and location of office hours. 
+If office hours are changed or canceled the day of, we will try to make announcements.<br />
+<iframe style="border: solid 1px #777;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;mode=WEEK&amp;showPrint=0&amp;src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;color=%23B39DDB&amp;color=%23616161&amp;color=%23009688" width="800" height="600"></iframe>
 
 ### Course Schedule
 
