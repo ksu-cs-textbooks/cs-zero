@@ -6,7 +6,7 @@ date: 2020-08-10T16:27:26-05:00
 ---
 
 {{< youtube WX79HgRF9Hg >}}
-{{< youtube si9iqF5uTFk >}}
+
 
 #### Resources
 
@@ -19,3 +19,4 @@ Our next famous woman in computer science that we'll be talking about is Rear Ad
 But beyond that, she was a truly a pioneer and out of the box thinker for her entire life. And as you'll see in the following videos, Grace Hopper is a pretty sassy lady but a pioneer in modern computing. She was also pretty famous for her description of a nanosecond in the Dave letterman show, which you'll see here in just a little bit. Another thing here every year, there is a Grace Hopper conference to celebrate diversity and inclusion and women in computing. And so there's actually scholarships available for students if you would like to attend this conference. And it's something that I would highly recommend if you ever get the chance, it is truly a great experience to actually participate in. 
 
 
+{{< youtube si9iqF5uTFk >}}
