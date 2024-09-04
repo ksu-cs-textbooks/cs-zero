@@ -14,7 +14,7 @@ pre: "6.1 "
 - **Office Hours:** Check the calendar 
 - **In person location:**  DUE 2161 <br>
 - **Online :** https://ksu.zoom.us/my/safiamalallah <br>
-- **Want to meet with me outside office hours?:** https://calendly.com/safiamalallah 
+- **Want to meet with me outside office hours?:** <a href='https://outlook.office.com/bookwithme/user/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu?anonymous&ep=plink'>Schedule online</a>
 * **Instructor:** Safia Malallah <br> _I use **she/her** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
 * **Email:** Safia@ksu.edu and CC cc110-help@KSUemailProd.onmicrosoft.com><br>
 Please avoid using the Canvas email functionality; instead, contact me directly at this email address. Canvas emails don't always reach my inbox reliably.<br>
