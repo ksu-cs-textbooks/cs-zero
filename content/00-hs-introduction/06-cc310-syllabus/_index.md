@@ -1,5 +1,5 @@
 ---
-title: "CC 310 Syllabus - Fall 2024"
+title: "CC 310 Syllabus - Fall 2025"
 weight: 64
 pre: "6.4 "
 ---
@@ -10,11 +10,11 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 310 - Data Structures & Algorithms I HS (2024-2025)
+## CC 310 - Data Structures & Algorithms I HS (2025-2026)
 
 ### Instructor Contact Information
 
-* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)<br> _I use **he/him** pronouns. Feel free to share your own pronouns with me, and I'll do my best to use them!_
+* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)
 * **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
