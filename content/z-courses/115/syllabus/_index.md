@@ -1,5 +1,5 @@
 ---
-title: "CIS 115 Syllabus - Fall 2024"
+title: "CIS 115 Syllabus - Fall 2025"
 weight: 62
 pre: ""
 ---
@@ -18,23 +18,28 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
 **Please allow at least one full business day for responses to any inquiry.**
 {{% /notice %}}
 
+**Professor:**  Dr. Safia Malallah (he/him) – [safia@ksu.edu](mailto:safia@ksu.edu)
+- **Office:** 2161 Engineering Hall (DUE)
+- **Office Hours:** [calendar](https://outlook.office365.com/calendar/published/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/3e6d0ae12fdd4cd0bd51d524ac35af2d4845631603547007220/calendar.html)
+  - **Want to meet with me outside office hours?** [https://calendly.com/weeser](https://outlook.office.com/bookwithme/user/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/meetingtype/tEJXZ_G66EC4UJ6LeHIW5Q2?bookingcode=25ef93f8-3ab7-496a-9526-98388ca54775&anonymous&ep=mlink)
+    
 **Professor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu)
-
 - **Office:** 2214 Engineering Hall (DUE)
 - **Office Hours:** weeser.net/calendar
   - **Want to meet with me outside office hours?** https://calendly.com/weeser
+    
+**Professor:**  Dr. Nathan Bean (he/him) – [nhbean@ksu.edu](mailto:nhbean@ksu.edu)
+- **Office:** 2216 Engineering Hall (DUE)
+- **Office Hours:** TBA
+  - **Want to meet with me outside office hours?** TBA
+  - 
+**Professor:**  Russell Feldhausen (he/him) – [russfeld@ksu.edu](mailto:russfeld@ksu.edu)
+- **Office:** 2184 Engineering Hall (DUE)
+- **Office Hours:** TBA
+  - **Want to meet with me outside office hours?**TBA
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below. Please try to not email TAs directly for general questions (use Ed Discussion or the help email instead).*
-| **Name**                          | **Email** |
-| --------------------------------- | ----------- |
-| Carrie Aponte	                    | cgaponte@ksu.edu  |
-| Cole James	                      | colej5095@ksu.edu |
-| Zyada Mekonnen                    | ztmekonnen@ksu.edu|
-| Vinny Sun	                        | vinnysun1@ksu.edu |
-| Mason Vick	                      | mtvick@ksu.edu    |
-| Jess Whyrick	                    | jlwhyrick@ksu.edu |                   
-
+*All TA office hours can be found here [calendar](https://outlook.office365.com/calendar/published/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/3e6d0ae12fdd4cd0bd51d524ac35af2d4845631603547007220/calendar.html)
 
 <br/>
 
@@ -44,7 +49,7 @@ Monday/Wednesday (MW) 2:30-3:45pm in Ackert 120. (https://www.k-state.edu/maps/b
 
 ### Office Hours
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=WEEK&showPrint=0&src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%23B39DDB&color=%23616161&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[calendar](https://outlook.office365.com/calendar/published/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/3e6d0ae12fdd4cd0bd51d524ac35af2d4845631603547007220/calendar.html)
 
 ### Prerequisites
 
