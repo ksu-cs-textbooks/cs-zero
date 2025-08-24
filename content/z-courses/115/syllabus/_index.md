@@ -89,7 +89,7 @@ Here are the 5 **recommended ways to get help** on CIS 115:
 - Ask your classmates for help or advice on assignments or projects (be mindful of the honor code!)
 - Schedule a one-on-one meeting with your professor/TA  
 
-#### More on the [Edstem Discussion board]([https://www.python.org/](https://edstem.org/us/join/ncgZpD))  
+#### More on the [Edstem Discussion board](https://edstem.org/us/join/ncgZpD)  
 
 This semester, we will be using edstem.org, specifically, there Ed Discussion platform. Ed Discussion is a reddit/forum style web app that allows students to post and ask questions. This will be our preferred way of communication when it comes to questions/etc. in the course. Please adhere to the following guidelines:
 - Before creating a new thread, please make sure there isn't a similar one already made.
