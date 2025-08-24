@@ -23,7 +23,7 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
 - **Office Hours:** [calendar](https://outlook.office365.com/calendar/published/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/3e6d0ae12fdd4cd0bd51d524ac35af2d4845631603547007220/calendar.html)
   - **Want to meet with me outside office hours?** [https://calendly.com/weeser](https://outlook.office.com/bookwithme/user/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/meetingtype/tEJXZ_G66EC4UJ6LeHIW5Q2?bookingcode=25ef93f8-3ab7-496a-9526-98388ca54775&anonymous&ep=mlink)
     
-**Professor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu)
+**Professor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) 
 - **Office:** 2214 Engineering Hall (DUE)
 - **Office Hours:** weeser.net/calendar
   - **Want to meet with me outside office hours?** https://calendly.com/weeser
