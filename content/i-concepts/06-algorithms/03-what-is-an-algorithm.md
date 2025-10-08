@@ -5,8 +5,9 @@ weight: 10
 date: 2020-08-10T16:27:26-05:00
 ---
 
-{{< youtube dEwtcfywsPM >}}
+{{< youtube 2rSl26RYSxQ >}}
 
+<!-- old dEwtcfywsPM -->
 #### Resources
 
 * [Slides](slides/6-Algorithms.pdf)
