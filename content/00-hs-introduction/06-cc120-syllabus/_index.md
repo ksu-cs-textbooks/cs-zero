@@ -1,0 +1,132 @@
+---
+title: "CC 120 Syllabus - Fall 2025"
+weight: 65
+pre: "6.5 "
+---
+
+{{% notice info %}}
+
+This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
+
+Your teachers may give you a syllabus that includes additional information that is specific to your class. 
+
+{{% /notice %}}
+
+## CC 120 - Web Page Development HS (2025-2026) 
+
+### Instructor Contact Information
+
+* **Instructor:** Russell Feldhausen (russfeld AT ksu DOT edu)
+* **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
+* **Phone:** (785) 292-3121 (Call/Text)
+* **Website:** https://russfeld.me
+* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
+
+#### Preferred Methods of Communication:
+
+* **High School Teacher**: Students should primarily contact your high school teacher for any assistance in the course. 
+* **Email**: When contacting the K-State instructors, email is preferred. We will try to respond within one business day.
+* **Phone/Text**: Emergencies only! We will do our best to respond as quickly as we can.
+
+### Prerequisites
+
+* None
+
+### Course Overview
+
+The Internet, web browsers, and web-page-development technology: web-page design and implementation with Hypertext Markup Language (HTML), and CSS. Integration of program script into web pages. Introduction to graphics design, animation, and server utilization.
+
+### Course Description
+
+You’ll gain practical experience creating modern, standards-compliant web pages using HTML, CSS, and JavaScript, and learn how the web works (HTTP requests/responses). The goal is to build accessible, effective, and reliable pages following current industry practices.
+
+### Learning Objectives
+
+By the end of this course, each student will be able to:
+* Create valid HTML webpages using separation of concerns with HTML, CSS, and JavaScript.
+* Use CSS rules to create engaging, effective, accessible, and responsive web page designs.
+* Utilize HTML forms to submit data to a web API
+* Use JavaScript to dynamically modify the structure and appearance of a webpage.
+* Employ AJAX/Fetch requests to interact with Web APIs.
+* Think critically about web page design and apply solid web page design principles to their work.
+.
+
+### Major Course Topics
+
+* The World-Wide-Web
+* Web Pages
+* Browsers and web clients
+* Hyper-Text Transfer Protocol (HTTP)
+* Hyper Text Markup Language (HTML)
+* Cascading Style Sheets (CSS)
+* CSS Animations
+* JavaScript (JS)
+* The Document Object Model (DOM)
+* Web Accessability
+* Web Forms
+* Web Requests
+* Web Graphics
+* Web Hosting
+* Common Web Libraries
+
+###  Course Structure
+
+These courses are being taught 100% online, and each module is self-paced. Students will work at their own pace through a set of modules, with approximately one module being due each week. Material will be provided in the form of recorded videos, online tutorials, links to online resources, and discussion prompts. Assignments may also include portions which will be graded manually via Canvas or other tools.
+
+### Grading
+
+In theory, each student begins the course with an A. As you submit work, you can either maintain your A (for good work) or chip away at it (for less adequate or incomplete work). In practice, each student starts with 0 points in the gradebook and works upward toward a final point total earned out of the possible number of points. In this course, each assignment constitutes a portion of the final grade, as detailed below:
+
+* 30% Quizzes
+* 30% Tutorials & Exercies
+* 40% Projects
+
+Letter grades will be assigned following the standard scale:
+
+* 90% - 100% &rarr; A
+* 80% - 89.99% &rarr; B
+* 70% - 79.99% &rarr; C
+* 60% - 69.99% &rarr; D
+* 00% - 59.99% &rarr; F
+
+### Late Work
+
+{{% notice warning %}}
+
+Read this late work policy very carefully! If you are unsure how to interpret it, please contact the instructors via the help email. Not understanding the policy does not mean that it won't apply to you!
+
+{{% /notice %}}
+
+Since this course is entirely online, students may work at any time and at their own pace through the modules. However, to keep everyone on track, there will be approximately one module due each week. Each graded item in the module will have a specific due date specified. 
+
+**Assignments submitted after the due date will be subject to a deduction equivalent to 0.4% of the total points on the assignment per hour that it is late, which is roughly equivalent to 10% of the total points per day that it is late.**
+
+Even if a module is not submitted on time, it must still be completed before a student is allowed to begin the next module. So, students should take care not to get too far behind, as it may be very difficult to catch up.
+
+Finally, all course work must be submitted on or before the last day of the semester in which the student is enrolled in the course in order for it to be graded on time.
+
+If you have extenuating circumstances, please discuss them with the instructor as soon as they arise so other arrangements can be made. If you find that you are getting behind in the class, you are encouraged to speak to the instructor for options to make up missed work.
+
+### Incomplete Policy
+
+Students should strive to complete this course in its entirety before the end of the semester in which they are enrolled. However, since retaking the course would be costly and repetitive for students, we would like to give students a chance to succeed with a little help rather than immediately fail students who are struggling.
+
+If you are unable to complete the course in a timely manner, please contact the instructor to discuss an incomplete grade. Incomplete grades are given solely at the instructor's discretion. See the official [K-State Grading Policy](https://www.k-state.edu/registrar/students/academicpolicy/#GRADING) for more information. In general, _poor time management alone is not a sufficient reason for an incomplete grade_.
+
+Unless otherwise noted in writing on a signed [Incomplete Agreement Form](https://www.k-state.edu/registrar/faculty-staff/forms/Incomplete%20agreement%20form.docx), the following stipulations apply to any incomplete grades given in this course:
+
+1. Students will be given 6 calendar weeks from the end of the enrolled semester's finals week to complete the course
+2. Any modules in a future course which depend on incomplete work will not be accessible until the previous course is finished
+  1. For example, if a student is given an incomplete in CC 111, then all modules in CC 210 will be inaccessible until CC 111 is complete
+3. Students understand that access to instructor and GTA assistance may be limited after the end of an academic semester due to holidays and other obligations
+4. If a student fails to resolve an incomplete grade after 6 weeks, they will be assigned an 'F' in the course. In addition, they will be dropped from any other courses which require the failed course as a prerequisite or corequisite.
+
+### Recommended Texts & Supplies
+
+To participate in this course, students must have access to a modern web browser and broadband internet connection. All course materials will be provided via Canvas and Codio. Modules may also contain links to external resources for additional information, such as programming language documentation.
+
+### Subject to Change
+
+The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the Canvas page for this course and emailed to all students.
+
+{{< syllabus >}}
