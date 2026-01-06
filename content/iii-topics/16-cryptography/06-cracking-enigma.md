@@ -9,7 +9,7 @@ date: 2020-10-24T00:27:26-05:00
 
 
 #### Resources
-* [Slides](slides/22-Cryptography.pdf)
+* [Slides](slides/16-Cryptography.pdf)
 
 #### Video Script
 

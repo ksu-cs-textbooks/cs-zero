@@ -16,7 +16,7 @@ In the video, the values of `d` and `e` are swapped at one point. Thankfully, th
 
 #### Resources
 
-* [Slides](slides/22-Cryptography.pdf)
+* [Slides](slides/16-Cryptography.pdf)
 * [RSA Calculator Worksheet](https://www.cs.drexel.edu/~jpopyack/Courses/CSP/Wi18/notes/10.1_Cryptography/RSAWorksheetv4e.html)
 
 #### Video Script
