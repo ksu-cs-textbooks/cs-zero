@@ -204,7 +204,7 @@ So, as we can see, applying a bit of intuition to a real-world example that crea
 
 The third method would be to use a Karnaugh Map. We won't go into this method in too much depth, but we'll briefly show how it works. There are some great online resources to learn more about applying Karnaugh Maps in this context.
 
-First, we'll start with a blank 3 variable Karnaugh map:
+First, we'll start with a blank 3 variable Karnaugh map. A Karnaugh Map is essentially a different way to structure a truth table by placing similar entries next to each other in a particular way:
 
 ![Blank Karnaugh Map](/images/3/karnaugh.png) [^3]
 
@@ -225,6 +225,18 @@ $$
 $$
 
 There we go! That is once again one of our minimal Boolean Logic expressions found earlier. 
+
+#### Method 3A - Venn Diagrams as Karnaugh Maps
+
+Once clever things that we might notice is that there is _also_ a one-to-one equivalence between Karnaugh Maps and Venn Diagrams. We know this since there is already a one-to-one equivalence between both of those and the original Truth Tables, so it is an easy assumption to make.
+
+So, we can quickly see the arrangement of items in a Karnaugh Map and how they match up to our Venn Diagrams as shown below:
+
+![Karnaugh Map to Venn Diagram](/images/3/karnaugh_venn.png)
+
+Notice that the the Venn Diagram has a very similar layout to the Karnaugh Map. This is because both of them are structured in a way for similar entries to be near each other. In fact, each time you cross over a line in a Venn Diagram, only a single variable changes value. The same works for a Karnaugh Map.
+
+So, with a little intuition and an understanding how Karnaugh Maps work, we can perform a similar analysis directly on the Venn Diagram itself. 
 
 ## Connection to Programming
 
