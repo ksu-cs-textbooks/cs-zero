@@ -1,5 +1,5 @@
 ---
-title: "CIS 115 Syllabus - Fall 2025"
+title: "CIS 115 Syllabus - Spring 2026"
 weight: 62
 pre: ""
 ---
@@ -17,6 +17,11 @@ Our **preferred method of contact** will be through the Edstem Discussion board.
 
 **Please allow at least one full business day for responses to any inquiry.**
 {{% /notice %}}
+
+**Instructor:** Ruth Hutson (She/her) - [rlhutson@ksu.edu](mailto:rlhutson@ksu.edu)
+- **Office:** 2217 Engineering Hall (DUE)
+- **Office Hours:** TBA
+  - **Want to meet with me outside office hours?** [Book with me](https://outlook.office.com/bookwithme/user/c873b9fb41194850a55eb61945fa114a@ksu.edu?anonymous&ep=signature&ismsaljsauthenabled)
 
 **Professor:**  Dr. Safia Malallah (She/her) – [safia@ksu.edu](mailto:safia@ksu.edu)
 - **Office:** 2161 Engineering Hall (DUE)
@@ -45,7 +50,7 @@ Our **preferred method of contact** will be through the Edstem Discussion board.
 
 ### Course Schedule
 
-Monday/Wednesday (MW) 2:30-3:45pm in Ackert 120. (https://www.k-state.edu/maps/buildings/AK/)
+Tuesday/Thursday (TU) 2:30-3:45pm in Engineering Hall DUE 1109. (https://www.k-state.edu/maps/buildings/DUE/)
 
 ### Office Hours
 
@@ -120,7 +125,7 @@ By the end of this course, each student will be able to:
 - Relate Computing Science to a variety of other disciplines and describe how they are interconnected with each other.
 - Apply and use Computing Science tools and techniques to solve real-world problems.
 - Research and learn about new ideas and areas in Computing Science and share those ideas with others, all without direct guidance.
-- Develop a personal understanding of how Computing Science affects his or her own life.
+- Develop a personal understanding of how Computing Science affects his, her, or their own life.
 - Understand many different subject areas within Computing Science and how they are changing our understanding of the field.
 
 ### Major Course Topics
@@ -165,10 +170,12 @@ Assignments are to be completed without any collaboration with classmates or oth
 There will be some programming or written assignments given from time to time that must be completed outside of class. It is acceptable to communicate with other students about the concepts in the assignment if you do not understand it, but you should not discuss the details of how the assignment should be completed. Your submission should be your own work, or the work of your small group if allowed by the instructor.  Some work will require you to look up certain concepts and techniques on the internet, **but** there is a fine line between learning and copying! ***When in doubt, ask!***
 
 #### Grading
+- 15% - Assignments (*Lowest score dropped*)
+- 10% - Discussions
+- 25% - Quizzes (*Lowest two scores are dropped*)
 - 20% - Topic Research and Wiki Article
-- 20% - Homework/Discussions (*Lowest score dropped*)
-- 20% - Quizzes (*Lowest two scores are dropped*)
-- 40% - Exams
+- 20% - Exams 
+- 10% - Final Exam
 
 Letter grades will be assigned following the standard scale: 
 
