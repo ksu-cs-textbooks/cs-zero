@@ -18,27 +18,27 @@ Our **preferred method of contact** will be through the Edstem Discussion board.
 **Please allow at least one full business day for responses to any inquiry.**
 {{% /notice %}}
 
-**Instructor:** Ruth Hutson (She/her) - [rlhutson@ksu.edu](mailto:rlhutson@ksu.edu)
+**Instructor:** Ruth Hutson - [rlhutson@ksu.edu](mailto:rlhutson@ksu.edu)
 - **Office:** 2217 Engineering Hall (DUE)
 - **Office Hours:** TBA
   - **Want to meet with me outside office hours?** [Book with me](https://outlook.office.com/bookwithme/user/c873b9fb41194850a55eb61945fa114a@ksu.edu?anonymous&ep=signature&ismsaljsauthenabled)
 
-**Professor:**  Dr. Safia Malallah (She/her) – [safia@ksu.edu](mailto:safia@ksu.edu)
+**Professor:**  Dr. Safia Malallah – [safia@ksu.edu](mailto:safia@ksu.edu)
 - **Office:** 2161 Engineering Hall (DUE)
 - **Office Hours:** [calendar](https://outlook.office365.com/calendar/published/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/3e6d0ae12fdd4cd0bd51d524ac35af2d4845631603547007220/calendar.html)
   - **Want to meet with me outside office hours?** [Book with me](https://outlook.office.com/bookwithme/user/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu/meetingtype/tEJXZ_G66EC4UJ6LeHIW5Q2?bookingcode=25ef93f8-3ab7-496a-9526-98388ca54775&anonymous&ep=mlink)
     
-**Professor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) 
+**Professor:**  Dr. Josh Weese – [weeser@ksu.edu](mailto:weeser@ksu.edu) 
 - **Office:** 2214 Engineering Hall (DUE)
 - **Office Hours:** weeser.net/calendar
   - **Want to meet with me outside office hours?** https://calendly.com/weeser
     
-**Professor:**  Dr. Nathan Bean (he/him) – [nhbean@ksu.edu](mailto:nhbean@ksu.edu)
+**Professor:**  Dr. Nathan Bean – [nhbean@ksu.edu](mailto:nhbean@ksu.edu)
 - **Office:** 2216 Engineering Hall (DUE)
 - **Office Hours:** TBA
   - **Want to meet with me outside office hours?** TBA
   - 
-**Professor:**  Russell Feldhausen (he/him) – [russfeld@ksu.edu](mailto:russfeld@ksu.edu)
+**Professor:**  Russell Feldhausen – [russfeld@ksu.edu](mailto:russfeld@ksu.edu)
 - **Office:** 2213 Engineering Hall (DUE)
 - **Office Hours:** TBA
   - **Want to meet with me outside office hours?** [Book with Me](https://outlook.office.com/bookwithme/user/352f01b060fd4854b105dd9afc625e8b@ksu.edu?anonymous&ep=mlink)
@@ -127,7 +127,7 @@ By the end of this course, each student will be able to:
 - Relate Computing Science to a variety of other disciplines and describe how they are interconnected with each other.
 - Apply and use Computing Science tools and techniques to solve real-world problems.
 - Research and learn about new ideas and areas in Computing Science and share those ideas with others, all without direct guidance.
-- Develop a personal understanding of how Computing Science affects his, her, or their own life.
+- Develop a personal understanding of how Computing Science affects his or her own life.
 - Understand many different subject areas within Computing Science and how they are changing our understanding of the field.
 
 ### Major Course Topics
