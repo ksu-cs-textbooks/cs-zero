@@ -10,4 +10,4 @@ pre = "<b>1. </b>"
 
 In this module, we will dissect what computing science really is. To do this we will step back in time to determine what the motivation was for computing machines, the products of those needs, and how they served as inspiration for modern computing.
 
-![Babbage's Difference Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LondonScienceMuseumsReplicaDifferenceEngine.jpg/640px-LondonScienceMuseumsReplicaDifferenceEngine.jpg)
+![Babbage's Difference Engine](https://upload.wikimedia.org/wikipedia/commons/8/8b/Babbage_Difference_Engine.jpg)
