@@ -5,7 +5,8 @@ weight: 35
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube Z5seZBajkxI >}}
+<!-- Old: Z5seZBajkxI -->
+{{< youtube DbkU3gmmGhg >}}
 
 #### Resources
 * [Slides](slides/7-Encoding.pdf)

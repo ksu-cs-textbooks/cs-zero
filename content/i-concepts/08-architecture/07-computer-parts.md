@@ -5,7 +5,8 @@ weight: 30
 date: 2020-08-28T16:27:26-05:00
 ---
 
-{{< youtube YfvKz4eIdj0 >}}
+<!-- Old: YfvKz4eIdj0 -->
+{{< youtube gCo1NhwY1TQ >}}
 
 #### Resources
 * [Slides](slides/8-Computer_Architecture.pdf)

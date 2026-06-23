@@ -4,8 +4,8 @@ pre: "10.3 "
 weight: 15
 date: 2020-08-28T16:27:26-05:00
 ---
-
-{{< youtube _FH9mSXslhs >}}
+<!-- Old: _FH9mSXslhs -->
+{{< youtube uPsqpUI_7Qs >}}
 
 #### Resources
 * [Slides](slides/10-Human_Computer_Interaction.pdf)
