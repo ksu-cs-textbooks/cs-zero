@@ -5,7 +5,8 @@ weight: 10
 date: 2020-10-24T00:27:26-05:00
 ---
 
-{{< youtube A9wWiJ12wQs >}}
+<!-- Old: A9wWiJ12wQs -->
+{{< youtube UUM2fZFANX8 >}}
 
 #### Resources
 * [Slides](slides/19-InfoRetrieval.pdf)

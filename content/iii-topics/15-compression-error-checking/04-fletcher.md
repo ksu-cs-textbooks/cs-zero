@@ -11,7 +11,8 @@ _The C2 total on the slide at 0:54 - 2:10 is incorrect. The total is `7336` but 
 
 {{% /notice %}}
 
-{{< youtube 9bagsZQa3Cs >}}
+<!-- Old: 9bagsZQa3Cs -->
+{{< youtube 9Ry_ZdROlsA >}}
 
 
 #### Resources

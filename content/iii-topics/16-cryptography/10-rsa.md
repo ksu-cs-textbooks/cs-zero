@@ -12,7 +12,8 @@ In the video, the values of `d` and `e` are swapped at one point. Thankfully, th
 {{% /notice %}}
 
 
-{{< youtube CbafXZ8ymIY >}}
+<!-- Old: CbafXZ8ymIY -->
+{{< youtube tljTsNNL0E4 >}}
 
 #### Resources
 
