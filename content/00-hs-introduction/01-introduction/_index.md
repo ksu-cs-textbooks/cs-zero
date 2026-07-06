@@ -1,5 +1,5 @@
 ---
-title: "Course Introduction - 2023-2024"
+title: "Course Introduction"
 pre: "1. "
 weight: 10
 ---

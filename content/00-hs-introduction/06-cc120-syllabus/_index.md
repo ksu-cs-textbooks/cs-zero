@@ -1,5 +1,5 @@
 ---
-title: "CC 120 Syllabus - Fall 2025"
+title: "CC 120 Syllabus - Fall 2026"
 weight: 65
 pre: "6.5 "
 ---
@@ -12,7 +12,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 120 - Web Page Development HS (2025-2026) 
+## CC 120 - Web Page Development HS (2026-2027) 
 
 ### Instructor Contact Information
 
@@ -20,7 +20,7 @@ Your teachers may give you a syllabus that includes additional information that 
 * **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
-* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
+* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). [Book a Meeting Time](https://outlook.office.com/bookwithme/user/352f01b060fd4854b105dd9afc625e8b@ksu.edu?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature)
 
 #### Preferred Methods of Communication:
 
@@ -78,7 +78,7 @@ These courses are being taught 100% online, and each module is self-paced. Stude
 In theory, each student begins the course with an A. As you submit work, you can either maintain your A (for good work) or chip away at it (for less adequate or incomplete work). In practice, each student starts with 0 points in the gradebook and works upward toward a final point total earned out of the possible number of points. In this course, each assignment constitutes a portion of the final grade, as detailed below:
 
 * 30% Quizzes
-* 30% Tutorials & Exercies
+* 30% Tutorials & Exercises
 * 40% Projects
 
 Letter grades will be assigned following the standard scale:

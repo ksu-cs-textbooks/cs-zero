@@ -1,5 +1,5 @@
 ---
-title: "CC 310 Syllabus - Fall 2025"
+title: "CC 310 Syllabus - Fall 2026"
 weight: 64
 pre: "6.4 "
 ---
@@ -10,7 +10,7 @@ Your teachers may give you a syllabus that includes additional information that 
 
 {{% /notice %}}
 
-## CC 310 - Data Structures & Algorithms I HS (2025-2026)
+## CC 310 - Data Structures & Algorithms I HS (2026-2027)
 
 ### Instructor Contact Information
 
@@ -18,7 +18,7 @@ Your teachers may give you a syllabus that includes additional information that 
 * **Office:** DUE 2213, but I mostly work remotely from Kansas City, MO
 * **Phone:** (785) 292-3121 (Call/Text)
 * **Website:** https://russfeld.me
-* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). Schedule a meeting at [https://calendly.com/russfeld](https://calendly.com/russfeld)
+* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us/). [Book a Meeting Time](https://outlook.office.com/bookwithme/user/352f01b060fd4854b105dd9afc625e8b@ksu.edu?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature)
 
 
 #### Preferred Methods of Communication:

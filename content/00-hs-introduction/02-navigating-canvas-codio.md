@@ -2,7 +2,6 @@
 title: "Navigating Canvas & Codio"
 pre: "2. "
 weight: 20
-date: 2020-01-16T10:53:26-05:00
 ---
 
 {{< youtube i85-CZxPiXc >}}
