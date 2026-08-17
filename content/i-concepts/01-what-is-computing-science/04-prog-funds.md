@@ -6,9 +6,6 @@ hidden: true
 date: 2020-08-10T16:27:26-05:00
 ---
 
-#### Resources
-* <a href="slides/prog_funds" target="_blank">Slides</a>
-
 There are two techniques that we would like to explicitly mention before we get too far into the course: decomposition and iteration. These concepts are crucial in helping us be better programmers and problem solvers. 
 
 First we will talk about decomposition. This is the process of breaking something down into smaller pieces. We can think of the biological process where organic matter decomposes and breaks apart into smaller organic elements. Another general technique is decomposing everyday tasks. For example, we can take a large task, such as getting to school on time and break it into small steps like, wake up at 6AM, brush teeth, get changed, eat breakfast and so on. We can note that some of those tasks can be decomposed into smaller parts as well.
