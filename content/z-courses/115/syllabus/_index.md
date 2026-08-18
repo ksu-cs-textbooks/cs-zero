@@ -1,10 +1,9 @@
 ---
-title: "CIS 115 Syllabus - Spring 2026"
+title: "CIS 115 Course Information - Fall 2026"
 weight: 62
 pre: ""
 ---
 
-- [Link to this Syllabus]({{% ref "./" %}})
 - [Previous Versions]({{% relref "./old-syllabi" %}})
 
 ### Contact
@@ -50,7 +49,7 @@ Our **preferred method of contact** will be through the Edstem Discussion board.
 
 ### Course Schedule
 
-Tuesday/Thursday (TU) 2:30-3:45pm in Engineering Hall DUE 1109. (https://www.k-state.edu/maps/buildings/DUE/)
+Monday/Wednesday (MW) 2:30-3:45pm in Ackert 120. [campus map](https://www.k-state.edu/maps/buildings/AK/)
 
 ### Office Hours
 
